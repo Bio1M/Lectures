@@ -1,0 +1,630 @@
+
+CHAPTER Hominins
+
+----------------------------------------------------------------------
+
+TSEC Hominins 
+
+	CORRECTION pp.~238-247
+
+	[Hominins] refer to people and our upright ancestors
+
+	Characterized by:
+
+		Walking upright
+
+		Specific changes in chewing design: teeth, jaws and skull
+
+----------------------------------------------------------------------
+
+Taxonomy | \url{https://en.wikipedia.org/wiki/Hominini}
+
+BCC
+
+SIDEFIG webpix/homininae.png
+
+NCC
+
+	Homonoidea, Hominidae, Hominininae, Hominini, Hominina, Homo
+
+	Why so much detailed splitting?
+
+		ANS We're a little bit full of ourselves
+
+		ANS Observer bias
+
+EC
+
+----------------------------------------------------------------------
+
+Putting together the puzzle
+
+	What did our common ancestor with chimpanzees look like?
+
+	Which fossils are related to which other fossils?
+
+	The key is which features are reliable indicators of relatedness?
+
+		ANS How do we tell the difference between convergence and homology?
+
+		ANS It's all in the details
+
+----------------------------------------------------------------------
+
+Evaluating evidence
+
+	There are a lot of theories and a great deal of expertise
+
+	But expertise can also lead to over-confidence
+
+	As with other examples, we try to make and test theories
+
+		ANS Make predictions about things that haven't been seen yet
+
+----------------------------------------------------------------------
+
+Apelike ancestors | Fig 10.4-5
+
+	Were our ancestors more like us, or more like apes?
+
+		ANS We _are_ apes, if apes are a clade; both books make this mistake
+
+			ANS They also make a similar mistake with hominoids
+
+		ANS Among living apes, the closest _relatives_ of our ancestors is us
+
+		ANS In some important ways, we have evolved more than chimpanzees have
+
+		ANS But chimpanzees have probably evolved more than we assume
+
+			ANS It is hard for us to study ourselves 
+
+			ANS Observer bias
+
+----------------------------------------------------------------------
+
+Observer bias
+
+PIC FIG jdpix/bias.png
+
+----------------------------------------------------------------------
+
+TSS Upright posture | Fig 10.11-12
+
+	How did upright posture and upright walking evolve?
+	
+	It's not known, but there are many theories:
+
+		Adaptation to walking on the ground instead of swinging through
+		trees
+
+			ANS If so, probably dependent on [gradual] evolution from
+			existing form
+
+		Adaptation for keeping cool
+
+		Adaptation for harvesting food
+
+		Adaptation for carrying food
+
+----------------------------------------------------------------------
+
+PICSLIDE
+
+PIC FIG norton/ch10/10_11.jpg
+
+----------------------------------------------------------------------
+
+
+PICSLIDE
+
+PIC HIGHFIG norton/ch10/10_12.jpg
+
+----------------------------------------------------------------------
+
+Gradual evolution
+
+	Hominins' evolution of upright posture was likely dependent on
+	evolutionary history and circumstance
+
+		Built on previous adaptations
+
+	Evolution of upright posture almost certainly led to further
+	evolutionary change:
+
+		Carrying and storing things
+
+		Making and using tools
+
+	There should be lots of ``loops" -- changes leading to other changes -- to
+	explain how dramatically our ancestors evolved
+
+----------------------------------------------------------------------
+
+Studying evolution
+
+	Evidence from fossils
+
+		knees, hips, backs, skulls all provide evidence about posture
+
+		teeth and jaws provide evidence about diet
+
+	Evidence from archaeology
+
+		hominin fossils may be found in particular placess
+		
+		associated with fossils from things that hominins used to eat
+
+		or with tools
+
+----------------------------------------------------------------------
+
+TSS Complex foraging 
+
+	CORRECTION pp.~271--278
+
+	A key part of human evolution was shaped by [complex foraging]
+	strategies of our ancestors -- they relied on many types of food,
+	including types of food that are difficult to get or process
+
+	What adaptations likely favored this strategy?
+
+		ANS Clever hands, upright walking
+
+	What further adaptations might this strategy have favored?
+
+		ANS Big brains
+
+		ANS co-operation, including male-female co-operation
+
+		ANS Social behaviour
+
+----------------------------------------------------------------------
+
+Back and forth evolution | Fig 10.4-5
+
+	Very early hominins (6 mya) had facial and dental features that were similar
+	to later hominins (2 mya)
+
+		Less similar to chimpanzees
+
+		But also less similar to _Australopiths_ (3 mya)
+
+	Is this surprising?
+
+		ANS Radiation and contraction
+
+		ANS Changing conditions
+
+			ANS Evolution is not goal-oriented
+
+----------------------------------------------------------------------
+
+PICSLIDE
+
+PIC FIG norton/ch10/10_04.jpg
+
+----------------------------------------------------------------------
+
+Hominin phylogenies | Fig 10.37
+
+	Hominins had a large number of speciation and extinction events
+
+		ANS Radiation and contraction
+
+	The tree is not well understood, despite intensive study
+
+		ANS Changing environments and convergent evolution
+
+----------------------------------------------------------------------
+
+PICSLIDE
+
+PIC FIG norton/ch10/10_37.jpg
+
+----------------------------------------------------------------------
+
+SEC Sociality
+
+----------------------------------------------------------------------
+
+Complex foraging and co-operation
+
+	Complex foraging may have promoted co-operation between females and
+	males, since primate child care is not well suited to a hunting life
+	style
+
+	It may have promoted co-operation between people with different
+	skills, since they might have access to food at different times
+
+	It may have promoted co-operation among hunters, since hunting success is
+	highly variable
+
+	It may have promoted co-operation in teaching and learning
+
+----------------------------------------------------------------------
+
+Complex foraging and thinking
+
+	Complex foraging favors large brains that can learn a lot
+
+	It also favors a long learning period
+
+		Sensitivity vs.~crystallization
+
+	It also favors communication
+
+----------------------------------------------------------------------
+
+Complex foraging and gender roles
+
+	How might complex foraging affect child care and sexual dimorphism?
+
+		ANS If males and females co-operate, then child care might be
+		more equal
+
+		ANS If child care is more equal, we expect sexual dimorphism to
+		be less
+
+----------------------------------------------------------------------
+
+Social behaviour
+
+	As behaviour becomes more social, a wide variety of other adaptations may become available
+
+		Mostly related to thinking and communication
+
+	Leading to more opportunities for looping:
+
+		ANS Bigger brains may facilitate more food-gathering and survival
+		strategies
+
+		ANS Communication may favor co-operation
+
+----------------------------------------------------------------------
+
+How social were early hominins?
+
+	What kind of clues might be available?
+
+		ANS Sexual dimorphism
+
+		ANS Physical structures consistent with vocal communication
+
+		ANS Dental enamel
+
+----------------------------------------------------------------------
+
+Sexual dimorphism
+
+	The extent of sexual dimorphism tells us at least something about social
+	structures
+
+		ANS Large amounts of sexual dimorphism probably mean less sociality and co-operation
+
+		ANS At least among adult males
+
+	How do we know whose bones are male and female?
+
+		ANS [Pelvises] (hip bones) are very different in all of our ancestors
+
+		ANS Because childbirth
+
+	How do we know whose teeth are male and female?
+
+		ANS We don't, usually
+
+		ANS Bimodality can tell us about dimorphism anyway
+
+----------------------------------------------------------------------
+
+Bimodality | Fig 10.9
+
+	Bimodality means having two peaks in a distribution
+
+		For example, a modern human height distribution would have a peak for
+		men, and a peak for women
+
+	If traits are strongly dimorphic, we should be able to tell by sampling, even if we don't know which teeth come from men and which from women
+
+----------------------------------------------------------------------
+
+PICSLIDE
+
+PIC WIDEFIG norton/ch10/10_09.jpg
+
+----------------------------------------------------------------------
+
+PICSLIDE
+
+PIC HIGHFIG jdpix/heights.Rout-0.pdf
+
+----------------------------------------------------------------------
+
+PICSLIDE
+
+PIC HIGHFIG jdpix/heights.Rout-1.pdf
+
+----------------------------------------------------------------------
+
+Rate of development
+
+	Why do human children develop _so_ slowly?
+
+		ANS Presumably related to elaborate sociality
+
+	We are therefore very interested in how long it took our ancestors to mature
+
+	Some clues are available
+
+		Dental enamel
+
+		Molar development
+
+	But it's a hard problem
+
+----------------------------------------------------------------------
+
+PICSLIDE
+
+WIDEPIC webpix/horse.jpg
+
+----------------------------------------------------------------------
+
+TSEC Tool making
+
+	Several species can make tools, but only people make tools that can project
+	lectures directly from a computer onto a screen 
+
+		COMMENT Which is awesome
+
+	More broadly, hominins make far more sophisticated tools than non-hominins do
+
+----------------------------------------------------------------------
+
+Other species
+
+	What other animals make tools?
+
+	Not counting programmed behaviours (spiky nests, ant traps)
+
+		ANS Chimpanzees, orangutans
+
+		ANS Elephants
+
+		ANS Crows!
+
+----------------------------------------------------------------------
+
+PICSLIDE
+
+WIDEFIG webpix/crow_hook.png
+
+----------------------------------------------------------------------
+
+Looping
+
+	Tool making is likely an important part of the ``loop" that provided many
+	opportunities for new adaptations along the hominin tree
+
+	Others include:
+
+		ANS Complex foraging
+
+		ANS Sociality
+
+		ANS Communication
+
+	All these things probably interacted with and encouraged each other along
+	the way
+
+----------------------------------------------------------------------
+
+Difficulties | Fig 11.2
+
+	We find _amazing_ stone tools from 2-3.5 mya
+
+		[Oldowan tools]
+
+	It's hard to know who made them and used them
+
+		ANS Stone keeps better than bone
+
+	It's hard to figure out how they were used
+
+----------------------------------------------------------------------
+
+PICSLIDE
+
+PIC FIG norton/ch11/11_02.jpg
+
+----------------------------------------------------------------------
+
+Active science | Closer Look 11.1
+
+	Scientists have practiced _making_ and _using_ tools similar to the Oldowan
+	tools
+
+	Surprising conclusions:
+
+		Cores are made by striking off flakes
+
+			Flakes are surprisingly useful 
+			
+			cores may just be leftovers
+
+		Spheroids may be discarded hammers
+
+		Tool makers were mostly right-handed
+
+----------------------------------------------------------------------
+
+TSS Tools and adaptation
+
+	Tools opened up new strategies that likely favored co-operation,
+	communication and culture:
+
+		Hunting and scavenging with weapons
+
+		Advanced foraging
+
+----------------------------------------------------------------------
+
+Active science | pp. 270-273
+
+	Scientists lived with, and attempted to learn from, remaining forage-based
+	societies
+
+		Skills are very detailed, and take a long time to develop
+
+		Possible support for looping with culture and language
+
+	What can we learn from modern humans about our ancestors?
+
+		ANS It's complicated
+
+		ANS A lot of evolution has happened since then, and it's hard to figure out which parts are how relevant
+
+----------------------------------------------------------------------
+
+Scavenging
+
+	[Scavenging] is eating meat that is found, or taken from predators
+
+	Evidence of early hominins [butchering] large animals including elephants
+	raises the question of whether they were hunting or scavenging
+
+		It's not so easy to kill an elephant
+
+		Could they have had techniques or tools we don't know about?
+
+----------------------------------------------------------------------
+
+Scavenging and hunting
+
+	Scavenging and hunting are complementary activities
+
+		Most hunters scavenge
+
+		Most mammalian scavengers hunt
+
+	Our ancestors probably did both
+
+	Scavenging requires the ability to:
+
+		Take kills from other predators, or
+
+		Use resources others can't use
+
+----------------------------------------------------------------------
+
+Tools for scavenging and hunting
+
+	Some tools may have been used as weapons
+
+		For killing prey, or for fighting off other carnivovers
+
+		There is no evidence of this
+
+	Tools could be used to process leftovers
+
+		ANS Cracking large bones for marrow, for example
+
+----------------------------------------------------------------------
+
+Tools for complex foraging
+
+	Tools and knowledge can make a wide range of food sources available
+
+		Colonial insect resources
+
+		Deeply buried plant resources
+
+		Poisonous things that can be processed
+
+----------------------------------------------------------------------
+
+SEC Humans
+
+----------------------------------------------------------------------
+
+Radiation and contraction
+
+	Early humans replaced other hominins starting about 2 mya
+
+	Modern humans replaced other humans starting about 0.2 mya
+
+		ANS Probably through competition
+
+		ANS But we still don't know all of the reasons
+
+	Both early and modern humans evolved in Africa and spread from there
+
+----------------------------------------------------------------------
+
+Early humans | Fig 12.8
+
+	Acheulean industry lasted almost 1 million years
+
+	It took people longer to move on from Acheulean industry than to move from
+	Acheulean industry to self-driving cars!
+
+----------------------------------------------------------------------
+
+PICSLIDE
+
+PIC FIG norton/ch12/12_08.jpg
+
+----------------------------------------------------------------------
+
+Modern humans
+
+	Characterized by small face and teeth
+
+	Less robust skeletal structure
+
+	Evolved in Africa around 200 [kya] (thousand years ago)
+
+	Took over most of the world in the last 50,000 years
+
+----------------------------------------------------------------------
+
+Why are we here?
+
+	Modern humans arose around 200 kya, but took over the world around 50
+	kya
+
+	What happened?
+
+		A sudden evolutionary change?
+
+		Gradual evolutionary change?
+
+			ANS Why don't we see evidence?
+
+			ANS Might be about our brains, and not reflected in fossils
+
+		A sudden cultural change?
+
+		Gradual cultural change?
+
+----------------------------------------------------------------------
+
+Summary
+
+	People evolved by the same basic rules as other organisms
+
+		ANS Adaptation by natural selection
+
+	Followed a very different path
+
+		ANS Strong loops that continually created new adaptive opportunities
+
+	There is a lot we can learn about ourselves from biology
+
+		ANS We are affected by all of the same basic processes as other organisms
+
+	And also a lot that we can't learn
+
+		ANS We are also strongly affected by our complex brains (and complex
+		cultures) 

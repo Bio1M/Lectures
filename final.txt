@@ -1,0 +1,381 @@
+
+Evaluating competing hypotheses
+
+	We challenge hypotheses with experiments and observation
+
+----------------------------------------------------------------------
+Inheritance of acquired characteristics
+
+	This is the idea that individuals change in response to their
+	environment, and pass those changes on to their offspring
+
+		Example: giraffes reaching for food
+
+	It is now known that while individuals do often change in response
+	to their environment, such changes are not (usually) passed on to
+	offspring
+
+----------------------------------------------------------------------
+
+Inheritance of acquired characteristics vs.~natural selecton
+
+	Raise several populations of mice in the lab
+
+	In the acquired group, every generation stretch (or chop off) their poor
+	little tails
+
+	In the selection group, every generation, allow mice with longer (or
+	shorter) tails more chances to breed
+
+	In the control group, do everything the same (including manipulations)
+
+		ANS Except the part that is the key to treatment
+
+	Measure natural tail length at the beginning of the experiment, and
+	after 100 generations.
+
+----------------------------------------------------------------------
+
+Goal-directed evolution
+
+	This is the idea that organisms evolve towards specific goals
+
+		Complex, multicellular organisms
+
+		Big-brained humans
+
+	If the organism is moving toward a goal, it should move more or less in that
+	direction all the time
+
+----------------------------------------------------------------------
+
+Goal-directed evolution
+
+	There is a great deal of observational evidence against
+	goal-directed evolution:
+
+		Vestigial traits
+
+		Bidirectional evolution
+
+			Finch beaks get larger, then smaller
+
+			Birds gain, then lose, flying ability
+
+			Things that become parasites may become much smaller and
+			simpler
+
+----------------------------------------------------------------------
+
+The good of the species
+
+	Selection operates on individuals; individuals are not adapted to act
+	for the good of the species
+
+	The evolution of co-operation always involves tension between what is
+	good for the group, and what is good for the individual
+
+		If `cheating' strategies can evolve, they will
+
+		A [cheater] benefits from co-operation, but does not participate
+
+	Individuals are usually selected to act for themselves, sometimes for the
+	group, and rarely or ever for the species
+
+----------------------------------------------------------------------
+
+PSLIDE A lemming not committing suicide
+
+FIG webpix/lemming.jpg
+
+----------------------------------------------------------------------
+
+Example: calculating allele frequencies
+
+	I collect 20 peppered moths from a particular place, and find that 4
+	have genotype $A_1	A_1$, 8 have genotype $A_1	A_2$, and 8 have
+	genotype $A_2	A_2$.
+
+	What is the observed frequency of each allele?
+
+	What is the expected frequency of each genotype under the
+	Hardy-Weinberg assumptions?
+
+	What is the observed frequency of each genotype?
+
+----------------------------------------------------------------------
+
+What do we mean by expected?
+
+	If we flip a fair coin 100 times, what is the expected number of
+	heads?
+
+		What if we flip it 25 times?
+
+	We don't expect to get exactly the expected value.
+
+	The `expected value' is an average of what is expected under our
+	assumptions
+
+----------------------------------------------------------------------
+
+How do you know a coin is perfectly fair?
+
+	You can never be sure that a coin is perfectly fair, you can only evaluate
+	your evidence that it's more or less close to fair.
+
+	Similarly, we never have evidence that a population is exactly in
+	Hardy-Weinberg equilibrium, we can only evaluate our evidence that
+	it is not in equilibrium, or our evidence that it is close to
+	equilibrium.
+
+----------------------------------------------------------------------
+
+Hardy-Weinberg equilibrium
+
+	When do we expect genotype frequencies to behave like coins?
+
+	Alleles selected at random from the previous generation:
+
+		ANS Random mating within a closed population
+
+		ANS No differences in fitness between genotypes
+
+	If these assumptions hold, we expect [Hardy-Weinberg
+	equilibrium]
+	
+		Hardy-Weinberg distribution, with no change in allele frequencies
+		from generation to generation.
+
+----------------------------------------------------------------------
+
+Differences from equilibrium
+
+	If we observe large differences from the Hardy-Weinberg equilibrium, 
+	this is usually a sign that mating is not random, or that natural
+	selection is operating
+
+	The analysis tells us that something is going on, but not what
+
+	Hardy-Weinberg is a [null model]: it tells us what to expect if
+	complicating effects are absent
+
+----------------------------------------------------------------------
+
+Reuniting | S26.4
+
+	What happens when isolated populations come back into contact?
+
+	Usually this happens when a geographic barrier disappears 
+	
+		a land bridge forms between an island and the continent
+
+		a river changes course
+
+----------------------------------------------------------------------
+
+Fusion
+
+	When two isolated populations come into contact, they may [fuse] --
+	go back together
+
+		Adaptive differences may be small
+
+		Adaptive differences may be overwhelmed by gene flow
+
+----------------------------------------------------------------------
+
+Reinforcement
+
+	In some cases, hybrid offspring may have low fitness
+
+		ANS Incompatible alleles
+
+		ANS Disruptive selection
+
+	In these cases we expect natural selection for traits that
+	[reinforce] the distinction between the two species
+
+		They avoid mating, using coloration, timing, courtship rituals
+
+----------------------------------------------------------------------
+
+PSLIDE Meadowlarks
+
+BCC
+
+CFIG webpix/western_meadowlark.jpg
+
+NCC
+
+CFIG webpix/eastern_meadowlark.jpg
+
+EC
+
+----------------------------------------------------------------------
+
+Species divergence in allopatry | S26.2
+
+	[Allopatry] refers to organisms living apart from each other
+
+	If two populations are isolated from each other, we would expect
+	that they might diverge.  Why?
+
+		ANS Genetic drift
+		
+		ANS Natural selection
+
+			ANS Different environments, or different adaptive mutations
+
+----------------------------------------------------------------------
+
+Mechanisms of isolation
+
+	Isolated populations of the same species can develop if some
+	individuals [disperse] (move) to a new area and [colonize] it
+	(establish a new population).
+
+	Isolated populations of the same species can develop by [vicariance] -- when
+	a population is split by a geographical or ecological barrier
+
+----------------------------------------------------------------------
+
+Example: ratites
+
+BC
+
+SIDEFIG webpix/Gondwana.png
+
+NC
+
+	The ancestors of today's ostriches, emus, etc. were isolated when
+	the super-continent of Gondwanaland drifted apart starting about 140
+	million years ago
+
+EC
+
+----------------------------------------------------------------------
+
+Species divergence in sympatry | S26.3
+
+	[Sympatry] refers to organisms living in the same geographic area
+
+	In general, it should be hard for populations of the same species living in
+	sympatry to diverge. 
+
+		ANS Gene flow
+
+	Divergence by partitioning habitats | Fig 26.10
+
+		In some cases, gene flow will prevent divergence
+
+	Divergence by genetic incompatibility 
+
+		In some cases, one will drive the other extinct via competition
+
+----------------------------------------------------------------------
+
+Monophyletic group
+
+
+	A [monophyletic group] is a group _defined by_ a single common
+	ancestor
+
+		All descendants of the ancestor must be in the group
+
+	Monophyletic groups can also be called [clades] or [taxa].
+
+	As biologists, we should try to think in terms of clades
+
+		Are flying vertebrates a clade?
+
+		What are some prominent groups that are not clades?
+
+			ANS apes, reptiles, dinosaurs
+
+----------------------------------------------------------------------
+
+PICSLIDE WIDEFIG Pearson/F_skills/B07_2_phylo_tree_example.jpg
+
+----------------------------------------------------------------------
+
+Sister taxa
+
+	Sister taxa can be a useful way of thinking about trees
+
+		two taxa that share a common node
+
+		You need to take the whole taxon, when appropriate
+
+	E.g., sisters of: _Homo sapiens_; _Homo erectus_; humans?
+
+		ANS _Homo neanderthalensis_; _Hn_ and _Hs_; _Paranthropus_
+
+----------------------------------------------------------------------
+
+Reading phylogenetic trees
+
+	The tree indicates the pattern of branching of [lineages] (evolving
+	lines)
+
+	Tips are _assumed_ by the model to be monophyletic
+
+	A tree is a model of how evolution occurred
+
+----------------------------------------------------------------------
+
+Morphological innovation
+
+	A new adaptive mutation can open up further possibilities for adaptation
+
+		[Hox gene] mutations allowed early animals to develop complex body plans
+
+		The arthropod body plan
+		
+			insects, arachnids, crustaceans \ldots
+
+		The {tetrapod} body plan
+		
+			reptiles, mammals \ldots
+
+----------------------------------------------------------------------
+
+Hox genes | Fig 27.21
+
+	[Hox genes] are involved in determining the identity of different
+	body parts
+
+	Taxa with simpler body structures tend to have fewer hox genes
+
+		Phylogenetic comparisons provide important evidence that hox
+		genes were involved in evolution of complex body plans
+
+	Evidence that new hox genes were largely created by [gene
+	duplication] events
+
+		A kind of mutation; random change
+
+		If it persists, it was selected for
+
+----------------------------------------------------------------------
+
+PICSLIDE WIDEFIG Pearson/F28_phylogeny/28_13_Hox_genes.jpg
+
+----------------------------------------------------------------------
+
+Looping 
+
+	How did we get so far?
+
+		Big brains, complex culture, technology, language
+
+	Probably many of the adaptations our ancestors had set the stage for new
+	adaptations
+
+		A lot of these would have ``looped'' through brain development
+
+		Bigger brains open the way for more culture, or language, or complex
+		foraging
+
+		These strategies could favor even bigger brains
+

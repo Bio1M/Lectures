@@ -1,0 +1,489 @@
+
+CHAPTER Speciation
+
+----------------------------------------------------------------------
+
+TSEC How are species defined? | S26.1
+
+	Conceptually, we define species as ``evolutionary units'':
+
+		Individuals within a species are evolving together
+
+		Individuals of different species evolve independently | (Fig 26.1)
+
+	It is difficult to make this conceptual definition into a practical
+	definition
+
+		ANS i.e., one that we can apply to decide how to group organisms into
+		species
+
+		Life is complex
+
+----------------------------------------------------------------------
+
+PICSLIDE WIDEFIG Pearson/F27_speciation/27_01_speciation.jpg
+
+----------------------------------------------------------------------
+
+TSS Biological species concept
+
+	Biological species are defined by reproductive isolation
+
+	Different biological species either:
+
+		Don't breed in nature
+
+		Breed but fail to produce offspring
+
+		Produce [inviable] offspring -- offspring do not develop to
+		adulthood
+
+		Produce [sterile] offspring -- offspring that cannot themselves
+		reproduce
+
+----------------------------------------------------------------------
+
+Mechanisms of isolation
+
+	Mechanisms of isolation are often divided into two classes:
+
+		[Prezygotic] isolation refers to any mechanism that prevents
+		successful mating
+
+		[Postzygotic] isolation refers to any mechanism that prevents
+		offspring from producing offspring of their own
+
+		``Zygote'' means a cell formed by the fusion of a
+		sperm and an egg
+
+----------------------------------------------------------------------
+
+Mechanism examples
+
+	Pre- or post-?
+
+		Different malaria parasites breed inside different hosts
+
+		Different species of doves can nest together, but eggs fail to
+		hatch or chicks fail to grow
+
+		The offspring of horses and donkeys grow up to be healthy,
+		infertile adults
+
+		Sea urchin eggs cannot be penetrated by sperm from other species
+
+		Species of pine trees release and receive pollen and different
+		times of year
+
+----------------------------------------------------------------------
+
+Pre- vs.~post-zygotic mechanisms
+
+	Which should be adaptively favored?
+
+		ANS Pre-zygotic mechanisms mean less wasted effort
+
+		ANS Example: it takes a lot of resources for a horse to birth and raise a
+		mule, but there is no long-term fitness benefit
+
+----------------------------------------------------------------------
+
+Disadvantages of the biological species concept
+
+	ANS Doesn't apply to asexual species
+
+	ANS Not practical for extinct species
+
+	ANS May be hard to evaluate
+
+		ANS What if two populations rarely come into contact because of
+		geographic distance?
+
+----------------------------------------------------------------------
+
+EXTRA A species ring example?
+
+Maybe somewhere else lower down? Problem not specific to biological concept
+
+----------------------------------------------------------------------
+
+TSS Morphological species concept
+
+	Morphological species are defined to be 
+	different if they [look] different
+
+		Useful for working with fossils, or very diverse groups (e.g.,
+		insects)
+
+		A lot of expertise and experience guides morphospecies decisions
+
+	Disadvantages?
+
+		ANS Subjective, prone to disagreements
+
+		ANS There are groups that look very similar but can't produce viable
+		offspring
+
+		ANS Not clear how definition relates to our conceptual definition of
+		evolutionary units
+
+----------------------------------------------------------------------
+
+PSLIDE Meadowlarks
+
+BCC
+
+CFIG webpix/western_meadowlark.jpg
+
+NCC
+
+CFIG webpix/eastern_meadowlark.jpg
+
+EC
+
+----------------------------------------------------------------------
+
+TSS Ecological species concept
+
+	An ecological species is a set of related organisms occupying the same
+	ecological [niche]
+
+		Exploit similar resources
+
+		Tolerate similar environments 
+
+		Face similar natural enemies
+
+	Commonly used for small things, particularly small asexual things
+
+----------------------------------------------------------------------
+
+TSS Phylogenetic species concept
+
+	A phylogenetic species is a monophyletic group of populations
+
+		Must not be divisible into smaller species
+
+	A [monophyletic group] is a group _defined by_ a single common
+	ancestor
+
+		All descendants of the ancestor must be in the group | Fig 26.2
+
+----------------------------------------------------------------------
+
+PICSLIDE HIGHFIG Pearson/F27_speciation/un/27_02b_phy_species_concept.jpg
+
+----------------------------------------------------------------------
+
+Phylogenetic species concept
+
+	Advantages
+
+		Well defined (as long as you know what a population is)
+
+		Broadly applicable
+
+	Disadvantages
+
+		Hard to estimate phylogenies
+
+		Requires a lot of information about populations
+
+	Believers in the phylogenetic species concept recognize a _lot_ of
+	species
+
+----------------------------------------------------------------------
+
+Defining species
+
+	Defining species formally can be very tricky
+
+		No one way is agreed to be the best
+
+	Usually we know more or less what we mean be a species, though
+
+----------------------------------------------------------------------
+
+Generating species
+
+	We believe new species are generated from old species
+
+	One species can gradually evolve into another
+
+		COMMENT We can't say exactly when the switch occurs
+
+	Species can also [diverge]: one species splits into two species
+
+----------------------------------------------------------------------
+
+How do species split?
+
+	Genetic isolation
+
+	Genetic divergence
+
+	Which comes first?
+
+		ANS Isolation is necessary: with too much gene flow populations can't
+		diverge
+
+		ANS There can also be a loop: if species diverge, there can be natural
+		selection for increased isolation
+
+			ANS Don't want to waste resources on less-fit hybrid offspring
+
+----------------------------------------------------------------------
+
+TSEC Species divergence in allopatry | S26.2
+
+	[Allopatry] refers to organisms living apart from each other
+
+	If two populations are isolated from each other, we would expect
+	that they might diverge.  Why?
+
+		ANS Genetic drift
+		
+		ANS Natural selection
+
+			ANS Different environments, or different adaptive mutations
+
+	How can two populations of the same species be isolated from each
+	other? | Fig 26.5
+
+----------------------------------------------------------------------
+
+TSS Dispersal
+
+	Isolated populations of the same species can develop if some
+	individuals [disperse] (move) to a new area and [colonize] it
+	(establish a new population).
+
+	Since colonizing populations are usually small, we expect founder
+	effects and drift to be particularly important
+
+----------------------------------------------------------------------
+
+PICSLIDE HIGHFIG Pearson/F27_speciation/27_04a_allopatry.jpg
+
+----------------------------------------------------------------------
+
+PICSLIDE WIDEFIG webpix/island_lizards.png
+
+----------------------------------------------------------------------
+
+TSS Vicariance
+
+	Isolated populations of the same species can develop when a
+	population is split by a geographical or ecological barrier
+
+	Such splits are called [vicariance] events. 
+
+		Rivers change course, mountains appear or disappear, continents
+		split and join
+
+		When temperature changes, some species may only be able to
+		survive in ``refuges", small, protected parts of their original
+		range
+
+----------------------------------------------------------------------
+
+PICSLIDE HIGHFIG Pearson/F27_speciation/27_05a_vicariance.jpg
+
+----------------------------------------------------------------------
+
+
+Example: ratites
+
+BC
+
+SIDEFIG webpix/Gondwana.png
+
+NC
+
+	The ancestors of today's ostriches, emus, etc. were isolated when
+	the super-continent of Gondwanaland drifted apart starting about 140
+	million years ago
+
+EC
+
+----------------------------------------------------------------------
+
+TSEC Species divergence in sympatry | S26.3
+
+	[Sympatry] refers to organisms living in the same geographic area
+
+	In general, it should be hard for populations of the same species living in
+	sympatry to diverge. 
+
+		ANS Gene flow
+
+	Are there exceptions to this expectation?
+
+		ANS Seed crackers?
+
+			ANS We don't really know yet
+
+		ANS Hawthorn flies
+
+		ANS Soapberry bugs
+
+----------------------------------------------------------------------
+
+Divergence by partitioning habitats | Fig 26.10
+
+	Insects that feed on many different plants may be subject to
+	divergent selection
+
+		An individual may do most of its feeding on one particular plant
+
+	In some cases, gene flow will prevent divergence
+
+	In other cases, individuals may mate preferentially with individuals
+	with the same host plant, and divergence may occur
+
+----------------------------------------------------------------------
+
+PICSLIDE WIDEFIG webpix/sticklebacks.jpg
+
+----------------------------------------------------------------------
+
+Other mechanisms of divergence
+
+	Divergence in sympatry is an exciting field
+
+		When can disruptive selection overcome gene flow?
+
+		Is this an important component of how diversity evolves?
+
+	Divergence can also occur when mutation causes genetic
+	incompatibility (see book if you are curious about mechanisms)
+
+		If two populations are in the same place, but can't produce
+		fertile offspring, they are reproductively isolated
+
+		In what way are they not isolated?
+
+			ANS They can still compete, and one may drive the other extinct
+
+			ANS Reproductive isolation can _combine with_ disruptive selection 
+
+----------------------------------------------------------------------
+
+TSEC Reuniting | S26.4
+
+	What happens when isolated populations come back into contact?
+
+	Usually this happens when a geographic barrier disappears 
+	
+		a land bridge forms between an island and the continent
+
+		a river changes course
+
+----------------------------------------------------------------------
+
+TSS Fusion
+
+	When two isolated populations come into contact, they may [fuse] --
+	go back together
+
+		Adaptive differences may be small
+
+		Adaptive differences may be overwhelmed by gene flow
+
+----------------------------------------------------------------------
+
+TSS Reinforcement
+
+	In some cases, hybrid offspring may have low fitness
+
+		ANS Incompatible alleles
+
+		ANS Disruptive selection
+
+	In these cases we expect natural selection for traits that
+	[reinforce] the distinction between the two species
+
+		They avoid mating, using coloration, timing, courtship rituals
+
+----------------------------------------------------------------------
+
+PSLIDE Meadowlarks
+
+BCC
+
+CFIG webpix/western_meadowlark.jpg
+
+NCC
+
+CFIG webpix/eastern_meadowlark.jpg
+
+EC
+
+----------------------------------------------------------------------
+
+TSS Hybrid zones
+
+	When hybrid offspring are functional, and well-adapted to the
+	overlap zone, there may be a zone where hybrids occur
+
+	COMMENT In this case, should we consider the species to be different?
+
+----------------------------------------------------------------------
+
+TSS Exclusion
+
+	One species might eliminate the other species, either by
+	competition, or by better success in mating
+
+		Warblers competing for mates | Fig 26.12
+
+		Modern humans
+
+----------------------------------------------------------------------
+
+PICSLIDE HIGHFIG Pearson/F27_speciation/27_11_hybrid_zone.jpg
+
+----------------------------------------------------------------------
+
+PICSLIDE WIDEFIG Pearson/alpha24_speciation/UN_p495_1_human_species.jpg
+
+----------------------------------------------------------------------
+
+PICSLIDE WIDEFIG Pearson/alpha24_speciation/UN_p495_2_question14.jpg
+
+----------------------------------------------------------------------
+
+
+TSS New species
+
+	There is evidence that in some cases hybridization between related
+	species may lead to creation of new species
+
+		Some combination of genes from the two species may lead to a new
+		adaptation
+
+		Sunflower example, p.~516--518
+
+----------------------------------------------------------------------
+
+PICSLIDE WIDEFIG Pearson/F27_speciation/27_00_sunflower_species.jpg
+
+----------------------------------------------------------------------
+
+Conclusion
+
+	The diversity we see in the world arises from speciation events; mostly by
+	single species splitting into two
+
+	Species splits typically involve isolation and divergence
+
+		Isolation can happen allopatrically or sympatrically
+
+		New species can also sometimes arise from hybridization between related
+		species
+
+	Defining species can be complicated
+
+		Particularly if we want definitions that include both asexual and sexual
+		species
+

@@ -1,0 +1,623 @@
+ 
+CHAPTER Evolution by natural selection
+
+----------------------------------------------------------------------
+
+TSEC Evolution
+
+	The theory of [evolution] has replaced the theory of [special
+	creation] in science.
+
+	The theory of special creation asserts that each species is a unique
+	``type", created by God.
+
+	The theory of evolution asserts that species have changed through time ([evolved]).
+
+	Does this mean that scientists don't believe in God?
+
+		ANS Many scientists do believe in God
+
+		ANS Scientists learn about the world through experiment and
+		observation
+
+		ANS Scientists don't treat religious texts as _literally_ true
+
+----------------------------------------------------------------------
+
+SS Change through time | pp.~457--459
+
+----------------------------------------------------------------------
+
+PSLIDE Fossils
+
+FIG Pearson/alpha22_ns/22_02_fossil_record_L.jpg
+
+----------------------------------------------------------------------
+
+Fossils
+
+	A [fossil] is a physical trace of an organism that lived in the past
+
+	Fossils can be dated using (complicated) radiometric and geological
+	techniques
+
+	Fossils provide information about the history of life (see Chapter
+	27)
+
+	The [fossil record] refers to the collection of all known fossils
+
+----------------------------------------------------------------------
+
+Extinction
+
+	Many fossils have been left by organisms that are no longer around
+
+		We say such organisms are [extinct]
+
+	Extinction is one piece of evidence that species are changing
+
+		COMMENT But not very convincing evidence!
+
+----------------------------------------------------------------------
+
+Transitional forms
+
+BC
+
+SIDEFIG Pearson/F25_ns/25_04_tetrapod_limb_L.jpg
+
+NC
+
+	When a species disappears from the fossil record, a similar species
+	often appears
+
+		This often happens in the same geographic area
+
+	Consistent with species evolving: changing through time
+
+	NOTES Fig 24.4
+
+EC
+
+
+----------------------------------------------------------------------
+
+Vestigial traits
+
+	A [vestigial trait] is a structure that has no function, but is
+	similar to functioning structures in related species
+	
+	Examples?
+
+	NOTES Fig. 24.5
+
+----------------------------------------------------------------------
+
+Directly observed evolution
+
+	Although much evolution occurs very slowly, some kinds of evolution
+	can be, and have been, observed on faster time scales
+
+		Tuberculosis | pp.465--466
+
+		Ground finches | pp.~468--470
+
+----------------------------------------------------------------------
+
+PSLIDE Tuberculosis
+
+SIDEFIG Pearson/F25_ns/25_13_drug_resistance_L.jpg
+
+----------------------------------------------------------------------
+
+TSS Relationships between species | pp.~459--463
+
+	If species evolved from a common ancestor, we expect to see evidence
+	that they are related to each other
+
+		Species fall naturally into groups
+
+			COMMENT: e.g., mammals, flowering plants
+
+		Geographic patterns of relatedness
+
+		Homology
+
+----------------------------------------------------------------------
+
+Geographic relationships
+
+BCC
+
+SIDEFIG Pearson/F25_ns/25_06_mockingbirds_L.jpg
+
+NCC
+
+	Species in the same geographic area (e.g., nearby islands) often seem
+	to be closely related
+
+	This is what we would expect if these species evolved independently,
+	starting from a common ancestor in the region
+
+	Support for the theory of evolution
+
+	NOTES Fig.~24.6
+
+EC
+
+----------------------------------------------------------------------
+
+Evolution and similarity
+
+	In nature we observe many, often surprising, similarities between
+	organisms
+
+		Almost identical developmental genes in fruit flies and
+		people
+
+		Similar limb bone structure in turtles and people
+
+	The theory of evolution explains these similarities as [homologies]
+
+----------------------------------------------------------------------
+
+Homology
+
+	A [homology] is a similarity that is due to common ancestry
+
+		Similarities apparently due to homology are widespread.  This is a
+		strength of the theory of evolution.
+
+----------------------------------------------------------------------
+
+Genetic homology
+
+	[Genetic homology] is homology at the level of genetic coding.
+
+	Examples:
+
+		The genetic code itself is shared (with rare, minor exceptions) by
+		all living organisms
+
+		Some genes involved in development are very similar all the way
+		from insects to mammals
+
+	NOTES Fig 24.10
+
+----------------------------------------------------------------------
+
+PSLIDE Genetic homology
+
+FIG Pearson/F25_ns/25_10_homology_evidence_L.jpg
+
+	COMMENT An eye-promoter gene from mice promote eye growth in flies!
+
+----------------------------------------------------------------------
+
+
+Developmental homology
+
+BCC
+
+SIDEFIG Pearson/F25_ns/25_08_developmtl_homology_L.jpg
+
+NCC
+
+	[Developmental homology] is homology in the traits of [embryos]
+	(developing organisms)
+
+		Embryos of all vertebrates show striking similarities | Fig 24.8
+
+EC
+
+----------------------------------------------------------------------
+
+Structural homology
+
+BCC
+
+SIDEFIG Pearson/F25_ns/25_09_structural_homology_L.jpg
+
+NCC
+
+	[Structural homology] is homology at the level of developed
+	organisms.
+
+		Tetrapod limbs | Fig 24.9
+
+EC
+
+----------------------------------------------------------------------
+
+RSLIDE Tetrapod limbs
+
+WIDEFIG Pearson/F25_ns/25_09_structural_homology_L.jpg
+
+----------------------------------------------------------------------
+
+
+
+Identifying homologies
+
+	A tricky subject
+
+		How do we know whether similarities are due to common evolution?
+
+		Homologies assume evolution; how can they be used as evidence for
+		evolution?
+
+	The idea that many similarities are due to homology seems to explain
+	many observed patterns
+
+		Organisms fall naturally into groups
+
+		Genetic evidence and morphological evidence often agree
+
+----------------------------------------------------------------------
+
+TSEC Natural selection | Sec 24.3
+
+	Darwin's big idea was not evolution, but natural selection
+
+	The first real theory of evolution was developed by Lamarck
+
+		More famous for being wrong about how evolution occurs
+
+		COMMENT He thought _acquired characteristics_ were inherited
+
+----------------------------------------------------------------------
+
+Natural selection drives evolution
+
+	Darwin's theory of natural selection can be explained using four
+	logical steps:
+
+		[Variation:] The individuals that make a population vary in the
+		[traits] they possess, like size, shape, physiological details.
+
+		[Heritability:] Some of these differences can be inherited by
+		offspring.  For example, tall people may be more likely to produce
+		tall offspring.
+
+		[Differential _reproductive_ success:] In each generation, some
+		organisms leave more offspring than others
+
+		[Selection:] Reproductive success is not random, but
+		is influenced by differences in traits, including heritable traits
+
+	If all four of these assumptions hold, we expect evolution to occur.
+
+----------------------------------------------------------------------
+
+Natural selection (short version)
+
+ADD Do a better job about survival of the fittest -- how does it work at the group level?
+
+	Evolution by natural selection will occur if there is:
+
+		Heritable [variation] in traits
+
+		[Selection] (i.e., differential reproductive success) _based on_
+		these traits
+
+			Survival is one component of reproductive success; if you
+			don't survive, you can't reproduce.
+
+----------------------------------------------------------------------
+
+Fitness
+
+	[Fitness] in biology, or [Darwinian fitness], means simply an
+	ability to do well under natural selection
+
+	Fitness is thus defined as average reproductive success, given a
+	suite of heritable traits
+
+----------------------------------------------------------------------
+
+RSLIDE Tuberculosis
+
+SIDEFIG Pearson/F25_ns/25_13_drug_resistance_L.jpg
+
+----------------------------------------------------------------------
+
+Example: Tuberculosis | Fig 24.13
+
+	What if there were no variation?
+
+		Where does variation come from?
+
+	What if variation were not heritable?
+
+	What if there were no selection?
+
+----------------------------------------------------------------------
+
+Other examples
+
+	Galapagos finches' beak sizes evolve as availability of seed
+	resources changes.  | Fig 24.17
+
+	Squirrels! | (see wikipedia)
+
+----------------------------------------------------------------------
+
+PSLIDE Squirrels
+
+BCC
+
+CFIG webpix/grey_squirrel.jpg
+
+NCC
+
+CFIG webpix/black_squirrel.jpg
+
+EC
+
+----------------------------------------------------------------------
+
+PSLIDE Finch beaks
+
+FIG Pearson/F25_ns/25_16_finch_beaks_study_L.jpg
+
+----------------------------------------------------------------------
+
+Activity
+
+	How would you design an experiment to tell if beak depth
+	is heritable?
+
+		ANS Raise offspring from different combinations of mothers and
+		fathers, and compare their beaks
+
+			ANS You might also want to try raising them in different
+			conditions (wet or dry, more or less food available)
+
+		ANS [Replicate].  Repeat the experiment with different offspring
+		(using different mothers and fathers).
+
+		ANS [Control].  Make all factors except for the beak depths of mothers
+		and fathers as similar as possible
+
+----------------------------------------------------------------------
+
+SEC The nature of adaptation | Sec 24.5
+
+----------------------------------------------------------------------
+
+Other models
+
+	Natural selection is not the only possible model for how evolution
+	could occur
+
+		Inheritance of acquired characteristics (Lamarck)
+
+		Goal-directed evolution
+
+----------------------------------------------------------------------
+
+Inheritance of acquired characteristics
+
+	This is the idea that individuals change in response to their
+	environment, and pass those changes on to their offspring
+
+		Example: giraffes reaching for food
+
+	It is now known that while individuals do often change in response
+	to their environment, such changes are not (usually) passed on to
+	offspring
+
+----------------------------------------------------------------------
+
+Goal-directed evolution
+
+	This is the idea that organisms evolve towards specific goals
+
+		Complex, multicellular organisms
+
+		Big-brained humans
+
+	ADD If the organism is moving toward a goal, it should move more or less in
+	that direction all the time
+
+----------------------------------------------------------------------
+
+Evaluating competing hypotheses
+
+	We challenge hypotheses with experiments and observation
+
+----------------------------------------------------------------------
+
+Inheritance of acquired characteristics
+
+	Raise a population of mice in the lab
+
+	Every generation stretch (or chop off) their poor little tails
+
+	Measure natural tail length at the beginning of the experiment, and
+	after 100 generations.
+
+	How could this experiment be improved?
+
+		ANS Add a control group
+
+		ANS Use replicate populations (e.g., three control and three
+		experimental populations)
+
+			ANS Or three ``choppy'' and three ``stretchy'' populations
+
+----------------------------------------------------------------------
+
+Activity
+
+	What would be the key points of a similar experiment to test whether
+	tail lengths respond to natural (actually, artificial) selection?
+
+		ANS In each generation, allow mice with longer (or shorter) tails
+		more chances to breed
+
+		ANS Compare results with a control population.
+
+			ANS Let them breed how they want?
+
+			ANS Make couples, and choose 2 offspring from each?
+
+----------------------------------------------------------------------
+
+Goal-directed evolution
+
+	There is a great deal of observational evidence against
+	goal-directed evolution:
+
+		Vestigial traits
+
+		Bidirectional evolution
+
+			Finch beaks get larger, then smaller
+
+			Birds gain, then lose, flying ability
+
+			Things that become parasites may become much smaller and
+			simpler
+
+----------------------------------------------------------------------
+
+Adaptation vs.~acclimation
+
+	[Acclimation] is the ability of organisms to respond directly 
+	to their environment
+
+		When organisms [acclimate] this does not affect the 
+		traits of their offspring
+
+	[Adaptation] is genetic change that increases the fitness of
+	organisms
+
+		Adaptation does not occur as a direct response to the environment
+
+		Adaptation is usually very slow
+
+		Adaptations are passed on to offspring, and form the basis of
+		evolutionary change
+
+----------------------------------------------------------------------
+
+PSLIDE Adaptation and acclimation
+
+WIDEFIG Pearson/alpha22_ns/22_16_adaptation_L.jpg
+
+----------------------------------------------------------------------
+
+Examples
+
+	If you exercise every day, you will be stronger, but this will not
+	make your children stronger.  
+	
+		ANS acclimation
+
+	After swinging through trees for millions of years, chimpanzees
+	have very strongly built arms.  
+	
+		ANS adaptation
+
+	Polar bears have thick fur, and thick layers of fat under their
+	skin.  
+	
+		ANS adaptation
+
+	Humans raised in hot climates have more sweat glands than those
+	raised in cold climates.  
+	
+		ANS acclimation
+
+----------------------------------------------------------------------
+
+Acclimation
+
+	Why do we acclimate?
+
+		ANS It has probably evolved because acclimation is beneficial
+
+	Are responses to changed conditions always good?
+
+		COMMENT Digging holes
+
+----------------------------------------------------------------------
+
+The good of the species
+
+	Selection operates on individuals; individuals are not adapted to act
+	for the good of the species
+
+	The evolution of co-operation always involves tension between what is
+	good for the group, and what is good for the individual
+
+		If `cheating' strategies can evolve, they will
+
+		A [cheater] benefits from co-operation, but does not participate
+
+	Do lemmings commit suicide?
+
+----------------------------------------------------------------------
+
+PSLIDE A lemming not committing suicide
+
+FIG webpix/lemming.jpg
+
+----------------------------------------------------------------------
+
+Tradeoffs
+
+	Much of adaptation is the result of compromise between conflicting
+	goals
+
+		Brightly colored individuals are more attractive to mates, and to
+		predators
+
+		Larger individuals compete more effectively, but are less
+		efficient at reproducing
+
+----------------------------------------------------------------------
+
+Historical constraints
+
+	Evolution proceeds by small steps
+
+		What is possible is guided by what has gone before
+
+	Examples
+
+		Vestigial traits
+
+		Blind spot in the vertebrate eye
+
+		Humans are not well designed to be upright
+
+----------------------------------------------------------------------
+
+PSLIDE Vertebrate blind spot
+
+ADD References to wikipedia here
+
+WIDEFIG webpix/blind_spot.png
+
+----------------------------------------------------------------------
+
+Evolution by natural selection -- Summary
+
+	There is strong evidence that species have evolved through time
+
+		Fossil record, patterns of relatedness, homologies
+
+	There is strong evidence that this change is driven by natural
+	selection
+
+		Darwin's logical postulates: heritable variation in traits;
+		differential reproductive success based on traits
+
+		Direct observations of natural selection (TB, finches, moths)
+
+	Natural selection by (gradual) evolution imposes important
+	constraints
+
+		Species are not perfectly adapted

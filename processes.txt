@@ -1,0 +1,784 @@
+ 
+CHAPTER Evolutionary processes
+
+----------------------------------------------------------------------
+
+Evolution by natural selection
+
+	Is something missing from the story I told last chapter?
+
+		Heritable [variation] in traits
+
+		[Selection] (i.e., differential reproductive success) _based on_
+		these traits
+
+	ANS Where does heritable variation in traits come from?
+
+----------------------------------------------------------------------
+
+Some genetics
+
+	Our basic traits are determined by [genes]
+
+	A location where a gene can occur is called a [locus] (pl.~[loci])
+
+	A particular version of a gene is called an [allele]
+
+	Complex organisms usually have two alleles at each locus
+
+		These can be the same, or different
+
+----------------------------------------------------------------------
+
+Loci
+
+	Complex organisms usually have two alleles at each locus
+
+		These can be the same, or different
+
+	An organism with different alleles at a particular locus is referred
+	to as [heterozygous] (adj., n. form heterozygote)
+
+	An organism with two copies of the same allele at a particular locus
+	is referred to as [homozygous] (adj., n. form homozygote)
+
+----------------------------------------------------------------------
+
+Two definitions of evolution
+
+	_Lecture_: heritable changes in species traits over time
+
+	_Book_: changes in allele frequencies
+
+	These definitions are consistent; use the one which helps you think
+	clearly
+
+----------------------------------------------------------------------
+
+SEC Analyzing genotype frequencies | S25.2
+
+----------------------------------------------------------------------
+
+Genotypes and phenotypes
+
+	A [genotype] is the collection of an individual's genes
+
+	A [phenotype] is the collection of an individual's physiological and
+	physical traits
+
+		What we can observe about an individual
+
+		Phenotype is largely (but by no means entirely) determined by
+		genotype
+
+----------------------------------------------------------------------
+
+PSLIDE Example: peppered moths
+
+BCC
+
+WIDEFIG webpix/pepper_moth.jpg
+
+NCC
+
+WIDEFIG webpix/carbon_moth.jpg
+
+EC
+
+
+----------------------------------------------------------------------
+
+PICSLIDE HIGHFIG webpix/pepper_birch.jpg
+
+----------------------------------------------------------------------
+
+
+Example: peppered moths
+
+	NOTES Check ``peppered moths'' or ``Kettlewell's experiment'' on wikipedia
+
+	Two different alleles possible at the wing color gene: $A_1$
+	and $A_2$.
+
+		Individuals with $A_1	A_1$ _genotype_ have light-winged
+		_phenotype_
+
+		Individuals with $A_2	A_2$ _genotype_ have dark-winged
+		_phenotype_.
+
+		Individuals with $A_1	A_2$ _genotype_ ???
+
+	If individuals with genotype $XY$ have the same phenotype (on
+	average) as those with $XX$, we say that $X$ is a [dominant] allele
+	and $Y$ is a [recessive] allele.  
+
+	If $XY$ individuals have an intermediate phenotype (between $XX$ and
+	$YY$, we say $X$ and $Y$ are [co-dominant].
+
+----------------------------------------------------------------------
+
+Analyzing genotype frequencies
+
+	We analyze genotype frequencies as follows:
+
+		Make simple assumptions about how frequencies work
+
+		Calculate [expected frequencies] under our assumptions
+
+		Measure [observed frequencies] in the population
+
+		Look for evidence of systematic (not random) difference between
+		expected and observed frequencies
+
+----------------------------------------------------------------------
+
+Making simple assumptions
+
+	Expected frequencies are usually calculated by assuming that alleles
+	assort randomly and independently, like flipping two coins, or
+	rolling two dice
+
+----------------------------------------------------------------------
+
+Coin flipping
+
+	I flip two fair coins (ie., each coin will land heads with
+	probability 1/2).
+
+	What is the probability of:
+
+		Two heads
+
+		Two tails?
+
+		One of each?
+
+	ANS 1/4, 1/4, 1/2.
+
+----------------------------------------------------------------------
+
+Professional coin flipping
+
+	A professional gambler can flip a coin so that it lands heads 70\% of
+	the time.  She flips two coins.
+
+	What is the probability of:
+
+		Two heads
+
+		Two tails?
+
+		One of each?
+
+	ANS 0.49, 0.09, 0.42
+
+----------------------------------------------------------------------
+
+Hardy-Weinberg distribution
+
+	The Hardy-Weinberg distribution is the distribution expected if
+	alleles work like coins (random and independent).
+
+	If $p$ is frequency of allele $A_1$ and $q$ is frequency of allele
+	$A_2$, then:
+
+		Frequency of genotype $A_1	A_1$ is $p^2$.
+
+		Frequency of genotype $A_2	A_2$ is $q^2$.
+
+		Frequency of genotype $A_1	A_2$ is $2pq$.
+
+	Why the 2?
+
+		ANS Because you could get $A_1$ from Mom and $A_2$ from Dad,
+			or $A_1$ from Dad and $A_2$ from Mom
+			\ldots two ways to do it
+
+----------------------------------------------------------------------
+
+Example: calculating allele frequencies
+
+	I collect 20 peppered moths from a particular place, and find that 4
+	have genotype $A_1	A_1$, 8 have genotype $A_1	A_2$, and 8 have
+	genotype $A_2	A_2$.
+
+	What is the observed frequency of each allele?
+
+	What is the expected frequency of each genotype under the
+	Hardy-Weinberg assumptions?
+
+	Is this population in Hardy-Weinberg equilibrium?
+
+		ANS We see more homozygotes than expected
+
+		ANS But is this reliable evidence?  That's a question for statistics.
+
+----------------------------------------------------------------------
+
+What do we mean by expected?
+
+	If we flip a fair coin 100 times, what is the expected number of
+	heads?
+
+		What if we flip it 25 times?
+
+	We don't expect to get exactly the expected value.
+
+	The `expected value' is an average of what is expected under our
+	assumptions
+
+----------------------------------------------------------------------
+
+How do you know a coin is perfectly fair?
+
+	You can never be sure that a coin is perfectly fair, you can only evaluate
+	your evidence that it's more or less close to fair.
+
+	Similarly, we never have evidence that a population is exactly in
+	Hardy-Weinberg equilibrium, we can only evaluate our evidence that
+	it is not in equilibrium, or our evidence that it is close to
+	equilibrium.
+
+----------------------------------------------------------------------
+
+Hardy-Weinberg equilibrium
+
+	When do we expect genotype frequencies to behave like coins?
+
+	Alleles selected at random from the previous generation:
+
+		ANS Random mating within a closed population
+
+		ANS No differences in fitness between genotypes
+
+	If these assumptions hold, we expect [Hardy-Weinberg
+	equilibrium]
+	
+		Hardy-Weinberg distribution, with no change in allele frequencies
+		from generation to generation.
+
+----------------------------------------------------------------------
+
+Differences from equilibrium
+
+	If we observe large differences from the Hardy-Weinberg equilibrium, 
+	this is usually a sign that mating is not random, or that natural
+	selection is operating
+
+	The analysis tells us that something is going on, but not what
+
+	Hardy-Weinberg is a [null model]: it tells us what to expect if
+	complicating effects are absent
+
+----------------------------------------------------------------------
+
+PSLIDE Example: Human blood groups
+
+WIDEFIG Pearson/F26_processes/TB26_1_MN_blood_groups_L.jpg
+
+----------------------------------------------------------------------
+
+Example: Human blood groups
+
+	MN blood groups in different human populations are very close to
+	Hardy-Weinberg equilibrium | Table 25.1
+
+		No evidence for non-random mating, or for fitness differences.
+
+	What about MN blood groups in the global human population?
+
+		ANS They are not in equilibrium, because mating is not random 
+
+		ANS More homozygotes than expected
+
+----------------------------------------------------------------------
+
+PSLIDE Example: Human HLA genes
+
+WIDEFIG Pearson/F26_processes/TB26_2_HLA_genotypes_L.jpg
+
+----------------------------------------------------------------------
+
+Example: Human HLA genes | Table 25.2
+
+	HLA genes are used by the immune system to recognize disease-causing
+	organisms
+
+	Researchers hypothesized that heterozygous individuals may
+	recognize more bacteria and viruses
+
+	Data shows that more people are heterozygous for HLA genes than
+	would be expected under the Hardy-Weinberg assumption
+
+----------------------------------------------------------------------
+
+Heterozygous HLA genes
+
+	Why might more people be heterozygous for HLA genes than predicted
+	by Hardy-Weinberg?
+
+		ANS Heterozygous people might be more likely to survive
+
+		ANS Heterozygous people may have more offspring
+
+			COMMENT Effects of this one are more complicated
+
+			COMMENT Heterozygotes don't necessarily have heterozygous
+			offspring
+
+		ANS People might be more attracted to people with different HLA
+		types
+
+			ANS Maybe _evolved_ this way because of reasons above
+
+----------------------------------------------------------------------
+
+SEC Types of natural selection | S25.3
+
+----------------------------------------------------------------------
+
+TSS Directional selection
+
+	[Directional selection] tends to move a population in a particular
+	direction
+
+		Giraffe necks
+
+		Human brains
+
+----------------------------------------------------------------------
+
+PSLIDE Cliff swallow example
+
+FIG webpix/swallows.jpg
+
+----------------------------------------------------------------------
+
+PSLIDE Cliff swallow example
+
+FIG Pearson/F26_processes/26_05b_directional_select_L.jpg
+
+----------------------------------------------------------------------
+
+
+Multi-directional selection
+
+	Directional selection can change through time with the environment
+
+		Swallows may get larger during extreme cold spells, smaller again
+		during normal weather
+
+			But we need to know whether the changes we saw were heritable
+
+		Finch beaks get thicker when food is scarce, and smaller when
+		food is abundant 
+
+		Why might small-beaked finches have advantages?
+
+			ANS Lots of reasons!
+
+----------------------------------------------------------------------
+
+TSS Stabilizing selection
+
+	[Stabilizing selection] tends to keep the population where it is
+
+		Example: human birthweights | Fig 25.4
+
+----------------------------------------------------------------------
+
+PSLIDE Stabilizing selection
+
+FIG Pearson/F26_processes/26_06b_stabilizing_select_L.jpg
+
+----------------------------------------------------------------------
+
+Connections between selection types
+
+	What happens if the target of directional selection stays the same
+	for a long time?
+
+		ANS The population arrives at the target, and directional
+		selection becomes stabilizing selection
+
+	Examples?
+
+		ANS Giraffe necks
+
+		ANS Human brains
+
+		ANS Almost everything
+
+			ANS at any given time
+
+----------------------------------------------------------------------
+
+TSS Disruptive selection
+
+	Disruptive selection favors phenotypes _different_ from the average
+	value | Fig 25.5
+
+		Black-bellied seedcrackers
+
+		Animals that get eaten a lot may want to look different from
+		their peers
+
+	Disruptive selection may lead to [speciation] -- the formation of
+	new species.
+
+----------------------------------------------------------------------
+
+PSLIDE Seedcrackers
+
+FIG webpix/seedcracker.jpg
+
+----------------------------------------------------------------------
+
+PSLIDE Disruptive selection
+
+FIG Pearson/F26_processes/26_07b_disruptive_select_L.jpg
+
+----------------------------------------------------------------------
+
+SEC Other evolutionary mechanisms
+
+----------------------------------------------------------------------
+
+TSS Genetic drift
+
+	[Genetic drift] is change in allele frequencies due to random
+	sampling:
+
+		Some individuals have more offspring than others due to chance events
+
+		Offspring receive certain parental alleles, and not others
+
+	These factors will lead to an accumulation of random changes in
+	allele frequencies
+
+----------------------------------------------------------------------
+
+Thought experiment
+
+	Imagine flipping a fair coin 100 times
+
+		Repeat
+
+	Now imagine choosing 100 alleles at random (with replacement) from a
+	population of 50 $A$ and 50 $B$ alleles
+
+		Repeat, using new population as a starting point | Fig 25.6
+
+----------------------------------------------------------------------
+
+PSLIDE Genetic drift
+
+Population 400
+
+FIG Pearson/F26_processes/26_12_2_genetic_drift_L.jpg
+
+----------------------------------------------------------------------
+
+PSLIDE Genetic drift
+
+Population 4
+
+FIG Pearson/F26_processes/26_12_1_genetic_drift_L.jpg
+
+----------------------------------------------------------------------
+
+Small populations
+
+	Drift is much stronger in small populations than in large ones (law
+	of averages).
+
+	Even if a population is big now, it may have been small in the past
+
+		[Founder effects] occur when a new population is started by a
+		small number of individuals
+
+		[Bottlenecks] occur when a population becomes small, then large
+		again
+
+			... or, when a new genetic mutation takes over a population
+
+----------------------------------------------------------------------
+
+Fixation and loss
+
+	An allele may drift to a frequency of 0 (it's [lost]) or of 1 (it's
+	[fixed])
+
+	Advantageous alleles are often (not always) fixed
+
+	Disadvantageous alleles are usually (not always) lost
+
+	COMMENT The opposite may happen, at random, in small populations
+
+	Alleles with [neutral] differences (no selective difference) will be
+	fixed or lost at random
+
+	Drift tends to reduce genetic variation
+
+----------------------------------------------------------------------
+
+TSS Gene flow | S25.4
+
+	[Gene flow] is the movement of alleles from one population to another
+
+		This happens when individuals move from one population to another
+		and breed
+
+	How we think about gene flow depends on how we choose to define a
+	`population'
+
+	Gene flow can be an obstacle to speciation; it helps keep
+	populations similar
+
+----------------------------------------------------------------------
+
+TSS Mutation | S25.5
+
+	[Mutations] are heritable errors in copying DNA
+
+	Mutations are rare; by themselves they don't cause much evolution
+
+	Mutations are extremely important to evolution, however:
+
+		ANS Mutations provide the variation on which natural selection
+		acts
+
+		ANS Mutation is the only source of new alleles
+
+----------------------------------------------------------------------
+
+Mutations are random
+
+	Most mutations are [deleterious] -- bad for fitness
+
+	Very rarely mutations are [beneficial] -- good for fitness
+
+		Such mutations are favored by natural selection
+
+----------------------------------------------------------------------
+
+Complex organisms
+
+	Can complex organisms arise through random mutations?
+
+		A central question of biology
+
+		Large-scale evolution takes a _long_ time
+
+		Beneficial changes can accumulate gradually
+
+		Much evidence of intermediate forms
+
+	NOTES Check out videos of ``evolution of the eye''
+
+----------------------------------------------------------------------
+
+What about sex?
+
+	Sex as an evolutionary process is very complicated
+
+		ANS Still active debate on the advantages and disadvantages of sex
+
+	Sex does act to bring alleles together (and to split them apart)
+
+	Sex does not provide a source of new alleles
+
+----------------------------------------------------------------------
+
+SEC Mating patterns
+
+----------------------------------------------------------------------
+
+TSS Inbreeding
+
+	[Inbreeding] refers to mating between close relatives
+
+	Since relatives will tend to share similar alleles, inbred
+	populations will tend to differ from Hardy-Weinberg equilibrium in
+	what way?
+
+		ANS More homozygous loci
+
+----------------------------------------------------------------------
+
+Inbreeding depression
+
+	In many populations, it is observed that inbred individuals have
+	lower fitness:
+
+		They are more likely to be homozygous for rare genetic defects
+
+		They are less likely to be heterozygous for immune-system genes
+
+	Inbreeding depression is a serious concern for conservation
+
+		As populations get smaller, inbreeding becomes more common
+
+	Human demographic studies show strikingly lower survival for children of first cousins | Table 25.4
+
+----------------------------------------------------------------------
+
+TSS Sexual selection
+
+	[Sexual selection] is a form of natural selection
+
+	Occurs when there is heritable variation in traits related to
+	success in obtaining mates
+
+----------------------------------------------------------------------
+
+Example: zebra finches
+
+	Males but not females have colorful orange beaks
+
+	Hypothesis: these beaks make males more attractive to females | Fig 25.17
+
+----------------------------------------------------------------------
+
+PSLIDE Zebra finches
+
+FIG Pearson/F26_processes/un/26_08a_zebra_finch_beaks_U.jpg
+
+----------------------------------------------------------------------
+
+Zebra finch experiments
+
+	Feed some males enriched diets
+
+		Their beaks become more orange
+
+		They are preferred by females
+
+	Why not simply find and use birds whose beaks are naturally more or less
+	orange?
+
+		ANS Orange-beaked birds may differ in other ways (bigger,
+		healthier, etc.)
+
+	What is a possible problem with the conclusion that females prefer
+	birds with orange beaks?
+
+		ANS The diet enrichment may have other effects 
+
+----------------------------------------------------------------------
+
+PSLIDE Finch results
+
+FIG Pearson/F26_processes/26_08b_zebra_finch_beaks_L.jpg
+
+----------------------------------------------------------------------
+
+Why the males?
+
+	Males often have striking traits that females lack, used in
+	courtship, or in battles for mates
+
+		Sexual [dimorphism] refers to trait differences between males and
+		females
+
+	Why do males more often have these traits than females?
+
+		Investment in reproduction
+
+		Variation in reproductive success
+
+----------------------------------------------------------------------
+
+Investment in reproduction
+
+	In many species, females invest much more in each offspring than
+	males do
+
+		Eggs are expensive, sperm are cheap
+
+		Females are often more involved in caring for offspring
+
+	If females invest a lot in each offspring, they can maximize fitness
+	by _being choosy about mates_
+
+	If males invest little in each offspring, they can maximize fitness
+	by _mating as much as possible_
+
+----------------------------------------------------------------------
+
+Testing the theory of sexual selection
+
+	How might we test the theory that males compete sexually because
+	females invest more in offspring?
+
+		ANS Are there any species where these roles seem to be reversed?
+
+			ANS Yes, in some species of pipefish (related to seahorses)
+			the males spend more time and energy caring for young them
+			females
+
+		ANS In these species, do females compete for males?
+
+			ANS Yes, females are larger than males, and develop bright
+			colors at courtship time
+
+----------------------------------------------------------------------
+
+PICSLIDE WIDEFIG webpix/pipefish.jpg
+
+----------------------------------------------------------------------
+
+Variation in reproductive success
+
+	Males often have greater variation in reproductive success than
+	females do
+
+	This is a side-effect of the fact that females usually invest a lot
+	in each offspring
+
+		Reduces potential total number of offspring
+
+		Makes females desirable to males
+
+	Greater variation in reproductive success means that winning
+	contests is more important to male than female fitness
+
+----------------------------------------------------------------------
+
+Example: elephant seals
+
+	Male elephant seals compete for control of breeding beaches
+
+	Huge variation in reproductive success
+
+	Huge size difference between males and females (strong sexual dimorphism) | Fig 25.19
+
+----------------------------------------------------------------------
+
+PICSLIDE WIDEFIG webpix/seal_couple.jpg
+
+----------------------------------------------------------------------
+
+PICSLIDE WIDEFIG webpix/seal_battle.jpg
+
+----------------------------------------------------------------------
+
+What about people?
+
+	Men and women have pretty clear size differences
+
+	How unequal is child-rearing in people?
+
+		ANS Not so unequal
+
+		ANS But fathers are not always biological fathers
+
+	To what extent do these principles even apply to people?
+
+		ANS To _some_ extent
+
+		ANS We have complicated brains, and complicated cultures
+
+----------------------------------------------------------------------
+
+ADD Conclusion slide

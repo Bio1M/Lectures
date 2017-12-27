@@ -1,0 +1,73 @@
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v156)
+"   /home/dushoff/Dropbox/1M/Pearson
+"   Sorted by      name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+../
+./
+1l/
+1u/
+01_00_vervet_monkey_L.jpg
+01_00_vervet_monkey_U.jpg
+01_01_vanLeeuwenhoek_L.jpg
+01_01_vanLeeuwenhoek_U.jpg
+01_01a_vanLeeuwenhoek_L.jpg
+01_01a_vanLeeuwenhoek_U.jpg
+01_01b_vanLeeuwenhoek_L.jpg
+01_01b_vanLeeuwenhoek_U.jpg
+01_02_Pasteur_exprmnts_L.jpg
+01_02_Pasteur_exprmnts_U.jpg
+01_02a_Pasteur_exprmnts_L.jpg
+01_02a_Pasteur_exprmnts_U.jpg
+01_02b_Pasteur_exprmnts_L.jpg
+01_02b_Pasteur_exprmnts_U.jpg
+01_03_Darwin_sketch_L.jpg
+01_04_double_helix_L.jpg
+01_05_central_dogma_L.jpg
+01_05_central_dogma_U.jpg
+01_06_1_tree_of_life_L.jpg
+01_06_1_tree_of_life_U.jpg
+01_06_2_tree_of_life_L.jpg
+01_06_2_tree_of_life_L_U.jpg
+01_06_tree_of_life_L.jpg
+01_06_tree_of_life_U.jpg
+01_07_euks_and_proks_L.jpg
+01_07_euks_and_proks_U.jpg
+01_07a_euks_and_proks_L.jpg
+01_07a_euks_and_proks_U.jpg
+01_07b_euks_and_proks_L.jpg
+01_07b_euks_and_proks_U.jpg
+01_08_giraffe_necks_L.jpg
+01_08_giraffe_necks_U.jpg
+01_08a_giraffe_necks_L.jpg
+01_08a_giraffe_necks_U.jpg
+01_08b_giraffe_necks_L.jpg
+01_08b_giraffe_necks_U.jpg
+01_09_ant_foraging_L.jpg
+01_09_ant_foraging_U.jpg
+01_10_ant_pedometer_L.jpg
+01_10_ant_pedometer_U.jpg
+01_10a_1_ant_pedometer_L.jpg
+01_10a_2_ant_pedometer_L.jpg
+01_10a_2_ant_pedometer_U.jpg
+01_10a_3_ant_pedometer_L.jpg
+01_10a_4_ant_pedometer_L.jpg
+01_10a_4_ant_pedometer_U.jpg
+01_10b_1_ant_pedometer_L.jpg
+01_10b_2_ant_pedometer_L.jpg
+01_10b_2_ant_pedometer_U.jpg
+01_10b_3_ant_pedometer_L.jpg
+01_10b_4_ant_pedometer_L.jpg
+01_10b_4_ant_pedometer_U.jpg
+01_11_stilts_and_stumps_L.jpg
+01_11_stilts_and_stumps_U.jpg
+MM_1.1_dna_sequences_L.jpg
+MM_1.1_dna_sequences_U.jpg
+UN_p15_1_mimic_vine_L.jpg
+UN_p15_1_mimic_vine_U.jpg
+UN_p15_2_question13_L.jpg
+UN_p15_2_question13_U.jpg
+_RM_ch01_roadmap_L.jpg
+_RM_ch01_roadmap_U.jpg

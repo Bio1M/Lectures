@@ -1,0 +1,20 @@
+!SQUARE {\bf %}
+!EM {\em %\,}
+
+!PIPE DEL
+handouts: --- %
+
+CHAPTER \section*{Bio 1M: %%}
+draft final:\frametitle{%%}\tableofcontents[hideallsubsections]
+complete: \section*{Bio 1M: %% (complete)}
+
+ADD %!
+draft: Aadd %%
+
+ADDSLIDE %!
+draft: ^DEFHEAD Aadd %%
+
+## An answer space in the notes only (answer uncertain or not specified yet in lecture)  
+NOANS ^ANS %%
+final draft: %!
+

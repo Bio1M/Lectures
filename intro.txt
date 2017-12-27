@@ -1,0 +1,582 @@
+
+CHAPTER Course introduction
+
+----------------------------------------------------------------------
+
+SEC Introduction | Chapter 1
+
+----------------------------------------------------------------------
+
+SS Ground rules
+
+----------------------------------------------------------------------
+
+Expectations of professor
+
+	Start and end on time
+
+	Focus on conceptual understanding
+
+	Make clear what terminology and facts must be learned
+
+	Open to questions -- both in class (within reason) and at office
+	hours
+
+	Available by email and on Facebook
+
+		I am not your friend
+
+		At least, not on Facebook
+
+----------------------------------------------------------------------
+
+Expectations of students
+
+	Start and end on time
+
+	Print the notes from the web and bring them to class
+
+	Don't talk while other students are talking, or while I am
+	responding to student questions
+
+	If you must talk at other times, be inobtrusive
+
+	Don't use your computer in class
+
+	If you must use your computer in class, be inobtrusive
+
+		And don't connect to the internet
+
+----------------------------------------------------------------------
+
+Structure of presentation
+
+	Required material will be clearly outlined in the notes
+
+		ANS This is an answer: it was omitted from the notes for
+		discussion purposes, you should probably write it in
+
+		COMMENT This is a comment: I omitted from the notes because I
+		thought it wasn't necessary for you to study
+
+	Required terminology will be presented in [bold]
+
+	General ideas and approaches presented in class may also be required;
+	you should take notes on these in your own words
+
+----------------------------------------------------------------------
+
+Why come to class?
+
+	It's required
+
+	Listening and thinking and talking will help you understand
+	concepts, instead of just memorizing
+
+	Details and terminology should be covered in sufficient detail in
+	the notes; concepts may not be
+
+	COMMENT You can't get your money back, so you may as well enjoy
+	the show
+
+----------------------------------------------------------------------
+
+Why read the book?
+
+	It's interesting
+
+	The book will explain some things in a better way (for you
+	personally) than I do 
+
+	Familiarity improves understanding
+
+----------------------------------------------------------------------
+
+Taking notes
+
+	You will need to develop your own style of taking notes
+
+		Many people benefit from writing things down, or using their own words
+
+	If a new concept is making sense to you right now, write something
+	that will help you remember
+
+	If there's something I think you all need to write down, I will write
+	it for you (or mark it as an answer)
+
+----------------------------------------------------------------------
+
+Evaluation
+
+	You are not responsible for details unless they are in the notes
+
+		and not responsible for terminology unless it's in [bold]
+
+	You _are_ responsible for relevant ideas and concepts from lectures
+	and readings
+
+	Conceptual questions, logical inference questions and application questions
+	are fair game
+
+		Practice questions will be available
+
+----------------------------------------------------------------------
+
+RSLIDE Structure of presentation
+
+	Required material will be clearly outlined in the notes
+
+		ANS This is an answer: it was omitted from the notes for
+		discussion purposes, you should probably write it in
+
+		COMMENT This is a comment: I omitted from the notes because I
+		thought it wasn't necessary for you to study
+
+	Required terminology will be presented in [bold]
+
+	General ideas and approaches presented in class may also be required;
+	you should take notes on these in your own words
+
+----------------------------------------------------------------------
+
+SEC Thinking conceptually
+
+----------------------------------------------------------------------
+
+Deductive thinking
+
+	Science proceeds by advancing hypotheses and comparing them to facts
+
+	Facts can be observed from nature, or we can construct experiments
+	to test specific hypotheses
+
+	Basic, logical thinking is very _simple,_ but it is often not _easy_ for
+	humans to think clearly about abstract concepts
+
+		COMMENT Which is more complicated: algebra or hockey?
+
+----------------------------------------------------------------------
+
+PSLIDE Algebra
+
+WIDEFIG webpix/quadratic.jpg
+
+----------------------------------------------------------------------
+
+PSLIDE Hockey
+
+FIG webpix/hockey.jpg
+
+----------------------------------------------------------------------
+
+SS Example: cards and drinks
+
+----------------------------------------------------------------------
+
+PSLIDE Cards
+
+FIG webpix/cards.jpg
+
+----------------------------------------------------------------------
+
+RSLIDE Deductive thinking
+
+	You go to a job interview, and are shown some playing cards.
+
+	Some cards are face up, and you can see that they are aces or kings.
+
+	Some cards are face down, and you can see whether they have bicycles
+	or airplanes on the back
+
+	The interviewer asks you to test the hypothesis that all of the aces
+	have airplanes on the back
+
+	Which of the four groups of cards do you need to turn over?
+
+		ANS 
+
+----------------------------------------------------------------------
+
+PSLIDE Drinks
+
+FIG webpix/bar.jpg
+
+----------------------------------------------------------------------
+
+
+Deductive thinking
+
+	You are the manager of a restaurant
+
+	You can see some people's drinks clearly, and tell whether the
+	drinks are alcoholic or not (but not the people's ages)
+
+	You can see other people's faces clearly, and tell whether they are
+	underage or legal-age (but not what they are drinking)
+
+	You want to test the hypothesis that everything is OK:
+	
+		everybody who is drinking alcohol is of legal age
+
+	Which of the four groups of people do you need to check out?
+
+		ANS The underage people, and the alcohol drinkers
+
+----------------------------------------------------------------------
+
+Deductive thinking
+
+	You go to a job interview, and are shown some playing cards.
+
+	Some cards are face up, and you can see that they are aces or kings.
+
+	Some cards are face down, and you can see whether they have bicycles
+	or airplanes on the back
+
+	The interviewer asks you to test the hypothesis that all of the aces
+	have airplanes on the back
+
+	Which of the four groups of cards do you need to turn over?
+
+		ANS The aces and the cards with bicycles on the back
+
+----------------------------------------------------------------------
+
+Thinking conceptually
+
+	Logical interpretation and inference is simple, but not always easy
+
+		This is true for everyone
+
+	Being on familiar ground helps us think clearly
+
+		This will work for different people in different ways: learning
+		facts, stories, mechanisms, etc.
+
+	Practice clear thinking about simple questions
+
+----------------------------------------------------------------------
+
+SS Logical inference
+
+----------------------------------------------------------------------
+
+Inference
+
+	Does the last statement _follow_ from the first two?
+
+	Cats have four legs.  Mammals have four legs.  _Therefore_, cats are mammals
+
+		ANS Not a valid conclusion
+
+	Cows can fly.  Dushoff is a cow.  _Therefore_, Dushoff can fly.
+
+		ANS Valid conclusion
+
+		ANS Based on the assumptions
+
+----------------------------------------------------------------------
+
+PSLIDE Valid conclusion
+
+FIG webpix/flying_cow.jpg
+
+----------------------------------------------------------------------
+
+Why are simple things difficult?
+
+	Probably because we've evolved to be good at certain kinds of
+	thinking
+
+	Example: training pigeons
+
+		Pigeons can be trained to do remarkably complicated things with
+		their bills to get food
+
+		and with their feet to avoid electric shocks
+
+		but not the other way around!
+
+	Why does this make sense?
+
+----------------------------------------------------------------------
+
+Assignment: Logical equivalence
+
+	Are these two statements logically equivalent?
+
+		Tall people are mean
+
+		Mean people are tall
+
+	Are these two statements logically equivalent?
+
+		Good food is not cheap
+
+		Cheap food is not good
+
+----------------------------------------------------------------------
+
+Logical equivalence
+
+	Statements are [logically equivalent] if they express the same fact in different words.  In other words, if either one is true, the other one must be true.
+
+	Different people find it useful to think about logical equivalence in different ways
+
+		Can you construct an example where one is true and the other is false?
+
+		What would it take for each statement to be true?
+
+		What would it take to falsify each statement?
+
+----------------------------------------------------------------------
+
+SEC The cell theory | (pp.~2--3)
+
+----------------------------------------------------------------------
+
+All living organisms are composed of cells
+
+BCC
+
+SIDEFIG Pearson/main/01_01_vanLeeuwenhoek_L.jpg
+
+NCC
+
+	A [cell] is a highly organized compartment bounded by a membrane
+
+	[Genes] made of [DNA]
+
+	[Proteins] made of [amino acids]
+
+	What about viruses?
+
+EC
+
+----------------------------------------------------------------------
+
+Where do cells come from?
+
+	Are they generated spontaneously?
+
+		If we leave damp bread out, molds just appear
+
+	Do they come only from other cells?
+
+		Then where did the first cells come from?
+
+----------------------------------------------------------------------
+
+PSLIDE The Pasteur experiment
+
+FIG Pearson/main/01_02a_Pasteur_exprmnts_L.jpg
+
+----------------------------------------------------------------------
+
+PSLIDE The Pasteur experiment
+
+FIG Pearson/main/01_02b_Pasteur_exprmnts_L.jpg
+
+----------------------------------------------------------------------
+
+The Pasteur experiment
+
+	NOTES Fig 1.2 
+
+	Why was it necessary to have two flasks?
+
+	What if the first flask had also failed to grow cells?
+
+		ANS Maybe the broth wasn't the right kind to support growth of
+		cells
+
+		ANS Maybe the flask was somehow poisonous or discouraging
+
+	Does this prove all cells come from cells?
+
+		ANS Maybe cells can generate spontaneously under other conditions
+
+		ANS \ldots, but that's not what's happening here
+
+----------------------------------------------------------------------
+
+SEC Doing biology | (pp.~9--13)
+
+----------------------------------------------------------------------
+
+Hypotheses
+
+	We pursue science by evaluating [hypotheses] (sing., hypothesis).
+	These are proposed explanations of facts.
+
+	We use hypotheses to make predictions, and use experiments and
+	observations to attempt to [falsify] hypotheses -- to prove they are
+	false.
+
+		Most hypotheses cannot be _proved_ to be true, instead, if we fail
+		to falsify them, we say that they are supported
+
+		If a hypothesis explains many facts, and survives attempts at
+		falsification, we tend to believe it
+
+----------------------------------------------------------------------
+
+TSS Observational studies
+
+	Look for ways to collect data that will support or challenge hypotheses
+
+	Scientists are cautious about making conclusions from observational studies
+
+		ANS It's hard to know if you've taken everything into account
+
+		ANS Experiments are more reliable …
+
+		ANS but you can't always do experiments
+
+----------------------------------------------------------------------
+
+Example: Why are giraffes so tall?
+
+BCC
+
+SIDEFIG Pearson/giraffes.jpg
+
+NCC
+
+	ANS They eat from trees, so that probably has something to do with it
+
+	ANS They use their necks for dramatic fights, so that probably has something
+	to do with it
+
+EC
+
+NOTES Fig 1.8
+
+----------------------------------------------------------------------
+
+SS Experiments
+
+----------------------------------------------------------------------
+
+Example: How do ants navigate through landscapes?
+
+	Many species of ants move efficiently through landscapes while finding food
+	and returning to their nests
+
+	How do ants navigate through landscapes?
+
+	NOTES Fig 1.9
+
+----------------------------------------------------------------------
+
+PSLIDE Ant navigation
+
+FIG Pearson/main/01_09_ant_foraging_L.jpg
+
+----------------------------------------------------------------------
+
+PSLIDE Ant navigation
+
+FIG Pearson/ants_1.jpg
+
+----------------------------------------------------------------------
+
+PSLIDE Ant navigation
+
+WIDEFIG Pearson/ants_2.jpg
+
+----------------------------------------------------------------------
+
+PSLIDE Ant navigation
+
+FIG Pearson/ants_3.jpg
+
+----------------------------------------------------------------------
+
+PSLIDE Ant navigation
+
+WIDEFIG Pearson/ants_4.jpg
+
+----------------------------------------------------------------------
+
+Interpretation
+
+	What would you think if the modified ants didn't navigate normally this time?
+
+		ANS That the manipulation messed them up in some way we didn't think of
+
+	Why do we test the normal ants _again_?
+
+		ANS As a check on our experimental setup
+
+	What should we conclude?
+
+		ANS Ants use information about number of steps 
+
+		ANS Do we think that ants are counting the way that we do?
+
+----------------------------------------------------------------------
+
+Example: Vitamin C 
+
+	I want to find out whether Vitamin C is good for mice, so I raise a mouse on
+	a standard diet, with Vitamin C supplement, to see whether it has a long,
+	happy, healthy life.
+
+	What is wrong with this experiment?
+
+		ANS No comparison.  I don't know how the mouse would have done in the
+		absence of the supplement
+
+		ANS I only used one mouse.  I don't know if there was something unusual
+		about it.
+
+			ANS If we compare two mice, one will always do better than the other
+
+----------------------------------------------------------------------
+
+Control
+
+	Good experiments are [controlled]: we have two or more groups that
+	differ only in some factor we want to study
+
+		flask neck, vitamin C
+
+	Groups should be as similar as possible, except for the factor that we wish
+	to study
+
+----------------------------------------------------------------------
+
+Replication
+
+	Good experiments are [replicated]: each group has more than one [replicate]
+
+		A replicate is a unit which is subjected to a chosen treatment
+		mouse, a troop of baboons, a flask
+
+	Replicates in the same group should not have anything in common (except for the factor we are studying)
+
+		Replicates often planned first, then assigned randomly to groups 
+
+	What if we put all the mice that get vitamin supplements in one
+	cage, and the others in another cage?
+
+		ANS We then have to worry about all possible differences
+		between the two cages
+
+----------------------------------------------------------------------
+
+Assignment: Car Trouble
+
+	A brother calls his sister because something is wrong with his car
+
+	She arrives, and they have this conversation:
+
+		Sister: I have a tow hitch, and a tow rope, but I obviously can't tow you.
+
+		Brother: That's OK, I can tow _you_!
+
+		Sister: I guess so.  If we're careful.
+
+	Each person drives their own car.  Nothing is wrong with the sister's car.  What is wrong with the brother's car?
+
