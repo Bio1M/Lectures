@@ -139,18 +139,10 @@ Sources += hb.lect
 ## Images
 ## Sort of between styles for making new images …
 
-imagelinks: webpix/ Pearson/ norton/ jdpix/
-
 ## Update location in local.mk if necessary
-webpix/ Pearson/ norton/ jdpix/: 
-	ls $(imagelinks)/$@/ > /dev/null && /bin/ln -fs $(imagelinks)/$@ .
-
-## Trickiness to be solved. These can't depend on the directories,
-## or else constantly remade
-## May need a separate rule eventually for the webpix one
-## (look at other webpix stuff?)
-webpix/% Pearson/% norton/% jdpix/%: 
-	$(MAKE) $(dir $@)
+webpix Pearson norton jdpix: dir = $(imagelinks)
+webpix Pearson norton jdpix: 
+	$(linkdir)
 
 # Old webpix directory
 # Sources += images
@@ -178,7 +170,7 @@ pushdir = Bio1M.github.io/materials/
 -include $(ms)/visual.mk
 
 -include $(ms)/newtalk.mk
--include $(ms)/talktex.mk
+-include $(ms)/texdeps.mk
 
 ######################################################################
 
