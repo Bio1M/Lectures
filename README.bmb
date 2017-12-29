@@ -1,0 +1,34 @@
+# BMB processing machinery
+
+- uses GPP <https://logological.org/gpp> for pre-processing
+    - macros in gpp/
+    - FIXME: document?
+    - bibend.tex: hack to close LaTeX \multicols env after bibliography
+    - maybe useful: https://github.com/dloureiro/pandoc-gpp (maybe just for inspiration; may not need/want all the machinery)
+- rmarkdown + pandoc
+    - pandoc templates my.* (tufte, beamer, etc.) 
+    - FIXME: move to subdir?
+- output formats:
+    - .slides.pdf: presentation slides
+    - .tufte.pdf: Tufte handout PDFs
+    - .html: handout HTML
+    - .docx: handout docx
+- pictures in bmbpix/ (linked from Dropbox)
+- bibliography: reflist2.csl, bio1m.bib
+
+## GPP/rmarkdown/pandoc vs dmu
+
+### advantages of GPP/rmarkdown/pandoc
+
+- multiple output streams easier (docx, HTML, PDF)
+- more mainstream/widely used/supported
+
+###  advantages of dmu
+
+- neater markup (e.g. [...] instead of <#gloss ...>
+
+### beamer vs HTML5
+
+- fine control still easier in beamer (especially animations etc.)
+- we know LaTeX better than CSS
+- HTML5 has nice "incremental reveal" (but https://tex.stackexchange.com/questions/314349/applying-pause-for-each-item-in-beamer)

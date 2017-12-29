@@ -1,0 +1,17 @@
+<#define FIGHEIGHT|550px>
+<#define SMFIGHEIGHT|250px>
+<#define nohandout|>
+<#define finalhandout|>
+<#define noslides|#1>
+<#define b2cols|>
+<#define s2cols|>
+<#define e2cols|>
+<#define stdfig|![ ](#1)>
+<#define stdhtfig|![ ](#1)>
+<#define fullhtfig|![ ](#1)>
+<#define medhtfig|![ ](#1)>
+<#define lgfig|![ ](#1)>
+<#define smallfig|![ ](#1)>
+<#define outspec|>
+<#define copyright|\\textcopyright>
+<#define startbib|\\tiny>

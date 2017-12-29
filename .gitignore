@@ -6,12 +6,17 @@ target.mk
 *.Rout.pdf
 *.html
 
+## TeX stuff
 *.log
 *.aux
 .*.aux
 *.blg
 *.bbl
+*.nav
+*.snm
+*.toc
 
+## R stuff
 *out
 *.RData
 *.Rlog
@@ -26,3 +31,6 @@ dotdir/
 clonedir/
 
 *.makestuff
+
+## emacs backups
+*~

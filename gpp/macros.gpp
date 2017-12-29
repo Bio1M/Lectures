@@ -1,0 +1,20 @@
+<#define gloss|**#1**>
+<#ifdef SLIDES> 
+    <#include "slides.gpp"> 
+<#endif> 
+<#ifdef BEAMER> 
+    <#include "beamer.gpp"> 
+<#endif> 
+<#ifdef BEAMERHANDOUT> 
+    <#include "beamer_handouts.gpp"> 
+<#endif> 
+<#ifdef TUFTE> 
+    <#include "tufte.gpp"> 
+<#endif> 
+<#ifdef DOCX>
+    <#include "docx.gpp"> 
+<#endif> 
+<#ifdef HANDOUT> 
+     <#include "handout.gpp"> 
+<#endif>
+/-- end hdr --/

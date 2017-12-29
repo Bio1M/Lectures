@@ -1,0 +1,15 @@
+<#define FIGHEIGHT|550px>
+<#define SMFIGHEIGHT|250px>
+<#define nohandout|>
+<#define finalhandout|>
+<#define noslides|#1>
+<#define b2cols|>
+<#define s2cols|>
+<#define e2cols|>
+<#define stdfig|\\includegraphics[width=0.9\\textwidth]{#1}>
+<#define stdhtfig|\\includegraphics[height=0.8\\textheight]{#1}>
+<#define lgfig|\\includegraphics{#1}>
+<#define smallfig|\\includegraphics[width=0.5\\textwidth]{#1}>
+<#define outspec|>
+<#define copyright|\\textcopyright>
+<#define startbib|>

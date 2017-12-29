@@ -142,14 +142,14 @@ Sources += hb.lect
 imagelinks: webpix/ Pearson/ norton/ jdpix/
 
 ## Update location in local.mk if necessary
-webpix/ Pearson/ norton/ jdpix/: 
+webpix/ Pearson/ norton/ jdpix/ bmbpix/: 
 	ls $(imagelinks)/$@/ > /dev/null && /bin/ln -fs $(imagelinks)/$@ .
 
 ## Trickiness to be solved. These can't depend on the directories,
 ## or else constantly remade
 ## May need a separate rule eventually for the webpix one
 ## (look at other webpix stuff?)
-webpix/% Pearson/% norton/% jdpix/%: 
+webpix/% Pearson/% norton/% jdpix/% bmbpix/%: 
 	$(MAKE) $(dir $@)
 
 # Old webpix directory
@@ -193,3 +193,50 @@ exportdir: $(Sources)
 
 %.dirmake: %
 	cd $< && $(MAKE) Makefile && $(MAKE) makestuff && $(MAKE) imagelinks && $(MAKE) && $(MAKE) vtarget
+
+#######
+## BMB stuff:
+
+BIBFILE = bio1m.bib
+GPPHEAD = gpp/macros.gpp
+
+%.rmd: %.rmd0 slides.gpp
+	gpp --include $(GPPHEAD) -H -DSLIDES=1 $*.rmd0 | sed '1,/-- end hdr --/d' > $*.rmd
+
+%.slides.pdf: %.rmd0 gpp/beamer.gpp $(BIBFILE)
+	gpp --include $(GPPHEAD) -H -DBEAMER=1 $*.rmd0 | sed '1,/-- end hdr --/d' > $*.rmd
+	Rscript -e "library(\"knitr\"); knit(\"$*.rmd\")"  
+	pandoc -s --csl reflist2.csl -A bibend.tex -t beamer --template my.beamer --bibliography $(BIBFILE) $*.md -o $*.slides.pdf 
+
+%.handout.pdf: %.rmd0 gpp/beamer.gpp
+	gpp --include $(GPPHEAD) -H -DBEAMERHANDOUT=1 $*.rmd0 | sed '1,/-- end hdr --/d' > $*.rmd
+	Rscript -e "library(\"knitr\"); knit(\"$*.rmd\")"  
+	pandoc -s --csl reflist.csl -A bibend.tex -t beamer --template my.beamer --bibliography $(BIBFILE) $*.md -o tmp.pdf 
+	./slides_6up tmp.pdf
+	mv tmp-nup.pdf $*H.pdf
+
+## Tufte handouts
+%.tufte.pdf: %.rmd0 gpp/tufte.gpp my.tufte
+	gpp --include $(GPPHEAD) -H -DTUFTE=1 $*.rmd0 | sed '1,/-- end hdr --/d' > $*.rmd
+	Rscript -e "library(\"knitr\"); knit(\"$*.rmd\")"  
+	pandoc -s --csl reflist2.csl -A bibend.tex -t latex --template my.tufte --bibliography $(BIBFILE) $*.md -o $*.tufte.pdf 
+
+## MS Word handouts
+%.docx: %.rmd0 gpp/docx.gpp
+	gpp --include $(GPPHEAD) -H -DDOCX=1 $*.rmd0 | sed '1,/-- end hdr --/d' > $*.rmd
+	Rscript -e "library(\"knitr\"); knit(\"$*.rmd\")"  
+	pandoc -s --csl reflist2.csl -A bibend.tex -t docx --bibliography $(BIBFILE) $*.md -o $*.docx
+
+%.slides.tex: %.rmd0 gpp/beamer.gpp
+	gpp --include $(GPPHEAD) -H -DBEAMER=1 $*.rmd0 | sed '1,/-- end hdr --/d' > $*.rmd
+	Rscript -e "library(\"knitr\"); knit(\"$*.rmd\")"  
+	pandoc -s -A bibend.tex -t latex --bibliography $(BIBFILE) $*.md -o $*.slides.tex
+
+%.md: %.rmd
+	Rscript -e "library(knitr); knit(\"$*.rmd\")"
+
+%.html: %.md $(BIBFILE)
+	pandoc -f markdown+fancy_lists --self-contained --mathml --bibliography $(BIBFILE) --slide-level=2  $*.md -o $*.html
+
+##  --css=slidycustom.css
+

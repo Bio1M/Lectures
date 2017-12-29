@@ -1,0 +1,173 @@
+---
+title: "Introduction"
+---
+
+```{r setup,echo=FALSE,message=FALSE,warning=FALSE}
+## if we use fig.align or out.height then knit() turns figures into HTML format
+opts_chunk$set(message=FALSE,warning=FALSE,
+               echo=FALSE,fig.width=6,fig.height=4<#outspec>)
+library(ggplot2); theme_set(theme_bw())
+require(scales)
+require(grid)
+require(gridExtra)
+require(RColorBrewer)
+library(reshape2)
+library(plyr)
+## opts_knit$set(upload.fun = image_uri,echo=FALSE)
+```
+  
+# Introduction
+
+## Course overview
+
+- Course information on AtL
+- Lecture notes for each section will be available on AtL  
+(at least) the evening before you need them
+- Check AtL frequently for announcements and new information
+- Contacts:
+    - **Alistair Tracey**, course coordinator:  
+first contact for any administrative issues  
+	- **Ben Bolker**, professor:  
+<http://www.math.mcmaster.ca/bolker>;  
+Hamilton Hall 314 *or* LSB 336 
+		
+## Expectations of professor
+
+<#b2cols>
+
+- Start and end on time
+- Focus on conceptual understanding
+- Make clear what terminology and facts must be learned
+- Open to questions
+- Office hours (TBA, or [by appointment](http://www.math.mcmaster.ca/bolker/sched.html))
+- *Please use AtL forums for general questions* 
+- Last resort: e-mail `bolker@mcmaster.ca`:  
+**put BIO 1M and your MacID in title of e-mail**
+
+<#s2cols>
+
+<#nohandout <#stdfig bmbpix/13627680-victorian-professor.jpg>>
+
+<#e2cols>
+
+## Expectations of students
+
+- Courtesy/rules
+    - Keep talking to a minimum
+    - No internet in class, minimal texting etc.
+    - Give the professor his 50 min
+    - Lectures are required
+    - Don't cheat
+- Intellectual 
+    - Wrestle with the material
+	    - "How do we know that?"
+		- "So what?"
+    - Please **do** ask questions
+
+## Textbooks
+
+- Freeman, Boyd and Silk
+- Readings posted to AtL/reminders in lecture
+- Best to read assigned material **before** lecture
+- You *will* be responsible for material from assigned sections, but I will not go out of my way to set questions from the textbook
+    - Best to think of textbook as an alternate 
+- Primary literature is **optional**  
+... but encouraged
+
+## Structure of presentation
+
+- Required material clearly outlined in the notes
+- Required terminology in <#gloss bold>
+- In-class material is required; take notes on these in your own words
+- Clicker questions:
+    - Multiple-choice practice examples
+	- Open-ended/interesting questions
+
+## Why come to class?
+
+- it's required
+- listening and thinking and talking will help you understand concepts, instead of just memorizing
+- details and terminology should be covered in sufficient detail in the notes; concepts may not be
+- <#comment you can't get your money back, so you may as well enjoy the show>
+
+## Thinking about biology
+
+<#b2cols>
+
+- skepticism
+- "as an adolescent I aspired to lasting fame, I craved factual certainty, and I thirsted for a meaningful vision of human life - so I became a scientist. This is like becoming an archbishop so you can meet girls." [Matt Cartmill](http://www.bu.edu/anthrop/people/faculty/m-cartmill/)
+- but *strive* for objectivity
+- "use the source, Luke": primary literature!
+- cow & bull [@Perry1963]
+
+<#s2cols>
+
+<#nohandout <#stdfig bmbpix/01-no-bullshit.jpg>>
+
+<#e2cols>
+
+## Who am I/what do I do?
+
+<#b2cols>
+
+- [population biology:  
+ecology, evolution, epidemiology](http://www.math.mcmaster.ca/bolker/bb-pubs.html)
+- math, statistics,  
+computation
+- many systems
+    - measles epidemics
+	- movement of seeds by bluebirds
+	- epidemics & anti-fever drugs
+	- sea turtle migration
+	- Florida panther movement
+	- etc. etc. etc. ...
+	
+<#s2cols>
+
+<#nohandout
+
+```{r echo=FALSE,eval=FALSE}
+setwd("pix")
+system("montage -background lightgray corridor_crop.png patchy-shrub-crop-2.jpg loggerhead1D.jpg gopher.jpg bmbstuff.jpg")
+```
+<#stdfig bmbpix/bmbstuff.jpg>
+
+
+>
+
+<#e2cols>
+
+<#nohandout
+
+## Clicker question #1 (easy)
+
+I'm taking biology because
+
+A.  I hope to go to medical school
+B.  I hope to go to dental or veterinary school
+C.  I want to work in a biology-related industry
+D.  I want to be a biological researcher
+E.  I don't know/it just seems like a good idea
+
+## Clicker question #2 (easy)
+
+<#b2cols>
+
+My math & stats appreciation/future plans:
+
+(A) Hate it; as little as possible
+(B) Don't mind it; as little as possible
+(C) Enjoy it; as little as possible
+(D) Enjoy it; will do more
+(E) Planning joint math & bio honours
+
+<#s2cols>
+
+<#stdfig bmbpix/tintin3.png>
+
+<#e2cols>
+>
+
+## References
+
+<#startbib>
