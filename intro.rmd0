@@ -69,10 +69,20 @@ Hamilton Hall 314 *or* LSB 336
 - Freeman, Boyd and Silk
 - Readings posted to AtL/reminders in lecture
 - Best to read assigned material **before** lecture
-- You *will* be responsible for material from assigned sections, but I will not go out of my way to set questions from the textbook
-    - Best to think of textbook as an alternate 
+- Why read the book?
+	- it's interesting
+	- it will explain some things in a better way than I do 
+    - familiarity improves understanding
 - Primary literature is **optional**  
 ... but encouraged
+
+## Note-taking
+
+- develop your own style of taking notes
+- benefit from writing things down, or using your own words
+- if a concept is making sense to you right now, write something that will help you remember
+- if there's something everyone needs to write down,
+it will be in notes (but maybe abbreviated)
 
 ## Structure of presentation
 
@@ -83,28 +93,20 @@ Hamilton Hall 314 *or* LSB 336
     - Multiple-choice practice examples
 	- Open-ended/interesting questions
 
+## Evaluation
+
+- you're not responsible for *details* unless they are in the notes
+- you're not responsible for terminology unless it's in <#gloss bold>
+- you *are* responsible for ideas and concepts from lectures and readings
+- conceptual questions, logical inference questions and application questions are fair game
+- practice questions will be available
+
 ## Why come to class?
 
 - it's required
 - listening and thinking and talking will help you understand concepts, instead of just memorizing
 - details and terminology should be covered in sufficient detail in the notes; concepts may not be
 - <#comment you can't get your money back, so you may as well enjoy the show>
-
-## Thinking about biology
-
-<#b2cols>
-
-- skepticism
-- "as an adolescent I aspired to lasting fame, I craved factual certainty, and I thirsted for a meaningful vision of human life - so I became a scientist. This is like becoming an archbishop so you can meet girls." [Matt Cartmill](http://www.bu.edu/anthrop/people/faculty/m-cartmill/)
-- but *strive* for objectivity
-- "use the source, Luke": primary literature!
-- cow & bull [@Perry1963]
-
-<#s2cols>
-
-<#nohandout <#stdfig bmbpix/01-no-bullshit.jpg>>
-
-<#e2cols>
 
 ## Who am I/what do I do?
 
@@ -167,6 +169,285 @@ My math & stats appreciation/future plans:
 
 <#e2cols>
 >
+
+# Thinking about/in biology
+
+##  Be skeptical
+
+<#b2cols>
+
+- "as an adolescent I aspired to lasting fame, I craved factual certainty, and I thirsted for a meaningful vision of human life - so I became a scientist. This is like becoming an archbishop so you can meet girls." [Matt Cartmill](http://www.bu.edu/anthrop/people/faculty/m-cartmill/)
+- but *strive* for objectivity
+- "use the source, Luke": primary literature!
+- cow & bull [@Perry1963]
+
+<#s2cols>
+
+<#nohandout <#stdfig bmbpix/01-no-bullshit.jpg>>
+
+<#e2cols>
+
+## Deductive thinking
+
+- Science proceeds by advancing hypotheses and comparing them to facts
+- Facts can be observed from nature, or we can construct experiments to test specific hypotheses
+- Logical thinking is *simple* but not *easy*
+
+## Example: cards
+
+<#b2cols>
+
+- You are shown some playing cards.
+- Some are face up: you can see that they are aces or kings.
+- Some cards are face down: they have bicycles or airplanes on the back
+- Test the hypothesis that all of the aces have airplanes on the back
+- Which of the four groups of cards do you need to turn over?
+
+## Example: alcohol
+
+- You are the manager of a restaurant
+- You can see some people's drinks clearly, and tell whether the drinks are alcoholic or not (but not the people's ages)
+- You can see other people's faces clearly, and tell whether they are underage or legal-age (but not what they are drinking)
+- You want to test the hypothesis that everything is OK:
+    - Everybody who is drinking alcohol is of legal age
+- Which of the four groups of people do you need to check out?
+
+
+## Thinking conceptually
+
+- Logical interpretation and inference is simple, but not always easy
+    - This is true for everyone
+- Being on familiar ground helps us think clearly
+    -  This works for different people in different ways: learning facts, stories, mechanisms, etc.
+- Practice clear thinking about simple questions
+
+# Logical inference
+
+## Inference
+
+<#b2cols>
+- Does the last statement *follow* from the first two?
+(Do the first two *imply* the first statement?)
+
+- Cats have four legs.  Mammals have four legs.  *Therefore*, cats are mammals
+- Cows can fly. Bolker is a cow.  *Therefore*, Bolker can fly.
+<#noslides - Valid conclusions *based on the assumptions*>
+
+<#s2cols>
+<#stdfig webpix/flying_cow.jpg>
+
+
+## Why are simple things difficult?
+
+- Probably because we've evolved to be good at some things
+- Example: training pigeons
+     - Pigeons can be trained to do complicated things with	their bills to get food
+     - and with their feet to avoid electric shocks
+     - ... but not the other way around!
+     - Why does this make sense?
+
+## Logical equivalence
+
+- Are these two statements logically equivalent?
+   - Tall people are mean
+   - Mean people are tall
+- Are these two statements logically equivalent?
+    - Good food is not cheap
+    - Cheap food is not good
+[*](https://nargaque.com/2010/04/28/saying-what-you-mean-and-meaning-what-you-say/)
+
+----
+
+-  Statements are <#gloss logically equivalent> if they express the same fact in different words.  If either one is true, the other one must be true.
+- Different people find it useful to think about logical equivalence in different ways
+    - Can you construct an example where one is true and the other is false?
+	- What would it take for each statement to be true?
+	- What would it take to falsify each statement?
+
+# The cell theory | (pp.~2--3)
+
+- All living organisms are composed of cells
+- Where do they come from?
+    - Are they generated spontaneously?
+          - If we leave damp bread out, molds just appear
+    - Do they come only from other cells?
+          - Then where did the first cells come from?
+
+## The Pasteur experiment
+
+<#lgfig Pearson/main/01_02a_Pasteur_exprmnts_L.jpg>
+
+## The Pasteur experiment
+
+<#lgfig Pearson/main/01_02b_Pasteur_exprmnts_L.jpg>
+
+## The Pasteur experiment
+
+- Why do we need two flasks?
+- What if the first flask had also failed to grow cells?
+
+		ANS Maybe the broth wasn't the right kind to support growth of
+		cells
+
+		ANS Maybe the flask was somehow poisonous or discouraging
+
+- Does this prove all cells come from cells?
+
+		ANS Maybe cells can generate spontaneously under other conditions
+
+		ANS \ldots, but that's not what's happening here
+
+# Doing biology (pp.9-13)
+
+## Hypotheses
+
+- We pursue science by evaluating <#gloss hypotheses> (sing., hypothesis).
+- These are proposed explanations of facts
+- We use hypotheses to make predictions, and use experiments and observations to attempt to <#gloss falsify> hypotheses (to prove they are false)
+- Most hypotheses cannot be *proved* to be true. If we fail to falsify them, we say that they are supported
+- If a hypothesis explains many facts, and survives attempts at falsification, we tend to believe it
+
+## Observational studies
+
+- Look for ways to collect data that will support or challenge hypotheses
+- Be cautious about making conclusions from observational studies
+     - 
+		ANS It's hard to know if you've taken everything into account
+
+		ANS Experiments are more reliable …
+
+		ANS but you can't always do experiments
+
+Example: Why are giraffes so tall?
+
+BCC
+
+SIDEFIG Pearson/giraffes.jpg
+
+NCC
+
+	ANS They eat from trees, so that probably has something to do with it
+
+	ANS They use their necks for dramatic fights, so that probably has something
+	to do with it
+
+EC
+
+NOTES Fig 1.8
+
+----------------------------------------------------------------------
+
+## Experiments
+
+----------------------------------------------------------------------
+
+Example: How do ants navigate through landscapes?
+
+	Many species of ants move efficiently through landscapes while finding food
+	and returning to their nests
+
+	How do ants navigate through landscapes?
+
+	NOTES Fig 1.9
+
+----------------------------------------------------------------------
+
+PSLIDE Ant navigation
+
+FIG Pearson/main/01_09_ant_foraging_L.jpg
+
+----------------------------------------------------------------------
+
+PSLIDE Ant navigation
+
+FIG Pearson/ants_1.jpg
+
+----------------------------------------------------------------------
+
+PSLIDE Ant navigation
+
+WIDEFIG Pearson/ants_2.jpg
+
+----------------------------------------------------------------------
+
+PSLIDE Ant navigation
+
+FIG Pearson/ants_3.jpg
+
+----------------------------------------------------------------------
+
+PSLIDE Ant navigation
+
+WIDEFIG Pearson/ants_4.jpg
+
+----------------------------------------------------------------------
+
+Interpretation
+
+	What would you think if the modified ants didn't navigate normally this time?
+
+		ANS That the manipulation messed them up in some way we didn't think of
+
+	Why do we test the normal ants _again_?
+
+		ANS As a check on our experimental setup
+
+	What should we conclude?
+
+		ANS Ants use information about number of steps 
+
+		ANS Do we think that ants are counting the way that we do?
+
+----------------------------------------------------------------------
+
+Example: Vitamin C 
+
+	I want to find out whether Vitamin C is good for mice, so I raise a mouse on
+	a standard diet, with Vitamin C supplement, to see whether it has a long,
+	happy, healthy life.
+
+	What is wrong with this experiment?
+
+		ANS No comparison.  I don't know how the mouse would have done in the
+		absence of the supplement
+
+		ANS I only used one mouse.  I don't know if there was something unusual
+		about it.
+
+			ANS If we compare two mice, one will always do better than the other
+
+----------------------------------------------------------------------
+
+Control
+
+	Good experiments are [controlled]: we have two or more groups that
+	differ only in some factor we want to study
+
+		flask neck, vitamin C
+
+	Groups should be as similar as possible, except for the factor that we wish
+	to study
+
+----------------------------------------------------------------------
+
+Replication
+
+	Good experiments are [replicated]: each group has more than one [replicate]
+
+		A replicate is a unit which is subjected to a chosen treatment
+		mouse, a troop of baboons, a flask
+
+	Replicates in the same group should not have anything in common (except for the factor we are studying)
+
+		Replicates often planned first, then assigned randomly to groups 
+
+	What if we put all the mice that get vitamin supplements in one
+	cage, and the others in another cage?
+
+		ANS We then have to worry about all possible differences
+		between the two cages
+
+----------------------------------------------------------------------
 
 ## References
 

@@ -26,9 +26,36 @@
 ###  advantages of dmu
 
 - neater markup (e.g. [...] instead of <#gloss ...>
+- more flexible (since completely custom)
+- easier to do two-column markup without closing tags?
 
 ### beamer vs HTML5
 
 - fine control still easier in beamer (especially animations etc.)
 - we know LaTeX better than CSS
 - HTML5 has nice "incremental reveal" (but https://tex.stackexchange.com/questions/314349/applying-pause-for-each-item-in-beamer)
+
+## BMB implied markup:
+
+- FIGHEIGHT (550px)
+- SMFIGHEIGHT (250px)
+- nohandout
+- finalhandout
+- noslides
+- b2cols (begin 2-column mode)
+- s2cols (column boundary)
+- e2cols (end 2-column)
+- stdfig (centered, width=0.9 textwidth)
+- stdhtfig (centered, heigth=0.5 textheight)
+- fullhtfig (centered, 
+- medhtfig (0.8 textheight)
+- lgfig (include as is/1200px high)
+- smallfig (0.5 textwidth/250 px high)
+- tinyfig (0.25 textwidth)
+- pause
+- startbib
+
+
+emojis?? https://groups.google.com/forum/#!topic/pandoc-discuss/vk7RaorPSI4
++emoji
+https://www.webpagefx.com/tools/emoji-cheat-sheet/
