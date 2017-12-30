@@ -48,6 +48,7 @@
 - stdfig (centered, width=0.9 textwidth)
 - stdhtfig (centered, heigth=0.5 textheight)
 - fullhtfig (centered, 
+
 - medhtfig (0.8 textheight)
 - lgfig (include as is/1200px high)
 - smallfig (0.5 textwidth/250 px high)

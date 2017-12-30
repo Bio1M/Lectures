@@ -203,6 +203,10 @@ My math & stats appreciation/future plans:
 - Test the hypothesis that all of the aces have airplanes on the back
 - Which of the four groups of cards do you need to turn over?
 
+<#s2cols>
+
+<#e2cols>
+
 ## Example: alcohol
 
 - You are the manager of a restaurant
@@ -236,6 +240,7 @@ My math & stats appreciation/future plans:
 <#s2cols>
 <#stdfig webpix/flying_cow.jpg>
 
+<#e2cols>
 
 ## Why are simple things difficult?
 
@@ -256,7 +261,7 @@ My math & stats appreciation/future plans:
     - Cheap food is not good
 [*](https://nargaque.com/2010/04/28/saying-what-you-mean-and-meaning-what-you-say/)
 
-----
+##
 
 -  Statements are <#gloss logically equivalent> if they express the same fact in different words.  If either one is true, the other one must be true.
 - Different people find it useful to think about logical equivalence in different ways
@@ -264,7 +269,7 @@ My math & stats appreciation/future plans:
 	- What would it take for each statement to be true?
 	- What would it take to falsify each statement?
 
-# The cell theory | (pp.~2--3)
+## The cell theory | (pp.~2--3)
 
 - All living organisms are composed of cells
 - Where do they come from?
@@ -311,143 +316,83 @@ My math & stats appreciation/future plans:
 
 - Look for ways to collect data that will support or challenge hypotheses
 - Be cautious about making conclusions from observational studies
-     - 
-		ANS It's hard to know if you've taken everything into account
+     - It's hard to know if you've taken everything into account
+     - Experiments are more reliable …
+     - but you can't always do experiments
 
-		ANS Experiments are more reliable …
+## Example: Why are giraffes so tall?
 
-		ANS but you can't always do experiments
 
-Example: Why are giraffes so tall?
+<#b2cols>
+<#stdfig Pearson/giraffes.jpg>
+<#s2cols>
 
-BCC
+- They eat from trees, so that probably has something to do with it
+- They use their necks for dramatic fights, so that probably has something to do with it
 
-SIDEFIG Pearson/giraffes.jpg
-
-NCC
-
-	ANS They eat from trees, so that probably has something to do with it
-
-	ANS They use their necks for dramatic fights, so that probably has something
-	to do with it
-
-EC
-
-NOTES Fig 1.8
-
-----------------------------------------------------------------------
+<#e2cols>
 
 ## Experiments
 
-----------------------------------------------------------------------
+- How do ants navigate through landscapes?
+- Many species of ants move efficiently through landscapes while finding food and returning to their nests
+- How do they do it?
 
-Example: How do ants navigate through landscapes?
+## ants 1
 
-	Many species of ants move efficiently through landscapes while finding food
-	and returning to their nests
+<#stdfig Pearson/main/01_09_ant_foraging_L.jpg>
 
-	How do ants navigate through landscapes?
+## ants 2
 
-	NOTES Fig 1.9
+<#medhtfig Pearson/ants_1.jpg>
 
-----------------------------------------------------------------------
+## ants 3
 
-PSLIDE Ant navigation
+<#stdfig Pearson/ants_2.jpg>
 
-FIG Pearson/main/01_09_ant_foraging_L.jpg
+## ants 4
 
-----------------------------------------------------------------------
+<#medhtfig Pearson/ants_3.jpg>
 
-PSLIDE Ant navigation
+## ants 5
 
-FIG Pearson/ants_1.jpg
+<#stdfig Pearson/ants_4.jpg>
 
-----------------------------------------------------------------------
 
-PSLIDE Ant navigation
+## What would you think if the modified ants didn't navigate normally this time?
 
-WIDEFIG Pearson/ants_2.jpg
+- That the manipulation messed them up in some way we didn't think of
+- Why do we test the normal ants *again*?
+     - As a check on our experimental setup
+- What should we conclude?
+     - Ants use information about number of steps 
+     - Do we think that ants are counting the way that we do?
 
-----------------------------------------------------------------------
+## Example: Vitamin C 
 
-PSLIDE Ant navigation
+- I want to find out whether Vitamin C is good for mice, so I raise a mouse on a standard diet, with Vitamin C supplement, to see whether it has a long, happy, healthy life.
+- What is wrong with this experiment?
+    - No comparison.  I don't know how the mouse would have done in the absence of the supplement
+    - I only used one mouse.  I don't know if there was something unusual about it.
+    - If we compare two mice, one will always do better than the other
 
-FIG Pearson/ants_3.jpg
+## Control
 
-----------------------------------------------------------------------
-
-PSLIDE Ant navigation
-
-WIDEFIG Pearson/ants_4.jpg
-
-----------------------------------------------------------------------
-
-Interpretation
-
-	What would you think if the modified ants didn't navigate normally this time?
-
-		ANS That the manipulation messed them up in some way we didn't think of
-
-	Why do we test the normal ants _again_?
-
-		ANS As a check on our experimental setup
-
-	What should we conclude?
-
-		ANS Ants use information about number of steps 
-
-		ANS Do we think that ants are counting the way that we do?
-
-----------------------------------------------------------------------
-
-Example: Vitamin C 
-
-	I want to find out whether Vitamin C is good for mice, so I raise a mouse on
-	a standard diet, with Vitamin C supplement, to see whether it has a long,
-	happy, healthy life.
-
-	What is wrong with this experiment?
-
-		ANS No comparison.  I don't know how the mouse would have done in the
-		absence of the supplement
-
-		ANS I only used one mouse.  I don't know if there was something unusual
-		about it.
-
-			ANS If we compare two mice, one will always do better than the other
-
-----------------------------------------------------------------------
-
-Control
-
-	Good experiments are [controlled]: we have two or more groups that
-	differ only in some factor we want to study
-
-		flask neck, vitamin C
-
-	Groups should be as similar as possible, except for the factor that we wish
+- Good experiments are <#gloss controlled>: we have two or more groups that differ only in some factor we want to study
+    - flask neck, vitamin C
+- Groups should be as similar as possible, except for the factor that we wish
 	to study
 
-----------------------------------------------------------------------
+## Replication
 
-Replication
-
-	Good experiments are [replicated]: each group has more than one [replicate]
-
-		A replicate is a unit which is subjected to a chosen treatment
-		mouse, a troop of baboons, a flask
-
-	Replicates in the same group should not have anything in common (except for the factor we are studying)
-
-		Replicates often planned first, then assigned randomly to groups 
-
-	What if we put all the mice that get vitamin supplements in one
+- Good experiments are <#gloss replicated>: each group has more than one <#gloss replicate>
+     - A replicate is a unit which is subjected to a chosen treatment: a mouse, a troop of baboons, a flask
+     - Replicates in the same group should not have anything in common (except for the factor we are studying)
+     - Replicates often planned first, then assigned randomly to groups 
+     - What if we put all the mice that get vitamin supplements in one
 	cage, and the others in another cage?
-
-		ANS We then have to worry about all possible differences
-		between the two cages
-
-----------------------------------------------------------------------
+         - We then have to worry about all possible differences
+		between the two cages [@Hurlbert1984]
 
 ## References
 
