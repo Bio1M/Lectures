@@ -16,7 +16,9 @@
 <#define outspec|>
 <#define copyright|\\textcopyright>
 <#define startbib|\\tiny>
+<#define tiny|\\mbox{\\tiny #1}>
 <#define pause|\\pause>
 <#define vis1|\\visible<1->>
 <#define vis2|\\visible<2->>
 <#define comment|\\textcolor{blue}{#1}>
+<#define easteregg|\\href{#1}{\\includegraphics[width=10px]{bmbpix/easter-653987_640.png}}>

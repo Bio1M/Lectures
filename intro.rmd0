@@ -79,7 +79,7 @@ Hamilton Hall 314 *or* LSB 336
 ## Note-taking
 
 - develop your own style of taking notes
-- benefit from writing things down, or using your own words
+- benefit from writing things down, or using your own words [@peper_note_1978,@bui_note-taking_2013]
 - if a concept is making sense to you right now, write something that will help you remember
 - if there's something everyone needs to write down,
 it will be in notes (but maybe abbreviated)
@@ -95,8 +95,11 @@ it will be in notes (but maybe abbreviated)
 
 ## Evaluation
 
-- you're not responsible for *details* unless they are in the notes
-- you're not responsible for terminology unless it's in <#gloss bold>
+you're:
+
+- not responsible for *details* unless they are in the notes
+- not responsible for terminology unless it's in <#gloss bold>
+
 - you *are* responsible for ideas and concepts from lectures and readings
 - conceptual questions, logical inference questions and application questions are fair game
 - practice questions will be available
@@ -205,17 +208,34 @@ My math & stats appreciation/future plans:
 
 <#s2cols>
 
+<#stdfig webpix/cards.jpg>
+
 <#e2cols>
 
 ## Example: alcohol
 
-- You are the manager of a restaurant
-- You can see some people's drinks clearly, and tell whether the drinks are alcoholic or not (but not the people's ages)
-- You can see other people's faces clearly, and tell whether they are underage or legal-age (but not what they are drinking)
-- You want to test the hypothesis that everything is OK:
-    - Everybody who is drinking alcohol is of legal age
-- Which of the four groups of people do you need to check out?
+<#b2cols>
 
+- You are the manager of a restaurant
+- You can see some people's drinks clearly $\\rightarrow$ tell whether the drinks are alcoholic or not (but not the people's ages)
+- You can see other people's faces clearly $\\rightarrow$ tell whether they are underage  (but not what they are drinking)
+- You want to test that **everybody who is drinking alcohol is of legal age**
+
+
+<#s2cols>
+
+<#stdfig webpix/bar.jpg>
+<#e2cols>
+
+## Alcohol: clicker
+
+Which of the four groups of people do you need to check out?
+
+- (a) underage people
+- (b) alcohol drinkers
+- (c) underage people *and* non-alcohol drinkers
+- (d) underage people *and* alcohol drinkers
+- (e) underage people *and* legal-age people
 
 ## Thinking conceptually
 
@@ -233,13 +253,15 @@ My math & stats appreciation/future plans:
 - Does the last statement *follow* from the first two?
 (Do the first two *imply* the first statement?)
 
-- Cats have four legs.  Mammals have four legs.  *Therefore*, cats are mammals
-- Cows can fly. Bolker is a cow.  *Therefore*, Bolker can fly.
+- 1\. Cats have four legs.  2. Mammals have four legs.  3. *Therefore*, cats are mammals
+<#pause>
+- 1\. Boars can fly. 2. Bolker is a boar. 3. *Therefore*, Bolker can fly.
 <#noslides - Valid conclusions *based on the assumptions*>
 
 <#s2cols>
-<#stdfig webpix/flying_cow.jpg>
 
+<#stdfig bmbpix/flying_boar.jpg>
+<#tiny https://www.veghead.com/flying/flying.html>
 <#e2cols>
 
 ## Why are simple things difficult?
@@ -259,7 +281,8 @@ My math & stats appreciation/future plans:
 - Are these two statements logically equivalent?
     - Good food is not cheap
     - Cheap food is not good
-[*](https://nargaque.com/2010/04/28/saying-what-you-mean-and-meaning-what-you-say/)
+	
+<#easteregg https://nargaque.com/2010/04/28/saying-what-you-mean-and-meaning-what-you-say/>
 
 ##
 
@@ -269,7 +292,7 @@ My math & stats appreciation/future plans:
 	- What would it take for each statement to be true?
 	- What would it take to falsify each statement?
 
-## The cell theory | (pp.~2--3)
+## The cell theory | (pp.\ 2--3)
 
 - All living organisms are composed of cells
 - Where do they come from?
@@ -278,31 +301,28 @@ My math & stats appreciation/future plans:
     - Do they come only from other cells?
           - Then where did the first cells come from?
 
-## The Pasteur experiment
+## The Pasteur experiment (1)
 
-<#lgfig Pearson/main/01_02a_Pasteur_exprmnts_L.jpg>
+<#medhtfig Pearson/main/01_02a_Pasteur_exprmnts_L.jpg>
 
-## The Pasteur experiment
+## The Pasteur experiment (2)
 
-<#lgfig Pearson/main/01_02b_Pasteur_exprmnts_L.jpg>
+<#medhtfig Pearson/main/01_02b_Pasteur_exprmnts_L.jpg>
 
 ## The Pasteur experiment
 
 - Why do we need two flasks?
 - What if the first flask had also failed to grow cells?
-
-		ANS Maybe the broth wasn't the right kind to support growth of
+      -  Maybe the broth wasn't the right kind to support growth of
 		cells
-
-		ANS Maybe the flask was somehow poisonous or discouraging
-
+      - Maybe the flask was somehow poisonous or discouraging
 - Does this prove all cells come from cells?
+      - Maybe cells can generate spontaneously under other conditions
+	  - \ldots, but that's not what's happening here
 
-		ANS Maybe cells can generate spontaneously under other conditions
+See @collins_golem_2012 for more details.
 
-		ANS \ldots, but that's not what's happening here
-
-# Doing biology (pp.9-13)
+# Doing biology (pp.\ 9-13)
 
 ## Hypotheses
 
@@ -327,8 +347,11 @@ My math & stats appreciation/future plans:
 <#stdfig Pearson/giraffes.jpg>
 <#s2cols>
 
+<finalhandout
+<#pause>
 - They eat from trees, so that probably has something to do with it
 - They use their necks for dramatic fights, so that probably has something to do with it
+>
 
 <#e2cols>
 
@@ -363,18 +386,27 @@ My math & stats appreciation/future plans:
 
 - That the manipulation messed them up in some way we didn't think of
 - Why do we test the normal ants *again*?
+<#finalhandout
+<#pause>
      - As a check on our experimental setup
+>
 - What should we conclude?
+<#finalhandout
+<#pause>
      - Ants use information about number of steps 
      - Do we think that ants are counting the way that we do?
+>
 
 ## Example: Vitamin C 
 
 - I want to find out whether Vitamin C is good for mice, so I raise a mouse on a standard diet, with Vitamin C supplement, to see whether it has a long, happy, healthy life.
 - What is wrong with this experiment?
+<#finalhandout
+<#pause>
     - No comparison.  I don't know how the mouse would have done in the absence of the supplement
     - I only used one mouse.  I don't know if there was something unusual about it.
     - If we compare two mice, one will always do better than the other
+>
 
 ## Control
 
