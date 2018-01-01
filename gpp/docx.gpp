@@ -1,7 +1,11 @@
 <#define FIGHEIGHT|550px>
 <#define SMFIGHEIGHT|250px>
 <#define nohandout|>
-<#define finalhandout|>
+<#ifndef FINAL>
+ 	<#define finalhandout|>
+<#else>
+ 	<#define finalhandout|#1>	
+<#endif>
 <#define noslides|#1>
 <#define b2cols|>
 <#define s2cols|>
@@ -15,3 +19,8 @@
 <#define outspec|>
 <#define copyright|\\textcopyright>
 <#define startbib|\\tiny>
+<#define pause|>
+<#define tinyfig|![ ](#1){width=50px}>
+<#define easteregg|[<#tinyfig bmbpix/easter-653987_640.png>](#1)>
+<#comment| >
+

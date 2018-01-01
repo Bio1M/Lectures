@@ -208,6 +208,11 @@ GPPHEAD = gpp/macros.gpp
 	Rscript -e "library(\"knitr\"); knit(\"$*.rmd\")"  
 	pandoc -s --csl reflist2.csl -A bibend.tex -t beamer --template my.beamer --bibliography $(BIBFILE) $*.md -o $*.slides.pdf 
 
+%.slides.tex: %.rmd0 gpp/beamer.gpp $(BIBFILE)
+	gpp --include $(GPPHEAD) -H -DBEAMER=1 $*.rmd0 | sed '1,/-- end hdr --/d' > $*.rmd
+	Rscript -e "library(\"knitr\"); knit(\"$*.rmd\")"  
+	pandoc -s --csl reflist2.csl -A bibend.tex -t beamer --template my.beamer --bibliography $(BIBFILE) $*.md -o $*.slides.tex
+
 %.handout.pdf: %.rmd0 gpp/beamer.gpp
 	gpp --include $(GPPHEAD) -H -DBEAMERHANDOUT=1 $*.rmd0 | sed '1,/-- end hdr --/d' > $*.rmd
 	Rscript -e "library(\"knitr\"); knit(\"$*.rmd\")"  
@@ -221,16 +226,22 @@ GPPHEAD = gpp/macros.gpp
 	Rscript -e "library(\"knitr\"); knit(\"$*.rmd\")"  
 	pandoc -s --csl reflist2.csl -A bibend.tex -t latex --template my.tufte --bibliography $(BIBFILE) $*.md -o $*.tufte.pdf 
 
+%.final.tufte.pdf: %.rmd0 gpp/tufte.gpp my.tufte
+	gpp --include $(GPPHEAD) -H -DTUFTE=1 -DFINAL=1 $*.rmd0 | sed '1,/-- end hdr --/d' > $*.rmd
+	Rscript -e "library(\"knitr\"); knit(\"$*.rmd\")"  
+	pandoc -s --csl reflist2.csl -A bibend.tex -t latex --template my.tufte --bibliography $(BIBFILE) $*.md -o $*.tufte.final.pdf 
+
+
 ## MS Word handouts
 %.docx: %.rmd0 gpp/docx.gpp
 	gpp --include $(GPPHEAD) -H -DDOCX=1 $*.rmd0 | sed '1,/-- end hdr --/d' > $*.rmd
 	Rscript -e "library(\"knitr\"); knit(\"$*.rmd\")"  
 	pandoc -s --csl reflist2.csl -A bibend.tex -t docx --bibliography $(BIBFILE) $*.md -o $*.docx
 
-%.slides.tex: %.rmd0 gpp/beamer.gpp
-	gpp --include $(GPPHEAD) -H -DBEAMER=1 $*.rmd0 | sed '1,/-- end hdr --/d' > $*.rmd
+%.final.docx: %.rmd0 gpp/docx.gpp
+	gpp --include $(GPPHEAD) -H -DDOCX=1 -DFINAL=1 $*.rmd0 | sed '1,/-- end hdr --/d' > $*.rmd
 	Rscript -e "library(\"knitr\"); knit(\"$*.rmd\")"  
-	pandoc -s -A bibend.tex -t latex --bibliography $(BIBFILE) $*.md -o $*.slides.tex
+	pandoc -s --csl reflist2.csl -A bibend.tex -t docx --bibliography $(BIBFILE) $*.md -o $*.docx
 
 %.md: %.rmd
 	Rscript -e "library(knitr); knit(\"$*.rmd\")"
@@ -240,3 +251,6 @@ GPPHEAD = gpp/macros.gpp
 
 ##  --css=slidycustom.css
 
+## don't clean bibend.tex, we need it
+clean:
+	rm -Rf *.nav *.aux *.toc *.snm *.bbl *.blg *.out *.vrb *.log

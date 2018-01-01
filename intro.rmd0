@@ -79,7 +79,7 @@ Hamilton Hall 314 *or* LSB 336
 ## Note-taking
 
 - develop your own style of taking notes
-- benefit from writing things down, or using your own words [@peper_note_1978,@bui_note-taking_2013]
+- benefit from writing things down, or using your own words [@peper_note_1978, @bui_note-taking_2013]
 - if a concept is making sense to you right now, write something that will help you remember
 - if there's something everyone needs to write down,
 it will be in notes (but maybe abbreviated)
@@ -208,7 +208,9 @@ My math & stats appreciation/future plans:
 
 <#s2cols>
 
+<#nohandout
 <#stdfig webpix/cards.jpg>
+>
 
 <#e2cols>
 
@@ -224,7 +226,9 @@ My math & stats appreciation/future plans:
 
 <#s2cols>
 
+<#nohandout
 <#stdfig webpix/bar.jpg>
+>
 <#e2cols>
 
 ## Alcohol: clicker
@@ -260,8 +264,11 @@ Which of the four groups of people do you need to check out?
 
 <#s2cols>
 
+<#nohandout
 <#stdfig bmbpix/flying_boar.jpg>
 <#tiny https://www.veghead.com/flying/flying.html>
+>
+
 <#e2cols>
 
 ## Why are simple things difficult?
@@ -313,14 +320,25 @@ Which of the four groups of people do you need to check out?
 
 - Why do we need two flasks?
 - What if the first flask had also failed to grow cells?
+<#finalhandout
+<#pause>
+
       -  Maybe the broth wasn't the right kind to support growth of
 		cells
       - Maybe the flask was somehow poisonous or discouraging
+
+>
+
+<#finalhandout
+<#pause>
+
 - Does this prove all cells come from cells?
       - Maybe cells can generate spontaneously under other conditions
 	  - \ldots, but that's not what's happening here
 
-See @collins_golem_2012 for more details.
+>
+
+@collins_golem_2012 (ch. 4) has interesting details.
 
 # Doing biology (pp.\ 9-13)
 
@@ -342,16 +360,18 @@ See @collins_golem_2012 for more details.
 
 ## Example: Why are giraffes so tall?
 
-
 <#b2cols>
 <#stdfig Pearson/giraffes.jpg>
 <#s2cols>
 
-<finalhandout
+<#finalhandout
 <#pause>
+
 - They eat from trees, so that probably has something to do with it
 - They use their necks for dramatic fights, so that probably has something to do with it
+
 >
+- <#gloss Just-So Stories>: untested (maybe untestable) evolutionary explanations [@kipling_just_1902]
 
 <#e2cols>
 
@@ -361,7 +381,7 @@ See @collins_golem_2012 for more details.
 - Many species of ants move efficiently through landscapes while finding food and returning to their nests
 - How do they do it?
 
-## ants 1
+## ants 1 [@wittlinger_ant_2006]
 
 <#stdfig Pearson/main/01_09_ant_foraging_L.jpg>
 
@@ -388,13 +408,18 @@ See @collins_golem_2012 for more details.
 - Why do we test the normal ants *again*?
 <#finalhandout
 <#pause>
+
      - As a check on our experimental setup
+	 
 >
+
 - What should we conclude?
 <#finalhandout
 <#pause>
+
      - Ants use information about number of steps 
      - Do we think that ants are counting the way that we do?
+	 
 >
 
 ## Example: Vitamin C 
@@ -403,9 +428,11 @@ See @collins_golem_2012 for more details.
 - What is wrong with this experiment?
 <#finalhandout
 <#pause>
+
     - No comparison.  I don't know how the mouse would have done in the absence of the supplement
     - I only used one mouse.  I don't know if there was something unusual about it.
     - If we compare two mice, one will always do better than the other
+	
 >
 
 ## Control

@@ -42,10 +42,10 @@
 - nohandout
 - finalhandout
 - noslides
-- b2cols (begin 2-column mode)
-- s2cols (column boundary)
-- e2cols (end 2-column)
-- stdfig (centered, width=0.9 textwidth)
+- b2cols (begin 2-column mode) = BCC
+- s2cols (column boundary) = NCC
+- e2cols (end 2-column) = EC
+- stdfig (centered, width=0.9 textwidth) ~ SIDEFIG
 - stdhtfig (centered, heigth=0.5 textheight)
 - fullhtfig (centered, 
 
