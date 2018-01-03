@@ -22,3 +22,6 @@
 <#define copyright|\\textcopyright>
 <#define startbib|\\tiny>
 <#define easteregg|\\href{#1}{\\includegraphics[width=10px]{bmbpix/easter-653987_640.png}}>
+<#define pause|>
+<#define comment|>
+<#define tiny|\\mbox{\\tiny #1}>

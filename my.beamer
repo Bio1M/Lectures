@@ -1,5 +1,5 @@
 \documentclass[$if(fontsize)$$fontsize$,$endif$$if(handout)$handout,$endif$$if(beamer)$ignorenonframetext,$endif$]{$documentclass$}
-\definecolor{darkgreen}{rgb}{0.0, 0.2, 0.13}
+\definecolor{darkgreen}{rgb}{0.05, 0.25, 0.18}
 \definecolor{links}{HTML}{2A1B81}
 \hypersetup{colorlinks,linkcolor=,urlcolor=links}
 $if(theme)$

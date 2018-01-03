@@ -219,6 +219,7 @@ GPPHEAD = gpp/macros.gpp
 	pandoc -s --csl reflist2.csl -A bibend.tex -t beamer --template my.beamer --bibliography $(BIBFILE) $*.md -o tmp.pdf 
 	./slides_6up tmp.pdf
 	mv tmp-nup.pdf $*.handout_6up.pdf
+	rm tmp.pdf tmp-nup.pdf
 
 ## Tufte handouts
 %.handout.pdf: %.rmd0 gpp/tufte.gpp my.tufte

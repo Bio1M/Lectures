@@ -1,0 +1,4 @@
+#!/bin/bash
+for i in slides.pdf handout.pdf handout_6up.pdf docx; do
+   make $1.$i
+done
