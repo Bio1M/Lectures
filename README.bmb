@@ -28,6 +28,7 @@
 - neater markup (e.g. [...] instead of <#gloss ...>
 - more flexible (since completely custom)
 - easier to do two-column markup without closing tags?
+- GPP is being a pain about advanced beamer markup with overlay specifications; these are specified with < > delimiters and there doesn't seem to be a way to escape them properly!
 
 ### beamer vs HTML5
 

@@ -21,12 +21,15 @@ library(plyr)
 ## Course overview
 
 - Course information on AtL
-- Lecture notes for each section will be available on AtL  
+- Lecture notes for each chunk will be available on AtL  
 (at least) the evening before you need them
 - Check AtL frequently for announcements and new information
 - Contacts:
     - **Alistair Tracey**, course coordinator:  
-first contact for any administrative issues  
+first contact for any administrative issues
+    - **Jo Werba**, lecture TA:   
+clarifying questions about material   
+(office hours and AtL forums)
 	- **Ben Bolker**, professor:  
 <http://www.math.mcmaster.ca/bolker>;  
 Hamilton Hall 314 *or* LSB 336 
@@ -58,6 +61,7 @@ Hamilton Hall 314 *or* LSB 336
     - Give the professor his 50 min
     - Lectures are required
     - Don't cheat
+<#pause>
 - Intellectual 
     - Wrestle with the material
 	    - "How do we know that?"
@@ -68,7 +72,6 @@ Hamilton Hall 314 *or* LSB 336
 
 - Freeman, Boyd and Silk
 - Readings posted to AtL/reminders in lecture
-- Best to read assigned material **before** lecture
 - Why read the book?
 	- it's interesting
 	- it will explain some things in a better way than I do 
@@ -95,11 +98,10 @@ it will be in notes (but maybe abbreviated)
 
 ## Evaluation
 
-you're:
-
-- not responsible for *details* unless they are in the notes
-- not responsible for terminology unless it's in <#gloss bold>
-
+- you're:
+    - not responsible for *details* unless they are in the notes
+    - not responsible for terminology unless it's in <#gloss bold>
+<#pause>
 - you *are* responsible for ideas and concepts from lectures and readings
 - conceptual questions, logical inference questions and application questions are fair game
 - practice questions will be available
@@ -109,7 +111,7 @@ you're:
 - it's required
 - listening and thinking and talking will help you understand concepts, instead of just memorizing
 - details and terminology should be covered in sufficient detail in the notes; concepts may not be
-- <#comment you can't get your money back, so you may as well enjoy the show>
+<#comment - you can't get your money back, so you may as well enjoy the show>
 
 ## Who am I/what do I do?
 
@@ -179,14 +181,18 @@ My math & stats appreciation/future plans:
 
 <#b2cols>
 
+<#nohandout <#stdfig bmbpix/01-no-bullshit.jpg>>
+
+<#s2cols>
+
 - "as an adolescent I aspired to lasting fame, I craved factual certainty, and I thirsted for a meaningful vision of human life - so I became a scientist. This is like becoming an archbishop so you can meet girls." [Matt Cartmill](http://www.bu.edu/anthrop/people/faculty/m-cartmill/)
+<#pause>
 - but *strive* for objectivity
 - "use the source, Luke": primary literature!
 - cow & bull [@Perry1963]
 
-<#s2cols>
 
-<#nohandout <#stdfig bmbpix/01-no-bullshit.jpg>>
+
 
 <#e2cols>
 
@@ -231,6 +237,7 @@ My math & stats appreciation/future plans:
 >
 <#e2cols>
 
+<#nohandout
 ## Alcohol: clicker
 
 Which of the four groups of people do you need to check out?
@@ -240,6 +247,14 @@ Which of the four groups of people do you need to check out?
 - (c) underage people *and* non-alcohol drinkers
 - (d) underage people *and* alcohol drinkers
 - (e) underage people *and* legal-age people
+>
+<#finalhandout
+
+## Alcohol: clicker
+
+(d) Need to check underage people and alcohol drinkers
+
+>
 
 ## Thinking conceptually
 
@@ -280,7 +295,7 @@ Which of the four groups of people do you need to check out?
      - ... but not the other way around!
      - Why does this make sense?
 
-## The cell theory | (pp.\ 2--3)
+## The cell theory (pp.\ 2--3)
 
 - All living organisms are composed of cells
 - Where do they come from?
@@ -319,7 +334,7 @@ Which of the four groups of people do you need to check out?
 
 >
 
-@collins_golem_2012 (ch. 4) has interesting details.
+@collins_golem_2012 and @waller_fabulous_2005 have interesting details.
 
 # Doing biology (pp.\ 9-13)
 
@@ -327,6 +342,7 @@ Which of the four groups of people do you need to check out?
 
 - We pursue science by evaluating <#gloss hypotheses> (sing., hypothesis).
 - These are proposed explanations of facts
+<#pause>
 - We use hypotheses to make <#gloss predictions>, and use experiments and observations to attempt to <#gloss falsify> hypotheses (to prove they are false)
 - Most hypotheses cannot be *proved* to be true. If we fail to falsify them, we say that they are supported
 - If a hypothesis explains many facts, and survives attempts at falsification, we tend to believe it
@@ -351,7 +367,7 @@ Which of the four groups of people do you need to check out?
 
 - They eat from trees, so that probably has something to do with it
 - They use their necks for dramatic fights, so that probably has something to do with it
-<#gloss Just-So Stories>: untested (maybe untestable) evolutionary explanations [@kipling_just_1902]
+- <#gloss Just-So Stories>: untested (maybe untestable) evolutionary explanations [@kipling_just_1902]
 
 >
 - how would you test these hypotheses?
@@ -437,6 +453,7 @@ Which of the four groups of people do you need to check out?
          - We then have to worry about all possible differences
 		between the two cages [@Hurlbert1984]
 
+<#nohandout
 ## Clicker
 
 How should I redesign my Vitamin C experiment?
@@ -446,6 +463,17 @@ How should I redesign my Vitamin C experiment?
 - (c) don't vary the diet except for supplements
 - (d) assign mice randomly to treatments
 - (e) all of the above
+>
+
+<#noslides
+<#finalhandout
+
+## Clicker
+
+all of the above (unsupplemented + supplemented, multiple mice (replication),
+don't vary the diet (control), assign mice randomly (randomization)
+>
+>
 
 ## References
 
