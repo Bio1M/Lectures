@@ -23,3 +23,4 @@
 <#define copyright|\\textcopyright>
 <#define startbib|>
 <#define easteregg|\\href{#1}{\\includegraphics[width=5px]{bmbpix/easter-653987_640.png}}>
+<#define gloss|\textbf{\textcolor{green}{#1}}>

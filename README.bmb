@@ -56,6 +56,8 @@
 - pause
 - startbib
 
+LaTeX backslashes need to be doubled in gpp defs
+U-00a7 is § (M-x ucs-insert 00a7, ctrl-shift-u 00a7)
 
 emojis?? https://groups.google.com/forum/#!topic/pandoc-discuss/vk7RaorPSI4
 +emoji

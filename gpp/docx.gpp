@@ -23,4 +23,5 @@
 <#define tinyfig|![ ](#1){width=50px}>
 <#define easteregg|[<#tinyfig bmbpix/easter-653987_640.png>](#1)>
 <#comment| >
+<#define gloss|**1**>
 

@@ -1,3 +1,4 @@
+<#define gloss|\\textbf{\\textcolor{darkgreen}{#1}}>
 <#define FIGHEIGHT|550px>
 <#define SMFIGHEIGHT|250px>
 <#define nohandout|#1>

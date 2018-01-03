@@ -79,7 +79,7 @@ Hamilton Hall 314 *or* LSB 336
 ## Note-taking
 
 - develop your own style of taking notes
-- benefit from writing things down, or using your own words [@peper_note_1978, @bui_note-taking_2013]
+- benefit from writing things down, or using your own words [@peper_note_1978; @bui_note-taking_2013]
 - if a concept is making sense to you right now, write something that will help you remember
 - if there's something everyone needs to write down,
 it will be in notes (but maybe abbreviated)
@@ -280,25 +280,6 @@ Which of the four groups of people do you need to check out?
      - ... but not the other way around!
      - Why does this make sense?
 
-## Logical equivalence
-
-- Are these two statements logically equivalent?
-   - Tall people are mean
-   - Mean people are tall
-- Are these two statements logically equivalent?
-    - Good food is not cheap
-    - Cheap food is not good
-	
-<#easteregg https://nargaque.com/2010/04/28/saying-what-you-mean-and-meaning-what-you-say/>
-
-##
-
--  Statements are <#gloss logically equivalent> if they express the same fact in different words.  If either one is true, the other one must be true.
-- Different people find it useful to think about logical equivalence in different ways
-    - Can you construct an example where one is true and the other is false?
-	- What would it take for each statement to be true?
-	- What would it take to falsify each statement?
-
 ## The cell theory | (pp.\ 2--3)
 
 - All living organisms are composed of cells
@@ -334,7 +315,7 @@ Which of the four groups of people do you need to check out?
 
 - Does this prove all cells come from cells?
       - Maybe cells can generate spontaneously under other conditions
-	  - \ldots, but that's not what's happening here
+	  - \\ldots, but that's not what's happening here
 
 >
 
@@ -346,7 +327,7 @@ Which of the four groups of people do you need to check out?
 
 - We pursue science by evaluating <#gloss hypotheses> (sing., hypothesis).
 - These are proposed explanations of facts
-- We use hypotheses to make predictions, and use experiments and observations to attempt to <#gloss falsify> hypotheses (to prove they are false)
+- We use hypotheses to make <#gloss predictions>, and use experiments and observations to attempt to <#gloss falsify> hypotheses (to prove they are false)
 - Most hypotheses cannot be *proved* to be true. If we fail to falsify them, we say that they are supported
 - If a hypothesis explains many facts, and survives attempts at falsification, we tend to believe it
 
@@ -358,10 +339,11 @@ Which of the four groups of people do you need to check out?
      - Experiments are more reliable …
      - but you can't always do experiments
 
-## Example: Why are giraffes so tall?
+## Why are giraffes so tall? [@simmons_necks-for-sex_2010]
 
 <#b2cols>
 <#stdfig Pearson/giraffes.jpg>
+<#tiny Figure 1.8>
 <#s2cols>
 
 <#finalhandout
@@ -369,9 +351,10 @@ Which of the four groups of people do you need to check out?
 
 - They eat from trees, so that probably has something to do with it
 - They use their necks for dramatic fights, so that probably has something to do with it
+<#gloss Just-So Stories>: untested (maybe untestable) evolutionary explanations [@kipling_just_1902]
 
 >
-- <#gloss Just-So Stories>: untested (maybe untestable) evolutionary explanations [@kipling_just_1902]
+- how would you test these hypotheses?
 
 <#e2cols>
 
@@ -432,7 +415,8 @@ Which of the four groups of people do you need to check out?
     - No comparison.  I don't know how the mouse would have done in the absence of the supplement
     - I only used one mouse.  I don't know if there was something unusual about it.
     - If we compare two mice, one will always do better than the other
-	
+
+<#pause>
 >
 
 ## Control
@@ -452,6 +436,16 @@ Which of the four groups of people do you need to check out?
 	cage, and the others in another cage?
          - We then have to worry about all possible differences
 		between the two cages [@Hurlbert1984]
+
+## Clicker
+
+How should I redesign my Vitamin C experiment?
+
+- (a) use both unsupplemented and supplemented mice
+- (b) use multiple mice in each treatment
+- (c) don't vary the diet except for supplements
+- (d) assign mice randomly to treatments
+- (e) all of the above
 
 ## References
 

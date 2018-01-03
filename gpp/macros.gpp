@@ -1,4 +1,3 @@
-<#define gloss|**#1**>
 <#ifdef SLIDES> 
     <#include "slides.gpp"> 
 <#endif> 
