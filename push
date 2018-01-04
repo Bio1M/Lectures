@@ -1,3 +1,3 @@
 #!/bin/bash
-scp $1.slides.pdf $1.handout.pdf $1.docx ms.mcmaster.ca:~/public_html/bio1m
+scp $1.handout_6up.pdf $1.handout.pdf $1.docx ms.mcmaster.ca:~/public_html/bio1m
 scp $1.slides.pdf ms.mcmaster.ca:~/public_html/mybio1m

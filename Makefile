@@ -219,7 +219,15 @@ GPPHEAD = gpp/macros.gpp
 	pandoc -s --csl reflist2.csl -A bibend.tex -t beamer --template my.beamer --bibliography $(BIBFILE) $*.md -o tmp.pdf 
 	./slides_6up tmp.pdf
 	mv tmp-nup.pdf $*.handout_6up.pdf
-	rm tmp.pdf tmp-nup.pdf
+	rm tmp.pdf
+
+%.final.handout_6up.pdf: %.rmd0 gpp/beamer.gpp
+	gpp --include $(GPPHEAD) -H -DBEAMERHANDOUT=1 -DFINAL=1 $*.rmd0 | sed '1,/-- end hdr --/d' > $*.rmd
+	Rscript -e "library(\"knitr\"); knit(\"$*.rmd\")"  
+	pandoc -s --csl reflist2.csl -A bibend.tex -t beamer --template my.beamer --bibliography $(BIBFILE) $*.md -o tmp.pdf 
+	./slides_6up tmp.pdf
+	mv tmp-nup.pdf $*.handout_6up.pdf
+	rm tmp.pdf
 
 ## Tufte handouts
 %.handout.pdf: %.rmd0 gpp/tufte.gpp my.tufte

@@ -1,0 +1,2 @@
+#! /bin/sh
+pdfnup --nup 2x3 --frame true --noautoscale false --no-landscape --delta "0.2cm 0.3cm" --scale 0.96 --paper letterpaper $1 

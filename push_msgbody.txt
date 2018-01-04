@@ -1,0 +1,9 @@
+The handouts for the next chunk, "FULLNAME", are available.
+
+PDF (long format): http://ms.mcmaster.ca/bolker/bio1m/ABBREV.handout.pdf
+PDF (6-up slide format): http://ms.mcmaster.ca/bolker/bio1m/ABBREV.handout_6up.pdf
+docx: http://ms.mcmaster.ca/bolker/bio1m/ABBREV.docx
+
+(username: bio1m, password: stuff)
+
+https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=231036&global=0

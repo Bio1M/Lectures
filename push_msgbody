@@ -1,0 +1,5 @@
+#!/bin/bash
+sub1="s/FULLNAME/$1/"
+sub2="s/ABBREV/$2/"
+sed -e "$sub1" <push_msgbody.txt | sed -e "$sub2"
+
