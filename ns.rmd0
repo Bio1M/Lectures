@@ -1,0 +1,461 @@
+---
+title: "Evolution by natural selection"
+---
+ 
+# Evolution
+
+## The evolution of evolution (§24.1)
+
+- the theory of <#gloss evolution> has replaced <#gloss typological thinking>,
+which says that species are unchanging types   
+(includes creationism)
+- Lamarck (1809) acknowledged that species changed
+     - thought it was <#gloss teleological> (goal-directed)
+     - proceeded through *inheritance of acquired characteristics*
+- Darwin and Wallace: evolution through natural selection
+
+## Why evolution?
+
+- applications: resistance
+     - antibiotics/bacteria; strain replacement (vaccine/viruses);
+HIV drugs; insecticides; cancer/chemotherapy [@foo_evolution_2014]
+- intellectually deep
+- explaining the world
+
+# Change through time (§24.2)
+
+## Fossils
+
+<#nohandout 
+<#medhtfig Pearson/alpha22_ns/22_02_fossil_record_L.jpg>
+>
+<#noslides
+Figure 24.2
+>
+
+## Fossils
+
+- <#gloss fossil>: *any* physical trace of an organism that lived in the past
+- fossils can be dated using
+	  - <#gloss geological>  techniques (<#gloss relative> [before vs. after])
+      - <#gloss radiometric> techniques (<#gloss absolute> [how long ago])
+- fossils provide information about the history of life (Ch. 27)
+- the <#gloss fossil record> is the collection of all known fossils
+
+## Extinction
+
+- many fossils have been left by organisms that are no longer around
+- such organisms are <#gloss extinct> (vs. <#gloss extant>)
+- extinction is one piece of evidence that species are changing
+
+## Transitional forms
+
+<#b2cols>
+
+- when a species disappears from the fossil record, a similar species often appears
+- often in the same geographic area
+- consistent with species evolving: changing through time
+
+<#s2cols>
+
+<#nohandout
+
+<#stdfig Pearson/F25_ns/25_04_tetrapod_limb_L.jpg>
+
+>
+<#noslides
+Figure 24.4
+>
+
+<#e2cols>
+
+
+## Vestigial traits
+
+<#b2cols>
+
+- information from extant species
+- <#gloss vestigial trait>: a structure, often reduced, with no (??) function that is
+similar to functioning structures in related species
+- examples?
+
+<#s2cols>
+
+<#stdfig Pearson/F25_ns/25_05_vestigial_traits_rot.jpg>
+<#noslides Fig. 24.5>
+
+<#e2cols>
+
+## Directly observed evolution
+
+although much evolution occurs very slowly, some kinds of evolution
+occur (and have been observed) on faster time scales
+
+- tuberculosis   | pp.\ 465--467
+- ground finches | pp.\ 468--470
+
+<#gloss microevolution> (changes within populations) vs.  
+<#gloss macroevolution> (speciation, extinction, etc.)
+
+<#comment we'll come back to these examples>
+
+# Relationships between species (pp.\ 459--463)
+
+## Relationships
+
+- If species evolved from a common ancestor, we expect to see evidence
+that they are related to each other
+- Species fall naturally into groups
+      - e.g., mammals, flowering plants
+- Geographic patterns of relatedness
+- Homology
+
+## Geographic relationships
+
+- species in the same geographic area (e.g., nearby islands) often seem
+to be closely related
+- matches our expectations if these species evolved from a common ancestor in the region
+
+## Geographic relationships: finches
+
+<#stdfig Pearson/F25_ns/25_06_mockingbirds_L.jpg>
+<#noslides Fig. 24.6>
+
+## Evolution and similarity
+
+- we observe many, often surprising, similarities between
+organisms
+- almost identical developmental genes in fruit flies and
+people
+- similar limb bone structure in turtles and people
+- theory of evolution explains these similarities as <#gloss homologies>
+
+## Homology
+
+- a <#gloss homology> is a similarity that *is due to common ancestry*
+- similarities (apparently) due to homology are widespread
+<#pause>
+- (but **not all similarities are homologies!**)
+
+<#nohandout
+<#stdhtfig Pearson/alpha25_phylogeny/25_03_homoplasy_L.jpg>
+>
+<#noslides Figure 27.2>
+
+## Genetic homology
+
+
+<#nohandout
+
+<#stdfig Pearson/F25_ns/25_07_genetic_homology_L.jpg>
+
+>
+
+<#noslides Fig 24.10>
+
+- <#gloss genetic homology> is homology at the level of genetic coding.
+- examples:
+    - the genetic code itself is shared (with rare, minor exceptions) by
+all living organisms
+    - some genes involved in development are very similar all the way
+from insects to mammals
+    - ribosomal genes are even more similar (e.g. 16S)
+[@chen_homologous_1986]
+
+## Genetic homology
+
+<#nohandout
+<#stdfig Pearson/F25_ns/25_10_homology_evidence_L.jpg>
+>
+<#noslides Figure 24.10>
+
+## Developmental homology
+
+<#b2cols>
+
+- <#gloss developmental homology> is homology in the traits of <#gloss embryos>
+(developing organisms)
+- embryos of all vertebrates show striking similarities 
+- "ontogeny recapitulates phylogeny" (not really)
+
+<#s2cols>
+
+<#nohandout
+
+<#stdfig Pearson/F25_ns/25_08_developmtl_homology_L.jpg>
+>
+
+<#noslides figure 24.8>
+
+<#e2cols>
+
+## Structural homology
+
+- <#gloss structural homology> is homology at the level of developed organisms
+- extant tetrapod limbs
+- cf. transitional tetrapods (fig 24.4)
+
+<#nohandout
+<#stdhtfig Pearson/F25_ns/25_09_structural_homology_L.jpg>
+>
+
+<#noslides figure 24.9>
+
+## Identifying homologies
+
+- Tricky!
+- How do we know whether similarities are due to common evolution?
+     - Homologies assume evolution; how can they be used as evidence for
+evolution?
+- the idea that many similarities are due to homology seems to explain
+many observed patterns
+     - Organisms fall naturally into groups
+     - Genetic evidence and morphological evidence often agree
+
+## Clicker question
+
+The similarity between bat wings and bird wings is
+an example of:
+
+a. genetic homology
+b. developmental homology
+c. structural homology
+d. fossils
+e. non-homology
+
+# The process of evolution | Sec 24.3
+
+## Natural selection
+
+- Darwin's big idea was not evolution, but natural selection
+- more famous for being wrong about how evolution occurs
+- he thought *acquired characteristics* were inherited (like Lamarck!)
+
+## Natural selection drives evolution
+
+four steps to evolution by natural selection:
+
+- <#gloss variation> The individuals that make a population vary in the
+<#gloss traits> they possess (size, shape, physiology ...)
+- <#gloss heritability> some of these differences can be inherited by
+offspring.  For example, tall people may be more likely to produce
+tall offspring.
+- <#gloss differential reproductive success> in each generation, some
+organisms leave more offspring than others
+- <#gloss selection> reproductive success is not random, but
+is influenced by differences in traits, including heritable traits
+
+If all four of these assumptions hold, we expect evolution to occur.
+
+## Natural selection (short version)
+
+evolution by natural selection will occur if there is:
+
+- heritable variation in traits
+- selection (i.e., differential reproductive success) *based on these traits*
+     - survival is one component of reproductive success; if you don't survive, you can't reproduce
+	 - so is mating success
+
+## Fitness
+
+- <#gloss fitness>, or <#gloss Darwinian fitness>, means simply an
+ability to do well under natural selection
+     - Fitness = average reproductive success, given a suite of heritable traits
+<#pause>
+- an <#gloss adaptation> is a heritable trait that increases relative fitness
+     - in a particular environment
+
+# Evolution in action (§24.4)
+
+##  Tuberculosis (1)
+
+- patient gets sick with Tb
+- treated with drugs (mostly isoniazid and rifampin)
+- seems better after 10 months
+- readmitted two months later
+- treatment failure, dies
+- Tb cells are resistant
+
+##  Tuberculosis
+
+<#stdfig Pearson/F25_ns/25_13_drug_resistance_L.jpg>
+
+- <#gloss point mutation> in RNA polymerase
+- patient had AIDS
+
+## Example: Tuberculosis | Fig 24.13
+
+- Was there variation? (What if there weren't?)
+    - Where does variation come from?
+- Was variation heritable? (What if it weren't?)
+- Was there selection? (What if there weren't?)
+
+## Other examples
+
+- Galapagos finches' beak sizes evolve as availability of seed
+resources changes.  | Fig 24.17
+- Squirrels! | (see wikipedia)
+
+## Squirrels
+
+<#b2cols>
+
+<#stdfig webpix/grey_squirrel.jpg>
+
+<#s2cols>
+
+<#stdfig webpix/black_squirrel.jpg>
+
+<#e2cols>
+
+## Finch beaks
+
+<#stdfig Pearson/F25_ns/25_16_finch_beaks_study_L.jpg>
+
+## Activity
+
+- How would you design an experimental or observational study to tell if beak depth is heritable?
+
+<#finalhandout
+<#pause>
+
+- Raise offspring from different combinations of mothers and fathers, and compare their beaks
+- Try raising them in different conditions (wet or dry, more or less food available)
+- Observation: see if beak size of offspring is correlated with beak size of parents
+- **Replicate**.  Repeat the experiment with different offspring (using different mothers and fathers).
+- **Control**.  Make all factors except for the beak depths of mothers and fathers as similar as possible
+	
+>	
+
+
+# Common misconceptions | Sec 24.5
+
+## Other models
+
+- Natural selection is not the only possible model for how evolution could occur
+     - Inheritance of acquired characteristics (Lamarck)
+     - Goal-directed evolution
+
+## Inheritance of acquired characteristics
+
+- This is the idea that individuals change in response to their
+environment, and pass those changes on to their offspring
+    - Example: giraffes reaching for food
+- It is now known that while individuals do often change in response
+to their environment, such changes are not (usually) passed on to
+offspring
+
+## Goal-directed evolution
+
+- This is the idea that organisms evolve towards specific goals
+     - Complex, multicellular organisms
+     - Big-brained humans
+- If the organism is moving toward a goal, it should move more or less in
+that direction all the time
+
+## Inheritance of acquired characteristics
+
+- Raise a population of mice in the lab
+- Every generation stretch (or chop off) their poor little tails
+- Measure natural tail length at the beginning of the experiment, and
+after 100 generations.
+- How could this experiment be improved?
+<#finalhandout
+<#pause>
+
+     -  Add a control group
+     -  Use replicate populations (e.g., three control and three experimental populations)
+      - Or three "choppy" and three "stretchy" populations
+	  
+>
+
+## Activity
+
+- What would be the key points of a similar experiment to test whether
+tail lengths respond to natural (actually, artificial) selection?
+    - In each generation, allow mice with longer (or shorter) tails more chances to breed
+    - Compare results with a control population.
+	 - Let them breed how they want?
+	 - Make couples, and choose 2 offspring from each?
+
+## Goal-directed evolution
+
+Observational evidence against goal-directed evolution:
+
+- Vestigial traits
+- Bidirectional evolution
+     - Finch beaks get larger, then smaller
+     - Birds gain, then lose, flying ability
+	 - Organisms that become parasites may become much smaller and simpler
+
+## Adaptation vs.\ acclimation
+
+- <#gloss acclimation> is the ability of organisms to respond directly 
+to their environment
+     - When organisms [acclimate] this does not affect the  traits of their offspring
+- <#gloss adaptation> is genetic change that increases the fitness of organisms
+     - different from "an adaptation" (distinguish by context)
+     - does not occur as a direct response to the environment
+     - usually very slow
+     - passed on to offspring: form the basis of
+		evolutionary change
+
+## Adaptation and acclimation
+
+<#stdfig Pearson/alpha22_ns/22_16_adaptation_L.jpg>
+
+## Clicker
+
+Which of the following examples does *not* represent adaptation?
+
+a. Newt populations that historically coexist with snakes produce more toxins
+b. Humans raised in hot climates have more sweat glands than those raised in cold climates
+c. After swinging through trees for millions of years, chimpanzees
+have very strongly built arms.	
+d. Polar bears have thick fur, and thick layers of fat under their skin
+
+## Acclimation
+
+- Why do we acclimate?
+    - It has probably evolved because acclimation is beneficial
+- Are responses to changed conditions always good?
+	- Digging holes (??)
+
+## The good of the species
+
+- Selection operates on individuals; individuals are not adapted to act for the good of the species
+- The evolution of co-operation always involves tension between what is good for the group, and what is good for the individual
+- If 'cheating' strategies can evolve, they will
+- An evolutionary <#gloss cheater> benefits from co-operation, but does not participate
+- Do lemmings commit suicide?
+
+## A lemming not committing suicide
+
+<#stdfig webpix/lemming.jpg>
+
+## Tradeoffs
+
+- Much of adaptation is the result of compromise between conflicting goals
+- Brightly colored individuals are more attractive to mates, and to predators
+- Larger individuals compete more effectively, but are less efficient at reproducing
+
+## Historical constraints
+
+- Evolution proceeds by small steps
+    - What is possible is guided by what has gone before
+- Examples
+    - Vestigial traits
+    - Blind spot in the vertebrate eye
+	- Humans are not well designed to be upright, give birth, etc.
+
+## Evolution by natural selection -- Summary
+
+- Strong evidence that species have evolved through time
+    - Fossil record, patterns of relatedness, homologies
+- Strong evidence that this change is driven by natural selection
+    - Darwin's logical postulates: heritable variation in traits; differential reproductive success based on traits
+	- Direct observations of natural selection (TB, finches, moths)
+- Natural selection by (gradual) evolution imposes important constraints
+    - Species are not perfectly adapted
+
+## References
