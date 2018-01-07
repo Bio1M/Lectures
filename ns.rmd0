@@ -17,8 +17,9 @@ which says that species are unchanging types
 ## Why evolution?
 
 - applications: resistance
-     - antibiotics/bacteria; strain replacement (vaccine/viruses);
-HIV drugs; insecticides; cancer/chemotherapy [@foo_evolution_2014]
+     - antibiotics/bacteria; strain replacement (vaccine/viruses);  
+HIV drugs; insecticides;  
+cancer/chemotherapy [@foo_evolution_2014]
 - intellectually deep
 - explaining the world
 
@@ -44,9 +45,22 @@ Figure 24.2
 
 ## Extinction
 
+<#b2cols>
+
 - many fossils have been left by organisms that are no longer around
 - such organisms are <#gloss extinct> (vs. <#gloss extant>)
 - extinction is one piece of evidence that species are changing
+
+<#s2cols>
+
+<#nohandout
+
+<#stdfig Pearson/F25_ns/25_03_extinction_L.jpg>
+
+>
+
+<#e2cols>
+
 
 ## Transitional forms
 
@@ -55,6 +69,7 @@ Figure 24.2
 - when a species disappears from the fossil record, a similar species often appears
 - often in the same geographic area
 - consistent with species evolving: changing through time
+- also cf. whales (Figure 24.11)
 
 <#s2cols>
 
@@ -91,8 +106,8 @@ similar to functioning structures in related species
 although much evolution occurs very slowly, some kinds of evolution
 occur (and have been observed) on faster time scales
 
-- tuberculosis   | pp.\ 465--467
-- ground finches | pp.\ 468--470
+- tuberculosis   | pp. 465-467
+- ground finches | pp. 468-470
 
 <#gloss microevolution> (changes within populations) vs.  
 <#gloss macroevolution> (speciation, extinction, etc.)
@@ -267,6 +282,12 @@ ability to do well under natural selection
 
 # Evolution in action (§24.4)
 
+## Three examples
+
+- Tuberculosis (pp. 465-467)
+- Galapagos finches (pp. 468-471)
+- Squirrels
+
 ##  Tuberculosis (1)
 
 - patient gets sick with Tb
@@ -295,31 +316,60 @@ ability to do well under natural selection
 - Was variation heritable? (What if it weren't?)
 - Was there selection? (What if there weren't?)
 
-## Other examples
-
-- Galapagos finches' beak sizes evolve as availability of seed
-resources changes.  | Fig 24.17
-- Squirrels! | (see wikipedia)
-
-## Squirrels
+## Example: finch beaks
 
 <#b2cols>
 
-<#stdfig webpix/grey_squirrel.jpg>
+- <#gloss natural experiment> (1977 drought):  
+natural change in the environment that allows us to observe changes in populations
+- 84% of medium ground finches disappeared (probably dead)
+- survivors had deeper beaks (0.5 mm !)
+<#pause>
+- other evidence
+    - continued changes in environment, and beaks
+	- <#gloss parent-offspring correlations> in beak size
+(parents with large beaks have offspring with large beaks)
+    - expression patterns of particular genes
 
 <#s2cols>
 
-<#stdfig webpix/black_squirrel.jpg>
+<#nohandout
+
+<#stdfig Pearson/F25_ns/25_15_evolution_in_action_L.jpg>
+
+>
 
 <#e2cols>
 
-## Finch beaks
+## hypothesis/prediction
 
-<#stdfig Pearson/F25_ns/25_16_finch_beaks_study_L.jpg>
+<#finalhandout
+
+<#smallfig Pearson/F25_ns/25_16_2_finch_beaks_study_L.jpg>
+
+<#pause>
+
+**THIS IS TERRIBLE**
+
+- want *scientifically meaningful* hypotheses
+- want *precise* predictions
+- best to have *alternative* hypotheses
+<#pause>
+"rainfall selects for beak depth via seed availability" $\\to$  
+"beak depth is **greater** after a drought"
+
+>
+
+## finch beaks: evidence
+
+- changes through time ✓ (1977 drought)
+- variable ✓
+- heritable ✓ (parent-offspring correlation)
+- differential fitness based on trait  ✓
 
 ## Activity
 
-- How would you design an experimental or observational study to tell if beak depth is heritable?
+How would you design a study (experimental or observational) to tell if beak depth is heritable?
 
 <#finalhandout
 <#pause>
@@ -332,8 +382,52 @@ resources changes.  | Fig 24.17
 	
 >	
 
+## Squirrels ([wikipedia](https://en.wikipedia.org/wiki/Black_squirrel))
 
-# Common misconceptions | Sec 24.5
+<#b2cols>
+
+<#stdfig webpix/grey_squirrel.jpg>
+
+<#s2cols>
+
+<#stdfig webpix/black_squirrel.jpg>
+
+<#e2cols>
+
+## Squirrels
+
+evaluating evidence for evolution by natural selection:
+
+- changes through time ✓
+- variable ✓
+- heritable ✓
+- differential fitness based on trait ???
+     - camouflage? thermal advantage?
+
+> "It's a reasonable theory, but I don't think anyone has done a study to find out if it's true," Healy [retired wildlife biologist] said [@freeman_regions_2009]
+
+**How would you test these ideas?**
+
+## Squirrels: evidence base
+
+- reputable web page (Wikipedia) ✓
+- reputable news (local paper) ✓
+- scientists involved ✓
+- scientific studies ✗
+- published in peer-reviewed journal ✗
+- multiple studies ✗
+
+## Squirrels (clicker)
+
+Which of these would be the *best* test of the camouflage hypothesis?
+
+a. Cut down some trees and see if the number of black squirrels increases
+b. Paint some gray squirrels black and compare predation rates with unpainted squirrels
+c. Observe whether there are more black squirrels in more open forests
+d. Release marked black squirrels in more and less open forests, compare surivival
+e. Add predators to a forest and see if the number of black squirrels increases
+
+# Common misconceptions (§24.5)
 
 ## Other models
 
@@ -343,19 +437,10 @@ resources changes.  | Fig 24.17
 
 ## Inheritance of acquired characteristics
 
-- This is the idea that individuals change in response to their
+- the idea that individuals change in response to their
 environment, and pass those changes on to their offspring
     - Example: giraffes reaching for food
 - While individuals often change in response to their environment, such changes are not (usually) passed on to offspring
-
-## Goal-directed evolution
-
-- This is the idea that organisms evolve towards specific goals
-     - Complex, multicellular organisms
-     - Big-brained humans
-- As far as we can tell mutations are random	 
-- If the organism is moving toward a goal, it should move more or less in
-that direction all the time
 
 ## Inheritance of acquired characteristics: experiment
 
@@ -387,13 +472,23 @@ tail lengths respond to natural (actually, artificial) selection?
 
 ## Goal-directed evolution
 
-Observational evidence against goal-directed evolution:
+- the idea that organisms evolve towards specific goals
+     - complex, multicellular organisms
+     - big-brained humans
+- as far as we can tell mutations are random	 
+- if the organism is moving toward a goal, it should move more or less in
+that direction all the time
+- no "higher" vs "lower" species
 
-- Vestigial traits
-- Bidirectional evolution
-     - Finch beaks get larger, then smaller
-     - Birds gain, then lose, flying ability
-	 - Despite overall evolution toward greater complexity [@bonner_evolution_1988], organisms that become parasites may become much smaller and simpler
+## Goal-directed evolution
+
+observational evidence against goal-directed evolution:
+
+- vestigial traits
+- bidirectional evolution
+     - finch beaks get larger, then smaller
+     - birds gain, then lose, flying ability
+	 - despite overall evolution toward greater complexity [@bonner_evolution_1988], organisms that become parasites may become much smaller and simpler
 
 ## Adaptation vs.\ acclimation
 
@@ -419,37 +514,55 @@ b. Humans raised in hot climates have more sweat glands than those raised in col
 c. After swinging through trees for millions of years, chimpanzees
 have very strongly built arms.	
 d. Polar bears have thick fur, and thick layers of fat under their skin
+e. Finches born to surviving parents after a drought have deeper beaks
 
 ## Acclimation
 
 - Why do we acclimate?
+<#finalhandout
+
+<#pause>
+
     - It has probably evolved because acclimation is beneficial
-- Are responses to changed conditions always good?
-	- Digging holes (??)
+
+>
 
 ## The good of the species
 
-- Selection operates on individuals; individuals are not adapted to act for the good of the species
-- The evolution of co-operation always involves tension between what is good for the group, and what is good for the individual
-- If 'cheating' strategies can evolve, they will
-- An evolutionary <#gloss cheater> benefits from co-operation, but does not participate
-- Do lemmings commit suicide?
+- selection operates on individuals; individuals are not adapted to act for the good of the species
+- the evolution of co-operation always involves tension between what is good for the group, and what is good for the individual
+- if 'cheating' strategies can evolve, they will
+- an evolutionary <#gloss cheater> (a <#gloss selfish> individual) benefits from co-operation, but does not participate
+- do lemmings commit suicide? [Disney!](https://www.snopes.com/disney/films/lemmings.asp)
 
-## A lemming not committing suicide
+## 
 
-<#stdfig webpix/lemming.jpg>
+<#nohandout
+
+<#stdfig bmbpix/robert-leighton-canadian-lemmings-new-yorker-cartoon.jpg>
+
+>
 
 ## Constraints on evolution
 
-- physical/physiological limits
+- genetic constraints
 - tradeoffs
 - historical constraints
+
+## Genetic constraints
+
+- hard to optimize everything at once
+- finches: hard to have deep *and* narrow beaks
+- <#gloss genetic correlation>
+- lack of variation  
+(= physiological/physical constraint?)
 
 ## Tradeoffs
 
 - Much of adaptation is the result of compromise between conflicting goals
-- Brightly colored individuals are more attractive to mates, and to predators
-- Larger individuals compete more effectively, but are less efficient at reproducing
+- brightly colored individuals attract mates, and also predators
+- larger individuals compete effectively,
+but reproduce less efficiently
 
 ## Historical constraints
 
@@ -466,7 +579,7 @@ d. Polar bears have thick fur, and thick layers of fat under their skin
     - Fossil record, patterns of relatedness, homologies
 - Strong evidence that this change is driven by natural selection
     - Darwin's logical postulates: heritable variation in traits; differential reproductive success based on traits
-	- Direct observations of natural selection (TB, finches, moths)
+	- Direct observations of natural selection (TB, finches)
 - Natural selection by (gradual) evolution imposes important constraints
     - Species are not perfectly adapted
 

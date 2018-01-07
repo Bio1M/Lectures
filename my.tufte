@@ -6,7 +6,13 @@
 \usepackage{ifxetex,ifluatex}
 \usepackage{fixltx2e} % provides \textsubscript
 
-%% BMB
+%% BMB stuff
+\usepackage[utf8]{inputenc}  %% doesn't happen automatically?
+%% https://tex.stackexchange.com/questions/280714/how-to-get-unicode-characters-u2713-and-u2717-to-display-in-pdflatex/280718#280718
+\usepackage{pifont}
+\usepackage{newunicodechar}
+\newunicodechar{✓}{\ding{51}}
+\newunicodechar{✗}{\ding{55}}
 \definecolor{darkgreen}{rgb}{0.05, 0.5, 0.15}
 %% https://tex.stackexchange.com/questions/257418/error-tightlist-converting-md-file-into-pdf-using-pandoc
 \providecommand{\tightlist}{%
