@@ -17,6 +17,7 @@
 <#define outspec|>
 <#define copyright|\\textcopyright>
 <#define startbib|\\tiny>
+<#define small|{\\small #1}>
 <#define tiny|\\mbox{\\tiny #1}>
 <#define pause|\\pause>
 <#define vis1|\\onslide <1-> {#1}>

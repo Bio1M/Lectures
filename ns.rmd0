@@ -227,6 +227,8 @@ many observed patterns
      - Organisms fall naturally into groups
      - Genetic evidence and morphological evidence often agree
 
+<#finalhandout
+
 ## Clicker question
 
 The similarity between bat wings and bird wings is
@@ -238,7 +240,13 @@ c. structural homology
 d. fossils
 e. non-homology
 
-# The process of evolution | Sec 24.3
+<#noslides
+
+I would say (e) non-homology: common ancestor of bats and birds didn't have wings, but (c) structural homology is defensible as well. It depends whether we're thinking about the bone structure of the wings (structural) or their aerodynamic function (and aspects of shape related to flying), which is non-homologous.
+
+>
+
+# The process of evolution (§24.3)
 
 ## Natural selection
 
@@ -304,7 +312,9 @@ ability to do well under natural selection
 
 ##  Tuberculosis
 
+<#nohandout
 <#stdfig Pearson/F25_ns/25_13_drug_resistance_L.jpg>
+>
 
 - <#gloss point mutation> in RNA polymerase
 - patient had AIDS
@@ -384,6 +394,8 @@ How would you design a study (experimental or observational) to tell if beak dep
 
 ## Squirrels ([wikipedia](https://en.wikipedia.org/wiki/Black_squirrel))
 
+<#nohandout
+
 <#b2cols>
 
 <#stdfig webpix/grey_squirrel.jpg>
@@ -393,6 +405,7 @@ How would you design a study (experimental or observational) to tell if beak dep
 <#stdfig webpix/black_squirrel.jpg>
 
 <#e2cols>
+>
 
 ## Squirrels
 
@@ -417,6 +430,8 @@ evaluating evidence for evolution by natural selection:
 - published in peer-reviewed journal ✗
 - multiple studies ✗
 
+<#finalhandout
+
 ## Squirrels (clicker)
 
 Which of these would be the *best* test of the camouflage hypothesis?
@@ -424,9 +439,18 @@ Which of these would be the *best* test of the camouflage hypothesis?
 a. Cut down some trees and see if the number of black squirrels increases
 b. Paint some gray squirrels black and compare predation rates with unpainted squirrels
 c. Observe whether there are more black squirrels in more open forests
-d. Release marked black squirrels in more and less open forests, compare surivival
+d. Release marked black squirrels in more and less open forests, compare survival
 e. Add predators to a forest and see if the number of black squirrels increases
 
+<#noslides
+
+b. experimental test that manipulates squirrel colour (control, replication);
+explicitly observing predation rate (not just survival etc.)
+
+
+>
+
+>
 # Common misconceptions (§24.5)
 
 ## Other models
@@ -503,7 +527,11 @@ to their environment
 
 ## Adaptation and acclimation
 
+<#nohandout
 <#stdfig Pearson/alpha22_ns/22_16_adaptation_L.jpg>
+>
+
+<#finalhandout
 
 ## Clicker
 
@@ -515,6 +543,14 @@ c. After swinging through trees for millions of years, chimpanzees
 have very strongly built arms.	
 d. Polar bears have thick fur, and thick layers of fat under their skin
 e. Finches born to surviving parents after a drought have deeper beaks
+
+<#noslides
+
+b. Humans **raised in** hot climates (implies short-term (lifetime), not evolutionary time (multi-generational)
+
+>
+
+>
 
 ## Acclimation
 
