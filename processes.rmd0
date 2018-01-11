@@ -186,7 +186,8 @@ $0.4^2 \\times 20 = 3.2$,  $2 \\times 0.4 \\times 0.6 \\times 20 = 9.6$, $0.6^2 
 ## How do you know a coin is perfectly fair?
 
 - You can never be sure that a coin is perfectly fair, you can only evaluate your evidence that it's more or less close to fair.
-- Similarly, we never have evidence that a population is exactly in Hardy-Weinberg equilibrium, we can only evaluate our evidence that it is *not* in equilibrium, or our evidence that it is close to equilibrium.
+- Similarly, we **never know that a population is exactly in Hardy-Weinberg equilibrium**
+    - we can only say that it is (probably) *not* in equilibrium, or how close to equilibrium it is
 
 ## Hardy-Weinberg equilibrium
 
@@ -209,7 +210,9 @@ $0.4^2 \\times 20 = 3.2$,  $2 \\times 0.4 \\times 0.6 \\times 20 = 9.6$, $0.6^2 
 
 <#s2cols>
 
+<#nohandout
 <#stdfig webpix/hardy.jpg>
+>
 
 <#e2cols>
 
@@ -217,7 +220,7 @@ $0.4^2 \\times 20 = 3.2$,  $2 \\times 0.4 \\times 0.6 \\times 20 = 9.6$, $0.6^2 
 
 - If we observe large differences from the Hardy-Weinberg equilibrium, 
 	- usually a sign that mating is not random, or that natural selection is operating
-- The analysis tells us that something is going on, but not what
+- the analysis tells us that something is going on, but not what
 - Hardy-Weinberg is a <#gloss null model>: it tells us what to expect if complicating effects are absent
 
 
@@ -270,7 +273,9 @@ Why might more people be heterozygous for HLA genes than predicted by Hardy-Wein
 
 ## Cliff swallow example
 
+<#nohandout
 <#stdfig webpix/swallows.jpg>
+>
 
 ##  Cliff swallow example
 
@@ -286,7 +291,8 @@ Why might more people be heterozygous for HLA genes than predicted by Hardy-Wein
 - Directional selection can change through time with the environment
     - Swallows may get larger during extreme cold spells, smaller again during normal weather
     - ... need to know whether the changes we saw were heritable
-- Finch beaks get thicker when food is scarce, and smaller when food is abundant- Why might small-beaked finches have advantages?
+- Finch beaks get thicker when food is scarce, and smaller when food is abundant
+- Why might small-beaked finches have advantages?
 <#finalhandout
 <#pause>
 
@@ -309,23 +315,21 @@ Example: human birthweights | Fig 25.4
 ## Connections between selection types
 
 - What happens if the target of directional selection stays the same for a long time?
-
 <#finalhandout
 <#pause>
 
     -  the population arrives at the target, and directional selection becomes stabilizing selection
-	- **or** (if target is extreme) underlying alleles go to <#gloss fixation>; no more variability
+    - **or** (if target is extreme) underlying alleles go to <#gloss fixation>; no more variability
 	
 >
 
 - Examples?
-
 <#finalhandout
-<#pause
+<#pause>
 
-- Giraffe necks
-- Human brains
-- Almost everything at any given time
+    - Giraffe necks
+    - Human brains
+    - Almost everything at any given time
 
 >
 
@@ -339,7 +343,9 @@ Example: human birthweights | Fig 25.4
 
 ##  Seedcrackers
 
+<#nohandout
 <#stdfig webpix/seedcracker.jpg>
+>
 
 ##  Disruptive selection
 
@@ -347,7 +353,23 @@ Example: human birthweights | Fig 25.4
 
 ## Balancing selection
 
-TODO
+<#b2cols>
+
+selection that maintains or increases variation
+
+- e.g.: predation on *most common* prey type [@tucker_apostatic_1991]
+- e.g.: heterozygote advantage (sickle-cell allele)
+
+<#s2cols>
+
+<#nohandout
+
+<#stdfig webpix/White-lipped_snail_(Cepaea_hortensis)_on_rhododendron.jpg>
+
+>
+[Wikipedia]
+
+<#e2cols>
 
 # Other evolutionary mechanisms
 
@@ -396,7 +418,9 @@ Population = 4
 
 <#s2cols>
 
-<#stdhtfig bmbpix/guevedoce_rot.png>
+<#stdfig bmbpix/_85647167_catherineandcarla_bbc.jpg>
+
+[@mosley_extraordinary_2015]
 
 <#e2cols>
 
@@ -441,14 +465,12 @@ Population = 4
     - beneficial changes can accumulate gradually
     - much evidence of intermediate forms
 
-	NOTES Check out videos of ``evolution of the eye''
-
 ## What about sex?
 
 - Sex as an evolutionary process is very complicated
     - Still active debate on the advantages and disadvantages of sex
 - Sex does act to bring alleles together (and to split them apart)
-- Sex may provide new *genotypes* ($A_1 A_3$) but not new *alleles*
+- Sex may provide new *genotypes* (e.g. $A_1 A_3$) but not new *alleles*
 
 # Mating patterns
 
@@ -507,11 +529,17 @@ Population = 4
     - They are preferred by females
 - Why not simply find and use birds whose beaks are naturally more or less
 orange?
-    - ANS Orange-beaked birds may differ in other ways (bigger,
-		healthier, etc.)
+<#finalhandout
+<#pause>
+
+    - Orange-beaked birds may differ in other ways (bigger, healthier, etc.)
+>
 - What is a possible problem with the conclusion that females prefer
 birds with orange beaks?
-    - ANS The diet enrichment may have other effects 
+<#finalhandout
+<#pause>
+    - diet enrichment may have other effects 
+>
 
 ##  Finch results
 
@@ -536,10 +564,13 @@ birds with orange beaks?
 ## Testing the theory of sexual selection
 
 - How might we test the theory that males compete sexually because females invest more in offspring?
-    - ANS Are there any species where these roles seem to be reversed?
-    - ANS Yes, in some species of pipefish (related to seahorses) the males spend more time and energy caring for young than females
-    - ANS In these species, do females compete for males?
-    - ANS Yes, females are larger than males, and develop bright colors at courtship time
+<#finalhandout
+<#pause>
+
+    - are there any species where these roles seem to be reversed?
+    - yes, in some species of pipefish (related to seahorses) the males spend more time and energy caring for young than females
+    - in these species, do females compete for males?
+    - yes, females are larger than males, and develop bright colors at courtship time
 
 
 ## 
@@ -562,7 +593,7 @@ contests is more important to male than female fitness
 
 - Male elephant seals compete for control of breeding beaches
 - Huge variation in reproductive success
-- Huge size difference between males and females (strong sexual dimorphism) (Fig 25.19)
+- Huge size difference between males and females (strong <#gloss sexual dimorphism>) (Fig 25.19)
 
 ##
 
@@ -576,13 +607,16 @@ contests is more important to male than female fitness
 
 - Men and women have pretty clear size differences
 - How unequal is child-rearing in people?
-    - ANS Not so unequal
-    - ANS But fathers are not always biological fathers
+<#pause>
+
+    - not so unequal
+    - but fathers are not always biological fathers
 
 - To what extent do these principles even apply to people?
-    - ANS To _some_ extent
-    - ANS We have complicated brains, and complicated cultures
+<#pause>
 
-ADD Conclusion slide
+    - to _some_ extent
+    - we have complicated brains, and complicated cultures
+    - difficult to separate nature/nurture/interactions
 
 ## References
