@@ -14,7 +14,7 @@ target: $(target)
 
 imagelinks = ~/Dropbox/1M
 
-Sources += Makefile .gitignore README.md sub.mk LICENSE.md
+Sources += Makefile .ignore README.md sub.mk LICENSE.md
 include sub.mk
 -include $(ms)/perl.def
 -include $(ms)/newtalk.def
