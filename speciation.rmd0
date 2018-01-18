@@ -154,6 +154,7 @@ Goal is to evaluate whether a species is an evolutionary unit or not
     - Feedback: if species diverge, there can be natural selection for increased isolation
 <#pause>
     -  Don't want to waste resources on less-fit hybrid offspring
+>
 
 # Species divergence in allopatry (§26.2)
 
@@ -247,12 +248,14 @@ million years ago
     - When can disruptive selection overcome gene flow?
     - Is this an important component of how diversity evolves?
 - Divergence can also occur when mutation causes genetic incompatibility (see book if you are curious about mechanisms)
-    - If two populations are in the same place, but can't produce fertile offspring, they are reproductively isolated
+    - If two populations are in the same place, but can't produce fertile offspring, they are *reproductively* isolated
     - In what way are they not isolated?
+<#finalhandout
+<#pause>
 
-			ANS They can still compete, and one may drive the other extinct
-
-			ANS Reproductive isolation can _combine with_ disruptive selection 
+		- They can still compete, and one may drive the other extinct
+        - Reproductive isolation can combine with disruptive selection
+>		
 
 
 # Reuniting (§26.4)
@@ -273,11 +276,13 @@ million years ago
 - Hybrid offspring may have low fitness
 <#finalhandout
 <#pause>
-	ANS Incompatible alleles
-		ANS Disruptive selection
+
+	- Incompatible alleles
+	- Disruptive selection
+>
 
 - In these cases we expect natural selection for traits that <#gloss reinforce> the distinction between the two species
-   - they avoid mating: use coloration, timing, courtship rituals
+   - mating avoidance: use coloration, timing, courtship rituals
 
 ## Meadowlarks
 
@@ -323,7 +328,7 @@ million years ago
 
 ## Conclusion
 
-- The diversity we see in the world arises from speciation events; mostly by single species splitting into two
+- The tree of life arises from speciation events
     - Species splits typically involve isolation and divergence
     - Isolation can happen allopatrically or sympatrically
     - New species can also sometimes arise from hybridization between related species
@@ -332,9 +337,13 @@ million years ago
 
 ## TO DO
 
+- clicker questions
+- references
+- adjust figures, noslides, etc.
+- page numbers
+- more on polyploid speciation
 - Ring species example?
 - canids
 - check on ecological species concept? who actually uses it? (Van Valen 1976)
-- polyploid speciation
-- clicker questions
 - ngram slide
+- more on monophyly?

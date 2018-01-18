@@ -38,7 +38,9 @@ adj., noun = <#gloss homozygote>)
 1\. heritable changes in species traits over time
 2\. changes in allele frequencies
 
-These definitions are generally consistent; use the one that helps you think clearly
+These definitions are generally consistent;
+the latter is more precise.  
+Use the one that helps you think clearly
 
 #  Analyzing genotype frequencies  (§25.2)
 
@@ -142,7 +144,7 @@ Why the 2?
 
 Because you could get $A_1$ from Mom and $A_2$ from Dad,
 or $A_1$ from Dad and $A_2$ from Mom
-\ldots two ways to do it
+\\ldots two ways to do it
 
 >
 
@@ -172,7 +174,7 @@ $0.4^2 \\times 20 = 3.2$,  $2 \\times 0.4 \\times 0.6 \\times 20 = 9.6$, $0.6^2 
 <#finalhandout
 <#pause>
 
-	- We see more $A_2 A_2$ homozygotes than expected
+	- We see (slightly) more $A_2 A_2$ homozygotes than expected
     - But is this reliable evidence?  That's a question for statistics.
 >
 
@@ -206,7 +208,7 @@ $0.4^2 \\times 20 = 3.2$,  $2 \\times 0.4 \\times 0.6 \\times 20 = 9.6$, $0.6^2 
 
 <#b2cols>
 
-> In a word, there is not the slightest foundation for the idea that a dominant character should show a tendency to spread over a whole population, or that a recessive should tend to die out
+> In a word, there is not the slightest foundation for the idea that a dominant character should show a tendency to spread over a whole population, or that a recessive should tend to die out \\ldots
 
 <#s2cols>
 
@@ -226,17 +228,20 @@ $0.4^2 \\times 20 = 3.2$,  $2 \\times 0.4 \\times 0.6 \\times 20 = 9.6$, $0.6^2 
 
 ## Example: Human blood groups
 
-<#stdfig Pearson/F26_processes/TB26_1_MN_blood_groups_L.jpg>
+<#stdfig bmbpix/MN.png>
 
 ## Example: Human blood groups
 
 - MN blood groups in different human populations are very close to Hardy-Weinberg equilibrium (Table 25.1)
     - No evidence for non-random mating, or for fitness differences.
 - What about MN blood groups in the global human population?
+
 <#finalhandout
 <#pause>
+
    - They are not in equilibrium, because mating is not random 
    - More homozygotes than expected
+   
 >
 
 ## Example: Human HLA genes
@@ -262,6 +267,29 @@ Why might more people be heterozygous for HLA genes than predicted by Hardy-Wein
 - People might be more attracted to people with different HLA types
     - Maybe *evolved* this way because of reasons above
 >
+
+<#finalhandout
+
+## Clicker question
+
+What can we conclude if we observe that genotype
+frequencies in a population are a close match with Hardy-Weinberg expectations?
+
+a. we have no evidence for natural selection
+b. evolution by natural selection is happening
+c. assortative mating is occurring
+d. evolution by natural selection is definitely *not* happening
+e. migration is occurring
+
+<#noslides
+
+a.
+
+>
+
+>
+
+
 
 # Types of natural selection (§25.3)
 
@@ -291,13 +319,25 @@ Why might more people be heterozygous for HLA genes than predicted by Hardy-Wein
 - Directional selection can change through time with the environment
     - Swallows may get larger during extreme cold spells, smaller again during normal weather
     - ... need to know whether the changes we saw were heritable
-- Finch beaks get thicker when food is scarce, and smaller when food is abundant
-- Why might small-beaked finches have advantages?
-<#finalhandout
-<#pause>
+- Finch beaks get thicker when seeds are big & tough, and narrower when seeds are small
 
-	- Mainly ability to eat smaller seeds
->	
+<#finalhandout
+
+## Clicker question
+
+When we say "swallows get larger during cold spells" *in an evolutionary context*, what do we (most likely) mean?
+
+a. Individual swallows grow larger during cold spells and then shrink
+b. Swallows acclimate to cold conditions
+c. Swallows pass on acquired characteristics to their offspring
+d. Swallows with genotypes that make them larger survive cold better
+e. Swallows change into a different species when the weather gets colder
+
+<#noslides
+d. 
+>
+
+>
 
 ## Stabilizing selection
 
@@ -338,7 +378,7 @@ Example: human birthweights | Fig 25.4
 - Disruptive selection favors phenotypes *different* from the average value (Fig 25.5)
     - Black-bellied seedcrackers
     - Animals that get eaten a lot may want to look different from their peers
-    - Disruptive selection may lead to <#gloss speciation> -- the formation of new species.
+    - Disruptive selection may lead to <#gloss speciation> -- the split of one species into two
 - Increases variation
 
 ##  Seedcrackers
@@ -355,9 +395,11 @@ Example: human birthweights | Fig 25.4
 
 <#b2cols>
 
-selection that maintains or increases variation
+selection that maintains  
+or increases variation
 
-- e.g.: predation on *most common* prey type [@tucker_apostatic_1991]
+- e.g.: predation on *most common* prey type  
+[@tucker_apostatic_1991]
 - e.g.: heterozygote advantage (sickle-cell allele)
 
 <#s2cols>
@@ -401,7 +443,7 @@ Population = 4
 
 ## Small populations
 
-- Drift is much stronger in small populations than in large ones (law of averages).
+- Drift is much stronger in small populations than in large ones
 - Even if a population is big now, it may have been small in the past
      - <#gloss Founder effects> occur when a new population is started by a small number of individuals
      - <#gloss Bottlenecks> occur when a population becomes small, then large again
@@ -418,7 +460,11 @@ Population = 4
 
 <#s2cols>
 
+<#nohandout
+
 <#stdfig bmbpix/_85647167_catherineandcarla_bbc.jpg>
+
+>
 
 [@mosley_extraordinary_2015]
 
@@ -520,11 +566,16 @@ Population = 4
 
 ##  Zebra finches
 
+<#nohandout
+
 <#stdfig Pearson/F26_processes/un/26_08a_zebra_finch_beaks_U.jpg>
+
+>
 
 ## Zebra finch experiments
 
-- Feed some males enriched diets
+- Feed some males enriched diets  
+(their brothers stay on the control diet)
     - Their beaks become more orange
     - They are preferred by females
 - Why not simply find and use birds whose beaks are naturally more or less
@@ -538,10 +589,12 @@ orange?
 birds with orange beaks?
 <#finalhandout
 <#pause>
-    - diet enrichment may have other effects 
+
+    - diet enrichment may have other effects
+	
 >
 
-##  Finch results
+##  Zebra finch results
 
 <#stdfig Pearson/F26_processes/26_08b_zebra_finch_beaks_L.jpg>
 
@@ -564,18 +617,23 @@ birds with orange beaks?
 ## Testing the theory of sexual selection
 
 - How might we test the theory that males compete sexually because females invest more in offspring?
+
 <#finalhandout
 <#pause>
 
-    - are there any species where these roles seem to be reversed?
-    - yes, in some species of pipefish (related to seahorses) the males spend more time and energy caring for young than females
-    - in these species, do females compete for males?
-    - yes, females are larger than males, and develop bright colors at courtship time
-
+- are there any species where these roles seem to be reversed?
+- yes, in some species of pipefish (related to seahorses) the males spend more time and energy caring for young than females
+- in these species, do females compete for males?
+- yes, females are larger than males, and develop bright colors at courtship time
+>
 
 ## 
 
+<#nohandout
+
 <#stdfig webpix/pipefish.jpg>
+
+>
 
 ## Variation in reproductive success
 
@@ -593,15 +651,24 @@ contests is more important to male than female fitness
 
 - Male elephant seals compete for control of breeding beaches
 - Huge variation in reproductive success
-- Huge size difference between males and females (strong <#gloss sexual dimorphism>) (Fig 25.19)
+- Huge size difference between males and females  
+(strong <#gloss sexual dimorphism>) (Fig 25.19)
 
 ##
+
+<#nohandout
 
 <#stdfig webpix/seal_couple.jpg>
 
+>
+
 ##
 
+<#nohandout
+
 <#stdfig webpix/seal_battle.jpg>
+
+>
 
 ## What about people?
 
