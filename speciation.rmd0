@@ -2,6 +2,15 @@
 title: "Speciation"
 ---
 
+# What is speciation?
+
+## What is speciation, and why do we care?
+
+- speciation is the splitting of one evolving group of organisms into two separately evolving groups
+- this splitting, followed by continuing evolution, is why we have a tree of life
+     - what is a species?
+	 - how and why does speciation happen?
+
 # How are species defined? (§26.1)
 
 ## Species definitions
@@ -26,13 +35,33 @@ definition
 
 - the <#gloss biological species concept> uses <#gloss reproductive isolation> to define species
 - Different biological species either:
-    - Don't breed in nature
+    - Don't breed *in nature*
     - Breed but fail to produce offspring
-    - Produce <#gloss inviable> offspring (don't develop to adulthood)
-    - Produce <#gloss sterile> offspring (offspring can't reproduce)
+    - Produce <#gloss inviable> offspring  
+(not <#gloss viable> = don't develop to adulthood)
+    - Produce <#gloss sterile> offspring  
+offspring aren't <#gloss fertile> = can't reproduce)
+
+## Meadowlarks [@lanyon_hybrid_1979]
+
+<#nohandout
+
+<#b2cols>
+
+<#stdhtfig webpix/western_meadowlark.jpg>
+
+<#s2cols>
+
+<#stdhtfig webpix/eastern_meadowlark.jpg>
+
+<#e2cols>
+>
+
+Mating, but very low hybrid fertility
 
 ## Mechanisms of isolation
 
+- *Why* don't individuals from different species produce  viable, fertile offspring?
 - Mechanisms of isolation are divided into two classes:
     - <#gloss Prezygotic isolation>: any mechanism that prevents successful mating
     - <#gloss Postzygotic isolation>: any mechanism that prevents offspring from producing offspring of their own
@@ -48,16 +77,27 @@ definition
 	- Pre-zygotic mechanisms mean less wasted effort
 	- Example: it takes a lot of resources for a horse to bear and raise a mule, but there is no long-term fitness benefit
     - Post-zygotic isolation *selects for* pre-zygotic isolation
+	
 >
 
 ## Examples
 
-- Pre- or post-?
-    - Different malaria parasites breed inside different hosts <#finalhandout <#pause> (pre)>
-    - Different species of doves can nest together, but eggs fail to hatch or chicks fail to grow <#finalhandout (post)>
-    - The offspring of horses and donkeys grow up to be healthy, infertile adults <#finalhandout (post)>
-    - Sea urchin eggs cannot be penetrated by sperm from other species <#finalhandout (pre)>
-    - Species of pine trees release and receive pollen and different times of year <#finalhandout (pre)>
+Pre- or post-?
+<#pause>
+
+- Different malaria parasites breed inside different hosts <#finalhandout <#noslides (pre)>>
+<#pause>
+
+- Different species of doves can nest together, but eggs fail to hatch or chicks fail to grow <#finalhandout <#noslides (post)>>
+<#pause>
+
+- The offspring of horses and donkeys grow up to be healthy, infertile adults <#finalhandout <#noslides (post)>>
+<#pause>
+
+- Sea urchin eggs cannot be penetrated by sperm from other species <#finalhandout <#noslides (pre)>>
+<#pause>
+
+- Species of pine trees release and receive pollen at different times of year <#finalhandout <#noslides (pre)>>
 
 ## Disadvantages of the biological species concept
 
@@ -65,9 +105,11 @@ definition
 <#pause>
 
 - Doesn't apply to asexual species
--  Not practical for extinct species
+- Not practical for extinct species
 - May be hard to evaluate
 - What if two populations rarely come into contact because of geographic distance?
+- not hard and fast: some <#gloss hybridization> does happen
+
 >
 
 <#pause>
@@ -77,30 +119,19 @@ Goal is to evaluate whether a species is an evolutionary unit or not
 
 ## Morphological species concept
 
-- <#gloss Morphological species concept>: species are groups of organisms that look (sufficiently) different
-- Useful for working with fossils, or very diverse groups (e.g., insects)
+- <#gloss Morphological species concept> (or <#gloss morphospecies>:  
+species are groups of organisms that look (sufficiently) different
+- Useful for working with fossils
 - Takes a lot of expertise and experience
 - Disadvantages?
 <#finalhandout
 <#pause>
 
     - Subjective, prone to disagreements
-    - There are groups that look very similar but don't/can't produce viable offspring
+    - Some groups look very similar but don't/can't produce viable offspring: <#gloss cryptic species>
     - Not clear how definition relates to our conceptual definition of evolutionary units
 
 >
-
-## Meadowlarks
-
-<#b2cols>
-
-<#stdfig webpix/western_meadowlark.jpg>
-
-<#s2cols>
-
-<#stdfig webpix/eastern_meadowlark.jpg>
-
-<#e2cols>
 
 ## Ecological species concept
 
@@ -108,22 +139,28 @@ Goal is to evaluate whether a species is an evolutionary unit or not
     - Exploit similar resources
     - Tolerate similar environments 
     - Face similar natural enemies
-    - Commonly used for small things, particularly small asexual things
+    - Commonly used for small things,  
+particularly small *asexual* things (why?)
 
 ## Phylogenetic species concept
 
 <#b2cols>
 
-- A phylogenetic species is a monophyletic group of populations
-    - Must not be divisible into smaller species
-- A <#gloss monophyletic group] is a group *defined by* a single common ancestor
+- A phylogenetic species is a <#gloss monophyletic group> of populations ...
+    - ... that can't be divided into smaller groups
+	- (this is tricky!)
+- A monophyletic group is a group *defined by* a single common ancestor
     - All descendants of the ancestor must be in the group (Fig 26.2)
 
 <#s2cols>
 
-<#stdfig Pearson/F27_speciation/un/27_02b_phy_species_concept.jpg>
+<#stdfig Pearson/F27_speciation/27_02a_phy_species_concept.jpg>
 
 <#e2cols>
+
+## Phylogenetic species
+
+<#stdfig Pearson/F27_speciation/27_02b_phy_species_concept.jpg>
 
 ## Phylogenetic species concept
 
@@ -135,15 +172,43 @@ Goal is to evaluate whether a species is an evolutionary unit or not
     - Requires a lot of information about populations
 - Phylogenetic species concept means there are *lots* of species
 
+<#finalhandout
+
+## Clicker question
+
+We bring a male from group A and a female from group B into the lab
+and discover that they will mate with each other. This is
+
+a. proof that they come from the same morphospecies
+b. partial evidence that the come from the same morphospecies
+c. proof that they come from the same biological species
+d. partial evidence that they come from the same biological species
+e. proof that they come from the same ecological species
+
+<#pause>
+
+d: only partial evidence. We don't know if they mate in the wild
+or whether they actually produce fertile, viable offspring
+
+>
 
 ## Defining species
+
+<#b2cols>
 
 - Defining species formally can be very tricky
     - No one way is agreed to be the best
 - Usually we know more or less what we mean by a species
 
-## How do species split?
+<#s2cols>
 
+<#stdfig webpix/Wolf-like_canids_phylogeny.jpg>
+
+<#e2cols>
+
+# How do species split?
+
+## How do species split?
 - Genetic isolation
 - Genetic divergence
 - Which comes first?
@@ -158,7 +223,7 @@ Goal is to evaluate whether a species is an evolutionary unit or not
 
 # Species divergence in allopatry (§26.2)
 
-- <#gloss Allopatry] refers to organisms living apart from each other
+- <#gloss Allopatry> refers to organisms living apart from each other
 ("allo"=different)
 - If two populations are isolated from each other, we would expect that they might diverge.  Why?
 <#finalhandout
@@ -175,9 +240,9 @@ Goal is to evaluate whether a species is an evolutionary unit or not
 - Isolated populations of the same species can develop if some individuals <#gloss disperse> to a new area and <#gloss colonize> it
 - Since colonizing populations are usually small, we expect founder effects and drift to be particularly important
 
-##
+## 
 
-<#stdhtfig Pearson/F27_speciation/27_04a_allopatry.jpg>
+<#fullhtfig Pearson/F27_speciation/27_04a_allopatry.jpg>
 
 ##
 
@@ -193,21 +258,20 @@ Goal is to evaluate whether a species is an evolutionary unit or not
 	 - ocean passageways open and close
 - When temperature changes, some species may only be able to survive in <#gloss refuges>: small, protected parts of their original range
 
+## Vicariance
+
+<#medhtfig Pearson/F27_speciation/27_04b_allopatry.jpg>
+
 ## Example: Panama isthmus
-
-<#stdfig Pearson/F27_speciation/27_05a_vicariance.jpg>
-
-## Example: ratites
 
 <#b2cols>
 
-The ancestors of today's ostriches, emus, etc. were isolated when
-the super-continent of Gondwanaland drifted apart starting about 140
-million years ago
+<#stdfig Pearson/F27_speciation/27_05a_vicariance.jpg>
 
 <#s2cols>
 
-<#stdfig webpix/Gondwana.png>
+<#pause>
+<#stdfig Pearson/F27_speciation/27_05b_vicariance.jpg>
 
 <#e2cols>
 
@@ -224,10 +288,11 @@ million years ago
 - Are there exceptions to this expectation?
 <#finalhandout
 <#pause>
+
 	- Seed crackers?
          -  We don't really know yet
     - Hawthorn flies
-    - Soapberry bugs
+
 >
 
 ## Divergence by partitioning habitats (Fig 26.10)
@@ -240,34 +305,45 @@ million years ago
 
 ## sticklebacks
 
-<#stdfig webpix/sticklebacks.jpg>
+<#nohandout
 
-## Other mechanisms of divergence
+<#stdhtfig webpix/sticklebacks.jpg>
 
-- Divergence in sympatry is an exciting field
-    - When can disruptive selection overcome gene flow?
-    - Is this an important component of how diversity evolves?
-- Divergence can also occur when mutation causes genetic incompatibility (see book if you are curious about mechanisms)
-    - If two populations are in the same place, but can't produce fertile offspring, they are *reproductively* isolated
-    - In what way are they not isolated?
-<#finalhandout
-<#pause>
+>
 
-		- They can still compete, and one may drive the other extinct
-        - Reproductive isolation can combine with disruptive selection
->		
+benthic vs. limnetic species
 
+## Polyploid speciation
+
+<#b2cols>
+
+- Divergence can also occur when mutation causes genetic incompatibility
+    - <#gloss autopolyploid> (same-species) speciation:
+chromosome doubling within one mate
+	- <#gloss allopolyploid> (other-species) speciation:
+hybridization + chromosome doubling
+- common in plants  
+(cellular mechanisms, hybridization, self-fertilization)
+
+<#s2cols>
+
+<#stdfig Pearson/F27_speciation/27_10_allopolyploidy.jpg>
+
+<#e2cols>
 
 # Reuniting (§26.4)
 
-- What happens when isolated populations come back into contact?
+## Secondary contact
+
+- What happens when isolated populations come back into <#gloss secondary contact>?
 - Usually happens when a geographic barrier disappears 
 	- a land bridge forms between an island and the continent
     - a river changes course
-
+    - refugia expand and merge
+	
 ## Fusion
 
-- When two isolated populations come into contact, they may <#gloss fuse] (go back together)
+- When two isolated populations come into contact, they may <#gloss fuse> (go back together)
     - Adaptive differences may be small
     - Adaptive differences may be overwhelmed by gene flow
 
@@ -284,18 +360,36 @@ million years ago
 - In these cases we expect natural selection for traits that <#gloss reinforce> the distinction between the two species
    - mating avoidance: use coloration, timing, courtship rituals
 
-## Meadowlarks
+<#finalhandout
+
+## Clicker question
+
+Incompatible alleles in hybrids is an example of 
+
+a. a vicariance event
+b. a bottleneck
+c. a founder effect
+d. a prezygotic isolating mechanism
+e. a postzygotic isolating mechanism
+
+>
+
+## Meadowlarks again [@barlow_song_1994]
+
+<#nohandout
 
 <#b2cols>
 
-<#stdfig webpix/western_meadowlark.jpg>
+<#stdhtfig webpix/western_meadowlark.jpg>
 
 <#s2cols>
 
-<#stdfig webpix/eastern_meadowlark.jpg>
+<#stdhtfig webpix/eastern_meadowlark.jpg>
 
 <#e2cols>
+>
 
+meeting after speciating in glacial refugia  
 
 ## Hybrid zones
 
@@ -310,7 +404,7 @@ million years ago
 
 ## Townsend's/hermit warblers
 
-<#stdhtfig Pearson/F27_speciation/27_11_hybrid_zone.jpg>
+<#medhtfig Pearson/F27_speciation/27_11_hybrid_zone.jpg>
 
 ## Hybrid speciation
 
@@ -322,7 +416,9 @@ million years ago
 
 <#s2cols>
 
+<#nohandout
 <#stdfig Pearson/F27_speciation/27_00_sunflower_species.jpg>
+>
 
 <#e2cols>
 
@@ -335,15 +431,4 @@ million years ago
     - Defining species can be complicated
     - Particularly if we want definitions that include both asexual and sexual species
 
-## TO DO
-
-- clicker questions
-- references
-- adjust figures, noslides, etc.
-- page numbers
-- more on polyploid speciation
-- Ring species example?
-- canids
-- check on ecological species concept? who actually uses it? (Van Valen 1976)
-- ngram slide
-- more on monophyly?
+## References
