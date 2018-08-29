@@ -12,7 +12,7 @@ target: $(target)
 
 ##################################################################
 
-imagelinks = ~/Dropbox/1M
+imagelinks = ~/Dropbox/courses/1M
 
 Sources += Makefile .ignore README.md sub.mk LICENSE.md
 include sub.mk
@@ -55,7 +55,7 @@ Sources += 2017.overview
 
 # Large format is not implemented here. To do it, copy extarticle from a .tmp file in 3SS_content, and look for make rules.
 
-#### Introduction
+#### Introduction (P1)
 intro.draft.pdf: intro.txt
 intro.final.pdf: intro.txt
 intro.handouts.pdf: intro.txt
