@@ -26,7 +26,7 @@ Expectations of professor
 
 		I am not your friend
 
-		At least, not on Facebook
+		\ldots on Facebook
 
 ----------------------------------------------------------------------
 
@@ -72,6 +72,8 @@ Why come to class?
 
 	Listening and thinking and talking will help you understand
 	concepts, instead of just memorizing
+
+		Classroom discussion makes the course more interesting and memorable
 
 	Details and terminology should be covered in sufficient detail in
 	the notes; concepts may not be
@@ -281,6 +283,8 @@ PSLIDE Valid conclusion
 
 FIG webpix/flying_cow.jpg
 
+REMARK Elm Farm Ollie, the first flying cow
+
 ----------------------------------------------------------------------
 
 Why are simple things difficult?
@@ -314,6 +318,8 @@ Assignment: Logical equivalence
 		Good food is not cheap
 
 		Cheap food is not good
+
+REMARK Assignment. They should satisfy themselves that they understand
 
 ----------------------------------------------------------------------
 
@@ -363,7 +369,7 @@ Where do cells come from?
 
 	Do they come only from other cells?
 
-		Then where did the first cells come from?
+		ANS Then where did the first cells come from?
 
 ----------------------------------------------------------------------
 
@@ -435,22 +441,24 @@ TSS Observational studies
 
 ----------------------------------------------------------------------
 
+PSLIDE Example: Why are giraffes so tall?
+
+FIG Pearson/giraffes.jpg
+
+----------------------------------------------------------------------
+
 Example: Why are giraffes so tall?
-
-BCC
-
-SIDEFIG Pearson/giraffes.jpg
-
-NCC
 
 	ANS They eat from trees, so that probably has something to do with it
 
 	ANS They use their necks for dramatic fights, so that probably has something
 	to do with it
 
-EC
+	What can you do to investigate?
 
-NOTES Fig 1.8
+		ANS How high up in trees to giraffes feed?
+
+		ANS Do males with long necks win more fights?
 
 ----------------------------------------------------------------------
 
@@ -465,7 +473,7 @@ Example: How do ants navigate through landscapes?
 
 	How do ants navigate through landscapes?
 
-	NOTES Fig 1.9
+	NOTES Fig 1.10--12
 
 ----------------------------------------------------------------------
 
@@ -554,15 +562,19 @@ Replication
 		A replicate is a unit which is subjected to a chosen treatment
 		mouse, a troop of baboons, a flask
 
-	Replicates in the same group should not have anything in common (except for the factor we are studying)
+	Replicates in the same group should not have anything in common that they
+	don't share with other groups (except for the factor we are studying)
 
-		Replicates often planned first, then assigned randomly to groups 
+		What if we put all the mice that get vitamin supplements in one
+		cage, and the others in another cage?
 
-	What if we put all the mice that get vitamin supplements in one
-	cage, and the others in another cage?
+			ANS We then have to worry about all possible differences
+			between the two cages
 
-		ANS We then have to worry about all possible differences
-		between the two cages
+	Replicates should be randomized:
+	
+		first pick which mice to put into what cage, \emph{then} decide which
+		cages get supplements
 
 ----------------------------------------------------------------------
 

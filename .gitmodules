@@ -1,9 +1,6 @@
 [submodule "makestuff"]
 	path = makestuff
 	url = https://github.com/dushoff/makestuff.git
-[submodule "Bio1M.github.io"]
-	path = Bio1M.github.io
-	url = https://github.com/Bio1M/Bio1M.github.io.git
 [submodule "images"]
 	path = images
 	url = https://github.com/Bio1M/images.git

@@ -153,13 +153,17 @@ webpix Pearson norton jdpix:
 
 ## Pages
 
-mdirs += Bio1M.github.io images
+## mdirs += Bio1M.github.io images
 Bio1M += images
 dfiles: $(mdirs:%=%/Makefile)
 Sources += $(mdirs)
 
+clonedirs += web
+web:
+	git clone https://github.com/Bio1M/Bio1M.github.io.git $@
+
 ### Would like to make my own push rules here (like 3SS), so that I can push different kinds of produts to different places. But here they seem to be over-ridden by the rules from unix.mk!
-pushdir = Bio1M.github.io/materials/
+pushdir = web/materials/
 
 ######################################################################
 
