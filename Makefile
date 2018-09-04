@@ -140,6 +140,7 @@ Sources += hb.lect
 ## Sort of between styles for making new images …
 
 ## Update location in local.mk if necessary
+Ignore += webpix Pearson norton jdpix
 webpix Pearson norton jdpix: dir = $(imagelinks)
 webpix Pearson norton jdpix: 
 	$(linkdir)
