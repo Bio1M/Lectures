@@ -181,7 +181,7 @@ FIG webpix/cards.jpg
 
 ----------------------------------------------------------------------
 
-RSLIDE Deductive thinking
+PRESLIDE Deductive thinking
 
 	You go to a job interview, and are shown some playing cards.
 
@@ -204,7 +204,6 @@ PSLIDE Drinks
 FIG webpix/bar.jpg
 
 ----------------------------------------------------------------------
-
 
 Deductive thinking
 
@@ -337,7 +336,7 @@ Logical equivalence
 
 ----------------------------------------------------------------------
 
-SEC The cell theory | (pp.~2--3)
+SEC The cell theory | Sec 1.2
 
 ----------------------------------------------------------------------
 
@@ -406,7 +405,7 @@ The Pasteur experiment
 
 ----------------------------------------------------------------------
 
-SEC Doing biology | (pp.~9--13)
+SEC Doing biology | Sec 1.6
 
 ----------------------------------------------------------------------
 
@@ -517,6 +516,8 @@ Interpretation
 
 		ANS As a check on our experimental setup
 
+		ANS Replication principle: shouldn't compare modified ants this time to normal ants from last time; many things may have changed
+
 	What should we conclude?
 
 		ANS Ants use information about number of steps 
@@ -539,7 +540,9 @@ Example: Vitamin C
 		ANS I only used one mouse.  I don't know if there was something unusual
 		about it.
 
-			ANS If we compare two mice, one will always do better than the other
+	ANS What if I compare two mice?
+	
+		ANS one will always do better than the other!
 
 ----------------------------------------------------------------------
 
@@ -562,8 +565,9 @@ Replication
 		A replicate is a unit which is subjected to a chosen treatment
 		mouse, a troop of baboons, a flask
 
-	Replicates in the same group should not have anything in common that they
-	don't share with other groups (except for the factor we are studying)
+	Replicates should be \textbf{independent}. Replicates in the same group
+	should not have \emph{anything} in common that they don't share with other
+	groups (except for the factor we are studying).
 
 		What if we put all the mice that get vitamin supplements in one
 		cage, and the others in another cage?
@@ -571,10 +575,22 @@ Replication
 			ANS We then have to worry about all possible differences
 			between the two cages
 
-	Replicates should be randomized:
-	
-		first pick which mice to put into what cage, \emph{then} decide which
-		cages get supplements
+	Example: I want to see how injecting a particular vaccine affects mouse
+	behaviour
+
+		ANS Give the control mice injections with no vaccine
+
+----------------------------------------------------------------------
+
+Randomization
+
+	Good experiments are \textbf{randomized}: units are assigned to treatments
+	randomly
+
+		First, arrange the experiment
+
+		e.g., first pick which mice to put into which cages, \emph{then} decide
+		at random which cages get supplements
 
 ----------------------------------------------------------------------
 
