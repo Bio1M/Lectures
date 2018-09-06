@@ -122,6 +122,8 @@ Evaluation
 
 		Practice questions will be available
 
+	CHANGE Dushoff is responsible only for your midterm/exam evaluation (and only for half of that)
+
 ----------------------------------------------------------------------
 
 RSLIDE Structure of presentation
@@ -453,9 +455,11 @@ Example: Why are giraffes so tall?
 	ANS They use their necks for dramatic fights, so that probably has something
 	to do with it
 
+	CHANGE ANS COMMENT Because their heads are way up in the air, and their legs have to be long enough to reach the ground.
+
 	What can you do to investigate?
 
-		ANS How high up in trees to giraffes feed?
+		ANS How high up in trees do giraffes feed?
 
 		ANS Do males with long necks win more fights?
 
