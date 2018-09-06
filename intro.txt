@@ -326,6 +326,8 @@ Logical equivalence
 
 	Statements are [logically equivalent] if they express the same fact in different words.  In other words, if either one is true, the other one must be true.
 
+		CHANGE And vice versa
+
 	Different people find it useful to think about logical equivalence in different ways
 
 		Can you construct an example where one is true and the other is false?

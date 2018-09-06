@@ -6,7 +6,6 @@ Sources += lecture.txt
 ######################################################################
 
 target = Makefile
--include testdir.mk
 -include target.mk
 target: $(target)
 

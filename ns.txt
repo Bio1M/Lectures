@@ -1,4 +1,8 @@
- 
+
+EXTRA
+
+----------------------------------------------------------------------
+
 CHAPTER Evolution by natural selection
 
 ----------------------------------------------------------------------
@@ -24,7 +28,8 @@ TSEC Evolution
 
 ----------------------------------------------------------------------
 
-SS Change through time | pp.~457--459
+SS Change through time | Sec 22.2
+(2ndEd pp.~457--459)
 
 ----------------------------------------------------------------------
 
@@ -75,7 +80,7 @@ NC
 
 	Consistent with species evolving: changing through time
 
-	NOTES Fig 24.4
+	NOTES Fig 22.4 (24.4 2ndEd)
 
 EC
 
@@ -89,7 +94,7 @@ Vestigial traits
 	
 	Examples?
 
-	NOTES Fig. 24.5
+	NOTES Fig. 22.5 (24.5 2ndEd)
 
 ----------------------------------------------------------------------
 
@@ -98,9 +103,11 @@ Directly observed evolution
 	Although much evolution occurs very slowly, some kinds of evolution
 	can be, and have been, observed on faster time scales
 
-		Tuberculosis | pp.465--466
+		Tuberculosis | pp.458--460
+(2ndEd pp.465--466)
 
-		Ground finches | pp.~468--470
+		Ground finches | pp.~460--462
+(2ndEd pp.~468--470)
 
 ----------------------------------------------------------------------
 
@@ -110,7 +117,8 @@ SIDEFIG Pearson/F25_ns/25_13_drug_resistance_L.jpg
 
 ----------------------------------------------------------------------
 
-TSS Relationships between species | pp.~459--463
+TSS Relationships between species | pp.~452--455
+(2ndEd pp.~459--463)
 
 	If species evolved from a common ancestor, we expect to see evidence
 	that they are related to each other
@@ -141,7 +149,7 @@ NCC
 
 	Support for the theory of evolution
 
-	NOTES Fig.~24.6
+	NOTES Fig. 22.6 (24.6 2ndEd)
 
 EC
 
@@ -161,7 +169,7 @@ Evolution and similarity
 
 ----------------------------------------------------------------------
 
-Homology
+Homology | Table 22.1
 
 	A [homology] is a similarity that is due to common ancestry
 
@@ -182,7 +190,7 @@ Genetic homology
 		Some genes involved in development are very similar all the way
 		from insects to mammals
 
-	NOTES Fig 24.10
+	NOTES Fig 22.7 (24.10 2ndEd)
 
 ----------------------------------------------------------------------
 
@@ -206,7 +214,7 @@ NCC
 	[Developmental homology] is homology in the traits of [embryos]
 	(developing organisms)
 
-		Embryos of all vertebrates show striking similarities | Fig 24.8
+		Embryos of all vertebrates show striking similarities
 
 EC
 
@@ -223,25 +231,21 @@ NCC
 	[Structural homology] is homology at the level of developed
 	organisms.
 
-		Tetrapod limbs | Fig 24.9
+		Tetrapod limbs
 
 EC
 
 ----------------------------------------------------------------------
 
-RSLIDE Tetrapod limbs
+PSLIDE Tetrapod limbs
 
 WIDEFIG Pearson/F25_ns/25_09_structural_homology_L.jpg
 
 ----------------------------------------------------------------------
 
-
-
 Identifying homologies
 
-	A tricky subject
-
-		How do we know whether similarities are due to common evolution?
+	How do we know whether similarities are due to common evolution?
 
 		Homologies assume evolution; how can they be used as evidence for
 		evolution?
@@ -253,9 +257,15 @@ Identifying homologies
 
 		Genetic evidence and morphological evidence often agree
 
+			We get consistent stories from different lines of evidence, e.g.,
+			whale example | p.~455
+
+			ADD More about this? don't love the story
+
 ----------------------------------------------------------------------
 
-TSEC Natural selection | Sec 24.3
+TSEC Natural selection | Sec 22.3
+(2ndEd Sec 24.3)
 
 	Darwin's big idea was not evolution, but natural selection
 
@@ -264,6 +274,8 @@ TSEC Natural selection | Sec 24.3
 		More famous for being wrong about how evolution occurs
 
 		COMMENT He thought _acquired characteristics_ were inherited
+
+		ADD This should not be a comment
 
 ----------------------------------------------------------------------
 
@@ -285,13 +297,15 @@ Natural selection drives evolution
 		[Selection:] Reproductive success is not random, but
 		is influenced by differences in traits, including heritable traits
 
-	If all four of these assumptions hold, we expect evolution to occur.
+	If all four of these assumptions hold, we expect evolution to occur:
+
+		Traits associated with good reproductive success will become more common
 
 ----------------------------------------------------------------------
 
 Natural selection (short version)
 
-ADD Do a better job about survival of the fittest -- how does it work at the group level?
+ADD Do a better job about survival of the fittest -- how does it work at the group level? (written 2017, don't understand now)
 
 	Evolution by natural selection will occur if there is:
 
@@ -300,12 +314,11 @@ ADD Do a better job about survival of the fittest -- how does it work at the gro
 		[Selection] (i.e., differential reproductive success) _based on_
 		these traits
 
-			Survival is one component of reproductive success; if you
-			don't survive, you can't reproduce.
-
 ----------------------------------------------------------------------
 
 Fitness
+
+	``Survival of the fittest'' is not a very good name for this process
 
 	[Fitness] in biology, or [Darwinian fitness], means simply an
 	ability to do well under natural selection
@@ -313,15 +326,20 @@ Fitness
 	Fitness is thus defined as average reproductive success, given a
 	suite of heritable traits
 
+	Components of fitness:
+
+		survival, growth, reproduction
+
 ----------------------------------------------------------------------
 
-RSLIDE Tuberculosis
+PSLIDE Tuberculosis
 
 SIDEFIG Pearson/F25_ns/25_13_drug_resistance_L.jpg
 
 ----------------------------------------------------------------------
 
-Example: Tuberculosis | Fig 24.13
+Example: Tuberculosis | Fig 22.10
+(2ndEd Fig 24.13)
 
 	What if there were no variation?
 
@@ -336,9 +354,10 @@ Example: Tuberculosis | Fig 24.13
 Other examples
 
 	Galapagos finches' beak sizes evolve as availability of seed
-	resources changes.  | Fig 24.17
+	resources changes.  | Fig 22.14
+(2ndEd Fig 24.17)
 
-	Squirrels! | (see wikipedia)
+	Squirrels! | \url{https://en.wikipedia.org/wiki/Black_squirrel}
 
 ----------------------------------------------------------------------
 
@@ -381,7 +400,8 @@ Activity
 
 ----------------------------------------------------------------------
 
-SEC The nature of adaptation | Sec 24.5
+SEC The nature of adaptation | Sec 22.5
+(2ndEd Sec 24.5)
 
 ----------------------------------------------------------------------
 
@@ -417,7 +437,7 @@ Goal-directed evolution
 
 		Big-brained humans
 
-	ADD If the organism is moving toward a goal, it should move more or less in
+	If the organism is moving toward a goal, it should move more or less in
 	that direction all the time
 
 ----------------------------------------------------------------------
@@ -542,6 +562,8 @@ Acclimation
 
 		COMMENT Digging holes
 
+		ADD Altitude sickness
+
 ----------------------------------------------------------------------
 
 The good of the species
@@ -589,15 +611,13 @@ Historical constraints
 
 		Vestigial traits
 
-		Blind spot in the vertebrate eye
+		Blind spot in the vertebrate eye | \url{https://en.wikipedia.org/wiki/Blind_spot_(vision)}
 
 		Humans are not well designed to be upright
 
 ----------------------------------------------------------------------
 
 PSLIDE Vertebrate blind spot
-
-ADD References to wikipedia here
 
 WIDEFIG webpix/blind_spot.png
 
