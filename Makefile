@@ -143,11 +143,6 @@ Pearson norton jdpix: dir = $(imageDrop)
 Pearson norton jdpix: 
 	$(linkdir)
 
-# Old webpix directory
-# Sources += images
-# webpix/%: webpix
-#	cd images && $(MAKE) files/$*
-
 ######################################################################
 
 ## Pages
@@ -161,7 +156,7 @@ clonedirs += web
 web:
 	git clone https://github.com/Bio1M/Bio1M.github.io.git $@
 
-### Would like to make my own push rules here (like 3SS), so that I can push different kinds of produts to different places. But here they seem to be over-ridden by the rules from unix.mk!
+### Would like to make my own push rules here (like 3SS), so that I can push different kinds of products to different places. But here they seem to be over-ridden by the rules from unix.mk!
 pushdir = web/materials/
 
 ######################################################################
@@ -170,8 +165,10 @@ pushdir = web/materials/
 
 -include $(ms)/webpix.mk
 -include $(ms)/git.mk
--include $(ms)/modules.mk
 -include $(ms)/visual.mk
+
+## Is this good to phase out? Do we lose hotmake? Do we need it here?
+## -include $(ms)/modules.mk
 
 -include $(ms)/newtalk.mk
 -include $(ms)/texdeps.mk
