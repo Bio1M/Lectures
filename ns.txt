@@ -47,7 +47,7 @@ Fossils
 	techniques
 
 	Fossils provide information about the history of life (see Chapter
-	27)
+	XX (2ndEd 27))
 
 	The [fossil record] refers to the collection of all known fossils
 
@@ -83,7 +83,6 @@ NC
 	NOTES Fig 22.4 (24.4 2ndEd)
 
 EC
-
 
 ----------------------------------------------------------------------
 
@@ -313,6 +312,8 @@ ADD Do a better job about survival of the fittest -- how does it work at the gro
 
 		[Selection] (i.e., differential reproductive success) _based on_
 		these traits
+
+	COMMENT Traits associated with good reproductive success will become more common
 
 ----------------------------------------------------------------------
 

@@ -61,7 +61,7 @@ intro.handouts.pdf: intro.txt
 intro.complete.pdf: intro.txt
 intro.outline.pdf: intro.txt
 
-#### Natural selection (P24)
+#### Natural selection (P24 => P22)
 ns.draft.pdf: ns.txt
 ns.final.pdf: ns.txt
 ns.handouts.pdf: ns.txt
