@@ -11,7 +11,7 @@ target: $(target)
 
 ##################################################################
 
-imagelinks = ~/Dropbox/courses/1M
+imageDrop = ~/Dropbox/courses/1M
 
 Sources += Makefile .ignore README.md sub.mk LICENSE.md
 include sub.mk
@@ -22,11 +22,7 @@ include sub.mk
 ##################################################################
 
 ## Local makefiles
-Sources += jd.local
-
-jd.lmk: jd.local
-%.lmk:
-	$(CP) $*.local local.mk
+Ignore += local.mk
 
 ## Formatting
 ## Script is makestuff/newtalk/lect.pl
@@ -60,8 +56,9 @@ intro.final.pdf: intro.txt
 intro.handouts.pdf: intro.txt
 intro.complete.pdf: intro.txt
 intro.outline.pdf: intro.txt
+intro.html: intro.step
 
-#### Natural selection (P24)
+#### Natural selection (P24 => P22)
 ns.draft.pdf: ns.txt
 ns.final.pdf: ns.txt
 ns.handouts.pdf: ns.txt
@@ -136,18 +133,15 @@ Sources += hb.lect
 ######################################################################
 
 ## Images
-## Sort of between styles for making new images …
+## Moving towards makestuff one-level
+Sources += $(wildcard *.step)
 
-## Update location in local.mk if necessary
+## Update imageDrop in local.mk if necessary
+## webpix.mk use this automatically for my_images and webpix
 Ignore += webpix Pearson norton jdpix
-webpix Pearson norton jdpix: dir = $(imagelinks)
-webpix Pearson norton jdpix: 
+Pearson norton jdpix: dir = $(imageDrop)
+Pearson norton jdpix: 
 	$(linkdir)
-
-# Old webpix directory
-# Sources += images
-# webpix/%: webpix
-#	cd images && $(MAKE) files/$*
 
 ######################################################################
 
@@ -162,30 +156,19 @@ clonedirs += web
 web:
 	git clone https://github.com/Bio1M/Bio1M.github.io.git $@
 
-### Would like to make my own push rules here (like 3SS), so that I can push different kinds of produts to different places. But here they seem to be over-ridden by the rules from unix.mk!
+### Would like to make my own push rules here (like 3SS), so that I can push different kinds of products to different places. But here they seem to be over-ridden by the rules from unix.mk!
 pushdir = web/materials/
 
 ######################################################################
 
 ## make postscript
 
+-include $(ms)/webpix.mk
 -include $(ms)/git.mk
--include $(ms)/modules.mk
 -include $(ms)/visual.mk
+
+## Is this good to phase out? Do we lose hotmake? Do we need it here?
+## -include $(ms)/modules.mk
 
 -include $(ms)/newtalk.mk
 -include $(ms)/texdeps.mk
-
-######################################################################
-
-## Testing only
-
-exportdir: $(Sources)
-	$(MAKE) push
-	-/bin/rm -rf $@
-	git clone `git remote get-url origin` $@
-	-cp target.mk $@
-	-$(CP) local.mk $@
-
-%.dirmake: %
-	cd $< && $(MAKE) Makefile && $(MAKE) makestuff && $(MAKE) imagelinks && $(MAKE) && $(MAKE) vtarget
