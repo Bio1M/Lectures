@@ -346,9 +346,9 @@ Heterozygous HLA genes
 
 		ANS Heterozygous people may have more offspring
 
-			COMMENT Effects of this one are more complicated
+			ANS Effects of this one are more complicated
 
-			COMMENT Heterozygotes don't necessarily have heterozygous
+			ANS COMMENT Heterozygotes don't necessarily have heterozygous
 			offspring
 
 		ANS People might be more attracted to people with different HLA
@@ -478,14 +478,22 @@ Balancing selection
 
 Example: The sickle cell phenotype
 
+BC
+
 	Blood cells that can lose their shape and squash malaria parasites!
 
 	Unfortunately, people homozygous for this trait have too much instability
 	and severe anemia
 
-	ANS heterozygote advantage
+	This is an example of:
 
-ADD Picture
+		ANS heterozygote advantage
+
+NC
+
+CFIG webpix/sickle.jpg
+
+EC
 
 ----------------------------------------------------------------------
 
@@ -583,10 +591,10 @@ Fixation and loss
 
 	Disadvantageous alleles are usually (not always) lost
 
-	COMMENT The opposite may happen, at random, in small populations
-
 	Alleles with [neutral] differences (no selective difference) will be
 	fixed or lost at random
+
+		This is also true for alleles with small effects
 
 	Drift tends to reduce genetic variation
 
@@ -650,13 +658,19 @@ Complex organisms
 
 What about sex?
 
-	Sex as an evolutionary process is very complicated
+	Sex does not _directly_ change allele frequencies
 
-		ANS Still active debate on the advantages and disadvantages of sex
+		Your book may say this means it's not an ``evolutionary process'' -- 
+		don't worry about that 
 
-	Sex does act to bring alleles together (and to split them apart)
+	It does act to bring alleles together (and to split them apart)
 
-	Sex does not provide a source of new alleles
+	Sex is not a source of new alleles
+
+		But it is a source of new combinations
+
+	There is still active debate on the advantages and disadvantages of sex in
+	evolution
 
 ----------------------------------------------------------------------
 
@@ -852,3 +866,18 @@ What about people?
 ----------------------------------------------------------------------
 
 Conclusions
+
+	Evolution is amazing!
+
+	[Mutation] (mistakes!) is the source of new variation
+
+	[Natural selection] drives adaptation: selects variation that allows
+	organisms to thrive in diverse settings
+
+	[Sex] facilitates new combinations, but [sexual selection] can work against
+	adaptation to the environment
+
+	[Genetic drift] and [gene flow] are also non-adaptive drivers of evolution
+
+	We are not perfectly evolved
+

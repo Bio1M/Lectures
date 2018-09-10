@@ -1,4 +1,22 @@
 
+2018 
+
+intro: 2 periods
+
+ns: xx periods
+
+processes: xx periods
+
+speciation: xx periods (or a little less, beef it up a bit)
+
+phylogeny: xx periods 
+
+apes: xx periods
+
+Hom and hom: xx periods
+
+review and tech: xx periods
+
 ----------------------------------------------------------------------
 
 Need to rethink, esp. at end. Original plan was probably 1 unit for 9-10, 1 for 11-12, but I apparently did a whole unit on 9, maybe by accident, but it kind of worked.
