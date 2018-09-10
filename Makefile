@@ -65,21 +65,22 @@ ns.handouts.pdf: ns.txt
 ns.complete.pdf: ns.txt
 ns.outline.pdf: ns.txt
 
-#### Evolutionary processes (P25)
+
+#### Evolutionary processes (P25 ⇒ P23)
 processes.draft.pdf: processes.txt
 processes.final.pdf: processes.txt
 processes.handouts.pdf: processes.txt
 processes.complete.pdf: processes.txt
 processes.outline.pdf: processes.txt
 
-#### Speciation (P26)
+#### Speciation (P26 ⇒ P24)
 speciation.draft.pdf: speciation.txt
 speciation.final.pdf: speciation.txt
 speciation.handouts.pdf: speciation.txt
 speciation.complete.pdf: speciation.txt
 speciation.outline.pdf: speciation.txt
 
-#### Phylogeny and the history of life (P27)
+#### Phylogeny and the history of life (P27 ⇒ P25)
 phylogeny.draft.pdf: phylogeny.txt
 phylogeny.final.pdf: phylogeny.txt
 phylogeny.handouts.pdf: phylogeny.txt

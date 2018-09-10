@@ -879,5 +879,3 @@ Conclusions
 
 	[Genetic drift] and [gene flow] are also non-adaptive drivers of evolution
 
-	We are not perfectly evolved
-

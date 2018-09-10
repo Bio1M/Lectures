@@ -47,7 +47,7 @@ Fossils
 	techniques
 
 	Fossils provide information about the history of life (see Chapter
-	XX (2ndEd 27))
+	25 (2ndEd 27))
 
 	The [fossil record] refers to the collection of all known fossils
 
@@ -256,8 +256,7 @@ Identifying homologies
 
 		Genetic evidence and morphological evidence often agree
 
-			We get consistent stories from different lines of evidence, e.g.,
-			whale example | p.~455
+			We get consistent stories from different lines of evidence, e.g., whale example | p.~455
 
 			ADD More about this? don't love the story
 
@@ -393,11 +392,12 @@ Activity
 			ANS You might also want to try raising them in different
 			conditions (wet or dry, more or less food available)
 
-		ANS [Replicate].  Repeat the experiment with different offspring
-		(using different mothers and fathers).
-
 		ANS [Control].  Make all factors except for the beak depths of mothers
 		and fathers as similar as possible
+
+		ANS [Replicate]. Use many offspring (from different mothers and fathers).
+
+		ADD Why is randomization less important here?
 
 ----------------------------------------------------------------------
 
@@ -466,6 +466,8 @@ Inheritance of acquired characteristics
 		experimental populations)
 
 			ANS Or three ``choppy'' and three ``stretchy'' populations
+
+			ANS Randomize which groups get which treatment
 
 ----------------------------------------------------------------------
 
