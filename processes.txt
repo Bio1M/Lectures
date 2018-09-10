@@ -3,6 +3,15 @@ CHAPTER Evolutionary processes
 
 ----------------------------------------------------------------------
 
+EXTRA
+
+	Conflict between balancing and stabilizing? Rationalize with book
+
+	Finish Conclusions slide
+
+----------------------------------------------------------------------
+
+
 Evolution by natural selection
 
 	Is something missing from the story I told last chapter?
@@ -140,7 +149,7 @@ Making simple assumptions
 
 ----------------------------------------------------------------------
 
-Coin flipping
+Activity: Coin flipping
 
 	I flip two fair coins (ie., each coin will land heads with
 	probability 1/2).
@@ -157,7 +166,7 @@ Coin flipping
 
 ----------------------------------------------------------------------
 
-Professional coin flipping
+Activity: Professional coin flipping
 
 	A professional gambler can flip a coin so that it lands heads 70\% of
 	the time.  She flips two coins.
@@ -173,6 +182,7 @@ Professional coin flipping
 	ANS 0.49, 0.09, 0.42
 
 ----------------------------------------------------------------------
+
 
 Hardy-Weinberg distribution
 
@@ -193,6 +203,18 @@ Hardy-Weinberg distribution
 		ANS Because you could get $A_1$ from Mom and $A_2$ from Dad,
 			or $A_1$ from Dad and $A_2$ from Mom
 			\ldots two ways to do it
+
+----------------------------------------------------------------------
+
+PSLIDE Sea turtles
+
+FIG Pearson/F26_processes/26_00_albino_sea_turtle_L.jpg
+
+----------------------------------------------------------------------
+
+PSLIDE Hardy-Weinberg distribution
+
+FIG Pearson/F26_processes/26_02_Hardy_Weinberg_II_L.jpg
 
 ----------------------------------------------------------------------
 
@@ -235,9 +257,10 @@ How do you know a coin is perfectly fair?
 	your evidence that it's more or less close to fair.
 
 	Similarly, we never have evidence that a population is exactly in
-	Hardy-Weinberg equilibrium, we can only evaluate our evidence that
-	it is not in equilibrium, or our evidence that it is close to
-	equilibrium.
+	Hardy-Weinberg equilibrium
+	
+	We can only evaluate our evidence that
+	it is far from (or close to) equilibrium
 
 ----------------------------------------------------------------------
 
@@ -251,8 +274,7 @@ Hardy-Weinberg equilibrium
 
 		ANS No differences in fitness between genotypes
 
-	If these assumptions hold, we expect [Hardy-Weinberg
-	equilibrium]
+	If these assumptions hold exactly, we expect [Hardy-Weinberg equilibrium]
 	
 		Hardy-Weinberg distribution, with no change in allele frequencies
 		from generation to generation.
@@ -290,6 +312,9 @@ Example: Human blood groups
 		ANS They are not in equilibrium, because mating is not random 
 
 		ANS More homozygotes than expected
+
+		ANS These data are telling us different (reasonable) stories at different
+		scales
 
 ----------------------------------------------------------------------
 
@@ -359,7 +384,6 @@ PSLIDE Cliff swallow example
 FIG Pearson/F26_processes/26_05b_directional_select_L.jpg
 
 ----------------------------------------------------------------------
-
 
 Multi-directional selection
 
@@ -437,6 +461,52 @@ FIG webpix/seedcracker.jpg
 PSLIDE Disruptive selection
 
 FIG Pearson/F26_processes/26_07b_disruptive_select_L.jpg
+
+----------------------------------------------------------------------
+
+Balancing selection
+
+	Balancing selection tends to maintain allele diversity
+
+		When there is no single best allele
+
+	[Heterozygote advantage]: when heterozygotes have higher fitness
+
+	[Frequency dependence]: when rare types have higher fitness
+
+----------------------------------------------------------------------
+
+Example: The sickle cell phenotype
+
+	Blood cells that can lose their shape and squash malaria parasites!
+
+	Unfortunately, people homozygous for this trait have too much instability
+	and severe anemia
+
+	ANS heterozygote advantage
+
+ADD Picture
+
+----------------------------------------------------------------------
+
+Example: seedcrackers
+
+BC
+
+	What would happen if almost all of the seedcrackers had large bills?
+
+		ANS Small bills would become an advantage
+
+		ANS Disruptive selection can $\implies$ balancing selection
+
+		ANS But what happens when the two types breed?
+
+NC
+
+CFIG Pearson/F26_processes/26_07b_disruptive_select_L.jpg
+
+EC
+
 
 ----------------------------------------------------------------------
 
@@ -781,4 +851,4 @@ What about people?
 
 ----------------------------------------------------------------------
 
-ADD Conclusion slide
+Conclusions
