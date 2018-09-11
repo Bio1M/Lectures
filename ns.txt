@@ -46,8 +46,9 @@ Fossils
 	Fossils can be dated using (complicated) radiometric and geological
 	techniques
 
-	Fossils provide information about the history of life (see Chapter
-	25 (2ndEd 27))
+	Fossils provide information about the history of life
+	
+		CORRECTION (see Chapter 25 (2ndEd 27))
 
 	The [fossil record] refers to the collection of all known fossils
 
