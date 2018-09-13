@@ -65,7 +65,6 @@ ns.handouts.pdf: ns.txt
 ns.complete.pdf: ns.txt
 ns.outline.pdf: ns.txt
 
-
 #### Evolutionary processes (P25 ⇒ P23)
 processes.draft.pdf: processes.txt
 processes.final.pdf: processes.txt
