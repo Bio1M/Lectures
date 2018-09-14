@@ -7,6 +7,10 @@ EXTRA
 
 	Conflict between balancing and stabilizing? Rationalize with book
 
+	MN Addition example
+
+	A zebra-finch activity
+
 	Finish Conclusions slide
 
 ----------------------------------------------------------------------
@@ -464,7 +468,7 @@ FIG Pearson/F26_processes/26_07b_disruptive_select_L.jpg
 
 ----------------------------------------------------------------------
 
-Balancing selection
+TSS Balancing selection
 
 	Balancing selection tends to maintain allele diversity
 
@@ -508,6 +512,8 @@ BC
 		ANS Disruptive selection can $\implies$ balancing selection
 
 		ANS But what happens when the two types breed?
+
+			COMMENT Stay tuned!
 
 NC
 

@@ -3,7 +3,9 @@
 
 intro: 2 periods
 
-ns: xx periods
+ns: > 2 periods
+
+Currently near end of ns activity 
 
 processes: xx periods
 
