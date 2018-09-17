@@ -7,10 +7,15 @@ EXTRA
 
 	Conflict between balancing and stabilizing? Rationalize with book
 
+		Can't figure out what this means 2018 Sep 17 (~1wk after I wrote it!)
+
+	MN Addition example
+
+	A zebra-finch activity
+
 	Finish Conclusions slide
 
 ----------------------------------------------------------------------
-
 
 Evolution by natural selection
 
@@ -64,7 +69,7 @@ Two definitions of evolution
 
 ----------------------------------------------------------------------
 
-SEC Analyzing genotype frequencies | S25.2
+SEC Analyzing genotype frequencies | S23.1 (2ndEd S25.2)
 
 ----------------------------------------------------------------------
 
@@ -292,6 +297,8 @@ Differences from equilibrium
 	Hardy-Weinberg is a [null model]: it tells us what to expect if
 	complicating effects are absent
 
+	Without a null model, we couldn't start interpreting.
+
 ----------------------------------------------------------------------
 
 PSLIDE Example: Human blood groups
@@ -303,18 +310,25 @@ WIDEFIG Pearson/F26_processes/TB26_1_MN_blood_groups_L.jpg
 Example: Human blood groups
 
 	MN blood groups in different human populations are very close to
-	Hardy-Weinberg equilibrium | Table 25.1
+	Hardy-Weinberg equilibrium | Table 23.1 (2ndEd 25.1)
 
 		No evidence for non-random mating, or for fitness differences.
 
-	What about MN blood groups in the global human population?
+----------------------------------------------------------------------
 
-		ANS They are not in equilibrium, because mating is not random 
+Activity: Human blood groups at the global level
 
-		ANS More homozygotes than expected
+	ANS Observed 0.386; 0.361; 0.253
 
-		ANS These data are telling us different (reasonable) stories at different
-		scales
+	ANS Expected 0.321; 0.491; 0.188
+
+	ANS More homozygotes than expected
+
+	ANS They are not in equilibrium, because mating is not random across these
+	groups
+
+	ANS These data are telling us different (reasonable) stories at different
+	scales
 
 ----------------------------------------------------------------------
 
@@ -324,7 +338,7 @@ WIDEFIG Pearson/F26_processes/TB26_2_HLA_genotypes_L.jpg
 
 ----------------------------------------------------------------------
 
-Example: Human HLA genes | Table 25.2
+Example: Human HLA genes | Table 23.2 (2ndEd 25.2)
 
 	HLA genes are used by the immune system to recognize disease-causing
 	organisms
@@ -348,7 +362,7 @@ Heterozygous HLA genes
 
 			ANS Effects of this one are more complicated
 
-			ANS COMMENT Heterozygotes don't necessarily have heterozygous
+			ANS Heterozygotes don't necessarily have heterozygous
 			offspring
 
 		ANS People might be more attracted to people with different HLA
@@ -358,7 +372,7 @@ Heterozygous HLA genes
 
 ----------------------------------------------------------------------
 
-SEC Types of natural selection | S25.3
+SEC Types of natural selection | S23.2 (2ndEd S25.3)
 
 ----------------------------------------------------------------------
 
@@ -407,7 +421,7 @@ TSS Stabilizing selection
 
 	[Stabilizing selection] tends to keep the population where it is
 
-		Example: human birthweights | Fig 25.4
+		Example: human birthweights | Fig 23.4 (2ndEd 25.4)
 
 ----------------------------------------------------------------------
 
@@ -440,7 +454,7 @@ Connections between selection types
 TSS Disruptive selection
 
 	Disruptive selection favors phenotypes _different_ from the average
-	value | Fig 25.5
+	value | Fig 23.5 (2ndEd 25.5)
 
 		Black-bellied seedcrackers
 
@@ -464,7 +478,7 @@ FIG Pearson/F26_processes/26_07b_disruptive_select_L.jpg
 
 ----------------------------------------------------------------------
 
-Balancing selection
+TSS Balancing selection
 
 	Balancing selection tends to maintain allele diversity
 
@@ -482,8 +496,10 @@ BC
 
 	Blood cells that can lose their shape and squash malaria parasites!
 
-	Unfortunately, people homozygous for this trait have too much instability
-	and severe anemia
+		People heterozygous for this trait get less sick with malaria
+
+		People homozygous for this trait have too much instability and severe
+		anemia
 
 	This is an example of:
 
@@ -491,7 +507,7 @@ BC
 
 NC
 
-CFIG webpix/sickle.jpg
+SIDEFIG webpix/sickle.jpg
 
 EC
 
@@ -503,15 +519,19 @@ BC
 
 	What would happen if almost all of the seedcrackers had large bills?
 
-		ANS Small bills would become an advantage
+		ANS Small bills would become an advantage, an example of \ldots
+
+			ANS frequency dependence
 
 		ANS Disruptive selection can $\implies$ balancing selection
 
 		ANS But what happens when the two types breed?
 
+			COMMENT Stay tuned!
+
 NC
 
-CFIG Pearson/F26_processes/26_07b_disruptive_select_L.jpg
+SIDEFIG Pearson/F26_processes/26_07b_disruptive_select_L.jpg
 
 EC
 
@@ -545,7 +565,7 @@ Thought experiment
 	Now imagine choosing 100 alleles at random (with replacement) from a
 	population of 50 $A$ and 50 $B$ alleles
 
-		Repeat, using new population as a starting point | Fig 25.6
+		Repeat, using new population as a starting point | Fig 23.6 (2ndEd 25.6)
 
 ----------------------------------------------------------------------
 
@@ -600,7 +620,7 @@ Fixation and loss
 
 ----------------------------------------------------------------------
 
-TSS Gene flow | S25.4
+TSS Gene flow | S23.4 (2ndEd S25.4)
 
 	[Gene flow] is the movement of alleles from one population to another
 
@@ -615,7 +635,7 @@ TSS Gene flow | S25.4
 
 ----------------------------------------------------------------------
 
-TSS Mutation | S25.5
+TSS Mutation | S23.5 (2ndEd S25.5)
 
 	[Mutations] are heritable errors in copying DNA
 
@@ -627,6 +647,24 @@ TSS Mutation | S25.5
 		acts
 
 		ANS Mutation is the only source of new alleles
+
+----------------------------------------------------------------------
+
+Types of mutations
+
+	Mutations can occur at many scales:
+
+		a single DNA base might change
+
+		chunks of DNA can be added or subtracted
+
+		whole genes (or whole chromosomes) can be duplicated
+
+	New genetic sequence can come from:
+
+		copying errors
+
+		other organisms! [lateral gene transfer]
 
 ----------------------------------------------------------------------
 
@@ -703,7 +741,11 @@ Inbreeding depression
 
 		As populations get smaller, inbreeding becomes more common
 
-	Human demographic studies show strikingly lower survival for children of first cousins | Table 25.4
+	Wildlife studies show that panthers with both parents from Florida
+	(small population) do not survive well | Fig 23.14
+
+	Human demographic studies show strikingly lower survival for children of
+	first cousins
 
 ----------------------------------------------------------------------
 
@@ -720,7 +762,7 @@ Example: zebra finches
 
 	Males but not females have colorful orange beaks
 
-	Hypothesis: these beaks make males more attractive to females | Fig 25.17
+	Hypothesis: these beaks make males more attractive to females | Fig 23.18 (2ndEd 25.17)
 
 ----------------------------------------------------------------------
 
@@ -730,13 +772,23 @@ FIG Pearson/F26_processes/un/26_08a_zebra_finch_beaks_U.jpg
 
 ----------------------------------------------------------------------
 
-Zebra finch experiments
+Activity: Zebra finch experiments
 
-	Feed some males enriched diets
+	How would you test this hypothesis?
 
-		Their beaks become more orange
+		ANS Make some males' beaks more orange. How?
 
-		They are preferred by females
+		ANS Test whether they they are preferred by females
+
+----------------------------------------------------------------------
+
+Results: Zebra finch experiments
+
+	ANS Treatment males were fed enriched diets
+
+		ANS Their beaks became more orange
+
+		ANS They were preferred by females
 
 	Why not simply find and use birds whose beaks are naturally more or less
 	orange?
@@ -835,7 +887,7 @@ Example: elephant seals
 
 	Huge variation in reproductive success
 
-	Huge size difference between males and females (strong sexual dimorphism) | Fig 25.19
+	Huge size difference between males and females (strong sexual dimorphism) | Fig 23.19 (2ndEd 25.19)
 
 ----------------------------------------------------------------------
 
@@ -857,17 +909,19 @@ What about people?
 
 		ANS But fathers are not always biological fathers
 
+			ANS Could increase advantages of larger males
+
 	To what extent do these principles even apply to people?
 
 		ANS To _some_ extent
 
 		ANS We have complicated brains, and complicated cultures
 
+		ANS Under what conditions did our current traits evolve?
+
 ----------------------------------------------------------------------
 
 Conclusions
-
-	Evolution is amazing!
 
 	[Mutation] (mistakes!) is the source of new variation
 
@@ -878,4 +932,8 @@ Conclusions
 	adaptation to the environment
 
 	[Genetic drift] and [gene flow] are also non-adaptive drivers of evolution
+
+	The adaptation we see is the result of all of these processes:
+
+		adaptive, non-adaptive, previously adaptive
 

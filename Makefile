@@ -13,6 +13,9 @@ target: $(target)
 
 imageDrop = ~/Dropbox/courses/1M
 
+now:
+	@echo $(imageDrop)
+
 Sources += Makefile .ignore README.md sub.mk LICENSE.md
 include sub.mk
 -include $(ms)/perl.def
@@ -113,6 +116,10 @@ final.final.pdf: final.txt
 
 ######################################################################
 
+## Scratchwork here?
+
+mn.Rout: mn.R
+
 ## Not used since importation
 
 #### Behavior (P51?)
@@ -163,6 +170,7 @@ pushdir = web/materials/
 
 ## make postscript
 
+-include $(ms)/wrapR.mk
 -include $(ms)/webpix.mk
 -include $(ms)/git.mk
 -include $(ms)/visual.mk
