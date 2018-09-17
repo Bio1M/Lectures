@@ -1,9 +1,15 @@
 
+Right this second:
+
+	Ready to start goal-directed SS
+
+----------------------------------------------------------------------
+
 2018 
 
 intro: 2 periods
 
-ns: xx periods
+ns: 2 periods
 
 processes: xx periods
 
