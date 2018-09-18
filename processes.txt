@@ -411,9 +411,11 @@ Multi-directional selection
 		Finch beaks get thicker when food is scarce, and smaller when
 		food is abundant 
 
-		Why might small-beaked finches have advantages?
+	Why might small-beaked finches have advantages?
 
-			ANS Lots of reasons!
+		ANS Can use the resources for something else
+
+			ANS Faster growth, more fat storage 
 
 ----------------------------------------------------------------------
 
@@ -519,7 +521,8 @@ BC
 
 	What would happen if almost all of the seedcrackers had large bills?
 
-		ANS Small bills would become an advantage, an example of \ldots
+		ANS More small seeds available, small bills become an advantage, an
+		example of \ldots
 
 			ANS frequency dependence
 
