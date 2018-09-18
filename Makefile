@@ -118,7 +118,10 @@ final.final.pdf: final.txt
 
 ## Scratchwork here?
 
+Sources += $(wildcard *.R)
 mn.Rout: mn.R
+
+######################################################################
 
 ## Not used since importation
 
