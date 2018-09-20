@@ -75,6 +75,11 @@ processes.handouts.pdf: processes.txt
 processes.complete.pdf: processes.txt
 processes.outline.pdf: processes.txt
 
+## Flopped sickle looks like Taiwan; don't worry about it
+Ignore += sickle.jpg
+sickle.jpg: webpix/sickle.jpg 
+	convert -flop $< $@
+
 #### Speciation (P26 ⇒ P24)
 # speciation.2nd: speciation.txt
 speciation.draft.pdf: speciation.txt
