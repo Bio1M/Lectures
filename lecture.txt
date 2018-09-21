@@ -9,10 +9,12 @@ Right this second:
 
 intro: 2 periods
 
-ns: 2 periods
-* Currently near end of ns activity 
+ns: 2.7 periods
+
+St. Louis 1 period
 
 processes: xx periods
+* Started 2/3 of the way through on Tue
 
 speciation: xx periods (or a little less, beef it up a bit)
 

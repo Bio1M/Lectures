@@ -238,6 +238,8 @@ Example: calculating allele frequencies
 
 		ANS We see more homozygotes than expected
 
+			ANS We can always summarize this way if allele frequency is right
+
 		ANS But is this reliable evidence?  That's a question for statistics.
 
 ----------------------------------------------------------------------
@@ -266,6 +268,8 @@ How do you know a coin is perfectly fair?
 	
 	We can only evaluate our evidence that
 	it is far from (or close to) equilibrium
+
+	COMMENT Or that we have more (or less) homozygotes than expected
 
 ----------------------------------------------------------------------
 
