@@ -3,20 +3,6 @@ CHAPTER Evolutionary processes
 
 ----------------------------------------------------------------------
 
-EXTRA
-
-	Conflict between balancing and stabilizing? Rationalize with book
-
-		Can't figure out what this means 2018 Sep 17 (~1wk after I wrote it!)
-
-	MN Addition example
-
-	A zebra-finch activity
-
-	Finish Conclusions slide
-
-----------------------------------------------------------------------
-
 Evolution by natural selection
 
 	Is something missing from the story I told last chapter?
@@ -129,6 +115,9 @@ Example: peppered moths
 	If $XY$ individuals have an intermediate phenotype (between $XX$ and
 	$YY$, we say $X$ and $Y$ are [co-dominant].
 
+		CORRECTION or incompletely dominant; don't worry about the distinction
+		for now
+
 ----------------------------------------------------------------------
 
 Analyzing genotype frequencies
@@ -173,8 +162,8 @@ Activity: Coin flipping
 
 Activity: Professional coin flipping
 
-	A professional gambler can flip a coin so that it lands heads 70\% of
-	the time.  She flips two coins.
+	CORRECTION A professional gambler can flip a coin so that it lands heads 70%
+	of the time.  She flips two coins.
 
 	What is the probability of:
 
@@ -282,6 +271,8 @@ Hardy-Weinberg equilibrium
 		ANS Random mating within a closed population
 
 		ANS No differences in fitness between genotypes
+
+		COMMENT No mutation, no drift (see below)
 
 	If these assumptions hold exactly, we expect [Hardy-Weinberg equilibrium]
 	
@@ -451,9 +442,10 @@ Connections between selection types
 
 		ANS Human brains
 
-		ANS Almost everything
+		ANS Almost everything we see
 
-			ANS at any given time
+			ANS Things often develop by directional selection, but at any given
+			time, most of what we see is under stabilizing selection
 
 ----------------------------------------------------------------------
 

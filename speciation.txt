@@ -3,13 +3,13 @@ CHAPTER Speciation
 
 ----------------------------------------------------------------------
 
-TSEC How are species defined? | S26.1
+TSEC How are species defined? | S24.1 (2ndEd S26.1)
 
 	Conceptually, we define species as ``evolutionary units'':
 
 		Individuals within a species are evolving together
 
-		Individuals of different species evolve independently | (Fig 26.1)
+		Individuals of different species evolve independently | (Fig 24.1) (2ndEd (Fig 26.1))
 
 	It is difficult to make this conceptual definition into a practical
 	definition
@@ -167,7 +167,7 @@ TSS Phylogenetic species concept
 	A [monophyletic group] is a group _defined by_ a single common
 	ancestor
 
-		All descendants of the ancestor must be in the group | Fig 26.2
+		All descendants of the ancestor must be in the group | Fig 24.2 (2ndEd Fig 26.2)
 
 ----------------------------------------------------------------------
 
@@ -210,9 +210,11 @@ Generating species
 
 	One species can gradually evolve into another
 
-		COMMENT We can't say exactly when the switch occurs
+		We can't say exactly when the switch occurs
 
 	Species can also [diverge]: one species splits into two species
+
+		Divergence is the origin of [diversity]
 
 ----------------------------------------------------------------------
 
@@ -234,7 +236,7 @@ How do species split?
 
 ----------------------------------------------------------------------
 
-TSEC Species divergence in allopatry | S26.2
+TSEC Species divergence in allopatry | S24.2 (2ndEd S26.2)
 
 	[Allopatry] refers to organisms living apart from each other
 
@@ -248,7 +250,7 @@ TSEC Species divergence in allopatry | S26.2
 			ANS Different environments, or different adaptive mutations
 
 	How can two populations of the same species be isolated from each
-	other? | Fig 26.5
+	other? | Fig 24.5
 
 ----------------------------------------------------------------------
 
@@ -287,6 +289,10 @@ TSS Vicariance
 
 ----------------------------------------------------------------------
 
+EXTRA
+
+Replace with the dumb trumpeter picture if time
+
 PICSLIDE HIGHFIG Pearson/F27_speciation/27_05a_vicariance.jpg
 
 ----------------------------------------------------------------------
@@ -308,7 +314,7 @@ EC
 
 ----------------------------------------------------------------------
 
-TSEC Species divergence in sympatry | S26.3
+TSEC Species divergence in sympatry | S26.3 (2ndEd S26.3)
 
 	[Sympatry] refers to organisms living in the same geographic area
 
@@ -329,7 +335,7 @@ TSEC Species divergence in sympatry | S26.3
 
 ----------------------------------------------------------------------
 
-Divergence by partitioning habitats | Fig 26.10
+Divergence by partitioning habitats | Fig 26.10 (2ndEd Fig 26.10)
 
 	Insects that feed on many different plants may be subject to
 	divergent selection
@@ -369,7 +375,7 @@ Other mechanisms of divergence
 
 ----------------------------------------------------------------------
 
-TSEC Reuniting | S26.4
+TSEC Reuniting | S26.4 (2ndEd S26.4)
 
 	What happens when isolated populations come back into contact?
 
@@ -435,7 +441,7 @@ TSS Exclusion
 	One species might eliminate the other species, either by
 	competition, or by better success in mating
 
-		Warblers competing for mates | Fig 26.12
+		Warblers competing for mates | Fig 26.12 (2ndEd Fig 26.12)
 
 		Modern humans
 
@@ -462,7 +468,9 @@ TSS New species
 		Some combination of genes from the two species may lead to a new
 		adaptation
 
-		Sunflower example, p.~516--518
+		Sunflower example | p.~516--518
+
+	ADD REF NOT UPDATED!
 
 ----------------------------------------------------------------------
 

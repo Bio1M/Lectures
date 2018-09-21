@@ -75,7 +75,13 @@ processes.handouts.pdf: processes.txt
 processes.complete.pdf: processes.txt
 processes.outline.pdf: processes.txt
 
+## Flopped sickle looks like Taiwan; don't worry about it
+Ignore += sickle.jpg
+sickle.jpg: webpix/sickle.jpg 
+	convert -flop $< $@
+
 #### Speciation (P26 ⇒ P24)
+# speciation.2nd: speciation.txt
 speciation.draft.pdf: speciation.txt
 speciation.final.pdf: speciation.txt
 speciation.handouts.pdf: speciation.txt
@@ -100,6 +106,11 @@ apes.outline.pdf: apes.txt
 ## A special file to make complete notes for the test
 midterm1.txt: apes.txt Makefile
 	perl -npe "last if /Challenges/" $< | perl -npe "s/CHAPTER.*/CHAPTER Midterm 1 extra notes/" > $@
+
+## Add second edition marker (too geeky!)
+Sources += 2nd.pl
+%.2nd: %.txt 2nd.pl
+	$(PIPUSH)
 
 midterm1.complete.pdf: apes.txt
 
