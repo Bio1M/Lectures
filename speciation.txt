@@ -3,15 +3,7 @@ CHAPTER Speciation
 
 ----------------------------------------------------------------------
 
-EXTRA
-
-	More about warblers
-
-	Humans
-
-	Maggots
-
-	Other EXTRA/ADD
+EXTRA/ADD
 
 ----------------------------------------------------------------------
 
