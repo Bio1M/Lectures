@@ -90,6 +90,9 @@ Pre- vs.~post-zygotic mechanisms
 		ANS Example: it takes a lot of resources for a horse to birth and raise a
 		mule, but there is no long-term fitness benefit
 
+		ANS When post-zygotic isolation is happening, there will be natural
+		selection for pre-zygotic isolation
+
 ----------------------------------------------------------------------
 
 Disadvantages of the biological species concept
@@ -102,12 +105,6 @@ Disadvantages of the biological species concept
 
 		ANS What if two populations rarely come into contact because of
 		geographic distance?
-
-----------------------------------------------------------------------
-
-EXTRA A species ring example?
-
-Maybe somewhere else lower down? Problem not specific to biological concept
 
 ----------------------------------------------------------------------
 
