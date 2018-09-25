@@ -288,13 +288,7 @@ TSS Vicariance
 
 ----------------------------------------------------------------------
 
-EXTRA
-
-Replace with the dumb trumpeter picture if time
-
-----------------------------------------------------------------------
-
-PICSLIDE HIGHFIG Pearson/F27_speciation/27_05a_vicariance.jpg
+PICSLIDE HIGHFIG freeman/L24/fg24_05.jpg
 
 ----------------------------------------------------------------------
 
@@ -395,7 +389,7 @@ Polyploidy
 
 ----------------------------------------------------------------------
 
-PICSLIDE WIDEFIG freeman/L24/
+PICSLIDE HIGHFIG freeman/L24/fg24_10.jpg
 
 ----------------------------------------------------------------------
 
