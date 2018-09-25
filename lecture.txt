@@ -1,8 +1,8 @@
 
 Right this second:
 
-	Morning: Oem
-	Midday: ??
+	Morning: Y males?
+	Midday: 
 
 ----------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ ns: 2.7 periods
 
 St. Louis 1 period
 
-processes: xx periods
+processes: >3 periods
 * Started 2/3 of the way through on Tue
 
 speciation: xx periods (or a little less, beef it up a bit)

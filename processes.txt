@@ -777,7 +777,7 @@ Activity: Zebra finch experiments
 
 		ANS Make some males' beaks more orange. How?
 
-		ANS Test whether they they are preferred by females
+		ANS Test whether they are preferred by females
 
 ----------------------------------------------------------------------
 
