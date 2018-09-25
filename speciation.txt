@@ -230,10 +230,8 @@ How do species split?
 		ANS Usually isolation: with too much gene flow populations can't
 		diverge
 
-		ANS There is often a loop: isolation allows divergence causes natural
-		selection for more divergence
-
-			ANS Don't want to waste resources on less-fit hybrid offspring
+		ANS There is often a loop: isolation allows divergence,
+		which causes natural selection for more divergence
 
 ----------------------------------------------------------------------
 
@@ -353,7 +351,11 @@ Divergence by partitioning habitats | Fig 24.7 \second{Fig 26.10}
 	In other cases, individuals may mate preferentially with individuals
 	with the same host plant, and divergence may occur
 
-	ADD maggot fly picture; soapberry picture?
+----------------------------------------------------------------------
+
+PICSLIDE
+
+WIDEFIG freeman/Ch24/fg24_07.jpg
 
 ----------------------------------------------------------------------
 
@@ -389,7 +391,13 @@ Polyploidy
 		ANS Two copies of each gene, so it may be possible to keep one and mutate
 		one
 
-	ADD Picture from book; Clawed frog picture
+	ADD Picture from book; or check if there's a panelled version
+
+----------------------------------------------------------------------
+
+PSLIDE 
+
+FIG webpix/clawed_frog.jpg
 
 ----------------------------------------------------------------------
 
