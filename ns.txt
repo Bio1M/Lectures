@@ -584,6 +584,8 @@ The good of the species
 
 	Do lemmings commit suicide?
 
+	ADD This is in the ecology section of the book now; move it out from here?
+
 ----------------------------------------------------------------------
 
 PSLIDE A lemming not committing suicide
