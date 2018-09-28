@@ -106,12 +106,6 @@ apes.outline.pdf: apes.txt
 ## A special file to make complete notes for the test
 midterm1.txt: apes.txt Makefile
 	perl -npe "last if /Challenges/" $< | perl -npe "s/CHAPTER.*/CHAPTER Midterm 1 extra notes/" > $@
-
-## Add second edition marker (too geeky!)
-Sources += 2nd.pl
-%.2nd: %.txt 2nd.pl
-	$(PIPUSH)
-
 midterm1.complete.pdf: apes.txt
 
 homo.draft.pdf: homo.txt
@@ -126,6 +120,11 @@ final.draft.pdf: final.txt
 final.final.pdf: final.txt
 
 ######################################################################
+
+## Add second edition marker (too geeky!)
+Sources += 2nd.pl
+%.2nd: %.txt 2nd.pl
+	$(PIPUSH)
 
 ## Scratchwork here?
 
