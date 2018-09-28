@@ -72,7 +72,7 @@ Sister taxa
 
 		two taxa that share a common node
 
-		You need to take the whole taxon, when appropriate
+		You need to take the whole taxon
 
 	E.g., sisters of: _Homo sapiens_; _Homo erectus_; humans?
 

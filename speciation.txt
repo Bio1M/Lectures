@@ -3,10 +3,6 @@ CHAPTER Speciation
 
 ----------------------------------------------------------------------
 
-EXTRA/ADD
-
-----------------------------------------------------------------------
-
 TSEC How are species defined? | S24.1 \second{S26.1}
 
 	Conceptually, we define species as ``evolutionary units'':
@@ -87,11 +83,13 @@ Pre- vs.~post-zygotic mechanisms
 
 		ANS Pre-zygotic mechanisms mean less wasted effort
 
+		ANS When post-zygotic isolation is happening, there will be natural
+		selection for pre-zygotic isolation
+
 		ANS Example: it takes a lot of resources for a horse to birth and raise a
 		mule, but there is no long-term fitness benefit
 
-		ANS When post-zygotic isolation is happening, there will be natural
-		selection for pre-zygotic isolation
+			ANS This is presumably why they in fact rarely mate
 
 ----------------------------------------------------------------------
 
@@ -288,13 +286,19 @@ TSS Vicariance
 
 ----------------------------------------------------------------------
 
-EXTRA
-
-Replace with the dumb trumpeter picture if time
+PICSLIDE WIDEFIG freeman/24L/24_05a_vicariance-L.jpg
 
 ----------------------------------------------------------------------
 
-PICSLIDE HIGHFIG Pearson/F27_speciation/27_05a_vicariance.jpg
+PICSLIDE WIDEFIG freeman/24L/24_05b_vicariance-L.jpg
+
+----------------------------------------------------------------------
+
+PICSLIDE WIDEFIG freeman/24L/24_05c_vicariance-L.jpg
+
+----------------------------------------------------------------------
+
+PICSLIDE WIDEFIG freeman/24L/24_05d_vicariance-L.jpg
 
 ----------------------------------------------------------------------
 
@@ -359,6 +363,12 @@ WIDEFIG freeman/Ch24/fg24_07.jpg
 
 ----------------------------------------------------------------------
 
+PICSLIDE
+
+HIGHFIG freeman/L24/fg24_08.jpg
+
+----------------------------------------------------------------------
+
 TSS Genetic incompatibility
 
 	Divergence can also occur when mutation causes genetic
@@ -370,10 +380,13 @@ TSS Genetic incompatibility
 	Genetic incompatibility is less likely to produce divergence than physical
 	separation
 
-		ANS The populations will still compete,
-		and one may drive the other extinct
+		ANS The populations will still compete, and one may drive the other
+		extinct
 
-		ANS Reproductive isolation and disruptive selection may work together
+		ANS Or, reproductive isolation and disruptive selection may work together
+		to make divergence more likely
+		
+			ANS or less unlikely
 
 ----------------------------------------------------------------------
 
@@ -391,13 +404,13 @@ Polyploidy
 		ANS Two copies of each gene, so it may be possible to keep one and mutate
 		one
 
-	ADD Picture from book; or check if there's a panelled version
+----------------------------------------------------------------------
+
+PICSLIDE HIGHFIG freeman/L24/fg24_10.jpg
 
 ----------------------------------------------------------------------
 
-PSLIDE 
-
-FIG webpix/clawed_frog.jpg
+PICSLIDE FIG webpix/clawed_frog.jpg
 
 ----------------------------------------------------------------------
 
@@ -544,8 +557,8 @@ Sunflowers | p.~510--512 \second{516--518}
 
 		ANS Rarely seems to happen
 
-		ANS We don't expect barriers to hybridization unless the hybrid is less
-		fit
+		ANS If the hybrid has high fitness, why would reproductive isolation
+		evolve? 
 
 	How did it happen?
 
@@ -571,3 +584,4 @@ Conclusion
 		Particularly if we want definitions that include both asexual and sexual
 		species
 
+	ADD this is kind of a short Conclusion
