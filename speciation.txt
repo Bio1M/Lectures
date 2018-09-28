@@ -201,7 +201,7 @@ Defining species
 
 		No one way is agreed to be the best
 
-	Usually we know more or less what we mean be a species, though
+	CORRECTION Usually we know more or less what we mean by a species, though
 
 ----------------------------------------------------------------------
 
@@ -231,7 +231,7 @@ How do species split?
 		diverge
 
 		ANS There is often a loop: isolation allows divergence,
-		which causes natural selection for more divergence
+		which causes natural selection for more isolation
 
 ----------------------------------------------------------------------
 
