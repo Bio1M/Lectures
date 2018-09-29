@@ -3,13 +3,19 @@ EXTRA
 
 STAR tag for guessing game?
 
+Update all pipe references (22ndEd)
+
+Check (or update ALL older figures?)
+
+Label Activity points
+
 ----------------------------------------------------------------------
 
 CHAPTER Chapter 27: Phylogeny and the history of life
 
 ----------------------------------------------------------------------
 
-TSEC Phylogeny | S27.1; Bioskills 3 (back of book)
+TSEC Phylogeny | S27.1; Bioskills 3 (back of book) (22ndEd S27.1; Bioskills 3 (back of book))
 
 	Phylogeny is the evolutionary history of a group of organisms
 
@@ -20,7 +26,7 @@ TSEC Phylogeny | S27.1; Bioskills 3 (back of book)
 
 ----------------------------------------------------------------------
 
-Phylogenetic trees | Fig B3.1--2
+Phylogenetic trees | Fig B3.1--2 (22ndEd Fig B3.1--2)
 
 	A [phylogenetic tree] is a model of how a group of organisms
 	descended from a common ancestor
@@ -58,7 +64,7 @@ Monophyletic group
 
 		What are some prominent groups that are not clades?
 
-			ANS apes, reptiles, dinosaurs
+			ANS apes, reptiles, trees
 
 ----------------------------------------------------------------------
 
@@ -89,9 +95,16 @@ Reading phylogenetic trees
 
 	A tree is a model of how evolution occurred
 
-		Trees that correspond to the same model are considered equivalent | Figure B3.3
+		Trees that correspond to the same model are considered equivalent | Figure B3.3 (22ndEd Figure B3.3)
 
 ----------------------------------------------------------------------
+
+PICSLIDE WIDEFIG Pearson/F_skills/B07_2_phylo_tree_example.jpg
+
+----------------------------------------------------------------------
+
+PSLIDE Activity: which of these things is not like the others?
+
 
 PICSLIDE WIDEFIG Pearson/F_skills/B07_3_alternate_phylo_trees.jpg
 
@@ -144,8 +157,8 @@ Morphological vs. genetic characteristics
 			ANS Most fossil organisms
 
 		COMMENT Some viruses evolve so fast that morphological
-		characteristics _may_ be more stable than genetic
-		characteristics in some cases!
+		characteristics can be more stable than genetic
+		characteristics
 
 ----------------------------------------------------------------------
 
@@ -167,7 +180,7 @@ Phenetic vs. cladistic analysis
 		-- e.g., certain molecular techniques
 
 		COMMENT Sometimes phenetic techniques are used for
-		computational convenience -- this can be dangerous
+		computational convenience -- can lead to wrong answers
 
 ----------------------------------------------------------------------
 
@@ -181,9 +194,23 @@ Synapomorphies
 		ANS Because derived characters correspond to changes we must
 		explain with our evolutionary model (phylogeny)
 
-		Example: flight in oaks, birds, fish
+----------------------------------------------------------------------
 
-		Example: flight in mosquitoes, birds, fish
+Activity: Flight as evidence
+
+	Oaks and fish don't fly, but birds do
+
+		ANS No evidence (we're pretty sure that the common ancestor didn't fly)
+
+		ANS Flight evolved once in either case
+
+	Mosquitoes and birds fly, but fish don't
+
+		ANS Evidence (flight might have evolved once or twice on this tree)
+
+		ANS But this evidence points in the wrong direction
+
+			ANS This is why we combine evidence from different sources
 
 ----------------------------------------------------------------------
 
@@ -192,9 +219,11 @@ What characters are derived?
 	Derived compared to what?
 
 		The common ancestor (characteristics of the common ancestor are
-		called [basal] characters).  
+		called [basal] or [ancestral] characters).  
 
-			COMMENT Example: ostriches, hawks, sparrows
+			What if our flight example was ostriches, hawks, and sparrows?
+
+			ANS No evidence for similarity between hawks and sparrows
 
 		A [derived] character is a character not shared by the common
 		ancestor of the group that we are currently thinking about
@@ -236,7 +265,7 @@ Confusing the phylogeny
 		This can be even more confusing
 
 	Similarities that are not homologies (ie., not due to common
-	ancestry) are called [homoplasies] | Fig.~27.2
+	ancestry) are called [homoplasies] | Fig.~27.2 (22ndEd Fig.~27.2)
 
 ----------------------------------------------------------------------
 
@@ -311,7 +340,7 @@ PICSLIDE HIGHFIG Pearson/F28_phylogeny/28_04b_whale_phylogeny.jpg
 
 ----------------------------------------------------------------------
 
-Confirmation | Fig 24.11
+Confirmation | Fig 24.11 (22ndEd Fig 24.11)
 
 BCC
 
@@ -362,7 +391,7 @@ Phylogenetic trees are approximations!
 
 ----------------------------------------------------------------------
 
-SEC The history of life | S1.4
+SEC The history of life | S1.4 (22ndEd S1.4)
 
 ----------------------------------------------------------------------
 
@@ -378,7 +407,7 @@ TSS The shape of the tree
 
 ----------------------------------------------------------------------
 
-Three domains | Fig 1.6
+Three domains | Fig 1.6 (22ndEd Fig 1.6)
 
 	Bacteria
 
@@ -435,9 +464,9 @@ Five kingdoms
 
 ----------------------------------------------------------------------
 
-TSS The fossil record | (pp.~526--528)
+TSS The fossil record | (pp.~526--528) (22ndEd (pp.~526--528))
 
-	A [fossil] is a physical trace of an organism from the past | Fig 27.7
+	A [fossil] is a physical trace of an organism from the past | Fig 27.7 (22ndEd Fig 27.7)
 
 		Intact fossils retain their form and substance
 
@@ -541,7 +570,7 @@ TSEC Processes of diversification
 
 ----------------------------------------------------------------------
 
-TSS Adaptive radiations | pp.~530--534
+TSS Adaptive radiations | pp.~530--534 (22ndEd pp.~530--534)
 
 	An [adaptive radiation] occurs when a single lineage produces many
 	descendant species, in a short period of time, that make their
@@ -585,11 +614,11 @@ Colonization
 	
 		What is the same, and what is different, between similar cases?
 
-		Finches | (earlier chapters)
+		Finches | (earlier chapters) (22ndEd (earlier chapters))
 
-		Silverswords in Hawaii | Fig 27.14
+		Silverswords in Hawaii | Fig 27.14 (22ndEd Fig 27.14)
 
-		Anolis lizards | Fig 27.15
+		Anolis lizards | Fig 27.15 (22ndEd Fig 27.15)
 
 ----------------------------------------------------------------------
 
@@ -634,7 +663,7 @@ Morphological innovation
 
 ----------------------------------------------------------------------
 
-Hox genes | Fig 27.21
+Hox genes | Fig 27.21 (22ndEd Fig 27.21)
 
 	[Hox genes] are involved in determining the identity of different
 	body parts
@@ -672,7 +701,7 @@ Gene duplication
 
 ----------------------------------------------------------------------
 
-TSS Mass extinctions | (pp.~575-578)
+TSS Mass extinctions | (pp.~575-578) (22ndEd (pp.~575-578))
 
 	Five major mass extinctions so far
 
