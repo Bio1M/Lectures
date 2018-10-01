@@ -1,11 +1,13 @@
 
 EXTRA
 
+ADD
+
 STAR tag for guessing game?
 
-Update all pipe references (22ndEd)
-
 Check (or update ALL older figures?)
+
+	Hee-hee!
 
 Label Activity points
 
@@ -15,7 +17,9 @@ CHAPTER Chapter 27: Phylogeny and the history of life
 
 ----------------------------------------------------------------------
 
-TSEC Phylogeny | S27.1; Bioskills 3 (back of book) (22ndEd S27.1; Bioskills 3 (back of book))
+TSEC Phylogeny | S25.1; Bioskill 11 \second{S27.1; Bioskills 3}
+
+	NOTES \textsl{Bioskills are in the back of your book}
 
 	Phylogeny is the evolutionary history of a group of organisms
 
@@ -26,7 +30,7 @@ TSEC Phylogeny | S27.1; Bioskills 3 (back of book) (22ndEd S27.1; Bioskills 3 (b
 
 ----------------------------------------------------------------------
 
-Phylogenetic trees | Fig B3.1--2 (22ndEd Fig B3.1--2)
+Phylogenetic trees 
 
 	A [phylogenetic tree] is a model of how a group of organisms
 	descended from a common ancestor
@@ -95,7 +99,8 @@ Reading phylogenetic trees
 
 	A tree is a model of how evolution occurred
 
-		Trees that correspond to the same model are considered equivalent | Figure B3.3 (22ndEd Figure B3.3)
+		Trees that correspond to the same model are considered equivalent | (see
+		Bioskill)
 
 ----------------------------------------------------------------------
 
@@ -196,7 +201,7 @@ Synapomorphies
 
 ----------------------------------------------------------------------
 
-Activity: Flight as evidence
+Flight as evidence
 
 	Oaks and fish don't fly, but birds do
 
@@ -265,7 +270,11 @@ Confusing the phylogeny
 		This can be even more confusing
 
 	Similarities that are not homologies (ie., not due to common
-	ancestry) are called [homoplasies] | Fig.~27.2 (22ndEd Fig.~27.2)
+	ancestry) are called [homoplasies] | Fig.~25.3 \second{Fig.~27.2}
+
+	ADD 25.2
+
+	ADD This pic?
 
 ----------------------------------------------------------------------
 
@@ -304,7 +313,7 @@ PICSLIDE HIGHFIG Pearson/F28_phylogeny/28_04a_whale_phylogeny.jpg
 
 ----------------------------------------------------------------------
 
-Tree-construction analysis
+Activity: Tree-construction analysis
 
 	Hippos have derived characters A, B, C, D, Z
 
@@ -340,7 +349,7 @@ PICSLIDE HIGHFIG Pearson/F28_phylogeny/28_04b_whale_phylogeny.jpg
 
 ----------------------------------------------------------------------
 
-Confirmation | Fig 24.11 (22ndEd Fig 24.11)
+Confirmation
 
 BCC
 
@@ -374,6 +383,18 @@ Lessons
 
 ----------------------------------------------------------------------
 
+Genetic vs.~morphological
+
+	Why was the genetic analysis more effective than the morphological?
+
+		ANS It can be hard to tell which traits are derived
+
+			ANS This can also be a problem with the genetic analysis
+
+		ANS Genetic analyses typically allow us to analyze more traits
+
+----------------------------------------------------------------------
+
 Phylogenetic trees are approximations!
 
 	Phylogenetic trees are tremendously useful and powerful tools for
@@ -386,12 +407,13 @@ Phylogenetic trees are approximations!
 			Sex, other forms of combination or gene transfer
 
 		Trees constructed by humans are not necessarily even the best
-		approximations to the true history of life (and our guesses may
-		change over time)
+		approximations to the true history of life 
+		
+		Our guesses often change over time
 
 ----------------------------------------------------------------------
 
-SEC The history of life | S1.4 (22ndEd S1.4)
+SEC The history of life | S1.5 \second{S1.4}
 
 ----------------------------------------------------------------------
 
@@ -407,7 +429,7 @@ TSS The shape of the tree
 
 ----------------------------------------------------------------------
 
-Three domains | Fig 1.6 (22ndEd Fig 1.6)
+Three domains | Fig 1.7 \second{Fig 1.6}
 
 	Bacteria
 
@@ -443,10 +465,25 @@ Eukaryotes
 
 		Nobody knows
 
+
+----------------------------------------------------------------------
+
+The web of life
+
 	The tree is only part of the story!
 
 		If genes (or even whole bacteria) can be transferred, life is not really
 		a tree
+
+	Reuniting can create new species
+
+		Hybridization or allopolyploidy
+
+	Wolf-coyote example | \url{http://advances.sciencemag.org/content/2/7/e1501714}
+
+----------------------------------------------------------------------
+
+PIC HIGHFIG webpix/wolf_coyote.jpg
 
 ----------------------------------------------------------------------
 
@@ -459,14 +496,17 @@ Five kingdoms
 		ANS It matches the way the world _looks_ -- animals, plants and fungi
 		dominate _visible_ life
 
+			ANS Some branches are have organisms that are much smaller, or just
+			have much fewer organisms
+
 		ANS Archaea and bacteria are difficult to tell apart even with a
 		microscope
 
 ----------------------------------------------------------------------
 
-TSS The fossil record | (pp.~526--528) (22ndEd (pp.~526--528))
+TSS The fossil record | pp.~520--522 \second{pp.~526--528}
 
-	A [fossil] is a physical trace of an organism from the past | Fig 27.7 (22ndEd Fig 27.7)
+	A [fossil] is a physical trace of an organism from the past | Table 25.4 \second{Fig 27.7}
 
 		Intact fossils retain their form and substance
 
@@ -517,6 +557,9 @@ Accounting for biases
 	Trying to figure out what happened based on what kind of fossils we
 	happen to find is tricky
 
+	Orchid phylogeny | \url{http://www.nature.com/news/2007/070829/full/news070827-4.html}
+
+
 ----------------------------------------------------------------------
 
 PICSLIDE WIDEFIG jdpix/bee.jpg
@@ -527,7 +570,7 @@ PICSLIDE WIDEFIG jdpix/pollen.jpg
 
 ----------------------------------------------------------------------
 
-TSS Putting the timeline together
+TSS Putting the timeline together | Fig.~25.6--7
 
 	Dates of specimens can be inferred using radioactive isotopes (harder than it sounds)
 
@@ -543,7 +586,7 @@ TSS Putting the timeline together
 
 ----------------------------------------------------------------------
 
-RSLIDE Guessing game
+FUNSLIDE Guessing game
 
 	For most of Earth's history, there has been:
 
@@ -570,7 +613,7 @@ TSEC Processes of diversification
 
 ----------------------------------------------------------------------
 
-TSS Adaptive radiations | pp.~530--534 (22ndEd pp.~530--534)
+TSS Adaptive radiations | pp.~525--527 \second{pp.~530--534}
 
 	An [adaptive radiation] occurs when a single lineage produces many
 	descendant species, in a short period of time, that make their
@@ -614,18 +657,17 @@ Colonization
 	
 		What is the same, and what is different, between similar cases?
 
-		Finches | (earlier chapters) (22ndEd (earlier chapters))
+		Finches | (earlier chapters) 
 
-		Silverswords in Hawaii | Fig 27.14 (22ndEd Fig 27.14)
+		Silverswords in Hawaii | Fig 25.8 \second{Fig 27.14}
 
-		Anolis lizards | Fig 27.15 (22ndEd Fig 27.15)
+		Anolis lizards | Fig 25.9 \second{Fig 27.15}
 
 ----------------------------------------------------------------------
 
 PICSLIDE WIDEFIG Pearson/F28_phylogeny/28_10c_Anolis_radiation.jpg
 
 ----------------------------------------------------------------------
-
 
 Competition
 
@@ -648,9 +690,7 @@ Morphological innovation
 		
 			insects, arachnids, crustaceans \ldots
 
-		STRIKE The arthropod body plan
-
-		CORRECTION The {tetrapod} body plan
+		The tetrapod body plan
 		
 			reptiles, mammals \ldots
 
@@ -663,7 +703,7 @@ Morphological innovation
 
 ----------------------------------------------------------------------
 
-Hox genes | Fig 27.21 (22ndEd Fig 27.21)
+Hox genes | Fig 25.14 \second{Fig 27.21}
 
 	[Hox genes] are involved in determining the identity of different
 	body parts
@@ -676,9 +716,10 @@ Hox genes | Fig 27.21 (22ndEd Fig 27.21)
 	Evidence that new hox genes were largely created by [gene
 	duplication] events
 
-		ADD A kind of mutation; random change
+		A rare but important type of mutation
 
-		ADD If it persists, it was selected for
+		Natural selection must have played a role in the development of this much
+		complexity
 
 ----------------------------------------------------------------------
 
@@ -701,7 +742,7 @@ Gene duplication
 
 ----------------------------------------------------------------------
 
-TSS Mass extinctions | (pp.~575-578) (22ndEd (pp.~575-578))
+TSS Mass extinctions | S25.4 \second{pp.~575-578}
 
 	Five major mass extinctions so far
 
@@ -724,7 +765,11 @@ Conclusion
 		Molecular information, and computer modeling has changed our view of the
 		tree of life
 
-		life is not really a tree -- genetic information can be transferred
+		life is not really a tree 
+		
+			genetic information can be transferred
+
+			sexual mixing occurs at different scales
 
 	Scientists use many clues to figure out the history of life on earth
 
@@ -733,5 +778,4 @@ Conclusion
 	Life has diversified both gradually, and with dramatic episodes
 
 		Adaptive radiations, mass extinctions
-
 
