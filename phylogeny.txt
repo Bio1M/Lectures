@@ -1,15 +1,15 @@
 
 EXTRA
 
-ADD
+LEARN
 
-STAR tag for guessing game?
+	crown lizards
+
+	Hox
 
 Check (or update ALL older figures?)
 
 	Hee-hee!
-
-Label Activity points
 
 ----------------------------------------------------------------------
 
@@ -49,7 +49,7 @@ PICSLIDE FIG Pearson/F_skills/B07_1_phylogenetic_trees.jpg
 
 ----------------------------------------------------------------------
 
-PICSLIDE FIG Pearson/F_skills/B07_2_phylo_tree_example.jpg
+PICSLIDE WIDEFIG Pearson/F_skills/B07_2_phylo_tree_example.jpg
 
 ----------------------------------------------------------------------
 
@@ -278,6 +278,14 @@ Confusing the phylogeny
 
 ----------------------------------------------------------------------
 
+PIC HIGHFIG freeman/L25/fg25_02.jpg
+
+----------------------------------------------------------------------
+
+PIC WIDEFIG freeman/L25/fg25_03.jpg
+
+----------------------------------------------------------------------
+
 Parsimony
 
 	Classical cladistic analysis is based on searching for the tree that
@@ -483,9 +491,24 @@ The web of life
 
 ----------------------------------------------------------------------
 
-PIC HIGHFIG webpix/wolf_coyote.jpg
+PIC WIDEFIG webpix/wolf_coyote.jpg
 
 ----------------------------------------------------------------------
+
+FUNSLIDE Five kingdoms
+
+	Animals
+
+	Plants
+
+	Fungi
+
+	Protists
+
+	Bacteria
+
+----------------------------------------------------------------------
+
 
 Five kingdoms
 
@@ -595,6 +618,27 @@ FUNSLIDE Guessing game
 		Life, but no multi-cellular organisms
 
 		Multi-cellular organisms, but no plants, animals or fungi
+
+		Plants, animals, and fungi, but no flowering plants, birds
+		or mammals
+
+		Flowering plants, birds and mammals, but no good espresso
+
+----------------------------------------------------------------------
+
+FUNSLIDE Guessing game
+
+	For most of Earth's history, there has been:
+
+		No life
+
+		STAR Life, but no multi-cellular organisms
+
+			Probably
+
+		Multi-cellular organisms, but no plants, animals or fungi
+
+			Probably not -- may depend on definitions
 
 		Plants, animals, and fungi, but no flowering plants, birds
 		or mammals
