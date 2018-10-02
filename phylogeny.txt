@@ -131,6 +131,11 @@ Order of species
 
 ----------------------------------------------------------------------
 
+PICSLIDE WIDEFIG Pearson/F_skills/B07_2_phylo_tree_example.jpg
+
+----------------------------------------------------------------------
+
+
 TSS Constructing phylogenetic trees
 
 	First, measure [characteristics] (or [characters]) of the taxa of
@@ -196,8 +201,10 @@ Synapomorphies
 
 	Why do we focus on derived characters?
 
-		ANS Because derived characters correspond to changes we must
-		explain with our evolutionary model (phylogeny)
+		ANS These are things that evolved in the relevant context
+
+		ANS So they are the things our model (the phylogenies) must
+		explain 
 
 ----------------------------------------------------------------------
 
@@ -271,10 +278,6 @@ Confusing the phylogeny
 
 	Similarities that are not homologies (ie., not due to common
 	ancestry) are called [homoplasies] | Fig.~25.3 \second{Fig.~27.2}
-
-	ADD 25.2
-
-	ADD This pic?
 
 ----------------------------------------------------------------------
 
