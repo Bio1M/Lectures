@@ -95,6 +95,8 @@ phylogeny.handouts.pdf: phylogeny.txt
 phylogeny.complete.pdf: phylogeny.txt
 phylogeny.outline.pdf: phylogeny.txt
 
+## ~/Dropbox/courses/1M/he_supp/pearson_humans.pdf
+
 ### Human evolution (maybe break into units later)
 
 apes.draft.pdf: apes.txt
