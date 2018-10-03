@@ -2,7 +2,7 @@
 Right this second:
 
 	Morning: Sister taxa (finished slide)
-	Midday: 
+	Midday: Monophyletic groups and non-clades (bottom)
 
 ----------------------------------------------------------------------
 
@@ -16,10 +16,10 @@ St. Louis 1 period
 
 processes: ~3.5 periods
 
-speciation: Add activities!
+speciation: 2.5 periods
+	Add activities!
 
-
-phylogeny: xx periods 
+phylogeny: 0.3 periods 2018 Oct 03 (Wed)
 
 apes: xx periods
 

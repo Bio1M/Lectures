@@ -95,20 +95,17 @@ phylogeny.handouts.pdf: phylogeny.txt
 phylogeny.complete.pdf: phylogeny.txt
 phylogeny.outline.pdf: phylogeny.txt
 
+## New content
 ## ~/Dropbox/courses/1M/he_supp/pearson_humans.pdf
 
-### Human evolution (maybe break into units later)
+######################################################################
 
+### Human evolution HHE based content 
 apes.draft.pdf: apes.txt
 apes.final.pdf: apes.txt
 apes.handouts.pdf: apes.txt
 apes.complete.pdf: apes.txt
 apes.outline.pdf: apes.txt
-
-## A special file to make complete notes for the test
-midterm1.txt: apes.txt Makefile
-	perl -npe "last if /Challenges/" $< | perl -npe "s/CHAPTER.*/CHAPTER Midterm 1 extra notes/" > $@
-midterm1.complete.pdf: apes.txt
 
 homo.draft.pdf: homo.txt
 homo.final.pdf: homo.txt
@@ -122,6 +119,17 @@ final.draft.pdf: final.txt
 final.final.pdf: final.txt
 
 ######################################################################
+
+## A good way to note chop
+
+## A special file to make complete notes for the test
+midterm1.txt: apes.txt Makefile
+	perl -npe "last if /Challenges/" $< | perl -npe "s/CHAPTER.*/CHAPTER Midterm 1 extra notes/" > $@
+midterm1.complete.pdf: apes.txt
+
+######################################################################
+
+## Obsolete?
 
 ## Add second edition marker (too geeky!)
 Sources += 2nd.pl
