@@ -189,9 +189,6 @@ Phenetic vs. cladistic analysis
 		ANS When our data are only distances, with no characters available
 		-- e.g., certain molecular techniques
 
-		COMMENT Sometimes phenetic techniques are used for
-		computational convenience -- can lead to wrong answers
-
 ----------------------------------------------------------------------
 
 Synapomorphies
@@ -212,7 +209,9 @@ Flight as evidence
 
 	Oaks and fish don't fly, but birds do
 
-		ANS No evidence (we're pretty sure that the common ancestor didn't fly)
+		ANS We're pretty sure that the common ancestor didn't fly
+
+		ANS No evidence (any model will have flight evolve once)
 
 		ANS Flight evolved once in either case
 
@@ -320,9 +319,24 @@ TSS Example: the evolution of whales
 
 ----------------------------------------------------------------------
 
+FUNSLIDE Biology is crazy!
+
+	Which of these doesn't belong?
+
+		Whale
+
+		Rhinocerous
+
+		Hippopotamus
+
+		Elephant
+
+----------------------------------------------------------------------
+
 PICSLIDE HIGHFIG Pearson/F28_phylogeny/28_04a_whale_phylogeny.jpg
 
 ----------------------------------------------------------------------
+
 
 Activity: Tree-construction analysis
 
