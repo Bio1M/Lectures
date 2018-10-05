@@ -98,6 +98,12 @@ phylogeny.outline.pdf: phylogeny.txt
 ## New content
 ## ~/Dropbox/courses/1M/he_supp/pearson_humans.pdf
 
+## Primates 
+## Hominins
+
+## Culture
+## Selection
+
 ######################################################################
 
 ### Human evolution HHE based content 
@@ -123,9 +129,9 @@ final.final.pdf: final.txt
 ## A good way to note chop
 
 ## A special file to make complete notes for the test
-midterm1.txt: apes.txt Makefile
-	perl -npe "last if /Challenges/" $< | perl -npe "s/CHAPTER.*/CHAPTER Midterm 1 extra notes/" > $@
-midterm1.complete.pdf: apes.txt
+midterm1.txt: phylogeny.txt Makefile
+	perl -npe "last if /Example/" $< | perl -npe "s/CHAPTER.*/CHAPTER Midterm 1 extra notes/" > $@
+midterm1.complete.pdf: phylogeny.txt
 
 ######################################################################
 
