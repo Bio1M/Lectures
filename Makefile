@@ -26,6 +26,7 @@ include sub.mk
 
 ## Local makefiles
 Ignore += local.mk
+Ignore += beamer.tmp
 
 ## Formatting
 ## Script is makestuff/newtalk/lect.pl
