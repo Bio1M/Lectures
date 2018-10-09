@@ -348,7 +348,7 @@ All living organisms are composed of cells
 
 BCC
 
-SIDEFIG Pearson/main/01_01_vanLeeuwenhoek_L.jpg
+SIDEFIG Pearson/alpha1_intro/01_01_vanLeeuwenhoek.jpg
 
 NCC
 
@@ -378,13 +378,13 @@ Where do cells come from?
 
 PSLIDE The Pasteur experiment
 
-FIG Pearson/main/01_02a_Pasteur_exprmnts_L.jpg
+FIG Pearson/alpha1_intro/01_02a_Pasteur_exprmnts.jpg
 
 ----------------------------------------------------------------------
 
 PSLIDE The Pasteur experiment
 
-FIG Pearson/main/01_02b_Pasteur_exprmnts_L.jpg
+FIG Pearson/alpha1_intro/01_02b_Pasteur_exprmnts.jpg
 
 ----------------------------------------------------------------------
 
@@ -446,7 +446,7 @@ TSS Observational studies
 
 PSLIDE Example: Why are giraffes so tall?
 
-FIG Pearson/giraffes.jpg
+FIG Pearson/C1_intro/giraffes.jpg
 
 ----------------------------------------------------------------------
 
@@ -484,31 +484,31 @@ Example: How do ants navigate through landscapes?
 
 PSLIDE Ant navigation
 
-FIG Pearson/main/01_09_ant_foraging_L.jpg
+FIG Pearson/alpha1_intro/01_09_ant_foraging.jpg
 
 ----------------------------------------------------------------------
 
 PSLIDE Ant navigation
 
-FIG Pearson/ants_1.jpg
+FIG Pearson/C1_intro/ants_1.jpg
 
 ----------------------------------------------------------------------
 
 PSLIDE Ant navigation
 
-WIDEFIG Pearson/ants_2.jpg
+WIDEFIG Pearson/C1_intro/ants_2.jpg
 
 ----------------------------------------------------------------------
 
 PSLIDE Ant navigation
 
-FIG Pearson/ants_3.jpg
+FIG Pearson/C1_intro/ants_3.jpg
 
 ----------------------------------------------------------------------
 
 PSLIDE Ant navigation
 
-WIDEFIG Pearson/ants_4.jpg
+WIDEFIG Pearson/C1_intro/ants_4.jpg
 
 ----------------------------------------------------------------------
 
