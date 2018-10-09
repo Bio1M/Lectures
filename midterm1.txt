@@ -1,7 +1,15 @@
 
-EXTRA 
+EXTRA
 
-* _doesn't_ span
+LEARN
+
+	crown lizards
+
+	Hox
+
+Check (or update ALL older figures?)
+
+	Hee-hee!
 
 ----------------------------------------------------------------------
 
@@ -9,475 +17,291 @@ CHAPTER Midterm 1 extra notes
 
 ----------------------------------------------------------------------
 
-TSEC Example
+TSEC Phylogeny | S25.1; Bioskill 11 \second{S27.1; Bioskills 3}
 
-	Humans are an example of a biological species that has evolved
+	NOTES \textsl{Bioskills are in the back of your book}
 
-	Possibly of interest, since many of your friends are probably humans
+	Phylogeny is the evolutionary history of a group of organisms
 
-	Humans seem unique:
+	Based on the idea that organisms are related by evolution
 
-		How do they differ from other evolved organisms?
-
-		What do they share with other evolved organisms?
-
-----------------------------------------------------------------------
-
-PIC WIDEFIG jdpix/crowd.jpg
+	Understanding these relationships is critical to our understanding
+	of both evolution, and how biological processes work
 
 ----------------------------------------------------------------------
 
-Similarities and differences
+Phylogenetic trees 
 
-	What is different about people?
+	A [phylogenetic tree] is a model of how a group of organisms
+	descended from a common ancestor
 
-		ANS Complex thoughts
+	The model consists of [nodes], where groups split, [branches] where
+	evolution occurs, and [tips] representing observed [taxa] which are
+	the endpoints of the process we are trying to model.
 
-		ANS Culture
+	A point where more than two branches diverge is called a _polytomy_.
 
-		ANS Language
-
-		ANS Technology
-
-	What is the same?
-
-		ANS We're here because our ancestors reproduced
-
-		ANS If reproductive success depends on heritable variation in traits
-		\ldots
-
-			ANS We're still evolving
-
-			ANS Directional selection? Varying selection?
+		Polytomies mean we don't know which event happened first.
 
 ----------------------------------------------------------------------
 
-SEC Patterns of evolution
+PICSLIDE FIG Pearson/F_skills/B07_1_phylogenetic_trees.jpg
 
 ----------------------------------------------------------------------
 
-History
-
-	There are a _lot_ of steps (and a lot of divergences) between us and the
-	last universal common ancestor of life
-
-	More than 3 billion years ago!
-
-	Some key steps:
-
-		[Eukaryotes]
-
-		[Animals]
-
-		[Vertebrates]
-
-		[Mammals]
-
-		[Primates]
-
-		[Apes]
+PICSLIDE WIDEFIG Pearson/F_skills/B07_2_phylo_tree_example.jpg
 
 ----------------------------------------------------------------------
 
-PIC HIGHFIG norton/ch09/TAB09_01.jpg
+Monophyletic group
+
+	A [monophyletic group] is a group _defined by_ a single common
+	ancestor
+
+		All descendants of the ancestor must be in the group
+
+	Monophyletic groups can also be called [clades] or [taxa].
+
+	As biologists, we should try to think in terms of clades
+
+		Are flying vertebrates a clade?
+
+		What are some prominent groups that are not clades?
+
+			ANS apes, reptiles, trees
 
 ----------------------------------------------------------------------
 
-Timeline | Table 9.1
-
-	Why not just say how long ago?
-
-		Periods may be punctuated by major events
-
-			* Radiations, mass extinctions
-
-		People started talking about periods before they had good measures of how
-		long ago things happened
-
-		Periods have cool names
+PICSLIDE WIDEFIG Pearson/F_skills/B07_2_phylo_tree_example.jpg
 
 ----------------------------------------------------------------------
 
-TSS Context for evolution
+Sister taxa
 
-	Adaptations build on existing adaptations -- often in unexpected ways
+	Sister taxa can be a useful way of thinking about trees
 
-	Evolution does not know where it's going
+		two taxa that share a common node
 
-	In a constant environment, we would have to imagine a species just getting
-	better and better adapted to that environment
+		You need to take the whole taxon
 
-		and never getting stuck, e.g. vertebrate eyes
+	E.g., sisters of: _Homo sapiens_; _Homo erectus_; humans?
 
-	A changing environment provides opportunities to try new combinations and
-	build in unexpected directions
+		ANS _Homo neanderthalensis_; _Hn_ and _Hs_; _Paranthropus_
 
 ----------------------------------------------------------------------
 
-Physical changes
+Reading phylogenetic trees
 
-	Physical changes often provide species with new adaptive challenges and
-	opportunities:
+	The tree indicates the pattern of branching of [lineages] (evolving
+	lines)
 
-	Global climate change
+	Tips are _assumed_ by the model to be monophyletic
 
-	Continental drift
+	A tree is a model of how evolution occurred
 
-	Geological changes
-
-		New environments can arise (e.g., mountain ranges, desert basins)
-
-		Geology may also change connections between two populations without a
-		large effect on how they live
-
-			Rivers changing course
-
-			Mountain ranges separating valley species
-
-			ANS Provides opportunities for allopatric speciation
+		Trees that correspond to the same model are considered equivalent | (see
+		Bioskill)
 
 ----------------------------------------------------------------------
 
-PIC WIDEFIG norton/ch09/09_04.jpg
+PICSLIDE WIDEFIG Pearson/F_skills/B07_2_phylo_tree_example.jpg
 
 ----------------------------------------------------------------------
 
-PIC WIDEFIG norton/ch09/09_05.jpg
+PSLIDE Activity: which of these things is not like the others?
+
+
+PICSLIDE WIDEFIG Pearson/F_skills/B07_3_alternate_phylo_trees.jpg
 
 ----------------------------------------------------------------------
 
-Changing ecosystems
+Order of species
 
-	Taxa can be dramatically affected by changes in other taxa
+	Except for the branching pattern, we don't interpret anything about the
+	order of a tree
 
-		Due to evolution or to colonization
+		No species are higher or lower than others, according to the tree
 
-	Interactions with other organisms are key to most ecological niches
+		We've all been evolving for the same amount of time
 
-		Who do I eat? Who is trying to eat me? How do I reproduce?
+	How do we judge how closely related two organisms are, according to a
+	tree?
 
-	Co-evolution is a key driver of diversity. For example:
-
-		Plants evolve new ways to use insects for sex, or vertebrates for
-		dispersal
-
-		Animals evolve new ways to benefit from plant resources
+		ANS By looking for their common ancestor
 
 ----------------------------------------------------------------------
 
-WIDEPIC webpix/hummingbird.jpg
+PICSLIDE WIDEFIG Pearson/F_skills/B07_2_phylo_tree_example.jpg
 
 ----------------------------------------------------------------------
 
-WIDEPIC webpix/fig_wasps.jpg
+
+TSS Constructing phylogenetic trees
+
+	First, measure [characteristics] (or [characters]) of the taxa of
+	interest -- i.e., anything that seems useful to measure
+
+		Can be [morphological] (i.e., physical) or genetic
+
+	Then infer (make an educated guess about) the phylogenetic
+	relationships.
+
+		[Phenetic] approaches use measures of distance between organisms
+
+		[Cladistic] approaches are based on modeling how evolution occurs
+		on the tree
 
 ----------------------------------------------------------------------
 
-SS Patterns of diversity
+Morphological vs. genetic characteristics
+
+	Should we use morphological or genetic characteristics to infer phylogenies?
+
+		We usually have more information from genetic characteristics, and
+		this information is easier to measure precisely
+
+	When should we use morphological characteristics?
+
+		ANS When genetic information is not available
+
+			ANS Most fossil organisms
+
+		COMMENT Some viruses evolve so fast that morphological
+		characteristics can be more stable than genetic
+		characteristics
 
 ----------------------------------------------------------------------
 
-Therapsids | p. 211
+Phenetic vs. cladistic analysis
 
-	Our ancestors radiated and dominated many terrestrial environments _before_
-	dinosaurs did
+	Cladistic analysis makes use of the phylogenetic model of organisms
+	evolving from each other to infer phylogenies
 
-		I have no idea why the book refers to therapsids as reptiles; it seems
-		very wrong:
+	Phenetic analysis ignores the phylogenetic model of organisms
+	evolving from each other while inferring phylogenies
 
-			ANS If they were, then we are
+	Which is better?
 
-			ANS One better name would be tetrapods
+		ANS Cladistic analysis
 
-	Therapsids were largely replaced by dinosaurs in the age of dinosaurs
+	When should we use the other one?
 
-		But some survived, and one radiated after a mass extinction
-
-----------------------------------------------------------------------
-
-Radiation and contraction
-
-	Many clades seem to go through periods of radiation and contraction
-
-		Gain and then loss of species diversity
-
-	Examples:
-
-		Therapsids, apes, hominins (us)
-
-		NOANS
-
-	Radiation gives many chances for adaptation
-
-		Things that have had radiations may be more likely to persist
-
-		Even after periods of contraction
+		ANS When our data are only distances, with no characters available
+		-- e.g., certain molecular techniques
 
 ----------------------------------------------------------------------
 
-Reasons for contraction
+Synapomorphies
 
-	Why might a clade diversify and then suffer many extinctions?
+	Classical cladistic analysis is based on [synapomorphies] -- shared,
+	[derived] characters -- as evidence that two taxa are related
 
-		ANS Changing conditions (climate change, continents moving)
+	Why do we focus on derived characters?
 
-		ANS Competition from other clades (apes vs.~monkeys)
+		ANS These are things that evolved in the relevant context
 
-		ANS Competition from a successful member (people vs.~other hominins)
-
-----------------------------------------------------------------------
-
-Observer bias
-
-	One reason we see a lot of clades with a history of radiations may be that
-	those clades are the ones we're looking at
-
-		ANS The clades that are still around
-
-	Clades with a history of radiation may be more successful
-
-		They've explored more kinds of environments
-
-		They're found in more different specific places
-
-			e.g., marsupials in Australia
-
-		They've had more chances to adapt
-
-			May have a few very successful species (like us)
+		ANS So they are the things our model (the phylogenies) must
+		explain 
 
 ----------------------------------------------------------------------
 
-TSEC The evolution of primates 
+Flight as evidence
 
-	CORRECTION Read pp. 218-220
+	Oaks and fish don't fly, but birds do
 
-	Humans are [primates], an ``order" characterized by
+		ANS We're pretty sure that the common ancestor didn't fly
 
-		Grasping hands and feet
+		ANS No evidence (any model will have flight evolve once)
 
-		Nails and fingertips (instead of claws)
+		ANS Flight evolved once in either case
 
-		Highly developed [stereroscopic] vision
+	Mosquitoes and birds fly, but fish don't
 
-			Eyes are close together, face forward, and are used together
+		ANS Evidence (flight might have evolved once or twice on this tree)
 
-			Allows 3-d visualization
+		ANS But this evidence points in the wrong direction
 
-		Hind-limb dominance
-
-		Large brains
-
+			ANS This is why we combine evidence from different sources
 
 ----------------------------------------------------------------------
 
-HIGHPIC Pearson/F35_deutero/35_36_primate_phylogeny.jpg
+What characters are derived?
+
+	Derived compared to what?
+
+		The common ancestor (characteristics of the common ancestor are
+		called [basal] or [ancestral] characters).  
+
+			What if our flight example was ostriches, hawks, and sparrows?
+
+			ANS No evidence for similarity between hawks and sparrows
+
+		A [derived] character is a character not shared by the common
+		ancestor of the group that we are currently thinking about
+
+		One way to think about cladistic vs.~phenetic analysis is that
+		phenetic analysis treats derived and basal characters equally
 
 ----------------------------------------------------------------------
 
-Traits | Freeman Fig 34.40
+Inferring the common ancestor
 
-	What sort of traits to biologists use to characterize a group?
+	We want to know what the common ancestor was like, so we can tell
+	which characters are derived (as opposed to basal)
 
-		ANS Derived traits
-
-	How would you interpret the fact that humans don't have grasping
-	feet?
-
-		ANS Secondary loss
-
-----------------------------------------------------------------------
-
-The angiosperm explosion
-
-	Flowering plants diversified very rapidly around 100 [mya] --
-	million years ago
-
-	This radically changed the ecology of the world, and opened up many
-	new niches, apparently including space for primates
-
-----------------------------------------------------------------------
-
-HIGHPIC webpix/pine_forest.jpg
-
-----------------------------------------------------------------------
-
-WIDEPIC webpix/mixed_forest.jpg
-
-----------------------------------------------------------------------
-
-Primate adaptations
-
-	There are a variety of theories for how characteristic primate
-	adaptations evolved
-
-	Each step was likely favored adaptively
-
-	Likely something to do with processing and handling angiosperm fruit
-	and flowers
-
-		Or else the insects that fed on these fruit and flowers
-
-----------------------------------------------------------------------
-
-Adaptive theories
-
-	There are many theories for why primate traits might have been adaptively
-	favored in our ancestors
-
-		Leaping from branch to branch
-
-		Climbing and balancing on trees
-
-		Exploiting new plant resources
-
-		Catching insects
-
-		[Adaptive foraging]: the ability to switch between types of food, and to
-		learn to use new types of food
-
-----------------------------------------------------------------------
-
-Patterns of adaptation
-
-	These strategies may have evolved sequentially
-
-		Maybe exploiting tree resources came first, but similar traits helped
-		some species later catch insects
-
-		Maybe traits evolved for one specific purpose later became useful for
-		adaptive foraging
-
-			CORRECTION *which evolved
-
-----------------------------------------------------------------------
-
-Sociality
-
-	A big component of fitness may be based on co-operating with (or at least
-	being tolerated by) [conspecifics] -- other members of your species
-
-	Brains that evolved for complicated foraging may have also been useful for
-	social skills
-
-	Looping: once sociality was present, adaptation for social thinking and
-	thinking about food may have interacted to increase selection for brain size
-
-----------------------------------------------------------------------
-
-SS Tools for learning about the past
-
-----------------------------------------------------------------------
-
-Getting fed
-
-	A major factor in adaptation is food source.
-
-	The most important strategies for early primates were:
+	This can be done sometimes by common sense
 	
-		[Frugivory]: eating fruits (and sometimes flowers)
+	Inferring the common ancestor statistically is difficult, for
+	technical reasons
 
-		[Folivory]: eating leaves
+		We can make use of an [outgroup] to study a
+		group.  An outgroup is an organism closely related to, but
+		outside, the group being studied.
 
-		[Insectivory]: eating insects
-
-----------------------------------------------------------------------
-
-Teeth | Fig 9.15
-
-	Teeth are very important for processing food
-
-	Why do we have wisdom teeth?
-
-		ANS An adaptation to make it more likely we will have functional teeth in
-		middle age
-
-		ANS This is probably also why we have two sets of teeth
-
-	Teeth help scientists understand what extinct animals ate
-
-		Well preserved, highly adapted
+		We assume that the the [root], or beginning, of the tree is where
+		the outgroup branches from the group
 
 ----------------------------------------------------------------------
 
-PIC WIDEFIG norton/ch09/09_15.jpg
+Confusing the phylogeny
+
+	Two species may have the same trait because the trait evolved twice
+	independently -- [convergent evolution]
+
+		ANS Flight, trees, dolphins and icthyosaurs
+
+	An organism may lack a character that its ancestors had --
+	[secondary loss]
+
+		This can be even more confusing
+
+	Similarities that are not homologies (ie., not due to common
+	ancestry) are called [homoplasies] | Fig.~25.3 \second{Fig.~27.2}
 
 ----------------------------------------------------------------------
 
-Eyes 
-
-	Eye [orbits] are the skeletal cavities where eyes are
-
-	Orbits tell us size, shape and position of eyes from fossil animals
-
-	What are the advantages and disadvantages of more forward-facing eyes?
-
-		ANS Better for precise tasks, three-dimensional visualization
-
-		ANS Not as good for looking around, being alert
-
-	What are the advantages and disadvantages of larger eyes?
-
-		ANS Better for night vision
-
-		ANS More costly? Better for day vision?
+PIC HIGHFIG freeman/L25/fg25_02.jpg
 
 ----------------------------------------------------------------------
 
-HIGHPIC webpix/orbit.png
+PIC WIDEFIG freeman/L25/fg25_03.jpg
 
 ----------------------------------------------------------------------
 
-WIDEPIC webpix/leopard_skull.jpg
+Parsimony
 
-----------------------------------------------------------------------
+	Classical cladistic analysis is based on searching for the tree that
+	can explain the observed data most [parsimoniously] -- with the
+	fewest number of changes necessary.
 
-WIDEPIC webpix/antelope_skull.jpg
+	How do we address the problem of convergent evolution and homoplasy?
 
-----------------------------------------------------------------------
+		ANS Make use of many different characteristics, when possible
 
-Sexual dimorphism
+		ANS It may also help to use many different taxa
 
-	Information about differences between males and females has implications
-	about social structure and mating patterns
-
-		In species where there is more variation in male success (less bonding in
-		pairs), we expect:
-
-			ANS More sexual dimorphism
-
-			ANS More competition between males for females
-
-----------------------------------------------------------------------
-
-WIDEPIC webpix/gorillas.jpg
-
-----------------------------------------------------------------------
-
-WIDEPIC webpix/bonobos.jpg
-
-----------------------------------------------------------------------
-
-Dimorphism and sexual strategies
-
-	Gorillas live in male-centered groups (one adult male, several adult females)
-
-	Chimpanzees live in large, well-mixed groups with lots of interactions
-	between males and females
-
-	Which species should have more sexual dimorphism overall?
-
-		ANS Gorillas. Males are huge and strong and compete for females by displaying and fighting. A dominant male has exclusive access to a group of females
-
-	Which species should have larger male genitals?
-
-		ANS Chimpanzees have much larger genitals.
-		
-		ANS Gorillas don't use genitals as part of sexual competition
-
-	What about humans?
-
-		COMMENT I am not writing this one down
+	COMMENT Modern approaches that use genetic data may use more sophisticated
+	approaches, rather than simple parsimony
 
 ----------------------------------------------------------------------
 
