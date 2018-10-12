@@ -100,6 +100,12 @@ phylogeny.outline.pdf: phylogeny.txt
 ## ~/Dropbox/courses/1M/he_supp/pearson_humans.pdf
 
 ## Primates 
+primates.draft.pdf: primates.txt
+primates.final.pdf: primates.txt
+primates.handouts.pdf: primates.txt
+primates.complete.pdf: primates.txt
+primates.outline.pdf: primates.txt
+
 ## Hominins
 
 ## Culture
