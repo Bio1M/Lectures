@@ -182,8 +182,8 @@ Sources += $(wildcard *.step)
 ## Update imageDrop in local.mk if necessary
 ## webpix.mk use this automatically for my_images and webpix
 Ignore += webpix Pearson norton jdpix freeman
-Pearson norton jdpix freeman: dir = $(imageDrop)
-Pearson norton jdpix freeman: 
+Pearson norton jdpix freeman sharp: dir = $(imageDrop)
+Pearson norton jdpix freeman sharp: 
 	$(linkdir)
 
 ######################################################################

@@ -1,5 +1,13 @@
 
-EXTRA
+EXTRA 
+
+~/Dropbox/courses/1M/he_supp/pearson_humans.pdf
+
+	EXTRA
+
+	norton
+
+	better fig_wasps
 
 ----------------------------------------------------------------------
 
@@ -7,16 +15,551 @@ CHAPTER Primate evolution
 
 ----------------------------------------------------------------------
 
-TSEC Origins
+SEC Patterns of evolution
 
 ----------------------------------------------------------------------
 
-TSEC Evolution
+Humans as an example
+
+	We are an example of a biological species that has evolved
+
+		Many of your friends are probably humans
+
+	Humans seem unique:
+
+		How do they differ from other evolved organisms?
+
+		What do they share with other evolved organisms?
+
+----------------------------------------------------------------------
+
+PIC WIDEFIG jdpix/crowd.jpg
+
+----------------------------------------------------------------------
+
+Similarities and differences
+
+	What is different about people?
+
+		ANS Complex thoughts
+
+		ANS Culture
+
+		ANS Language
+
+		ANS Technology
+
+	What is the same?
+
+		ANS We're here because our ancestors reproduced
+
+		ANS If reproductive success depends on heritable variation in traits
+		\ldots
+
+			ANS We're still evolving
+
+			ANS Directional selection? Varying selection?
+
+----------------------------------------------------------------------
+
+History
+
+	There are a _lot_ of steps (and a lot of divergences) between us and the
+	last universal common ancestor of life
+
+	More than 3 billion years ago!
+
+	Some key steps:
+
+		[Eukaryotes]
+
+		[Animals]
+
+		[Vertebrates]
+
+		[Mammals]
+
+		[Primates]
+
+		[Apes]
+
+----------------------------------------------------------------------
+
+EXTRA PIC HIGHFIG 25.7
+
+----------------------------------------------------------------------
+
+Timeline | Fig 25.7
+
+	Why not just say how long ago?
+
+		Periods may be punctuated by major events
+
+			Radiations, mass extinctions
+
+		People started talking about periods before they had good measures of how
+		long ago things happened
+
+		Periods have cool names
+
+			ANS Connections help people think clearly
+
+----------------------------------------------------------------------
+
+TSS Context for evolution
+
+	Adaptations build on existing adaptations -- often in unexpected ways
+
+	Evolution does not know where it's going
+
+	In a constant environment, species can only improve with gradual adaptations
+	to the same environment 
+
+		and will be in danger of getting ``stuck'', e.g. vertebrate eyes
+
+	A changing environment provides opportunities to try new combinations and
+	build in unexpected directions
+
+----------------------------------------------------------------------
+
+Physical changes
+
+	Physical changes often provide species with new adaptive challenges and
+	opportunities:
+
+	Global climate change
+
+	Continental drift
+
+	Geological changes
+
+		New environments can arise (e.g., mountain ranges, desert basins)
+
+		Geology may also change connections between two populations without a
+		large effect on how they live
+
+			Rivers changing course
+
+			Mountain ranges separating valley species
+
+			ANS Provides opportunities for allopatric speciation
+
+----------------------------------------------------------------------
+
+PICSLIDE WIDEFIG norton/ch09/09_04.jpg
+
+----------------------------------------------------------------------
+
+Changing ecosystems
+
+	Taxa can be dramatically affected by changes in other taxa
+
+		Due to evolution or to colonization
+
+	Interactions with other organisms are key to most ecological niches
+
+		Who do I eat? Who is trying to eat me? How do I reproduce?
+
+	Co-evolution is a key driver of diversity. For example:
+
+		Plants evolve new ways to use insects for sex, or vertebrates for
+		dispersal
+
+		Animals evolve new ways to benefit from plant resources
+
+----------------------------------------------------------------------
+
+WIDEPIC webpix/hummingbird.jpg
+
+----------------------------------------------------------------------
+
+WIDEPIC webpix/fig_wasps.jpg
+
+----------------------------------------------------------------------
+
+Mammalian ancestors
+
+	Our ancestors, the [therapsids], radiated and dominated many terrestrial
+	environments _before_ dinosaurs did
+
+	Therapsids were largely replaced by dinosaurs in the age of dinosaurs
+
+		But some survived, and one radiated after a mass extinction
+
+----------------------------------------------------------------------
+
+Radiation and contraction
+
+	Many clades seem to go through periods of radiation and contraction
+
+		Gain and then loss of species diversity
+
+	Examples:
+
+		NOANS
+
+		Therapsids, apes, hominins (us)
+
+	Radiation gives many chances for adaptation
+
+		Things that have had radiations may be more likely to persist
+
+		Even after periods of contraction
+
+----------------------------------------------------------------------
+
+Reasons for contraction
+
+	Why might a clade diversify and then suffer many extinctions?
+
+		ANS Changing conditions (climate change, continents moving)
+
+		ANS Competition from other clades (therapsids vs.~dinosaurs)
+
+		ANS Competition from a successful member (people vs.~other hominins)
+
+----------------------------------------------------------------------
+
+Observer bias
+
+	One reason we see a lot of clades with a history of radiations may be that
+	those clades are the ones we're looking at
+
+		ANS More successful now
+
+	Clades with a history of radiation may be more successful
+
+		They've explored more kinds of environments
+
+		They're found in more different specific places
+
+			e.g., marsupials in Australia
+
+		They've had more chances to adapt
+
+			May have a few very successful species (like us)
+
+----------------------------------------------------------------------
+
+Mammals | S55.1
+
+	ANS Produce milk
+
+	ANS Diaphragm enhances respiration
+
+	ANS Hair (fur) for insulation
+
+	ANS Hard palate to breathe efficiently while eating
+
+	What might these have in common?
+
+		ANS High metabolism (warm-blooded)
+
+----------------------------------------------------------------------
+
+TSEC The evolution of primates | ADD reading
+
+	Humans are [primates], an ``order" characterized by
+
+		Highly developed [stereroscopic] vision
+
+			Eyes are close together, face forward, and are used together
+
+			Allows 3-d visualization
+
+		Versatile limbs
+
+			Grasping hands and feet
+
+			Nails and fingertips (instead of claws)
+
+		Large brains
+
+----------------------------------------------------------------------
+
+HIGHPIC Pearson/F35_deutero/35_36_primate_phylogeny.jpg
+
+----------------------------------------------------------------------
+
+Traits
+
+	What sort of traits to biologists use to characterize a group?
+
+		ANS Derived traits
+
+	How would you interpret the fact that humans don't have grasping
+	feet?
+
+		ANS Our ancestors lost the trait
+
+		ANS It takes many traits to make an accurate phylogeny
+
+----------------------------------------------------------------------
+
+The angiosperm explosion
+
+	Flowering plants diversified very rapidly around 100 [mya] --
+	million years ago
+
+	This radically changed the ecology of the world, and opened up many
+	new niches, apparently including space for primates
+
+----------------------------------------------------------------------
+
+HIGHPIC webpix/pine_forest.jpg
+
+----------------------------------------------------------------------
+
+WIDEPIC webpix/mixed_forest.jpg
+
+----------------------------------------------------------------------
+
+Primate adaptations
+
+	There are a variety of theories for how characteristic primate
+	adaptations evolved
+
+	Each step was likely favored adaptively
+
+	Likely something to do with processing and handling angiosperm fruit
+	and flowers
+
+		Or else the insects that fed on these fruit and flowers
+
+----------------------------------------------------------------------
+
+Adaptive theories
+
+	There are many theories for why primate traits might have been adaptively
+	favored in our ancestors
+
+		Leaping from branch to branch
+
+		Climbing and balancing on trees
+
+		Exploiting new plant resources
+
+		Catching insects
+
+		[Adaptive foraging]: the ability to switch between types of food, and to
+		learn to use new types of food
+
+----------------------------------------------------------------------
+
+Patterns of adaptation
+
+	These strategies may have evolved sequentially
+
+		Maybe exploiting tree resources came first, but similar traits helped
+		some species later catch insects
+
+		Maybe traits which evolved for one specific purpose later became useful
+		for adaptive foraging
+
+----------------------------------------------------------------------
+
+Anthropoids | Fig 55.2
+
+BCC
+
+	Anthropoids is the sub-group of primates including apes and monkeys
+
+		ANS Monkeys are not a clade!
+
+NCC
+
+SIDEFIG Pearson/F35_deutero/35_36_primate_phylogeny.jpg
+
+EC
+
+----------------------------------------------------------------------
+
+EXTRA Show other phylogeny (need to screenshot)
 
 ----------------------------------------------------------------------
 
 TSEC Apes
 
+Ape adaptations | p.228
+
+	Apes are more adapted for swinging through trees, whereas monkeys
+	are more adapted for climbing and leaping
+
+	More upright
+
+	Better at hanging, and worse at sitting
+
+	Lots of missing pieces of the puzzle
+
+		There may be a lot of convergent evolution and secondary loss going on
+
 ----------------------------------------------------------------------
 
-TSEC Diversification
+Patterns of replacement
+
+	Apes ``radiated" into many habitats before monkeys did
+
+		Many ape species were apparently later replaced by monkeys
+
+	Why might apes have diversified, and later been replaced by monkeys?
+
+		ANS Changing climactic conditions
+
+		ANS Changes in plants or insects
+
+		ANS Unpredictable adaptive innovations
+
+	What if the ape radiation had never happened?
+
+		ANS Less diversity between surviving apes
+
+		ANS Probably no people
+
+----------------------------------------------------------------------
+
+
+SEC Learning about the past
+
+----------------------------------------------------------------------
+
+Getting fed
+
+	A major factor in adaptation is food source.
+
+	The most important strategies for early primates were:
+	
+		[Frugivory]: eating fruits (and sometimes flowers)
+
+		[Folivory]: eating leaves
+
+		[Insectivory]: eating insects
+
+----------------------------------------------------------------------
+
+Teeth | Fig 9.15
+
+	Teeth are very important for processing food
+
+	Why do we have wisdom teeth?
+
+		ANS An adaptation to make it more likely we will have functional teeth in
+		middle age
+
+		ANS This is probably also why we have two sets of teeth
+
+	Teeth help scientists understand what extinct animals ate
+
+		Well preserved, highly adapted
+
+----------------------------------------------------------------------
+
+PIC WIDEFIG norton/ch09/09_15.jpg
+
+----------------------------------------------------------------------
+
+Eyes 
+
+	Eye [orbits] are the skeletal cavities where eyes are
+
+	Orbits tell us size, shape and position of eyes from fossil animals
+
+	What are the advantages and disadvantages of more forward-facing eyes?
+
+		ANS Better for precise tasks, three-dimensional visualization
+
+		ANS Not as good for looking around, being alert
+
+	What are the advantages and disadvantages of larger eyes?
+
+		ANS Better for night vision
+
+		ANS More costly? Better for day vision?
+
+----------------------------------------------------------------------
+
+HIGHPIC webpix/orbit.png
+
+----------------------------------------------------------------------
+
+WIDEPIC webpix/leopard_skull.jpg
+
+----------------------------------------------------------------------
+
+WIDEPIC webpix/antelope_skull.jpg
+
+----------------------------------------------------------------------
+
+Sexual dimorphism
+
+	Information about differences between males and females has implications
+	about social structure and mating patterns
+
+		In species where there is more variation in male success (less bonding in
+		pairs), we expect:
+
+			ANS More sexual dimorphism
+
+			ANS More competition between males for females
+
+----------------------------------------------------------------------
+
+WIDEPIC webpix/gorillas.jpg
+
+----------------------------------------------------------------------
+
+WIDEPIC webpix/bonobos.jpg
+
+----------------------------------------------------------------------
+
+Dimorphism and sexual strategies
+
+	Gorillas live in male-centered groups (one adult male, several adult females)
+
+	Chimpanzees live in large, well-mixed groups with lots of interactions
+	between males and females
+
+	Which species should have more sexual dimorphism overall?
+
+		ANS Gorillas. Males are huge and strong and compete for females by
+		displaying and fighting. A dominant male has exclusive access to a group
+		of females
+
+	Which species should have larger male genitals?
+
+		ANS Chimpanzees have much larger genitals.
+		
+		ANS Gorillas don't use genitals as part of sexual competition
+
+	What about humans?
+
+----------------------------------------------------------------------
+
+Learning about evolution
+
+	Understanding the course of evolution is an important part of understanding
+	how things work now
+
+		How organisms work, and how ecosystems work
+
+	There are many challenges:
+
+		Timelines, identification, convergent evolution
+
+----------------------------------------------------------------------
+
+Summary
+
+	People have important differences from other organisms
+
+	We got here using the same rules of natural selection as everyone else
+
+		Things may be different _now_, but even that is not so clear
+
+	Adaptation does not move in a straight line
+
+		Changing conditions lead to opportunities for new adaptations
+
+		New adaptations _themselves_ can be an important cause of changing
+		conditions
+
+			Innovations, or co-evolution with other taxa
