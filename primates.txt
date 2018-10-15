@@ -58,7 +58,7 @@ Similarities and differences
 
 			ANS We're still evolving
 
-			ANS Directional selection? Varying selection?
+			ANS In what direction or directions?
 
 ----------------------------------------------------------------------
 
@@ -86,6 +86,8 @@ History
 ----------------------------------------------------------------------
 
 EXTRA PIC HIGHFIG 25.7
+
+	ADD a timeline pic?
 
 ----------------------------------------------------------------------
 
@@ -257,7 +259,7 @@ Mammals | S55.1
 
 ----------------------------------------------------------------------
 
-TSEC The evolution of primates | ADD reading
+TSEC The evolution of primates | S55.2--3
 
 	Humans are [primates], an ``order" characterized by
 
@@ -283,7 +285,7 @@ HIGHPIC Pearson/F35_deutero/35_36_primate_phylogeny.jpg
 
 Traits
 
-	What sort of traits to biologists use to characterize a group?
+	What sort of traits do biologists use to characterize a group?
 
 		ANS Derived traits
 
@@ -366,6 +368,8 @@ BCC
 
 		ANS Monkeys are not a clade!
 
+		ANS Another good name for anthropoids might be simians
+
 NCC
 
 SIDEFIG Pearson/F35_deutero/35_36_primate_phylogeny.jpg
@@ -378,7 +382,7 @@ EXTRA Show other phylogeny (need to screenshot)
 
 ----------------------------------------------------------------------
 
-TSEC Apes
+TSEC Apes | S55.4
 
 Ape adaptations | p.228
 
@@ -417,8 +421,7 @@ Patterns of replacement
 
 ----------------------------------------------------------------------
 
-
-SEC Learning about the past
+SEC Learning about the past | S 55.5
 
 ----------------------------------------------------------------------
 
@@ -473,7 +476,9 @@ Eyes
 
 		ANS Better for night vision
 
-		ANS More costly? Better for day vision?
+		ANS More costly? Harder to protect?
+
+		ANS Are small (or deep) eyes better for day vision?
 
 ----------------------------------------------------------------------
 
@@ -531,6 +536,8 @@ Dimorphism and sexual strategies
 		ANS Gorillas don't use genitals as part of sexual competition
 
 	What about humans?
+
+		ADD We have big penises and small testicles
 
 ----------------------------------------------------------------------
 
