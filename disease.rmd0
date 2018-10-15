@@ -1,0 +1,402 @@
+---
+title: Evolution and genetics of disease
+author: Ben Bolker
+date: `r strsplit(as.character(Sys.time())," ")[[1]][1]` <#copyright> BMB  (except textbook material/other images)
+header-includes:
+   - \\usepackage{multicol}
+---
+
+```{r setup,echo=FALSE,message=FALSE,warning=FALSE}
+## if we use fig.align or out.height then knit() turns figures into HTML format
+opts_chunk$set(message=FALSE,warning=FALSE,
+               echo=FALSE,fig.width=6,fig.height=4<#outspec>)
+library(ggplot2)
+theme_set(theme_bw())
+require(scales)
+require(grid)
+require(gridExtra)
+require(RColorBrewer)
+library(reshape2)
+library(plyr)
+## opts_knit$set(upload.fun = image_uri,echo=FALSE)
+```
+
+## Population genetic questions
+
+<#b2cols>
+
+* what maintains *deleterious* alleles in the face of natural selection?
+* what creates and maintains genetic diversity?
+* what maintains *geographic* variation?
+* what are the implications of variation?
+
+<#s2cols>
+
+<#stdfig bmbpix/Figure14_01.jpg>
+
+(B&S 6th edition Figure 14.1)
+
+<#e2cols>
+
+## Evidence for history and function of genes: associations
+
+- **gene-trait associations**:  
+allele X is found in people with trait Y  
+(e.g. this allele causes colorblindness)
+- **gene-environment associations**:  
+allele X is found in environment A  
+(e.g. this allele/trait is common in hot climates)  
+(includes *past* environments)
+- **allele-geographic associations**:  
+allele X is found in a particular area  
+(e.g. this allele/trait is common in South Asian populations)
+
+## history and function of genes: other information
+
+* **mechanistic arguments**:  
+allele X produces a protein that does Z  
+(binds with another protein, changes gene expression ...)
+- **phylogenetic history**:  
+when did this gene arise?
+- **population history**:  
+how big has the population been over time?
+- **geographic variation in diversity**  
+locus X is more variable in location B  
+(this locus has more allelic diversity in sub-Saharan Africa)  
+<#finalhandout
+<#pause>
+
+more variable typically = older
+>
+
+## Mendelian traits
+
+- single locus has a qualitative effect
+    - <#gloss SNPs> (single-nucleotide polymorphisms)
+    - (short) insertions and deletions
+- dominant/recessive
+     - heterozygote may differ: incomplete dominance  
+or <#gloss overdominance>/<#gloss heterosis>	 
+- <#gloss autosomal> or sex-linked
+- nuclear or mitochondrial
+
+## Deleterious alleles
+
+- a **deleterious** allele gives lower average fitness
+- fitness depends on 
+    - alternative alleles
+	- genetic background (**epistasis** or  
+**G $\\times$ G interaction**)
+	- environment  
+(**G $\\times$ E interaction**)
+
+## Why are deleterious alleles still around?
+
+- mutation-selection balance
+- drift
+- advantageous in some environment  
+(maybe a past environment)
+- overdominance
+
+## Phenylketonuria
+
+<#b2cols>
+
+- autosomal recessive
+- affects 1/12,000
+- mental retardation if diet includes phenylalanine
+- perfectly healthy otherwise (diet developed 1950s)
+
+<#s2cols>
+
+<#nohandout
+<#stdfig bmbpix/Coke_PKU.jpg>
+>
+
+<#e2cols>
+
+## PKU genetics
+
+- many different mutations
+- homozygous PKU historically lethal
+- <#gloss selection coefficent> = 1
+     - proportional reduction in fitness relative to <#gloss wild type>
+- why not mutation?
+     - PKU alleles are too old to still be around
+	 - not in a mutable region of the genome
+
+## PKU incidence
+
+<#stdhtfig bmbpix/pku_incidence.png>
+
+## PKU genetics
+
+why not drift?
+
+- many different mutations
+- present across many populations
+- populations without history of being small
+    - e.g. Irish gene pool from $\\approx$ 2500 BC
+	- population size was 100K-200K
+	- current expected frequency 0.6% is twice as high as expected
+	
+## PKU genetics: conclusion
+
+- calculation from genetic models
+- heterozygote advantage probably $\\approx$ 1.5%
+- hard to measure directly!
+- probably due to higher phenylalanine levels in heterozygotes
+- phenotypic effects?
+     - higher birth weight
+	 - mycotoxin resistance?
+	 - starvation resistance?
+
+## Mutation/selection balance
+
+* if frequency of deleterious allele is maintained by selection
+* **purifying** (stabilizing) selection vs. deleterious genes
+* $m$=rate of new mutation; $s$=*selection coefficient*
+    * dominant ($m/s$),  
+recessive ($\\sqrt{m/s}$)
+    * $m=10^{-4}$, $s=1$:
+$q$ = 0.01% (dominant) **or** 1% (recessive)
+    * $m=10^{-4}, s=0.5$  
+$q$ = 0.02% (dominant) **or** 1.4% (recessive)
+
+## Achondroplasia
+
+<#b2cols>
+
+* dominant, homozygous lethal
+* rate $\\approx$ 1/25,000
+* $s \\approx 1$ (sporadic mutation in 80-90% of cases)
+* therefore $m \\approx 10^{-5}$ 
+* FGFR3 gene: highest mutation rate known  
+	
+<#s2cols>
+
+<#nohandout
+<#stdfig bmbpix/dinklage.jpeg>
+>
+
+<#e2cols>
+
+<#nohandout
+
+## Clicker question
+
+Which of the following circumstances would give the strongest evidence for a founder effect?
+
+An allele that ...
+
+a. is found at high frequencies only in historically small populations
+b. is recessive
+c. is deleterious only in specific environments
+d. affects the endocrine system
+e. confers some advantage on heterozygotes
+
+>
+
+## Tay-Sachs disease
+
+* Lethal abnormality in hexosaminidase A (lipid metabolism);
+early (infant/toddler) death
+* Mendelian, recessive lethal ($s=1$)
+* allele frequency $\\approx$ 1/300 in US population, 1/30 in Ashkenazi (E. European) Jews: also high in French Canadians, Cajuns, Pennsylvania Dutch ...
+
+## Tay-Sachs disease: mechanisms
+
+* No known mechanism for overdominance
+* speculations: Tb resistance, intelligence: ???  
+[@spyropoulos_taysachs_1988;@frost_taysachs_2012]
+* Population-genetic evidence suggests drift [@frisch_origin_2004]
+     * occurs in distinct, historically small populations
+	 * e.g. Ashkenazi: find conserved <#gloss haplotype> in 55 individuals
+	 * date mutation to 30-50 generations (8th-9th c.)
+	 * rapidly expanding population after bottleneck/founder event
+	 
+## Sickle-cell
+
+<#b2cols>
+
+* overdominance  
+(heterozygote advantage)
+* selection for *falciparum* malaria resistance
+* geographic patterns;  
+consistency with malaria distribution
+* mechanistic basis for protection
+* evidence for positive selection (age??)
+
+<#s2cols>
+
+<#nohandout
+<#stdhtfig bmbpix/Figure14_05_sm.jpg>
+
+B&S Figure 14.5
+
+>
+
+
+<#e2cols>
+
+## Balanced polymorphisms
+
+<#b2cols>
+
+* Sickle-cell (and all cases of overdominance) depends on genetic makeup of the *population*
+* chance of mating with a carrier is higher when allele is more common
+* easier to do the math at the level of alleles
+* (see [dynamic version online](https://bbolker.shinyapps.io/shiny_sickleCell))
+
+
+<#s2cols>
+
+```{r echo=FALSE,fig.cap="",fig.height=6,fig.width=4}
+require("knitr")
+## knit_hooks$set(pdfcrop = hook_pdfcrop)
+par(mfrow=c(2,1),mgp=c(2.5,0.75,0),mar=c(3.5,4,0.5,0))
+par(las=1,bty="l",yaxs="i")
+xfun <- function(x) (x-1)/(2*x-1)
+colvec <- c("orange","blue")
+curve(1.15*(1-x),from=0,to=1,ylim=c(0,1.15),
+      xaxs="i",yaxs="i",
+      xlab="frequency of S",
+      ylab="average fitness",col=colvec[1])
+curve(1.15*x+(1-x),add=TRUE,col=colvec[2],from=0)
+abline(h=1.15,lty=2)
+text(c(0.7,0.8),c(0.3,1.0),col=colvec,
+     c("S fitness","A fitness"))
+curve((x-1)/(2*x-1),from=1,to=1.5,
+      xlab="heterozygote advantage",
+      ylab="stable frequency")
+segments(1.15,0,1.15,xfun(1.15),lty=2)
+segments(0,xfun(1.15),1.15,xfun(1.15),lty=2)
+```
+
+<#e2cols>
+
+<#nohandout
+
+## Clicker question
+
+Suppose mass immigration into a malaria area lowers the frequency of sickle-cell allele. Which of the following do you expect?
+
+(A) SS homozygosity up, S fitness down
+(B) SS homozygosity down, S fitness up
+(C) SS homozygosity up, S fitness up
+(D) SS homozygosity down, S fitness down
+
+>
+
+## Selective sweeps
+
+<#b2cols>
+
+* strong selection on an allele
+* individuals carrying that allele have high fitness
+* lower (gene-specific)
+**effective population size**
+* neighbouring loci carried along as **haplotypes**: **hitchhiking**
+* haplotypes gradually erode (narrow) by recombination
+
+<#s2cols>
+
+<#stdfig bmbpix/schaffner_positiveselection-f1_mid_1.jpg>
+ 
+[Nature Scitable](http://www.nature.com/scitable/content/a-selective-sweep-24827)
+<#e2cols>
+
+## Selective sweep: pyrimethamine resistance in *falciparum* malaria
+
+<#stdfig bmbpix/malaria_sweep.png>
+
+[@nair_selective_2003]
+
+## pyrimethamine resistance
+
+- single origin  
+(similar haplotypes in samples 2000 km apart)
+- width of selective valley gives estimate of recombination and selection intensity
+- possibility of locating other selected traits by genome scanning
+
+## Other malaria-protective variation in humans
+
+<#b2cols>
+
+* hemoglobin variants:
+    * blood groups, Rh-negativity
+  (older than malaria)
+    * thalassemia
+* enzyme variants:
+    * GP6D deficiency/favism
+        * Mediterranean populations
+    	* X-linked
+	    * arose 5-10K years ago: agriculture?
+* Duffy antigens (protection against *vivax* malaria)
+	
+<#s2cols>
+
+<#stdfig bmbpix/malaria2.png>
+
+[Wikipedia](https://en.wikipedia.org/wiki/Genetic_resistance_to_malaria)
+
+<#e2cols>
+
+## Cystic fibrosis
+
+* Lethal lung disease: mucus build-up  
+(1/4 chance of death before 30, previously much higher)
+* 4% carriers in European whites (1/2500 diseased: $2pq=0.04 \\to q^2=0.0004$)
+* Mutated cftr gene, changes chloride metabolism;   
+age approx. 50 KYA
+* Protection from cholera? (First European cholera epidemic 1817) Dehydrating intestinal diseases?  Typhoid?
+* **Pleiotropy** (multiple effects from one gene)
+
+## Summary: variation in Mendelian traits
+
+* (relatively) simple inheritance
+    * recessive/dominant, autosomal/X/Y-linked
+* estimate 
+
+* drift (assess historical population size/selection)
+*  balancing selection, G $\\times$ E
+
+## Selection in changing environments
+
+<#b2cols>
+
+* selection pressures change
+* T-S, malaria: opposing effects of reduced infectious disease,
+treatment, genetic counselling
+* hard to see effects in the short term
+
+<#s2cols>
+
+<#stdfig bmbpix/CF_survival.jpg>
+
+[@george_improved_2011]
+
+<#e2cols>
+
+
+## Selection in changing environments (2)
+
+<#b2cols>
+
+ obesity/diabetes [@sandholt_beyond_2012;@okada_common_2012]
+
+* "thrifty phenotype"
+* <#gloss genome-wide association studies> (GWAS)
+* only explains 1.45% of variation
+* may not handle G $\\times$ E, copy-number variation well
+* hard to narrow regions to genes
+	
+<#s2cols>
+
+<#stdhtfig bmbpix/obesity_gwas_rotB.png>
+
+<#e2cols>
+
+
+## References
+<#startbib>

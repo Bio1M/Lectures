@@ -1,4 +1,4 @@
-# The evolution of apes (HHE ch. 9: p 211-215, 218-230)
+# The evolution of primates part 1(HHE ch. 9: p 211-215, 218-230)
 
 ## So what?
 
@@ -18,7 +18,6 @@
 <#finalhandout
 <#pause>
 
-    - Big brains
     - Complex thoughts
     - Culture
     - Language
@@ -28,7 +27,6 @@
 <#finalhandout
 <#pause>
 
-    - Biochemistry, physiology
     - We're here because our ancestors reproduced
     - If reproductive success depends on heritable variation in traits ...
 	- We're still evolving
@@ -52,18 +50,17 @@ There are a _lot_ of steps (and a lot of divergences) between us and the last un
 
 - More than 3 billion years ago!
 
-## Zooming in
+## Key steps (1)
 
-<#stdfig webpix/Eukaryotes.png>
+<#b2cols>
 
-## Key steps
+<#s2cols>
 
 - <#gloss Eukaryotes>
 <#finalhandout
 <#pause>
 
     - DNA in nucleus
-	- mitochondria
 >		 
 - <#gloss Animals>
 <#finalhandout
@@ -73,6 +70,8 @@ There are a _lot_ of steps (and a lot of divergences) between us and the last un
     - neurons and muscles (except sponges)
     - Hox genes (except sponges and comb jellies)
 >
+
+<#e2cols>
 
 ## Key steps (2)
 
@@ -105,6 +104,7 @@ There are a _lot_ of steps (and a lot of divergences) between us and the last un
 <#pause>
 
 - amazingly anthropocentric
+- one
 - ignores alternate branches and dead ends
 >
 
@@ -114,7 +114,7 @@ Are some species better than others?
 
 - extant vs extinct
 - all extant species equally successful (survived)
-- abundance? (nematodes) biomass ([lots](https://xkcd.com/1338/))? ecosystem impact (phytoplankton)?
+- abundance? biomass? ecosystem impact?
 >
 
 ##
@@ -143,9 +143,9 @@ build in unexpected directions
 
 - physical changes often provide species with new adaptive challenges and
 opportunities:
-    - global climate change
-    - continental drift
-    - geological changes
+    - Global climate change
+    - Continental drift
+    - Geological changes
 - new environments can arise  
 (e.g., mountain ranges, desert basins)
      - Geology may also disconnect/reconnect populations
@@ -173,7 +173,7 @@ opportunities:
 ## Changing ecosystems
 
 - taxa can be dramatically affected by changes in other taxa
-    - due to evolution or to colonization
+    - Due to evolution or to colonization
 - interactions with other organisms are key to most ecological niches
     - Who do I eat? Who is trying to eat me? How do I reproduce?
 - co-evolution is a key driver of diversity
@@ -197,14 +197,14 @@ dispersal
 
 # Patterns of diversity
 
-## therapsids (p. 211-213; Figure 9.1)
+## Therapsids (p. 211-213)
 
 <#b2cols>
 
 - our ancestors radiated and dominated many terrestrial environments _before_
 dinosaurs did
-- therapsids were largely replaced by dinosaurs in the age of dinosaurs
-- but some survived, and one radiated after the Cretaceous mass extinction
+- Therapsids were largely replaced by dinosaurs in the age of dinosaurs
+- But some survived, and one radiated after the Cretaceous mass extinction
 
 <#s2cols>
 
@@ -216,14 +216,14 @@ dinosaurs did
 
 ## Radiation and contraction
 
-- many clades seem to go through periods of radiation and contraction
-    - gain and then loss of species diversity
-	- not necessarily from mass extinction events
-- examples:
+- Many clades seem to go through periods of radiation and contraction
+    - Gain and then loss of species diversity
+	- Not necessarily from 
+- Examples:
     - Therapsids, apes, hominins (us)
-- radiation gives many chances for adaptation
-    - lineages that have had radiations may be more likely to persist
-    - even after periods of contraction
+- Radiation gives many chances for adaptation
+    - Things that have had radiations may be more likely to persist
+    - Even after periods of contraction
 
 ## Reasons for contraction
 
@@ -243,15 +243,11 @@ Why might a clade diversify and then suffer many extinctions?
 those clades are the ones we're looking at
     - The clades that are still around
 - Clades with a history of radiation may be more successful
-<#finalhandout
-<#pause>
-
     - have explored more kinds of environments
     - are found in more different specific places
            - e.g., marsupials in Australia
     - have had more chances to adapt
            - may have a few very successful species (like us)
->
 
 # The evolution of primates
 
@@ -427,14 +423,6 @@ new niches, apparently including space for primates
 
 <#e2cols>
 
-## phylogeny: @bloch_grasping_2002
-
-<#stdfig webpix/carpolestes_phylog.jpg>
-
-## traits: @bloch_grasping_2002
-
-<#stdfig webpix/carpolestes_characters.jpg>
-
 ## Adaptation theories:
 
 1\. stereoscopic vision, grasping hands and feet, nails evolved together
@@ -471,9 +459,7 @@ e. an insectivorous animal without stereo vision
 
 <#s2cols>
 
-<#stdfig webpix/squirrel.jpeg>  
-<#stdfig webpix/Bronchocela.jpg>  
-Wildan ardani, [wikimedia](https://commons.wikimedia.org/wiki/File:Bronchocela.jpg)
+<#stdfig webpix/squirrel.jpeg>
 
 <#e2cols>
 
@@ -504,31 +490,11 @@ some sexually dimorphic
 - phylogeny is a "messy bush with many fine branches ... tenuous
 connections between most living and extinct forms"
 
-##
-
-[Tree of Life web](http://tolweb.org/tree?group=Primates)
-
-
-
-## New World monkeys
-
-<#b2cols>
-
-- earliest known New World monkeys: late Oligocene, 34 mya
-- Where did New World monkeys come from?
-
-<#s2cols>
-
-<#stdfig webpix/monkey.jpg>
-
-<#e2cols>
-
-
-## 
-
-<#stdfig norton/ch09/09_04.jpg>
-
 ## New World monkeys: hypothesis 1
+
+Where did New World monkeys (late Oligocene) come from?
+
+Africa?
 
 <#finalhandout
 <#pause>
@@ -538,8 +504,7 @@ connections between most living and extinct forms"
 - New World rodents similar to African species
 - **but:**
     - continents far apart in late Oligocene
-	- no evidence of primate rafting  
-(except humans!)
+	- no evidence of rafting?
 >
 
 ## New World monkeys: hypotheses 2 & 3
@@ -553,33 +518,5 @@ From Africa but earlier?
 
 - maybe we just haven't found the fossils
 - continents were closer in early Oligocene
-
-## the Miocene
-
-- more climate change: warmer, then cooler
-- splitting off/evolution of apes
-
-## apes (Hominoidea)
-
-- larger-bodied
-- hang from branches rather than running on top of them
-- more upright posture
-- larger, more <#gloss robust> jaws
-(drier environment/tougher food)
-- lots of variation: some convergence?
-- many species lost at end of Miocene
-
-## ape radiation [@nengo_new_2017]
-
-<#stdfig webpix/nature23456-f5.jpg>
-
-##
-
-- genetic data (<#gloss molecular clock>)
-    - last human-gorilla-chimp common ancestor: $\\approx$ 8-9 mya
-    - human-chimp split: $\\approx$ 7-5 mya
-- not many late Miocene fossils
-- probably lots of convergence
-- lots of extinction at the end of the Miocene
 
 ## References

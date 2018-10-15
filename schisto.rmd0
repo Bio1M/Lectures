@@ -1,0 +1,126 @@
+---
+title: "schistosomiasis"
+---
+
+## schistosomiasis
+
+<#b2cols>
+
+- immunopathological liver/bladder disease
+- spread by contaminated freshwater
+    - rice paddies, ponds, streams
+- 252M people affected, 4.4K-200K deaths/year
+- [neglected tropical disease](https://en.wikipedia.org/wiki/Neglected_tropical_disease)
+- treatment: US$0.20/year
+
+<#s2cols>
+
+<#stdfig webpix/schistowiki1.jpg>
+
+[Wikipedia](https://en.wikipedia.org/wiki/Schistosomiasis)
+
+<#e2cols>
+
+## schistosomes
+
+<#b2cols>
+
+- trematode parasites
+- sexual, dioecious (both male and female individuals)
+- snail $\\rightarrow$ mammal $\\rightarrow$ snail cycle
+
+<#s2cols>
+
+<#stdfig webpix/220px-Schistosoma_20041-300.jpg>
+
+<#e2cols>
+
+## schistosome phylogeny [@crellen_whole_2016]
+
+<#stdfig bmbpix/schisto_phylog2_ann.jpg>
+
+<#finalhandout
+
+## Clicker
+
+<#smallfig bmbpix/schisto_phylog2_ann.jpg>
+
+Wat can we conclude from the phylogeny?
+
+a. Caribbean populations are monophyletic
+b. common ancestor of *S. mansoni* + *S. rodhaini* probably
+from the Caribbean
+c. the Guadeloupean populations are monophyletic
+d. common ancestor of *S. mansoni* probably from E. Africa
+e. common ancestor of *S. mansoni* probably from Caribbean
+
+>
+
+## Species distribution [@combes_parasitism_2004]
+
+<#b2cols>
+
+questions about distribution:  
+why is *S. intercalatum* so restricted?
+
+- missing even where snail hosts are present
+    - Hypothesis 1: hybridization with *S. haematobium*
+    - Hypothesis 2: mating (not hybridization)
+with *S. mansoni*
+
+<#s2cols>
+
+<#stdfig  bmbpix/schisto_phylo_only.png>
+
+<#e2cols>
+
+<#finalhandout
+
+## clicker
+
+why might *S. intercalatum* hybridize with *S. haematobium*
+but not *S. mansoni*?
+
+a. pre-zygotic isolation mechanisms
+b. *S. mansoni* is less closely related/more genetically divergent
+c. *S. mansoni* is more closely related/less genetically divergent
+d. *S. intercalatum* and *S. mansoni* are part of a monophyletic group
+e. vicariant speciation
+
+>
+
+##
+
+<#stdfig webpix/schisto2R.png>
+
+## pubmed
+
+PubMed search: [intercalatum + mansoni + phylogeny](https://www.ncbi.nlm.nih.gov/pubmed/?term=intercalatum+mansoni+phylogeny)
+
+## @sealey_adaptive_2013
+
+- genetic/molecular characters  
+(amino acid sequence of TSP-23)
+
+<#stdfig bmbpix/schisto_protein.jpg>
+
+## phylogeny and proteins @sealey_adaptive_2013
+
+<#stdfig bmbpix/schisto_phylo.jpg>
+
+## phylogeny based on proteins
+
+<#b2cols>
+
+<#stdfig webpix/schisto_phylo3.jpg>
+
+<#s2cols>
+
+- balancing selection
+- *based on these sequences*, schistosome species are not monophyletic
+- convergent evolution
+- adaptive radiation (?)
+
+<#e2cols>
+
+## references

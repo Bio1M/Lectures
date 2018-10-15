@@ -1,0 +1,540 @@
+---
+title: "Phylogeny and the history of life (chapter 27)"
+---
+
+# Phylogeny  (§27.1; Bioskills 3 (back of book))
+
+## Phylogeny 
+
+- <#gloss Phylogeny> is the evolutionary history of a group of organisms
+(represented by a <#gloss phylogenetic tree>)
+- Based on the idea that organisms are related by evolution
+- Understanding these relationships is critical to our understanding of
+     - evolution
+	 - how biological processes work
+
+## Phylogenetic trees (Fig B3.1-2)
+
+- A <#gloss phylogenetic tree> is a model of how a group of organisms
+	descended from a common ancestor
+- the model consists of <#gloss nodes>, where groups split, <#gloss branches> where evolution occurs, and <#gloss tips> representing observed <#gloss taxa> which are the endpoints of the process we are trying to model.
+- A point where more than two branches diverge is called a *polytomy*
+     - Polytomies mean we don't know which event happened first.
+
+##
+
+<#stdfig Pearson/F_skills/B07_1_phylogenetic_trees.jpg>
+
+##
+
+<#stdfig  Pearson/F_skills/B07_2_phylo_tree_example.jpg>
+
+## Monophyletic groups
+
+- A <#gloss monophyletic group> is a group _defined by_ a single common
+ancestor
+    - All descendants of the ancestor must be in the group
+- Monophyletic groups can also be called <#gloss clades> or <#gloss taxa>.
+- As biologists, we should try to think in terms of clades
+	- Are flying vertebrates a clade?
+- What are some prominent groups that are not clades?
+<#finalhandout
+<#pause>
+
+	- apes (don't include humans), reptiles, dinosaurs, fish ...
+>	
+
+##
+
+<#stdfig webpix/1200px-Traditional_Reptilia.png>
+
+## Sister taxa
+
+- Sister taxa can be a useful way of thinking about trees
+    - two taxa that share a common node
+    - You need to take the whole taxon, when appropriate
+- e.g., sisters of: _Homo sapiens_; _Homo erectus_ ...
+
+##
+
+<#b2cols>
+
+<#stdfig  Pearson/F_skills/B07_2_phylo_tree_example.jpg>
+
+<#s2cols>
+
+<#finalhandout
+
+(clicker) What is the sister taxon of humans?
+
+a. hominins
+b. *H. neanderthalensis*
+c. *Australopithecus*
+d. both *Paranthropus* species
+e. *Paranthropus boisei*
+
+>
+
+<#e2cols>
+
+## Reading phylogenetic trees
+
+- The tree indicates the pattern of branching of <#gloss lineages> (evolving
+lines)
+- tips are assumed by the model to be monophyletic
+- a tree is a model of how evolution occurred
+     - trees that correspond to the same model are considered equivalent (Figure B3.3)
+	 - can flip order of any two branches from a node
+
+##
+
+<#stdfig  Pearson/F_skills/B07_3_alternate_phylo_trees.jpg>
+
+## Order of species
+
+- Except for the branching pattern, we don't interpret anything about the order of a tree
+     - No species are higher or lower than others, according to the tree
+     - We've all been evolving for the same amount of time
+- How do we judge how closely related two organisms are, according to a
+tree?
+<#finalhandout
+<#pause>
+
+	- By looking for their common ancestor
+>		
+- Branch *lengths* may be meaningful
+
+## morbilliviruses
+
+<#stdfig webpix/viruses-08-00274-g002.png>
+
+@da_fontoura_budaszewski_morbillivirus_2016
+
+# Constructing phylogenetic trees
+
+## 
+
+- First, measure <#gloss characters> of the taxa of
+interest  
+- i.e., anything that seems useful to measure
+    - <#gloss morphological> (i.e., physical) or genetic
+- Then infer (make an educated guess about) the phylogenetic
+relationships.
+     - <#gloss Phenetic> approaches use measures of distance between organisms
+     - <#gloss Cladistic> approaches are based on modeling how evolution occurs
+on the tree
+
+## Morphological vs. genetic characteristics
+
+- Should we use morphological or genetic characteristics to infer phylogenies?
+<#finalhandout
+<#pause>
+
+     - We usually have more information from genetic characteristics, and this information is easier to measure precisely
+>	 
+     - When should we use morphological characteristics?
+<#finalhandout
+<#pause>
+
+	      - When genetic information is not available
+          - i.e. most fossil organisms
+>
+
+## Phenetic vs. cladistic analysis
+
+- <#gloss Cladistic analysis> makes use of the phylogenetic model of organisms evolving from each other to infer phylogenies
+- <#gloss Phenetic analysis> ignores the phylogenetic model of organisms evolving from each other while inferring phylogenies
+     - Which is better?
+<#finalhandout
+<#pause>
+ 
+		  - Cladistic analysis
+>
+
+	- When should we use the other one?
+<#finalhandout
+<#pause>
+
+		- When our data are only distances, with no characters available: e.g., certain molecular techniques
+>
+
+## Synapomorphies
+
+- Classical cladistic analysis is based on <#gloss synapomorphies> -- shared, <#gloss derived> characters -- as evidence that two taxa are related
+     - Why do we focus on derived characters?
+<#finalhandout
+<#pause>
+	 
+            - Because derived characters correspond to changes that our evolutionary model (phylogeny) must explain
+>
+
+## What characters are derived?
+
+- Derived compared to what?
+- The common ancestor: characteristics of the common ancestor are called <#gloss ancestral> characters
+    - Example: ostriches, hawks, sparrows
+- A <#gloss derived> character is a character **not** shared by the common ancestor of the group that we are currently thinking about
+      - Example: flight in birds and fish
+      - Example: flight in swallows and robins
+    - One way to think about cladistic vs. phenetic analysis is that phenetic analysis treats derived and ancestral characters equally
+
+## Inferring the common ancestor
+
+- We want to know what the common ancestor was like, so we can tell which characters are derived (as opposed to ancestral)
+    - This can be done sometimes by common sense
+	- Inferring the common ancestor statistically is technically difficult
+- An <#gloss outgroup> (an organism closely related to, but outside, the group being studied) is useful
+- We assume that the the <#gloss root>, or beginning, of the tree is where the outgroup branches from the group
+
+## Confusing phylogenies
+
+- Two species may have the same trait because the trait evolved twice independently
+      - <#gloss convergent evolution>
+	  
+<#finalhandout
+<#pause>
+      - Flight in bats and birds, swimming in dolphins and icthyosaurs
+>
+
+- An organism may lack a character that its ancestors had: <#gloss secondary loss>
+- Similarities that are not homologies (ie., not due to common ancestry) are called <#gloss homoplasies> (Fig. 27.2)
+
+## Parsimony
+
+- Cladistic analysis searches for the tree that explains the observed data most <#gloss parsimoniously> (with the fewest number of changes)
+- How do we address the problem of convergent evolution/homoplasy?
+<#finalhandout
+<#pause>
+
+    - Use many different characters
+    - Use many different taxa
+>
+-  Modern approaches that use genetic data may use more sophisticated approaches, rather than simple parsimony
+
+# Example: the evolution of whales
+
+## Whales
+
+- Whales seem pretty different from other mammals, including the closest group, the artiodactyls
+- Early phenetic analyses showed whales in their own group  
+(sisters to artiodactyls)
+- Whales lack the distinctive artiodactyl ankle structure (surprise!)
+- What about cladistic analysis?
+
+##
+
+<#fullhtfig Pearson/F28_phylogeny/28_04a_whale_phylogeny.jpg>
+
+## Tree-construction analysis
+
+<#b2cols>
+
+- Calculate distances, and make a phenetic tree
+- List synapomorphies, and make a cladistic tree
+
+<#s2cols>
+
+species     characters
+-------     -----------
+hippos      A, B, C, D, Z
+cows        A, Z
+whales      B, C, D, E, F, G, H, I, Z
+
+<#e2cols>
+
+<#finalhandout
+## Tree discussion
+
+- What is the effect of universal characteristics (like Z, above)?
+<#pause>
+	- None
+- What is the effect of unique characteristics (like E, F, G, H, I)?
+<#pause>
+    - They affect phenetic trees, but not cladistic trees
+    - As long as we are sure that they are derived!
+- Why might whales have more derived characters than the other species?
+<#pause>
+    - Because they have had to adapt more since moving to the water
+>
+
+##
+
+<#stdfig Pearson/F28_phylogeny/28_04c_whale_phylogeny.jpg>
+
+##
+
+<#fullhtfig  Pearson/F28_phylogeny/28_04b_whale_phylogeny.jpg>
+
+## Confirmation (Fig 24.11)
+
+<#stdhtfig Pearson/F25_ns/25_11_whale_evolution_U.jpg>
+
+- intermediate forms between hippo-like animals and whales
+- Discovered _after_ they were predicted from DNA evidence!
+
+## Lessons
+
+- Phenetic analysis can be misleading
+- Any analysis can be misleading, if data are limited
+     - This is almost always a concern
+- Inferences about the common ancestor can be crucial
+     - What if we thought the artiodactyl ancestor was aquatic?
+<#finalhandout
+<#pause>
+
+		- E, F, G, H and I could all be ancestral characters
+        - We would conclude that cows are closely related to hippos
+>
+
+## Phylogenetic trees are approximations!
+
+- Phylogenetic trees are useful, powerful tools for understanding biological data
+- But they have limitations:
+     - The true history of life cannot really be summarized by a tree
+            - Sex, other forms of combination or gene transfer
+     - 	Current trees are not necessarily best	approximations to the true history of life
+	 - our guesses change over time
+
+
+# The history of life (§1.4)
+
+# The shape of the tree
+
+- Big recent innovations have told us a lot about the history of life
+     - Detailed genetic information
+     - Sophisticated analysis techniques
+     - Computers
+
+## Three domains (Fig 1.6)
+
+- Bacteria
+     - no nuclei; mostly small
+	 - most of the micro-organisms you see
+- Archaea
+     - no nuclei; mostly small
+     - rarer, or live in more extreme environments
+- Eukarya
+     - large, nucleated cells
+
+##
+
+<#fullhtfig Pearson/alpha1_intro/01_06_tree_of_life.jpg>
+
+## Eukaryotes
+
+- Seem to be sisters with archaea, according to most of our key genes
+- Characterized by <#gloss nuclei> and <#gloss mitochondria>
+- Mitochondria came later, and are captured bacteria!
+- Where did the nucleus come from?
+     - Nobody knows
+- The tree is only part of the story!
+     - If genes (or even whole bacteria) can be transferred, life is not really a tree
+
+## horizontal gene transfer
+
+<#medhtfig webpix/hgt.png>
+
+@smets_horizontal_2005
+
+## Five kingdoms
+
+- Not really a good way to describe the evolution of life
+- So why has this idea persisted for so long?
+     - it matches the way the world _looks_ -- animals, plants and fungi dominate _visible_ life
+	 - fungi and plants are sessile, animals are mobile
+     - archaea and bacteria are difficult to tell apart even with a microscope
+
+## The fossil record (pp. 526-528)
+
+- A <#gloss fossil> is a physical trace of an organism from the past (Fig 27.7)
+- Intact fossils retain their form and substance
+- Compression fossils are squashed into a thin film
+- Cast fossils occur when the decomposing piece is replaced by minerals different from the surrounding ones
+- Permineralized fossils occur if minerals infiltrate cells as they are decomposing
+
+##
+
+<#medhtfig  Pearson/F28_phylogeny/28_05_fossil_types.jpg>
+
+## Biases in the fossil record
+
+- Scientists have learned a lot from studying fossils, but care is needed
+- Very few things fossilize, and some things are much more likely to fossilize than others, for example:
+    - Things that live in swampy areas, or underground  
+(<#gloss habitat bias>)
+    - Hard things, or hard parts of things  
+	(<#gloss Taxonomic bias>)
+    - Things that lived more recently have had less time to be
+destroyed, or to be buried too deep for recovery  
+(<#gloss Temporal bias>)
+    - Things that are more abundant have more chances to be preserved (<#gloss Abundance bias>)
+
+## Accounting for biases 
+
+- Because the fossil record is biased, scientists must be very careful about making inferences from what they see
+     - Just because you don't see it, doesn't mean that it wasn't there
+     - Just because you see a lot, doesn't mean that there were a lot (relatively speaking)
+- Trying to figure out what happened based on what kind of fossils we happen to find is tricky
+
+##
+
+<#stdfig  jdpix/bee.jpg>
+
+@ledford_amber_2007, @ramirez_dating_2007
+
+# Putting the timeline together
+
+- Dates of specimens can be inferred using radioactive isotopes (harder than it sounds)
+- Geologic inferences can be made about the relative age of different things (for example, if one was deposited on top of another).
+- <#gloss molecular clocks> are based on inferences about how fast things are evolving
+
+These techniques are complicated, and making the timeline is a
+difficult and exciting puzzle 
+
+<#finalhandout
+
+## Clicker question
+
+- For most of Earth's 4.5 billion year history there has been:
+
+a. No life
+b. Life, but no multi-cellular organisms
+c. Multi-cellular organisms, but no plants, animals or fungi
+d. Plants, animals, and fungi, but no flowering plants, birds or mammals
+e. Flowering plants, birds and mammals, but no good espresso
+
+>
+
+## history of the earth (Figure 27.8)
+
+<#stdfig Pearson/F28_phylogeny/precambrian_rot.jpg>
+
+##  Processes of diversification
+
+- Diversity sometimes arises gradually, and sometimes dramatically (<#gloss radiation> events)
+- Species (and families, and bigger groups) sometimes disappear gradually, and sometimes dramatically (<#gloss mass extinction> events)
+
+## Adaptive radiations (pp. 530-534)
+
+- An <#gloss adaptive radiation> occurs when a single lineage produces many
+descendant species, in a short period of time, that make their
+living in a variety of different ways
+- Triggered by opportunity, either in the environment, or because of
+the evolution of the organisms themselves (<#gloss key innovations>)
+
+## Triggers for adaptive radiation
+
+- Ecological opportunity 
+     - An organism arrives in an area with no similar organisms
+     - A group of competing species is driven extinct (or nearly extinct) by some other cause
+- Morphological innovation: an organism comes up with a good, new idea
+     - Legs in tetrapods
+     - New body plans in the Cambrian explosion
+     - Multi-cellularity
+- <#gloss Co-evolution>: the evolution of one group creates new niches for another group, and vice versa
+     - insects and the flowering plants
+
+## Colonization 
+
+- New kinds of organism colonize an area and diversify rapidly
+- This is an opportunity for studying evolution:  
+what's the same, and what's different, between similar cases?
+      - Finches (earlier chapters)
+      - Hawaiian silverswords (Fig 27.14)
+      - Anolis lizards (Fig 27.15)
+
+##
+
+<#stdfig  Pearson/F28_phylogeny/28_10c_Anolis_radiation.jpg>
+
+## Competition
+
+- Mammals did very well after the dinosaurs went extinct
+- We have seen major tree extinctions due to introduced diseases in the last
+century
+<#finalhandout
+<#pause>
+	- It remains to be seen whether new evolution will fill this opportunity
+>
+
+## Morphological innovation
+
+New adaptive mutations can open up further possibilities for adaptation
+
+- <#gloss Hox gene> mutations allowed early animals to develop complex body plans
+   - insects, arachnids, crustaceans ...
+- Flowering plants
+   - This opened many new opportunities for _everyone_ (insects, mammals,
+birds), not just the innovators
+<#finalhandout
+<#pause>
+
+	- Co-evolution
+>		
+
+## Hox genes (Fig 27.21)
+
+- <#gloss Hox genes> are involved in determining the identity of different
+	body parts
+- Taxa with simpler body structures tend to have fewer hox genes
+    - Phylogenetic comparisons suggest that hox genes were involved in evolution of complex body plans
+    - New hox genes were largely created by <#gloss gene duplication> events
+
+##
+
+<#stdfig Pearson/F28_phylogeny/28_13_Hox_genes.jpg>
+
+## Gene duplication
+
+- One or more genes may be accidentally duplicated so that the genome
+has two copies of each gene
+- This may make the organism less efficient, and thus be selected
+against
+- It may also allow for innovation.  Why?
+<#finalhandout
+<#pause>
+
+     -  Because one copy can continue to do the old function, while the other evolves a new function
+>
+
+## Cambrian explosion ($\\approx$ 570-520 mya)
+
+- lots of new taxa, new body plans, etc.
+- why?
+     - increased oxygen allows evolution of bigger/more energetic organisms
+	 - predators (coevolution)
+	 - new niches
+	 - new body plans due to Hox genes
+	 - all of the above
+
+# Mass extinctions (pp. 538-541)
+
+## Mass extinctions
+
+- five major mass extinctions so far
+- the last one (and maybe others) was caused by a cosmic impact
+     - it could happen again
+- are we in the middle of a mass extinction now? (Chapter 55)
+     - extinction rate very high over the last 400 years
+     - time will tell, but we should be worried
+
+## Cretaceous extinction
+
+- evidence for the impact hypothesis
+    - iridium
+	- shocked quartz
+	- crater
+- effects: wildfire, tsunami, global cooling
+- took 4-8 million years for diversity to recover
+
+## Conclusion
+
+- The best way to reconstruct evolution is with a _model_ of how it occurred
+- Molecular information, and computer modeling has changed our view of the tree of life
+     - life is not really a tree -- genetic information can be transferred
+- Scientists use many clues to figure out the history of life on earth
+     - 	Fossils, geology, phylogeny
+- Life has diversified both gradually, and with dramatic episodes
+     - Adaptive radiations, mass extinctions
+
+## References
