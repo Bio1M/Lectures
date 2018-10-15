@@ -1,0 +1,2 @@
+#!/bin/bash
+scp $1.final.handout_6up.pdf $1.final.handout.pdf $1.final.docx ms.mcmaster.ca:~/public_html/bio1m

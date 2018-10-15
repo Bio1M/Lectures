@@ -1,0 +1,32 @@
+pop,loc,type,allele,freq
+Inuit,Greenland,observed,MM,0.835
+Inuit,Greenland,observed,MN,0.156
+Inuit,Greenland,observed,NN,0.009
+Inuit,Greenland,expected,MM,0.834
+Inuit,Greenland,expected,MN,0.159
+Inuit,Greenland,expected,NN,0.008
+Native Americans,U.S.,observed,MM,0.600
+Native Americans,U.S.,observed,MN,0.351
+Native Americans,U.S.,observed,NN,0.049
+Native Americans,U.S.,expected,MM,0.602
+Native Americans,U.S.,expected,MN,0.348
+Native Americans,U.S.,expected,NN,0.050
+Caucasians,U.S.,observed,MM,0.292
+Caucasians,U.S.,observed,MN,0.494
+Caucasians,U.S.,observed,NN,0.213
+Caucasians,U.S.,expected,MM,0.290
+Caucasians,U.S.,expected,MN,0.497
+Caucasians,U.S.,expected,NN,0.212
+Aborigines,Australia,observed,MM,0.025
+Aborigines,Australia,observed,MN,0.304
+Aborigines,Australia,observed,NN,0.672
+Aborigines,Australia,expected,MM,0.031
+Aborigines,Australia,expected,MN,0.290
+Aborigines,Australia,expected,NN,0.679
+Ainu,Japan,observed,MM,0.179
+Ainu,Japan,observed,MN,0.502
+Ainu,Japan,observed,NN,0.319
+Ainu,Japan,expected,MM,0.185
+Ainu,Japan,expected,MN,0.490
+Ainu,Japan,expected,NN,0.325
+
