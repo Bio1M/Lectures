@@ -1,0 +1,19 @@
+country,incidence
+Australia,10000
+Canada,	22000
+China,	17000
+Czechoslovakia,	7000
+Denmark,	12000
+Finland,	200000
+France,	13500
+India,	18300
+Ireland,	4500
+Italy,	17000
+Japan,	125000
+Korea,	41000
+Norway,	14500
+Turkey,	2600
+Philippines,	102000
+Scotland,	5300
+United Kingdom,	14300
+United States,	25000
