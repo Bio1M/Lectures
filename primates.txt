@@ -3,11 +3,7 @@ EXTRA
 
 ~/Dropbox/courses/1M/he_supp/pearson_humans.pdf
 
-	EXTRA
-
 	norton
-
-	better fig_wasps
 
 ----------------------------------------------------------------------
 
@@ -85,9 +81,7 @@ History
 
 ----------------------------------------------------------------------
 
-EXTRA PIC HIGHFIG 25.7
-
-	ADD a timeline pic?
+PIC HIGHFIG freeman/25L/25_06_Phanerozoic-L.jpg
 
 ----------------------------------------------------------------------
 
@@ -148,7 +142,7 @@ Physical changes
 
 ----------------------------------------------------------------------
 
-PICSLIDE WIDEFIG norton/ch09/09_04.jpg
+PICSLIDE HIGHFIG webpix/Pangaea.gif.jpg
 
 ----------------------------------------------------------------------
 
