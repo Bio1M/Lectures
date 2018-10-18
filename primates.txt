@@ -290,6 +290,15 @@ Traits
 
 		ANS It takes many traits to make an accurate phylogeny
 
+	ADD Does swinging through trees provide evidence that orangutans are related
+	to bonobos, compared to humans or gorillas?
+
+		ADD ANS Depends on the ancestor
+
+	ADD We used to think people were far from chimps and gorillas
+
+		ADD ANS Phenetics, observer bias
+
 ----------------------------------------------------------------------
 
 The angiosperm explosion

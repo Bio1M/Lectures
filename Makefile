@@ -96,6 +96,12 @@ phylogeny.handouts.pdf: phylogeny.txt
 phylogeny.complete.pdf: phylogeny.txt
 phylogeny.outline.pdf: phylogeny.txt
 
+phenetics.draft.pdf: phenetics.txt
+phenetics.final.pdf: phenetics.txt
+phenetics.handouts.pdf: phenetics.txt
+phenetics.complete.pdf: phenetics.txt
+phenetics.outline.pdf: phenetics.txt
+
 ## New content
 ## ~/Dropbox/courses/1M/he_supp/pearson_humans.pdf
 
