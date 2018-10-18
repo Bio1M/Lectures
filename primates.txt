@@ -362,6 +362,9 @@ BCC
 
 		ANS Monkeys are not a clade!
 
+		ANS Old-world primates (book) is not a good name for the clade containing
+		Old-world monkeys
+
 		ANS Another good name for anthropoids might be simians
 
 NCC
@@ -450,11 +453,22 @@ Teeth | Fig 9.15
 
 		Well preserved, highly adapted
 
+	SPEAKER Dog, horse, \ldots
+
+	SPEAKER Canadian research from 2018: insanely detailed study of dinosaur
+	teeth and wear marks
+
 ----------------------------------------------------------------------
 
-EXTRA Learning from teeth
+PIC FIG webpix/dog_teeth.jpg
 
-PIC WIDEFIG norton/ch09/09_15.jpg
+----------------------------------------------------------------------
+
+PIC FIG webpix/Horse_teeth.jpg
+
+----------------------------------------------------------------------
+
+PIC HIGHFIG webpix/toothwear.jpg
 
 ----------------------------------------------------------------------
 
@@ -535,7 +549,7 @@ Dimorphism and sexual strategies
 
 	What about humans?
 
-		ADD We have big penises and small testicles
+		SPEAKER Big penises and small testicles
 
 ----------------------------------------------------------------------
 

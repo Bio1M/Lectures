@@ -14,6 +14,9 @@ draft: Aadd %%
 ADDSLIDE %!
 draft: ^DEFHEAD Aadd %%
 
+SPEAKER %!
+draft: Speaker: %%
+
 ## An answer space in the notes only (answer uncertain or not specified yet in lecture)  
 NOANS ^ANS %%
 final draft: %!
