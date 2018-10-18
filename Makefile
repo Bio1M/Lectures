@@ -108,6 +108,12 @@ primates.outline.pdf: primates.txt
 
 ## Hominins
 
+hominins.draft.pdf: hominins.txt
+hominins.final.pdf: hominins.txt
+hominins.handouts.pdf: hominins.txt
+hominins.complete.pdf: hominins.txt
+hominins.outline.pdf: hominins.txt
+
 ## Culture
 ## Selection
 

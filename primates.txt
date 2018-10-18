@@ -376,7 +376,9 @@ EXTRA Show other phylogeny (need to screenshot)
 
 ----------------------------------------------------------------------
 
-TSEC Apes | S55.4
+SEC Apes | S55.4
+
+----------------------------------------------------------------------
 
 Ape adaptations | p.228
 
@@ -449,6 +451,8 @@ Teeth | Fig 9.15
 		Well preserved, highly adapted
 
 ----------------------------------------------------------------------
+
+EXTRA Learning from teeth
 
 PIC WIDEFIG norton/ch09/09_15.jpg
 
