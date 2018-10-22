@@ -137,6 +137,7 @@ homo.final.pdf: homo.txt
 homo.handouts.pdf: homo.txt
 homo.complete.pdf: homo.txt
 homo.outline.pdf: homo.txt
+homo.html: homo.step
 
 ## Patchwork of review stuff
 final.complete.pdf: final.txt
