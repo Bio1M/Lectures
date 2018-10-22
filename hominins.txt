@@ -4,15 +4,9 @@ EXTRA
 
 	~/Dropbox/courses/1M/he_supp/pearson_humans.pdf
 
-	pp
-
 	ADD
 
 	EXTRA
-
-	norton
-
-	| 
 
 ----------------------------------------------------------------------
 
@@ -20,7 +14,7 @@ CHAPTER Hominins | Chapter 56
 
 ----------------------------------------------------------------------
 
-TSEC Hominins | S 56.1
+TSEC Emergence | S 56.1
 
 	[Hominins] refer to people and our upright ancestors
 
@@ -74,7 +68,7 @@ FIG sharp/figs18/fg32_21.jpg
 
 ----------------------------------------------------------------------
 
-Competition and replacement
+Competition and replacement | Fig 56.2
 
 	\emph{H. erectus} replaced everything that came before it
 
@@ -149,7 +143,7 @@ PIC FIG jdpix/bias.png
 
 ----------------------------------------------------------------------
 
-TSS Upright posture | S56.3 Bipedalism
+Upright posture | S56.3 Bipedalism
 
 	How did upright posture and upright walking evolve?
 	
@@ -169,7 +163,9 @@ TSS Upright posture | S56.3 Bipedalism
 
 ----------------------------------------------------------------------
 
-EXTRA F56.8
+PSLIDE
+
+F 56.8
 
 PIC HIGHFIG norton/ch10/10_12.jpg
 
@@ -197,7 +193,7 @@ Studying evolution
 
 	Evidence from fossils
 
-		knees, hips, backs, skulls all provide evidence about posture
+		knees, hips, backs, skulls all provide evidence about posture | Fig 56.8
 
 		teeth and jaws provide evidence about diet
 
@@ -211,11 +207,7 @@ Studying evolution
 
 ----------------------------------------------------------------------
 
-ADD Complex foraging used to be here
-
-----------------------------------------------------------------------
-
-Back and forth evolution | Fig 10.4-5
+Back and forth evolution 
 
 	Very early hominins (6 mya) had facial and dental features that were similar
 	to later hominins (2 mya)
@@ -234,7 +226,7 @@ Back and forth evolution | Fig 10.4-5
 
 ----------------------------------------------------------------------
 
-PICSLIDE
+PSLIDE
 
 PIC FIG norton/ch10/10_04.jpg
 
@@ -254,7 +246,7 @@ Hominin phylogenies
 
 ----------------------------------------------------------------------
 
-EXTRA
+PSLIDE
 
 Hominin phylo pic
 
@@ -362,7 +354,7 @@ How social were early hominins?
 
 		ANS Physical structures consistent with vocal communication
 
-		ANS Dental enamel
+		ANS Dental enamel! Preserves amazingly detailed history of growth and growth rate
 
 ----------------------------------------------------------------------
 
@@ -390,7 +382,7 @@ Sexual dimorphism
 
 ----------------------------------------------------------------------
 
-Bimodality | Fig 10.9
+Bimodality 
 
 	Bimodality means having two peaks in a distribution
 
@@ -427,6 +419,21 @@ Teeth
 
 ----------------------------------------------------------------------
 
+PIC FIG webpix/ape_teeth.png
+
+----------------------------------------------------------------------
+
+PICSLIDE
+
+PIC HIGHFIG jdpix/fake_teeth.Rout-0.pdf
+
+----------------------------------------------------------------------
+
+PICSLIDE
+
+PIC HIGHFIG jdpix/fake_teeth.Rout-1.pdf
+
+----------------------------------------------------------------------
 
 Rate of development
 
@@ -436,9 +443,9 @@ Rate of development
 
 	We are therefore very interested in how long it took our ancestors to mature
 
-	Some clues are available
+	Clues are available
 
-		Dental enamel
+		Dental enamel | \url{https://embryo.asu.edu/pages/human-evolution-inferred-tooth-growth-and-development}
 
 		Molar development
 
@@ -450,12 +457,9 @@ PICSLIDE
 
 WIDEPIC webpix/horse.jpg
 
-----------------------------------------------------------------------
-
-EXTRA Tool making section removed
+SPEAKER 3-year-old
 
 ----------------------------------------------------------------------
-
 
 Summary
 
