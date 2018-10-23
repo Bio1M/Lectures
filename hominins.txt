@@ -163,11 +163,7 @@ Upright posture | S56.3 Bipedalism
 
 ----------------------------------------------------------------------
 
-PSLIDE
-
-F 56.8
-
-PIC HIGHFIG norton/ch10/10_12.jpg
+PIC FIG sharp/figs18/figure-56.8a.jpg
 
 ----------------------------------------------------------------------
 
@@ -226,12 +222,6 @@ Back and forth evolution
 
 ----------------------------------------------------------------------
 
-PSLIDE
-
-PIC FIG norton/ch10/10_04.jpg
-
-----------------------------------------------------------------------
-
 Hominin phylogenies 
 
 	Hominins had a large number of speciation and extinction events
@@ -246,11 +236,7 @@ Hominin phylogenies
 
 ----------------------------------------------------------------------
 
-PSLIDE
-
-Hominin phylo pic
-
-PIC FIG norton/ch10/10_37.jpg
+PICSLIDE WIDEFIG Pearson/F_skills/B07_2_phylo_tree_example.jpg
 
 ----------------------------------------------------------------------
 
