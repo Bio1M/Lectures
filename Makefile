@@ -22,6 +22,8 @@ include sub.mk
 -include $(ms)/newtalk.def
 -include $(ms)/repos.def
 
+Sources += $(ms)
+
 ##################################################################
 
 ## Local makefiles
