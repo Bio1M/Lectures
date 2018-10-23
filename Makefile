@@ -90,6 +90,7 @@ speciation.complete.pdf: speciation.txt
 speciation.outline.pdf: speciation.txt
 
 #### Phylogeny and the history of life (P27 ⇒ P25)
+#### Merge phylogeny in for next year??
 phylogeny.draft.pdf: phylogeny.txt
 phylogeny.final.pdf: phylogeny.txt
 phylogeny.handouts.pdf: phylogeny.txt
