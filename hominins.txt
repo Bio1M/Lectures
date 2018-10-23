@@ -301,6 +301,9 @@ Complex foraging and thinking
 
 		Sensitivity vs.~crystallization
 
+		ADD Time periods when we learn, vs.~time periods when we have fixed
+		behaviours
+
 	It also favors communication
 
 ----------------------------------------------------------------------
