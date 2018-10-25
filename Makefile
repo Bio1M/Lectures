@@ -13,9 +13,6 @@ target: $(target)
 
 imageDrop = ~/Dropbox/courses/1M
 
-now:
-	@echo $(imageDrop)
-
 Sources += Makefile .ignore README.md sub.mk LICENSE.md
 include sub.mk
 -include $(ms)/perl.def
