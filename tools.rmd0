@@ -1,0 +1,413 @@
+---
+title: "Tool use and behaviour"
+author: "Ben Bolker"
+date: '`r strsplit(as.character(Sys.time())," ")[[1]][1]` <#copyright> BMB  (except textbook material/other images)'
+---
+
+# evidence about evolution
+
+## kinds of evidence
+
+<#b2cols>
+
+- morphology (fossils)
+- morphology (extant species)
+- stratigraphy, absolute dating methods
+- genetic variation (phylogenetics)
+
+Other ideas?
+
+<#pause>
+
+<#finalhandout
+
+- geological/biogeographical information
+- fossils of other species  
+(environment, diet)
+- trace fossils
+
+>
+
+<#s2cols>
+
+<#nohandout <#stdfig bmbpix/mammal_tracks.jpg>>
+<#e2cols>
+
+## Studying behaviour
+
+- evidence from fossils, <#gloss tools>
+- attempts to learn from extant hunter-gatherer groups
+    - how much have we evolved?
+	- how different is the environment?
+
+## Time scales
+
+<#b2cols>
+
+- First hominins: $\\approx 6$ mya
+- First *Homo*: $\\approx 2.8$ mya
+- Neanderthals: $\\approx$ 400 kya - 30 kya
+- modern humans (*H. sapiens sapiens*): $\\approx  300$ kya - present, in Europe $\\approx 55$ kya
+
+<#s2cols>
+
+<#stdfig bmbpix/human_timeline.png>
+
+<#e2cols>
+
+# tools
+
+## The extended phenotype
+
+<#b2cols>
+
+- behaviour (including material culture) is partly genetic
+- the <#gloss extended phenotype> is the material structures created
+(indirectly) by an organism's genes
+- part of biological evolution
+
+<#s2cols>
+
+<#nohandout
+<#stdfig bmbpix/AlgonquinBeaverDam.JPG>
+
+Algonquin beaver dam
+
+>
+
+<#e2cols>
+
+## Tool making
+
+- Several species can make tools, but only people make tools that can project
+lectures directly from a computer onto a screen (!!)
+- More broadly, hominins make fancier tools than non-hominins do
+
+## Other species
+
+- What other animals use and/or make tools?
+- Not counting programmed behaviours (spiky nests, ant traps)
+
+<#finalhandout
+<#pause>
+
+   - Chimpanzees, orangutans
+   - Elephants
+   - Crows
+   - Otters [@mann_tool_2013]
+   - Dolphins
+   - Bears?? [@deecke_tool-use_2012]
+>
+
+##
+
+<#medhtfig webpix/crow_hook.png>
+
+## Oldowan tools
+
+- We find *amazing* stone tools from 2.6-1.7 mya
+      - <#gloss Oldowan tools>
+- It's hard to know who made them and used them  
+      - *Australopithecus*? *Homo*?
+      - butchering, digging, weapons?
+- Why might we be missing evidence of earlier tool use?	
+<#finalhandout
+<#pause>
+
+    - Stone keeps better than other materials (bone, wood, ...)
+>
+
+## Acheulean tools
+
+<#b2cols>
+
+- 1.6 mya - 300 kya
+- Acheulean industry lasted almost 1 million years
+- may have outlasted the species (*H. ergaster*) that started it
+- It took people longer to move on from Acheulean industry than to move from
+Acheulean industry to self-driving cars!
+
+<#s2cols>
+
+<#nohandout <#stdhtfig  norton/ch12/12_08.jpg>>
+
+<#e2cols>
+
+## Mousterian tools (Neanderthal)
+
+<#b2cols>
+
+- 300 kya - 40 kya
+- made by Neanderthals
+- hafted weapons?
+- pigments and beads 115 kya
+- images/representational art $\\approx 65$ kya (Spain)
+- other European art  
+$\\approx$ 40 kya;  
+*could* be Neanderthal ... [@higham_timing_2014;@pike_u-series_2012]
+
+<#s2cols>
+
+<#nohandout <#stdfig bmbpix/mousterian.jpg>>
+<#e2cols>
+
+## Modern human tools
+
+- 40 kya - 10 kya
+- lots more (better preserved?), more diverse materials
+- more representational art (cave paintings, sculptures)
+
+##
+
+<#fullhtfig bmbpix/Figure13_28.jpg>
+
+# fire, hunting/scavenging, meat-eating
+
+## fire and cooking
+
+- hard to figure out timing of first use
+- burned bones, baked earth
+    - from natural fires or campfires?
+- earliest **known** controlled fire: 1 mya: caves, South Africa
+- did hominins cook (meat or tubers)?
+     - could have been an important advantage
+
+## Evidence of meat-eating
+
+- tools and bones
+- bones: tooth marks, tool marks
+- very hard to tell *why* a pile of animal bones is in a certain area
+	 - who killed them?
+     - who brought the bones there?
+	 - were the bones there before or after the humans?
+
+
+## Chewing biomechanics
+
+- jaw morphology: *Homo* jaws < ancestors (Australopithecine), relatives (other apes)
+- MYH16 gene: makes jaw myosin; $\\approx$ 2.4 mya
+
+## Scavenging
+
+- <#gloss scavenging> is eating meat that is found, or taken from predators
+
+<#nohandout <#medhtfig norton/ch11/11_19a.jpg>>
+
+## Human scavenging
+
+- Evidence of early hominins <#gloss butchering> large animals including elephants: were they hunting or scavenging?
+
+<#pause>
+
+- It's not easy to kill an elephant
+    - Could they have had techniques or tools we don't know about?
+
+## Scavenging and hunting
+
+- Scavenging and hunting are complementary activities
+    - Most hunters scavenge
+    - Most mammalian scavengers hunt
+- Our ancestors probably did both
+- Scavenging requires the ability to:
+    - Take kills from other predators, or
+    - Use resources others can't use
+
+## Tools for scavenging and hunting
+
+- Some tools may have been used as weapons
+    - For killing prey, or for fighting off other carnivores
+    - (There is no evidence of this!)
+- Tools could be used to process leftovers
+<#finalhandout
+<#pause>
+
+    - Cracking large bones for marrow, for example
+>
+
+## Parasites 
+
+<#b2cols>
+
+- surprising source of evidence
+- molecular phylogeny suggests two human tapeworms (*Taenia*) speciated from each other $\\approx$ 1 mya
+- suggests that humans were already the host
+- ... so were eating lots of meat
+
+<#s2cols>
+
+<#stdfig norton/ch12/12_11.jpg>
+
+<#e2cols>
+
+# complex foraging
+
+## tools for complex foraging
+
+Tools and knowledge can make a wide range of food sources available (not just meat)
+<#finalhandout
+<#pause>
+
+- Colonial insect resources
+- Deeply buried plant resources
+- Poisonous things that can be processed
+>
+
+##  Complex foraging
+
+A key part of human evolution was shaped by <#gloss complex foraging>
+strategies of our ancestors -- they relied on many types of food,
+including types of food that are difficult to get or process
+
+- What adaptations likely favored this strategy?
+<#finalhandout
+<#pause>
+
+     - Clever hands, upright walking, tools
+
+- what further adaptations might this strategy have favored?
+<#pause>
+
+    - Reduced jaw size
+	- Big brains
+    - Co-operation, including male-female co-operation
+    - Social behaviour
+>
+
+## food types
+
+- <#gloss collected>: gathered from the environment (fruit, leaves)
+- <#gloss extracted>: gathered and processed:  
+nuts, tubers, honey, plants with toxins, termites ...
+- <#gloss hunted>
+
+##
+
+<#stdfig norton/ch11/11_04.jpg>
+
+## Complex foraging and co-operation
+
+complex foraging ...
+
+- promotes male-female co-operation, since primate child care is not well suited to a hunting life style
+- promotes co-operation between people with different
+skills, since they might have access to food at different times
+- promotes co-operation among hunters, since hunting success is
+highly variable
+- promotes co-operation in teaching and learning
+- promotes <#gloss cultural evolution>
+
+<#pause>
+   - intergenerational, non-genetic transmission of behaviour
+
+## Complex foraging and thinking
+
+- Complex foraging favors large brains that can learn a lot
+- it also favors a long learning period
+     - Aché (Paraguayan): men are best hunters at age 35
+     - Hiwi (Venezuela): women are most efficient digging tubers at 35-45
+- it also favors communication
+
+## hunting vs. gathering
+
+<#stdfig norton/ch11/11_07.jpg>
+
+## hunting vs. gathering
+
+- balance is controversial
+- is our sample biased?
+- are modern hunter-gatherers representative of the <#gloss environment of evolutionary adaptation>?
+- gender politics ...
+
+## male vs female contributions
+
+<#stdfig norton/ch11/11_11.jpg>
+
+## Active science
+
+- Scientists have lived with, and attempted to learn from, remaining forage-based
+societies
+    - Skills are very detailed, and take a long time to develop
+    - Possible support for looping with culture and language
+- What can we learn from modern humans about our ancestors?
+<#finalhandout
+<#pause>
+
+   - It's complicated
+   - A lot of evolution has happened since then, and it's hard to figure out which parts are how relevant
+>
+
+# clothing and lice
+
+## clothing
+
+- obvious difference between humans and other primates: hairlessness
+- when?
+- when did clothing (extended phenotype) "evolve"?
+- KRTHAP1 gene: hairlessness, $\\approx$ 240 kya
+
+## lice
+
+<#b2cols>
+
+- lice are <#gloss obligate> parasites: need hair or clothing to survive
+- head lice/body lice (*Pediculus*): closest to chimp lice (6 mya)
+- pubic lice (*Pthirus pubis*): closest to gorilla lice (split 3-4 mya)
+
+<#pause>
+
+   - implies lateral jump 
+- head/body lice **not** separate species (but split $\\approx$ 72 kya): clothing?
+
+<#s2cols>
+
+<#stdfig bmbpix/lousephylog.png>
+
+<#e2cols>
+
+## a tale of two lineages [@reed_genetic_2004]
+
+<#b2cols>
+
+- two separate, older lineages of *P. humanus*
+- split $\\approx$ 1.2 mya
+- suggests close contact between archaic and modern humans (!)
+
+<#s2cols>
+
+<#medhtfig bmbpix/lousetree.png>
+
+<#e2cols>
+
+##  Summary
+
+- People evolved by the same basic rules as other organisms
+<#finalhandout
+<#pause>
+
+    - Adaptation by natural selection
+>
+
+- Followed a very different path
+<#finalhandout
+<#pause>
+
+    - Strong loops that created new adaptive opportunities:
+upright posture, hands, brains, fire, tools, cooperation, communication,
+>
+- We can learn a lot about ourselves from biology
+<#finalhandout
+<#pause>
+
+	- We are affected by all of the same basic processes as other organisms
+>
+- And also a lot that we can't learn
+<#finalhandout
+<#pause>
+
+   - We are also strongly affected by our complex brains (and complex cultures)
+>
+
+
+## References
+
+<#startbib>

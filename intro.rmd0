@@ -1,0 +1,284 @@
+---
+title: "Introductory material"
+author: "Ben Bolker"
+date: '`r strsplit(as.character(Sys.time())," ")[[1]][1]` <#copyright> BMB  (except textbook material/other images)'
+urlcolor: blue
+---
+
+```{r setup,echo=FALSE,message=FALSE,warning=FALSE}
+## if we use fig.align or out.height then knit() turns figures into HTML format
+opts_chunk$set(message=FALSE,warning=FALSE,
+               echo=FALSE,fig.width=6,fig.height=4<#outspec>)
+library(ggplot2)
+theme_set(theme_bw())
+require(scales)
+require(grid)
+require(gridExtra)
+require(RColorBrewer)
+library(reshape2)
+library(plyr)
+## opts_knit$set(upload.fun = image_uri,echo=FALSE)
+```
+  
+# Introduction
+
+## Course overview
+
+* Course information on AtL
+* Lecture notes for each section will be available on AtL  
+(at least) the evening before you need them
+* Check AtL frequently for announcements and new information
+* Contacts:
+    * **Alistair Tracey**, course coordinator:  
+first contact for any administrative issues  
+`bio1m03@mcmaster.ca`, BSB 201A/C
+    * **Ben Bolker**, professor:  
+<http://www.math.mcmaster.ca/bolker>;  
+Hamilton Hall 314 *or* LSB 336
+    * **Jo Werba**, lecture TA:  
+BSB 201/A (Tue/Thur 12:30-1:20), AtL forums
+	
+## Expectations of professor
+
+<#b2cols>
+
+* Start and end on time
+* Focus on conceptual understanding
+* Make clear what terminology and facts must be learned
+* Open to questions 
+* Office hours (Friday 2:30-3:30 LSB 336; Thurs 10:30-11:30 HH 314; or [by appointment](http://www.math.mcmaster.ca/bolker/sched_fall2018.html))
+* *Please use AtL forums for general questions* 
+* Last resort: e-mail `bolker@mcmaster.ca`:  
+**put "BIO 1M03" and your MacID in title of e-mail**
+
+<#s2cols>
+
+<#nohandout <#stdfig bmbpix/13627680-victorian-professor.jpg>>
+
+<#e2cols>
+
+## Expectations of students: courtesy/rules
+
+- Keep talking to a minimum
+- No internet in class, minimal texting etc.
+- Give the professor his 50 min
+- Lectures are required
+- Don't cheat
+
+## Expectations of students: intellectual
+
+- Wrestle with the material
+- Always ask:
+    -  "How do we know?"
+    -"So what?"
+- Please **do** ask questions
+
+## Textbooks
+
+* Continuing with Freeman *et al.*; first supplementary PDFs (chaps 57-58), then textbook (chaps 49-54)
+* Readings posted to AtL/reminders in lecture
+* Best to read assigned material **before** lecture
+* You *will* be responsible for material from assigned sections, but I will not go out of my way to set questions from the textbook
+* Primary literature is **optional**  
+... but encouraged
+
+## Structure of presentation
+
+* Required material clearly outlined in the notes
+* Required terminology in **bold**
+* In-class material is required; take notes on these in your own words
+* Clicker questions:
+    * Multiple-choice practice examples
+	* Open-ended/interesting questions
+
+## Thinking about biology
+
+<#b2cols>
+
+* skepticism
+* "as an adolescent I aspired to lasting fame, I craved factual certainty, and I thirsted for a meaningful vision of human life - so I became a scientist. This is like becoming an archbishop so you can meet girls." [Matt Cartmill](http://www.bu.edu/anthrop/people/faculty/m-cartmill/)
+* but *strive* for objectivity
+* "use the source, Luke": primary literature!
+
+<#s2cols>
+
+<#nohandout <#stdfig bmbpix/01-no-bullshit.jpg>>
+
+<#e2cols>
+
+<#nohandout
+
+## Cow and bull
+
+@Perry1963 ([link](http://www.longwood.edu/staff/isaacsw/Examship.pdf))
+
+- cow (pure): data, however relevant, without concepts
+<#pause>
+
+    - e.g. "*H. neanderthalensis* went extinct about 30 kya"
+- bull (pure): concepts, however relevant, without data
+<#pause>	
+    - e.g. "climate change is a potential cause of species extinction"
+
+essay questions favour bull, multiple choice questions favour cow
+
+## Thinking about biology: adaptationism
+
+* avoid adaptationist/*Just-So stories*
+* @nielsen_adaptionism30_2009: "the combination of a functional effect and selection does not demonstrate that selection acted on the specific trait in question"
+* "specific historical evolutionary hypotheses, such as just-so stories of ... why humans have less body hair than other apes, might not be falsifiable or simple to investigate within any epistemological framework"
+
+## Pitfalls of adaptationism (2)
+
+<#b2cols>
+
+- microcephalin/ASPM [@williams_genes_2006]
+- homozygous mutants are microcephalic
+- evidence of ongoing **positive selection** (4000-5000 years)
+- selected variant low-frequency in sub-Saharan Africa, high in Europeans (!!)
+<#finalhandout
+<#pause>
+- **but** ...
+    - mutations **don't** correlate with cognitive ability [@timpson_comment_2007]
+    - brain size **unchanged** over 35,000 years
+>
+
+<#s2cols>
+
+<#nohandout <#stdhtfig bmbpix/ruthwilliams2_biggerbrain_edit.jpg>>
+
+<#e2cols>
+
+## ecology & environmentalism: clicker question
+
+Scientists should:
+
+(a) only report results and leave others to make management decisions
+(b) report results and then interpret for others involved in management decisions
+(c) work closely with managers and others to integrate scientific results into management decisions
+(d) actively advocate for specific natural resource management decisions
+(e) make decisions about natural resource management
+
+>
+
+## Thinking about ecology & environmentalism
+
+<#b2cols>
+
+* tree huggers vs. Hummer drivers
+* ecology $\\neq$ environmentalism $\\neq$ environmental science 
+* ecologists (in their professional capacity) should say *what will happen*, not *what you should do* ...
+
+<#s2cols>
+
+<#stdfig bmbpix/treehugger_pinkhummer.jpg>
+
+<#e2cols>
+
+```{r make_lachdat,message=FALSE,warning=FALSE}
+lachDat <- read.csv("data/lach.dat",check.names=FALSE,stringsAsFactors=FALSE)
+lachDat$desc2 <- sapply(
+    gsub("Scientists should","",lachDat$description),
+    function(x) paste(strwrap(x,width=35),collapse="\\n"))
+mm <- reshape2::melt(subset(lachDat,select=-c(description,Fstat)),
+           id.vars=c("role","desc2"))
+ff <- function(x,rev=FALSE) {
+    u <- unique(as.character(x))
+    factor(x,levels=if (!rev) u else rev(u))
+}
+mm <- transform(mm,
+                role=ff(role),
+                description=ff(desc2,rev=TRUE))
+gg_lach <- ggplot(mm,aes(x=description,y=value,colour=variable,shape=variable))+
+    geom_point(size=5,alpha=0.8)+
+    geom_line(aes(group=variable))+
+    ## geom_bar(stat="identity",position="dodge")+
+    coord_flip()+
+    scale_y_continuous(limits=c(1,5),
+                       breaks=1:5,
+                       labels=c("strongly\\ndisagree",
+                       "disagree",
+                       "neutral",
+                       "agree",
+                       "strongly\\nagree"))+
+    labs(x="",y="")+
+    scale_colour_brewer(name="group",palette="Dark2")+
+    scale_shape_discrete(name="group")
+ggsave(plot=gg_lach,filename="bmbpix/lachdat.png",width=6,height=4)
+```
+
+##
+
+<#nohandout
+
+"I do think we should, in fact have a moral obligation, to be involved in public process by actively seeing to it that our scientific evidence is known to all contending parties, and to the public at large via the media. I think we can safely point out the value implications of our results, and point out alternative, potential courses of action. But these should be given impartially to all sides on an issue, and we should stop short of advocating any one course." [@wagner_analysis_1999]
+
+
+## Data from @steel_role_2004
+
+<#stdfig bmbpix/lachdat.png>
+
+>
+
+## Who am I/what do I do?
+
+<#b2cols>
+
+* [population biology:  
+ecology, evolution, epidemiology](http://www.math.mcmaster.ca/bolker/bb-pubs.html)
+* math, statistics,  
+computation
+* many systems
+    * measles epidemics
+	* movement of seeds by bluebirds
+	* epidemics & anti-fever drugs
+	* sea turtle migration
+	* Florida panther movement
+	* etc. etc. etc. ...
+	
+<#s2cols>
+
+```{r bmb_montage, echo=FALSE,eval=FALSE}
+old_wd <- setwd("bmbpix")
+system("montage -background lightgray corridor_crop.png patchy-shrub-crop-2.jpg loggerhead1D.jpg gopher.jpg bmbstuff.jpg")
+setwd(old_wd)
+```
+
+<#nohandout <#stdfig bmbpix/bmbstuff.jpg>>
+
+<#e2cols>
+
+<#nohandout
+
+## Clicker question #1 (easy)
+
+I'm taking biology because
+
+A.  I hope to go to medical school
+B.  I hope to go to dental or veterinary school
+C.  I want to work in a biology-related industry
+D.  I want to be a biological researcher
+E.  I don't know/it just seems like a good idea
+
+## Clicker question #2 (easy)
+
+<#b2cols>
+
+My math & stats plans:
+
+(A) Hate it, will take as little as possible
+(B) Don't mind it, will take as little as possible
+(C) Enjoy it, will take as little as possible
+(D) Enjoy, it plan to take more math
+(E) Planning joint math & bio honours programme
+
+<#s2cols>
+
+<#stdfig bmbpix/tintin3.png>
+
+<#e2cols>
+>
+	 
+## References
+
+<#startbib>
