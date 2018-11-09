@@ -1,8 +1,13 @@
-- more on culture, learning ?
-- CLICKER QUESTIONS
+- schedule, public-facing web page
+- chapter 50
 
-which is true?
+- roll human evo & genetics together ...
 
-humans are the only primates that use tools
-primates are the only animals that use tools
+- genetics
+- malaria resistance (and other diseases)
+- lactase persistence
+- skin color
+- menopause
 
+
+ misconceptions

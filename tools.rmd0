@@ -77,6 +77,31 @@ Algonquin beaver dam
 
 <#e2cols>
 
+## Cultural evolution and social learning
+
+<#b2cols>
+
+- <#gloss cultural evolution>: intergenerational, non-genetic transmission of behaviour
+- <#gloss social learning>: transmission of behaviour from one individual to another
+    - <#gloss social facilitation>:  
+living in an environment that facilitates learning
+    - <#gloss observational learning>:  
+information transmission [@allen_networkbased_2013]
+    - <#gloss teaching>: teacher's behaviour changes
+
+Examples: potato-washing,  
+lobtail feeding
+
+<#s2cols>
+
+<#nohandout
+<#stdfig bmbpix/Figure15_13.jpg>
+
+<#stdfig bmbpix/Whale_bubbles.jpg>
+>
+
+<#e2cols>
+
 ## Tool making
 
 - Several species can make tools, but only people make tools that can project
@@ -85,8 +110,9 @@ lectures directly from a computer onto a screen (!!)
 
 ## Other species
 
-- What other animals use and/or make tools?
-- Not counting programmed behaviours (spiky nests, ant traps)
+- What other animals use and/or make <#gloss tools>?
+- Modified objects
+- Not counting programmed behaviours (e.g. ant traps)
 
 <#finalhandout
 <#pause>
@@ -99,9 +125,9 @@ lectures directly from a computer onto a screen (!!)
    - Bears?? [@deecke_tool-use_2012]
 >
 
-##
+## Crow at work
 
-<#medhtfig webpix/crow_hook.png>
+<#stdfig bmbpix/Figure15_14.jpg>
 
 ## Oldowan tools
 
@@ -160,6 +186,20 @@ $\\approx$ 40 kya;
 ##
 
 <#fullhtfig bmbpix/Figure13_28.jpg>
+
+<#finalhandout
+
+## clicker question
+
+Which one of the following statements is true?
+
+a. humans are the only primates that use tools
+b. primates are the only animals that use tools
+c. human tool use is probably older than the earliest tools we have found
+d. genetic data provides clear evidence of the timing of human tool use
+e. *Homo sapiens* was the first species to make stone tools
+
+>
 
 # fire, hunting/scavenging, meat-eating
 
@@ -280,6 +320,24 @@ including types of food that are difficult to get or process
 nuts, tubers, honey, plants with toxins, termites ...
 - <#gloss hunted>
 
+## environment of evolutionary adaptation
+<#b2cols>
+
+- <#gloss environment of evolutionary adaptation>
+<#pause>
+    - the relevant environment for understanding adaptations
+- organisms are adapted to their *ancestors'* environments
+- do we still act like <#gloss hunter-gatherers> ?
+- are current-day H/G good models?
+
+<#s2cols>
+
+<#nohandout
+<#stdfig bmbpix/Figure15_02.jpg>
+>
+
+<#e2cols>
+
 ##
 
 <#stdfig norton/ch11/11_04.jpg>
@@ -294,10 +352,6 @@ skills, since they might have access to food at different times
 - promotes co-operation among hunters, since hunting success is
 highly variable
 - promotes co-operation in teaching and learning
-- promotes <#gloss cultural evolution>
-
-<#pause>
-   - intergenerational, non-genetic transmission of behaviour
 
 ## Complex foraging and thinking
 
@@ -315,8 +369,9 @@ highly variable
 
 - balance is controversial
 - is our sample biased?
-- are modern hunter-gatherers representative of the <#gloss environment of evolutionary adaptation>?
+- are modern hunter-gatherers representative of the environment of evolutionary adaptation?
 - gender politics ...
+- science is <#gloss descriptive>, not <#gloss normative>
 
 ## male vs female contributions
 
@@ -334,6 +389,20 @@ societies
 
    - It's complicated
    - A lot of evolution has happened since then, and it's hard to figure out which parts are how relevant
+>
+
+<#finalhandout
+
+## clicker question
+
+Which of the following is the best-supported scientific statement?
+
+a. our evolutionary history shows that males should take more responsibility for family support in modern, developed societies
+b. females contribute the most calories in most modern hunter-gatherer societies
+c. our closest ancestors were solitary hunters and gatherers
+d. tools and social learning are useful for both hunting and extraction
+e. chimpanzees get most of their food by hunting
+
 >
 
 # clothing and lice

@@ -200,8 +200,8 @@ exportdir: $(Sources)
 BIBFILE = bio1m.bib
 GPPHEAD = gpp/macros.gpp
 
-%.rmd: %.rmd0 slides.gpp
-	gpp --include $(GPPHEAD) -H -DSLIDES=1 $*.rmd0 | sed '1,/-- end hdr --/d' > $*.rmd
+## %.rmd: %.rmd0 slides.gpp
+## 	gpp --include $(GPPHEAD) -H -DSLIDES=1 $*.rmd0 | sed '1,/-- end hdr --/d' > $*.rmd
 
 %.slides.pdf: %.rmd0 gpp/beamer.gpp $(BIBFILE)
 	gpp --include $(GPPHEAD) -H -DBEAMER=1 $*.rmd0 | sed '1,/-- end hdr --/d' > $*.rmd

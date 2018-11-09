@@ -19,6 +19,7 @@
 <#define lgfig|\\includegraphics{#1}>
 <#define medhtfig|\\begin{center}\\includegraphics[height=3in]{#1}\\end{center}>
 <#define smallfig|\\includegraphics[width=0.5\\textwidth]{#1}>
+<#define fullhtfig|\\begin{center}\\includegraphics[height=0.5\\textheight]{#1}\\end{center}>
 <#define outspec|>
 <#define copyright|\\textcopyright>
 <#define startbib|>

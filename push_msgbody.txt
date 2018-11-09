@@ -6,4 +6,10 @@ docx: http://ms.mcmaster.ca/bolker/bio1m/ABBREV.docx
 
 (username: bio1m, password: stuff)
 
+If you have trouble retrieving the material:
+
+1. make sure you're using the right username and password [look at the previous section of this message!]
+2. please try to download the material with another web browser if you can (especially if you're using Safari on MacOS). If that doesn't work, please send me a message that includes your operating system and browser version.
+
 https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=231036&global=0
+https://avenue.cllmcmaster.ca/d2l/lms/news/main.d2l?ou=251005

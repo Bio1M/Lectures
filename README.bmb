@@ -1,5 +1,10 @@
 # BMB processing machinery
 
+
+## scripts
+
+- `build`: makes slides.pdf, handout.pdf, handout_6up.pdf, docx versions
+
 - uses GPP <https://logological.org/gpp> for pre-processing
     - macros in gpp/
     - FIXME: document?
