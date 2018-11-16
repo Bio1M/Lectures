@@ -1,0 +1,266 @@
+---
+title: "Introduction to ecology"
+author: "Ben Bolker"
+date: '`r strsplit(as.character(Sys.time())," ")[[1]][1]` <#copyright> BMB  (except textbook material/other images)'
+urlcolor: blue
+---
+
+```{r setup,echo=FALSE,message=FALSE,warning=FALSE}
+## if we use fig.align or out.height then knit() turns figures into HTML format
+opts_chunk$set(message=FALSE,warning=FALSE,
+               echo=FALSE,fig.width=6,fig.height=4<#outspec>)
+library(ggplot2)
+theme_set(theme_bw())
+require(scales)
+require(grid)
+require(gridExtra)
+require(RColorBrewer)
+library(reshape2)
+library(plyr)
+## opts_knit$set(upload.fun = image_uri,echo=FALSE)
+```
+
+# Introduction to ecology
+
+## Ecology vs. environmentalism, science vs. policy
+
+<#b2cols>
+
+* tree huggers vs. Hummer drivers
+* ecology $\\neq$ environmental science $\\neq$ environmentalism
+* ecologists (in their professional capacity) should be descriptive, not normative
+
+<#s2cols>
+
+<#nohandout
+
+<#stdfig bmbpix/treehugger_pinkhummer.jpg>
+
+>
+
+<#e2cols>
+
+## Definitions
+
+* "study of the factors determining the distribution and abundance of organisms"
+* ... "and flows of energy and nutrients through biological systems ..."
+* hierarchical levels
+    * organismal/behavioural
+    * population
+    * community
+    * ecosystem
+
+## Organismal (behavioural/physiological)
+
+<#stdfig bmbpix/organism_ecology.jpg>
+
+* focus on *individual* organisms' physiology and behaviour
+* interactions between individuals and their environment
+
+## Population
+
+<#stdfig bmbpix/pop_ecology.jpg>
+
+* interactions among individuals: <#gloss intraspecific>
+* population growth, extinction
+
+## Community
+
+<#smallfig bmbpix/comm_ecology.jpg>
+
+* <#gloss interspecific> interactions (competition, predator/prey, host/parasite etc.)
+* what maintains biodiversity?
+
+## Ecosystem
+
+<#stdfig bmbpix/ecosys_ecology.jpg>
+
+* mostly tracking energy and nutrient flows
+* e.g. importance of <#gloss allochthonous inputs>: http://web.uvic.ca/~reimlab/salmonforest.html
+
+# Ecosystems and biomes
+
+## Limiting factors in ecosystems: abiotic
+
+<#b2cols>
+
+* <#gloss abiotic> (physical) factors:
+* needed for biochemical reactions, esp. photosynthesis
+    * <#gloss light>
+	* <#gloss nutrients>, (esp. N/P/Fe)
+	* <#gloss water>
+	* <#gloss temperature>
+	* <#gloss Liebig's law of the minimum>:  
+organismal distributions are determined by the **most limiting** factor
+
+**not** CO$_2$ (why not?)
+
+<#nohandout
+<#pause>
+
+plants can basically always get enough carbon from the atmosphere
+
+>
+
+<#s2cols>
+
+([Wikipedia](http://en.wikipedia.org/wiki/Liebig%27s_law_of_the_minimum))
+
+<#stdfig bmbpix/Minimum-Tonne.png>
+
+<#e2cols>
+
+## Biotic factors
+
+- for <#gloss heterotrophs>, availability of prey
+- competitors
+- predators (<#gloss top-down> control)
+
+## Top-down factors
+
+<#b2cols>
+
+* regulate the rate of *loss*,  
+rather than the rate of *production*
+* biotic (e.g. predators, including <#gloss grazers>),
+abiotic (e.g. fire)
+* fire/plant community loops
+
+<#s2cols>
+
+<#stdfig bmbpix/SnakeValley_sm.jpg>
+
+<#e2cols>
+
+## history
+
+<#b2cols>
+
+- sometimes organisms just haven't gotten to places they could survive
+- limited <#gloss dispersal>
+- continental drift
+- human spread: <#gloss exotic>, <#gloss invasive> species
+- climate change: can organisms keep up? (e.g. @schloss_dispersal_2012)
+
+<#s2cols>
+
+<#stdfig bmbpix/wallace.png>
+
+<#e2cols>
+
+## parasites!
+
+<#stdhtfig bmbpix/tsetse_crop.jpg>
+
+## experimental tests
+
+<#stdhtfig bmbpix/ant_exp1.png>
+
+<#finalhandout
+
+## clicker
+
+<#b2cols>
+
+<#stdfig bmbpix/ant_exp2.jpg>
+
+<#s2cols>
+
+The experiment shows that:
+
+a. presence of competitors is sufficient to prevent invasion
+b. wet habitat is sufficient to prevent invasion
+c. only abiotic factors affect invasion speed
+d. both biotic and abiotic factors affect invasion speed
+e. native ants prefer dry habitat
+
+<#e2cols>
+
+>
+
+## Aquatic ecosystems
+
+<#b2cols>
+
+* temperature, nutrients, light, wind
+* nutrient availability (especially P, sometimes Fe)
+* water movement: 
+    * **upwelling** (marine)
+	* **turnover** (lakes)
+* water chemistry: salinity, pH
+* depth gradient:
+    * dark, cold, low productivity, nutrient accumulation
+	* light, warm, high productivity, nutrient depletion
+
+<#s2cols>
+
+<#stdfig bmbpix/layers.png>
+
+http://www.greenseaupwelling.com/Upwelling.html
+
+<#e2cols>
+
+## Freshwater ecosystems (mostly lakes)
+
+<#b2cols>
+
+* gradients of light, temperature, nutrients:  
+by depth, distance from shore
+* mixing by wind
+* (temperate zones) <#gloss stratification>:
+   <#gloss seasonal overturning> mixes nutrients
+* rivers: depends on flow rate, depth
+
+<#s2cols>
+
+<#stdfig bmbpix/lake.png>
+
+<#e2cols>
+
+## Marine ecosystems
+
+<#b2cols>
+
+* upwelling brings up nutrients
+* iron fertilization experiments
+* zones (intertidal, littoral, pelagic, benthic)
+
+<#s2cols>
+
+<#stdfig bmbpix/upwelling.png>
+
+<#e2cols>
+
+## Benthic ecosystems
+
+<#b2cols>
+
+* deep ocean/ocean floor
+* **donor-controlled**: whale falls
+* **chemoautotrophic**: cold seeps, hot smokers
+    * (very long-lived organisms: @fisher_life_1997)
+
+<#s2cols>
+
+<#stdfig bmbpix/Whale_fall.jpg>
+
+[Wikipedia](http://en.wikipedia.org/wiki/Whale_fall)
+
+<#e2cols>
+
+# Terrestrial ecosystems
+
+## Terrestrial biomes
+
+<#stdfig bmbpix/biomes.jpg>
+
+## Holdridge zones
+
+<#stdfig bmbpix/holdridge.png>
+
+* Water+temperature = <#gloss potential evapotranspiration>
+* Missing from this picture: top-down factors, seasonality
+
+## References
+<#startbib>
+

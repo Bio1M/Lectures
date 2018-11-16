@@ -1,0 +1,236 @@
+---
+title: "Behavioural ecology (part 1)"
+author: Ben Bolker
+date: `r strsplit(as.character(Sys.time())," ")[[1]][1]` <#copyright> BMB  (except textbook material/other images)
+---
+
+```{r setup,echo=FALSE,message=FALSE,warning=FALSE}
+## if we use fig.align or out.height then knit() turns figures into HTML format
+opts_chunk$set(message=FALSE,warning=FALSE,
+               echo=FALSE,fig.width=6,fig.height=4<#outspec>)
+library(ggplot2)
+theme_set(theme_bw())
+require(scales)
+require(grid)
+require(gridExtra)
+require(RColorBrewer)
+library(reshape2)
+library(plyr)
+## opts_knit$set(upload.fun = image_uri,echo=FALSE)
+```
+
+# Behaviour
+
+## Behaviour: definition
+
+<#b2cols>
+
+*  response to a stimulus
+    * short time scale
+    * overlaps with <#gloss phenotypic plasticity>
+    * gene expression (hormones) vs. neuronal activity
+    * plant behaviour?
+
+<#s2cols>
+
+<#nohandout
+<#stdfig bmbpix/dudley.jpg>
+>
+
+[studying kin selection in plants](http://www.pri.org/stories/2013-03-28/canadian-scientists-suggest-plants-show-altruistic-behavior); [@file_fitness_2012]
+
+<#e2cols>
+
+
+## Proximate vs. ultimate
+
+<#b2cols>
+
+* <#gloss proximate> vs <#gloss ultimate> causation
+* lobsters: 
+    * navigation via magnetoreceptors (proximate) [@ernst_effect_2016]
+    * allows effective searching (functional)
+    * arose by natural selection (ultimate)
+
+<#s2cols>
+
+<#nohandout
+<#stdfig bmbpix/lobster.jpg>
+>
+
+<#stdfig bmbpix/magnetosomes.jpg>
+
+[@posfai_phylogenetic_2013]  
+magnetotactic bacteria ...
+
+<#e2cols>
+
+## Genetics of behaviour
+
+* *rovers* vs *sitters*: *for* gene [@sokolowski_foraging_1980]
+* cGMP-dependent kinase
+* rover wins at high population density, sitter wins at low density
+* affects adult as well as larval behaviour [@edelsparre_alleles_2014] (<#gloss pleiotropy>)
+* also acts in honeybees, other insects
+
+<#stdfig bmbpix/roversitter.jpg>
+
+<#nohandout
+
+## Clicker question
+
+Which of the following is a *proximal* reason for plant behaviour?
+
+a. Plants avoid overlapping roots to avoid competition
+b. Plants avoid overlapping roots to increase their inclusive fitness
+c. Plants evolved to maximize their fitness
+d. Chemicals released from other plants' roots change their growth rate
+
+>
+
+# Foraging ecology
+
+## foraging ecology
+
+* foraging for nutrients and energy 
+    * foragers: predators, herbivores, frugivores, nectarivores, ...
+* what to eat, when and how? tradeoffs
+    * food type
+    * size/quality of prey
+        * energy/nutrient content
+        * handling time
+        * search time
+        * toxins
+* location of prey: mortality risk?
+
+## food choices
+
+<#b2cols>
+
+* food preference defined relative to availability
+* given food abundance, what  do you choose to eat?
+* eating food in proportion to its availability is **not** "choice"
+* over a longer time scale:  
+may move to a location with more preferred items?
+
+<#s2cols>
+
+<#nohandout
+<#stdfig bmbpix/food-desert-1.jpg>
+
+[a food desert](http://science.howstuffworks.com/environmental/green-science/food-desert.htm)
+>
+
+<#e2cols>
+
+## foraging decisions
+
+<#stdfig bmbpix/bee_eater.jpg>
+
+## foraging trade-offs
+
+<#b2cols>
+
+- <#gloss central-place foragers>
+- longer travel distance: spend more time foraging
+- longer travel distance: carry larger insects
+
+<#s2cols>
+
+```{r bee_eater,echo=FALSE,results="hide",message=FALSE}
+dd <- read.table("bee_eater_2.dat",header=TRUE)
+dd <- transform(dd,mass.upr=mass.est+2*mass.sd/sqrt(N),
+                mass.lwr=mass.est-2*mass.sd/sqrt(N),
+                w=N/mass.sd^2)
+png("bmbpix/bee_eater.png",width=200,height=200)
+ggplot(dd,aes(distance,mass.est,ymin=mass.lwr,ymax=mass.upr,
+              weight=w))+geom_pointrange()+
+    geom_smooth(method="lm",formula=y~log(x))+
+        coord_cartesian(ylim=c(0,350))+
+            labs(x="distance to foraging territory (m)",
+                 y="average insect\\nload mass (mg)")
+dev.off()
+```
+
+<#stdfig bmbpix/bee_eater.png>
+
+[@hegner_central_1982]
+
+<#e2cols>
+
+## rate maximization
+
+* maximize energy gain per unit time:  
+(energy gained)/(time spent)
+* energy gained from food quality 
+    * size, nutritional content, lack of toxins
+* time spent	
+     * searching time ($s$) +  
+handling time ($h$: pursuit, eating, digesting)
+	 
+## model predictions
+
+* pick prey with maximal energy/time
+* be choosy when preferred prey are abundant  
+(<#gloss opportunity cost> of handling crappy prey)
+* wider <#gloss diet breadth> when prey are rare
+
+## model predictions (2)
+
+<#b2cols>
+
+* <#gloss searchers> ($s>h$) = generalists  
+(insectivorous birds)
+* <#gloss handlers> ($h>s$) = specialists (wolves, lions)
+* ignore poor, abundant food unless preferred food is rare
+* switching thresholds
+
+<#s2cols>
+
+<#stdfig bmbpix/tit_feeding.jpg>
+
+<#stdfig bmbpix/tit_data.jpg>
+
+*Parus major*
+
+<#e2cols>
+
+## top-down control of foraging
+
+<#b2cols>
+
+* bluegill sunfish use habitat differently when predators are present
+* balance mortality vs. energy gain
+* "ecology of fear"
+* creates <#gloss indirect interactions>  
+between predators and resource
+
+<#s2cols>
+
+<#stdfig bmbpix/bluegill_pred.jpg>
+
+<#e2cols>
+
+## gerbils
+
+<#medhtfig bmbpix/gerbil1A.jpg>
+
+## gerbils
+
+<#medhtfig bmbpix/gerbil1B.jpg>
+
+## gerbils
+
+<#medhtfig bmbpix/gerbil2.png>
+
+[@abramsky_costs_2002]
+
+## foraging: summary
+
+* optimization models of behaviour:  
+   energy gain, energy/time, fitness
+* when models *fail* it tells you something interesting
+
+## References
+<#startbib>
+

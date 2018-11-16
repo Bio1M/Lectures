@@ -1,0 +1,218 @@
+# Evolution of modern humans
+
+## Readings
+
+- Unfortunately none of this stuff is in the textbook. Hang on!
+- You will *not* need to know dates *except*
+    - *H. sapiens* was in Africa (only) $\\approx$ 200-150 kya
+    - *H. sapiens* was everywhere by about $\\approx$ 30 kya
+	
+## Human prehistory via genetics: big picture
+
+<#b2cols>
+
+* *H. sapiens* in Africa approx. 200 kya
+* small population "out of Africa" 60 ya
+    * (maybe other, earlier OOA events?)
+* overlap with other hominins  
+(Neanderthals, Denisovans, *H. florensis*)
+* evidence for <#gloss introgression> (mixing)
+
+<#s2cols>
+
+<#stdfig bmbpix/Figure13_12.jpg>
+
+<#e2cols>
+
+## Genetic markers
+
+Different markers tell different stories: need markers with appropriate resolution
+
+* marker locations
+   * <#gloss autosome>: biparentally inherited
+   * <#gloss Y chromosome> (non-recombining region NRY): paternal
+   * <#gloss mitochondrial>: maternal, rapidly evolving
+* marker types
+    * <#gloss single nucleotide polymorphisms> (SNPs)
+	* <#gloss microsatellite> markers (repetitive, rapidly evolving)
+	* <#gloss haplotypes>: nonrecombining, inherited as a unit  
+(mitochondria, NRY, linked SNPs)
+
+## Signatures of bottlenecks
+
+* low variation among human populations,  
+relative to among-species variation in chimps
+* due to <#gloss population bottleneck(s)>
+* equilibrium variation maintained by   
+<#gloss mutation-selection balance>
+* estimated low <#gloss effective population size> ($\\approx 10,000$) of *H. sapiens* at present! [@tenesa_recent_2007;@park_effective_2011]
+    - assortative mating
+    - reproductive skew
+	- past bottlenecks
+	
+## Bottlenecks
+
+<#stdfig bmbpix/bottleneck.png>
+
+## Out of Africa
+
+<#stdfig bmbpix/vardist.png>
+
+<#finalhandout
+## Clicker question (hard!)
+
+Which of the following is the **least** likely alternative explanation for lower levels of genetic variation in non-African populations?
+
+(A) stronger stabilizing selection
+(B) weaker diversifying selection
+(C) smaller population sizes
+(D) lower mutation rates
+(E) stronger assortative mating
+
+>
+
+## Genetics: inference from trees
+
+<#b2cols>
+
+* build <#gloss gene trees>
+* explore <#gloss coalescent> process
+* find most recent common ancestor (<#gloss MRCA>) of current-day <#gloss haplotypes>:  
+where, when?
+* <#gloss mitochondrial Eve> and <#gloss Y-chromosome Adam>
+
+<#s2cols>
+
+<#stdfig bmbpix/miteve.png>
+
+<#e2cols>
+
+## Coalescent trees
+
+<#stdfig bmbpix/coalescent3.jpg>
+
+- reconstruct trees from genetic data
+- reconstruct population size history
+- times with small population size have more branching
+- times with large population size have less branching
+
+[@kuhner_coalescent_2009]
+
+<#finalhandout
+## Human spread ($\\approx$ 150 kya) (B&S Fig. 13.4)
+
+<#stdfig bmbpix/geoghist-0.png>
+
+## Human spread ($\\approx$ 60-80 kya)
+
+<#stdfig bmbpix/geoghist-1.png>
+
+## Human spread ($\\approx$ 50-60 kya)
+
+<#stdfig  bmbpix/geoghist-2.png>
+>
+
+## Human spread ($\\approx$ 30-50 kya)
+
+<#stdfig  bmbpix/geoghist-3.png>
+
+## Two-migration theory
+
+* Africa $\\to$ Australia, then Africa $\\to$ Asia/Europe?
+* climate more suitable for moving to Australia 72-60 kya,  
+warmed later?
+
+## Population history
+
+<#stdfig  bmbpix/nature12886-f4.jpg>
+
+[@prufer_complete_2014]
+
+<#finalhandout
+
+# H. sapiens evolution in hominin context
+
+## Hominin context
+
+<#stdfig bmbpix/hominins.jpg>
+
+[@wood_reconstructing_2010]
+
+## Fossil evidence of overlap
+
+* anatomically modern human (AMH) fossils: Africa 190 kya
+* Middle east
+    * AMH, 113 kya (warm, wet period)
+	* Neanderthals, 60-55 kya
+* Asia: AMH 46-34 kya, some Neanderthal ancestry
+* Australia: AMH 38-42 kya
+* Europe: AMH 34 kya
+
+**Note**: it's complicated and the story will probably change!
+
+## Non-consistent gene trees
+
+<#b2cols>
+
+* complications/departures from simple haploid trees
+    * gene duplication
+    * recombination
+    * introgression
+
+<#s2cols>
+
+<#stdfig bmbpix/introgression.png>
+
+<#e2cols>
+
+## Introgression
+
+<#b2cols>
+
+* non-African humans *from* Neanderthals: 1.5-2.1%
+* Asian/Native American from Denisovans: 0.2%
+* Oceanian humans *from* Denisovans: 5%
+* Denisovans *from* archaic hominins
+
+<#s2cols>
+
+<#nohandout <#stdfig bmbpix/cavebear.jpg>>
+
+<#e2cols>
+
+## Introgression (2)
+
+<#stdfig bmbpix/neand_denisov.jpg>
+
+[@zimmer_toe_2013]
+
+<#finalhandout
+
+## Clicker question (medium)
+
+Genetic data indicate that modern humans and Neanderthals
+
+(A) are more closely related to each other than either is to Denisovan hominins
+(B) never interbred
+(C) interbred in Africa
+(D) interbred in Europe
+(E) both interbred with archaic hominins
+>
+
+## clicker question
+
+<#smallfig  bmbpix/nature12886-f4.jpg>
+
+Which of the following phenomena does this graph **not** illustrate?
+
+(a) shrinking and extinction of Neanderthal and Denisovan populations, 500-50 kya
+(b) divergence of African populations, 150 kya
+(c) Out-of-Africa bottleneck, 30-50 kya
+(d) recent expansion of non-African populations
+(e) genetic exchange between Neanderthal/Denisovan and *H. sapiens*
+
+>
+
+## references
+
+<#startbib>
