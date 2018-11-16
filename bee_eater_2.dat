@@ -1,0 +1,5 @@
+distance time.est time.sd duration.est duration.sd mass.est mass.sd N
+25 0.2 0.1 3.4 3.3 14 27 22
+87.5 0.5 0.2 4.1 3.9 75 66 25
+150 0.7 0.2 14 13.2 136 141 11
+575 2.2 NA 13.9 16.8 215 178 13
