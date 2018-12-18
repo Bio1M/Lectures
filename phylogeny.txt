@@ -331,6 +331,8 @@ FUNSLIDE Biology is crazy!
 
 		Elephant
 
+	ADD FUNSLIDE needs an annotation on complete notes
+
 ----------------------------------------------------------------------
 
 PICSLIDE HIGHFIG Pearson/F28_phylogeny/28_04a_whale_phylogeny.jpg
@@ -505,6 +507,8 @@ The web of life
 		Hybridization or allopolyploidy
 
 	Wolf-coyote example | \url{http://advances.sciencemag.org/content/2/7/e1501714}
+
+	ADD allopolyploidy not mentioned elsewhere
 
 ----------------------------------------------------------------------
 
