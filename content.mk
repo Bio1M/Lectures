@@ -1,4 +1,5 @@
 # Lectures
+makestuff.rmsub:
 
 ## Keep track of lecture progress
 Sources += lecture.txt
@@ -15,9 +16,9 @@ imageDrop = ~/Dropbox/courses/1M
 
 Sources += Makefile .ignore README.md sub.mk LICENSE.md
 include sub.mk
--include $(ms)/perl.def
--include $(ms)/newtalk.def
--include $(ms)/repos.def
+-include makestuff/perl.def
+-include makestuff/newtalk.def
+-include makestuff/repos.def
 
 Sources += $(ms)
 
@@ -219,13 +220,13 @@ pushdir = web/materials/
 
 ## make postscript
 
--include $(ms)/wrapR.mk
--include $(ms)/webpix.mk
--include $(ms)/git.mk
--include $(ms)/visual.mk
+-include makestuff/wrapR.mk
+-include makestuff/webpix.mk
+-include makestuff/git.mk
+-include makestuff/visual.mk
 
 ## Is this good to phase out? Do we lose hotmake? Do we need it here?
-## -include $(ms)/modules.mk
+## -include makestuff/modules.mk
 
--include $(ms)/newtalk.mk
--include $(ms)/texdeps.mk
+-include makestuff/newtalk.mk
+-include makestuff/texdeps.mk
