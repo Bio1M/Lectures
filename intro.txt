@@ -122,7 +122,7 @@ Evaluation
 
 		Practice questions will be available
 
-	CHANGE Dushoff is responsible only for your midterm/exam evaluation (and only for half of that)
+	Dushoff is responsible only for your midterm/exam evaluation (and only for half of that)
 
 ----------------------------------------------------------------------
 
@@ -320,6 +320,8 @@ Assignment: Logical equivalence
 
 		Cheap food is not good
 
+	Consider this an assignment
+
 REMARK Assignment. They should satisfy themselves that they understand
 
 ----------------------------------------------------------------------
@@ -328,7 +330,7 @@ Logical equivalence
 
 	Statements are [logically equivalent] if they express the same fact in different words.  In other words, if either one is true, the other one must be true.
 
-		CHANGE And vice versa
+		And vice versa
 
 	Different people find it useful to think about logical equivalence in different ways
 
@@ -457,13 +459,17 @@ Example: Why are giraffes so tall?
 	ANS They use their necks for dramatic fights, so that probably has something
 	to do with it
 
-	CHANGE ANS COMMENT Because their heads are way up in the air, and their legs have to be long enough to reach the ground.
+	ANS COMMENT Because their heads are way up in the air, and their legs have to be long enough to reach the ground.
 
 	What can you do to investigate?
 
 		ANS How high up in trees do giraffes feed?
 
 		ANS Do males with long necks win more fights?
+
+	How likely are you to be convinced?
+
+		NOANS
 
 ----------------------------------------------------------------------
 
@@ -613,4 +619,12 @@ Assignment: Car Trouble
 		Sister: I guess so.  If we're careful.
 
 	Each person drives their own car.  Nothing is wrong with the sister's car.  What is wrong with the brother's car?
+
+----------------------------------------------------------------------
+
+FUNSLIDE More logic
+
+	Whatever doesn't make you stronger \ldots
+
+	NOANS
 
