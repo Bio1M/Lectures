@@ -204,12 +204,12 @@ mn.Rout: mn.R
 
 ######################################################################
 
+## What is images/ ??
+
 ## Pages
 
-## makethes pardirs += Bio1M.github.io images
 pardirs += web
 
-### Would like to make my own push rules here (like 3SS), so that I can push different kinds of products to different places. But here they seem to be over-ridden by the rules from unix.mk!
 pushdir = web/materials/
 
 ######################################################################
