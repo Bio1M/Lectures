@@ -12,6 +12,8 @@ current: target
 vim_session:
 	bash -cl "vm lecture.txt"
 
+pullup: web.pull
+ 
 Sources += Makefile README.md
 
 ######################################################################
