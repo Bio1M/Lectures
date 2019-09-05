@@ -10,7 +10,7 @@ current: target
 # Session
 
 vim_session:
-	bash -cl "vm lecture.txt"
+	bash -cl "vmt lecture.txt"
 
 pullup: web.pull
  
@@ -61,6 +61,7 @@ Sources += copy.tex
 ## Content
 Sources += *.txt
 
+### Look out for RSLIDE; ADD; CHANGE
 #### Introduction (P1)
 intro.draft.pdf: intro.txt
 intro.final.pdf: intro.txt

@@ -22,11 +22,9 @@ Expectations of professor
 	Open to questions -- both in class (within reason) and at office
 	hours
 
-	Available by email and on Facebook
+	Available by email and on discussion forums
 
-		I am not your friend
-
-		\ldots on Facebook
+		TBD
 
 ----------------------------------------------------------------------
 
@@ -126,7 +124,7 @@ Evaluation
 
 ----------------------------------------------------------------------
 
-RSLIDE Structure of presentation
+REPSLIDE Structure of presentation
 
 	Required material will be clearly outlined in the notes
 
@@ -278,13 +276,13 @@ Inference
 
 		ANS Based on the assumptions
 
+REMARK Elm Farm Ollie, the first flying cow
+
 ----------------------------------------------------------------------
 
 PSLIDE Valid conclusion
 
 FIG webpix/flying_cow.jpg
-
-REMARK Elm Farm Ollie, the first flying cow
 
 ----------------------------------------------------------------------
 
@@ -459,7 +457,8 @@ Example: Why are giraffes so tall?
 	ANS They use their necks for dramatic fights, so that probably has something
 	to do with it
 
-	ANS COMMENT Because their heads are way up in the air, and their legs have to be long enough to reach the ground.
+	NOANS Because their heads are way up in the air, and their legs have to be
+	long enough to reach the ground.
 
 	What can you do to investigate?
 
@@ -624,7 +623,9 @@ Assignment: Car Trouble
 
 FUNSLIDE More logic
 
+	Whatever doesn't kill you makes you stronger
+
 	Whatever doesn't make you stronger \ldots
 
-	NOANS
+		NOANS
 
