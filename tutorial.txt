@@ -1,0 +1,49 @@
+
+Marko:
+
+I started making quick comments on Tutorial 1. I kind of think it needs to be comprehensively rewritten. Who curates it? Could I make editing suggestions for whoever is in charge to accept or reject? Should we discuss the approximate philosophy in my comments below and reach a consensus before I edit?
+
+Thanks,
+
+JD
+
+----------------------------------------------------------------------
+
+● Apply Chi square test to population data to determine whether populations are in Hardy-Weinberg equilibrium.
+
+This is wrong. The Chi square test doesn't "determine whether" populations are in equilibrium: they're not. And even if they were, that's not what stats is designed to test. You could say "evaluate evidence for deviations from HW equilibrium".
+
+* This information will then be used to investigate whether or not your tutorial’s population is in Hardy- …
+
+Similarly wrong.
+
+* A population is in Hardy-Weinberg equilibrium if these frequencies are constant from one generation to the next.
+
+This one is weird. In some theory world, you could have constant frequencies without HW. HW is _mostly_ about random mating.
+
+* … Hardy-Weinberg principle is a useful tool for establishing a null hypothesis when we want to test whether evolution is occurring in a population. 
+
+First, it's mostly about random mating. Second, stats is about evaluating evidence not testing whether or not.
+
+* 1. Any change in allelic OR genotypic frequencies (from one generation to the next) suggests that evolution is occurring and one of the 5 conditions required for equilibrium has been violated
+
+Again, more about mating than evolution. Second, the stats always assumes that it's happening. This should again be about evidence. Finally, this s. needs something about stats. What if "any change" is just a tiny, random fluctuation?
+
+* 2. If we know one allelic or genotypic parameter of a population, we may use it to solve for other, unknown parameters in the population.
+
+IF we assume HW. This should be more like "solve for what the other parameters would be under the assumptions of HW."
+
+* If we know the percentage of individuals in a population (that is in equilibrium) who show a recessive phenotype, we can calculate genotypic and allelic frequencies. Suppose you have determined 16% of a 
+
+Don't use equilibrium as a synonym for HW equilibrium. I would back-load the assumption (and repeat it).
+
+* A Chi square test can be used to decide whether or not there is a statistical difference between observed values and expected values. 
+
+Statistical difference is not a thing.
+
+* The Chi square test can therefore be used to compare observed allele frequencies and expected allele frequencies and decide if a population is in Hardy-Weinberg equilibrium.
+
+The population is _not_ in HW equilibrium, and even if it were, a statistical test couldn't prove that it is.
+
+I am going to stop for now…
+

@@ -9,7 +9,7 @@ draft final:\frametitle{%%}\tableofcontents[hideallsubsections]
 complete: \section*{Bio 1M: %% (complete)}
 
 ADD %!
-draft: Aadd %%
+draft: {\color{red}Aadd %%}
 
 ADDSLIDE %!
 draft: ^DEFHEAD Aadd %%

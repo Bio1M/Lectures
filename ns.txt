@@ -272,9 +272,7 @@ TSEC Natural selection | Sec 22.3
 
 		More famous for being wrong about how evolution occurs
 
-		COMMENT He thought _acquired characteristics_ were inherited
-
-		ADD This should not be a comment
+		ANS He thought _acquired characteristics_ were inherited
 
 ----------------------------------------------------------------------
 

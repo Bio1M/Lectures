@@ -10,7 +10,7 @@ current: target
 # Session
 
 vim_session:
-	bash -cl "vmt lecture.txt"
+	bash -cl "vmt lecture.txt tutorial.txt"
 
 pullup: web.pull
  
