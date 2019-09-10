@@ -48,9 +48,9 @@ Fossils
 
 	Fossils provide information about the history of life
 	
-		CORRECTION (see Chapter 25 (2ndEd 27))
-
 	The [fossil record] refers to the collection of all known fossils
+
+	NOTES Chapter 25 (2ndEd 27) for more info about fossils
 
 ----------------------------------------------------------------------
 
@@ -62,7 +62,10 @@ Extinction
 
 	Extinction is one piece of evidence that species are changing
 
-		COMMENT But not very convincing evidence!
+		In a very limited way
+
+		How convincing is it as support for the theory that species got here by
+		gradual evolution?
 
 ----------------------------------------------------------------------
 
@@ -125,7 +128,7 @@ TSS Relationships between species | pp.~452--455
 
 		Species fall naturally into groups
 
-			COMMENT: e.g., mammals, flowering plants
+			e.g., mammals, flowering plants
 
 		Geographic patterns of relatedness
 
@@ -198,7 +201,7 @@ PSLIDE Genetic homology
 
 FIG Pearson/F25_ns/25_10_homology_evidence_L.jpg
 
-	COMMENT An eye-promoter gene from mice promote eye growth in flies!
+	An eye-promoter gene from mice promotes eye growth in flies!
 
 ----------------------------------------------------------------------
 
@@ -257,7 +260,8 @@ Identifying homologies
 
 		Genetic evidence and morphological evidence often agree
 
-			We get consistent stories from different lines of evidence, e.g., whale example | p.~455
+			We get consistent stories from different lines of evidence, e.g.,
+			whale example | p.~455
 
 			ADD More about this? don't love the story
 
@@ -302,8 +306,6 @@ Natural selection drives evolution
 
 Natural selection (short version)
 
-ADD Do a better job about survival of the fittest -- how does it work at the group level? (written 2017, don't understand now)
-
 	Evolution by natural selection will occur if there is:
 
 		Heritable [variation] in traits
@@ -311,7 +313,10 @@ ADD Do a better job about survival of the fittest -- how does it work at the gro
 		[Selection] (i.e., differential reproductive success) _based on_
 		these traits
 
-	COMMENT Traits associated with good reproductive success will become more common
+	Logical consequence?
+	
+		ANS Traits associated with good reproductive success will become more
+		common
 
 ----------------------------------------------------------------------
 
@@ -322,7 +327,7 @@ Fitness
 	[Fitness] in biology, or [Darwinian fitness], means simply an
 	ability to do well under natural selection
 
-	Fitness is thus defined as average reproductive success, given a
+	Fitness is thus _defined_ as average reproductive success, given a
 	suite of heritable traits
 
 	Components of fitness:
@@ -396,7 +401,7 @@ Activity
 
 		ANS [Replicate]. Use many offspring (from different mothers and fathers).
 
-		ADD Why is randomization less important here?
+		ANS [Randomize]. Select individuals to breed at random
 
 ----------------------------------------------------------------------
 
@@ -562,13 +567,19 @@ Acclimation
 
 	Are responses to changed conditions always good?
 
-		COMMENT Digging holes
+		ANS No. Systems respond in ways that have usually been good through
+		evolutionary time 
 
-		ADD Altitude sickness
+		ANS Some forms of severe altitude sickness are probably due to
+		acclimation systems going off track
+		
+		COMMENT A story about digging holes
 
 ----------------------------------------------------------------------
 
-The good of the species
+EXTRA The good of the species
+
+	 Resting: the book no longer discusses this topic here
 
 	Selection operates on individuals; individuals are not adapted to act
 	for the good of the species
@@ -582,11 +593,9 @@ The good of the species
 
 	Do lemmings commit suicide?
 
-	ADD This is in the ecology section of the book now; move it out from here?
-
 ----------------------------------------------------------------------
 
-PSLIDE A lemming not committing suicide
+EXTRA PSLIDE A lemming not committing suicide
 
 FIG webpix/lemming.jpg
 
