@@ -629,3 +629,5 @@ FUNSLIDE More logic
 
 		NOANS
 
+	ADD A tiny bit more framing (broad assumptions or whattheflipever)
+
