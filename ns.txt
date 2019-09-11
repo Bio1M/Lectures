@@ -223,6 +223,10 @@ EC
 
 ----------------------------------------------------------------------
 
+PIC HIGHFIG Pearson/F25_ns/25_09_structural_homology_U.jpg
+
+----------------------------------------------------------------------
+
 Structural homology
 
 BCC
@@ -263,7 +267,7 @@ Identifying homologies
 			We get consistent stories from different lines of evidence, e.g.,
 			whale example | p.~455
 
-			ADD More about this? don't love the story
+			ADD Your own stories
 
 ----------------------------------------------------------------------
 
@@ -365,6 +369,14 @@ Other examples
 
 ----------------------------------------------------------------------
 
+PICSLIDE FIG webpix/grey_squirrel.jpg
+
+----------------------------------------------------------------------
+
+PICSLIDE FIG webpix/black_squirrel.jpg
+
+----------------------------------------------------------------------
+
 PSLIDE Squirrels
 
 BCC
@@ -403,6 +415,9 @@ Activity
 
 		ANS [Randomize]. Select individuals to breed at random
 
+			ANS Maybe less important -- but if you do it, you don't have to worry
+			about it
+
 ----------------------------------------------------------------------
 
 SEC The nature of adaptation | Sec 22.5
@@ -431,6 +446,11 @@ Inheritance of acquired characteristics
 	It is now known that while individuals do often change in response
 	to their environment, such changes are not (usually) passed on to
 	offspring
+
+		COMMENT We even more recently know that sometimes this _can_ happen, but
+		it's not the main way that evolution proceeds
+
+		ADD NOTES about epigenetics
 
 ----------------------------------------------------------------------
 
