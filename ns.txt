@@ -451,10 +451,10 @@ Inheritance of acquired characteristics
 	to their environment, such changes are not (usually) passed on to
 	offspring
 
-		COMMENT We even more recently know that sometimes this _can_ happen, but
-		it's not the main way that evolution proceeds
+		COMMENT We even more recently know that sometimes this _can_
+		happen, but it's not the main way that evolution proceeds
 
-		ADD NOTES about epigenetics
+		NOTES \url{https://en.wikipedia.org/wiki/Epigenetics}
 
 ----------------------------------------------------------------------
 
@@ -466,8 +466,8 @@ Goal-directed evolution
 
 		Big-brained humans
 
-	If the organism is moving toward a goal, it should move more or less in
-	that direction all the time
+	If the organism is moving toward a goal, it should move more or less
+	in that direction all the time
 
 ----------------------------------------------------------------------
 

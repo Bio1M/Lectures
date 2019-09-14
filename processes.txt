@@ -5,7 +5,7 @@ CHAPTER Evolutionary processes
 
 Evolution by natural selection
 
-	Is something missing from the story I told last chapter?
+	What is the weak link in the story I told last chapter?
 
 		Heritable [variation] in traits
 
@@ -92,10 +92,9 @@ PICSLIDE HIGHFIG webpix/pepper_birch.jpg
 
 ----------------------------------------------------------------------
 
+Example: peppered moths 
 
-Example: peppered moths
-
-	NOTES Check ``peppered moths'' or ``Kettlewell's experiment'' on wikipedia
+	NOTES Kettlewell's experiment \url{https://en.wikipedia.org/wiki/Kettlewell%27s_experiment}
 
 	Two different alleles possible at the wing color gene: $A_1$
 	and $A_2$.
@@ -113,10 +112,26 @@ Example: peppered moths
 	and $Y$ is a [recessive] allele.  
 
 	If $XY$ individuals have an intermediate phenotype (between $XX$ and
-	$YY$, we say $X$ and $Y$ are [co-dominant].
+	$YY$, we say $X$ and $Y$ are [incompletely dominant].
 
-		CORRECTION or incompletely dominant; don't worry about the distinction
-		for now
+----------------------------------------------------------------------
+
+Co-dominance
+
+	Co-dominance means when both phenotypes are expressed.
+	Whatever that would mean.
+
+	Examples?
+
+	a very particular term that should fall under incomplete
+	dominance
+
+	People shouldn't worry about this distinction, and you
+	shouldn't worry about it for this course
+
+		Notice that it's not in bold
+
+	COMMENT Tell Dushoff to stop, if he's getting carried away
 
 ----------------------------------------------------------------------
 
@@ -162,7 +177,7 @@ Activity: Coin flipping
 
 Activity: Professional coin flipping
 
-	CORRECTION A professional gambler can flip a coin so that it lands heads 70%
+	A professional gambler can flip a coin so that it lands heads 70%
 	of the time.  She flips two coins.
 
 	What is the probability of:
@@ -227,9 +242,12 @@ Example: calculating allele frequencies
 
 		ANS We see more homozygotes than expected
 
-			ANS We can always summarize this way if allele frequency is right
+			ANS We can always summarize as more or less homozygotes
+			
+			ANS if allele frequency is right
 
-		ANS But is this reliable evidence?  That's a question for statistics.
+		ANS But is this reliable evidence?  That's a question for
+		statistics.
 
 ----------------------------------------------------------------------
 
@@ -249,16 +267,19 @@ What do we mean by expected?
 
 How do you know a coin is perfectly fair?
 
-	You can never be sure that a coin is perfectly fair, you can only evaluate
-	your evidence that it's more or less close to fair.
+	You can never be sure that a coin is perfectly fair, you can only
+	evaluate your evidence that it's more or less close to fair.
 
 	Similarly, we never have evidence that a population is exactly in
 	Hardy-Weinberg equilibrium
 	
-	We can only evaluate our evidence that
-	it is far from (or close to) equilibrium
+	We can only evaluate our evidence that it is far from (or close to)
+	equilibrium
 
-	COMMENT Or that we have more (or less) homozygotes than expected
+	What's another way to think about the evidence?
+
+		ANS How clear is it that we really have more (or less)
+		homozygotes than expected
 
 ----------------------------------------------------------------------
 
@@ -272,12 +293,15 @@ Hardy-Weinberg equilibrium
 
 		ANS No differences in fitness between genotypes
 
-		COMMENT No mutation, no drift (see below)
+		ANS No mutation, no drift (see below)
 
-	If these assumptions hold exactly, we expect [Hardy-Weinberg equilibrium]
+	If these assumptions hold exactly, we expect [Hardy-Weinberg
+	equilibrium]
 	
 		Hardy-Weinberg distribution, with no change in allele frequencies
 		from generation to generation.
+
+	This never happens
 
 ----------------------------------------------------------------------
 
@@ -309,6 +333,9 @@ Example: Human blood groups
 
 		No evidence for non-random mating, or for fitness differences.
 
+		This _does not_ mean it's not happening, but _probably_ means that
+		it's small
+
 ----------------------------------------------------------------------
 
 Activity: Human blood groups at the global level
@@ -319,11 +346,11 @@ Activity: Human blood groups at the global level
 
 	ANS More homozygotes than expected
 
-	ANS They are not in equilibrium, because mating is not random across these
-	groups
+	ANS They are not in equilibrium, because mating is not random across
+	these groups
 
-	ANS These data are telling us different (reasonable) stories at different
-	scales
+	ANS These data are telling us different (reasonable) stories at
+	different scales
 
 ----------------------------------------------------------------------
 
@@ -517,16 +544,18 @@ BC
 
 	What would happen if almost all of the seedcrackers had large bills?
 
-		ANS More small seeds available, small bills become an advantage, an
-		example of \ldots
+		ANS More small seeds available, small bills become an advantage,
+		an example of \ldots
 
 			ANS frequency dependence
 
-		ANS Disruptive selection can $\implies$ balancing selection
+	What happens when large-billed and small-billed individuals breed?
 
-		ANS But what happens when the two types breed?
+		ANS They could have low-fitness offspring
 
-			COMMENT Stay tuned!
+		ANS Can lead to selection for less heritability
+
+		ANS or selection on mate choice
 
 NC
 
@@ -638,7 +667,7 @@ TSS Mutation | S23.5 (2ndEd S25.5)
 
 	[Mutations] are heritable errors in copying DNA
 
-	Mutations are rare; by themselves they don't cause much evolution
+	Mutations are rare; _by themselves_ they don't cause much evolution
 
 	Mutations are extremely important to evolution, however:
 
@@ -841,10 +870,10 @@ Investment in reproduction
 
 ----------------------------------------------------------------------
 
-Testing the theory of sexual selection
+Testing the theory
 
-	How might we test the theory that males compete sexually because
-	females invest more in offspring?
+	How might we test the theory that males compete more sexually
+	because females invest more in offspring?
 
 		ANS Are there any species where these roles seem to be reversed?
 

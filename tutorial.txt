@@ -1,13 +1,10 @@
 
-Marko:
-
-I started making quick comments on Tutorial 1. I kind of think it needs to be comprehensively rewritten. Who curates it? Could I make editing suggestions for whoever is in charge to accept or reject? Should we discuss the approximate philosophy in my comments below and reach a consensus before I edit?
-
-Thanks,
-
-JD
-
 ----------------------------------------------------------------------
+
+* I said I would work on rewriting this, do I have it as a doc? Check format next time on Avenue.
+
+* Check also comment from Marko's email
+
 
 ● Apply Chi square test to population data to determine whether populations are in Hardy-Weinberg equilibrium.
 
