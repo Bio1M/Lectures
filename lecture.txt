@@ -26,8 +26,11 @@ ns.draft.pdf
 
 Human impacts are affecting global evolution
 * https://t.co/9EpmgHDN4r
+
 Lizard 101: https://www.youtube.com/watch?v=pyixWxO9QZc
+
 Jo's prey apes: https://www.youtube.com/watch?v=G_hl804lSfc
+
 https://www.cbc.ca/news/technology/evolution-kite-finches-1.4421594
 
 ----------------------------------------------------------------------
@@ -44,7 +47,7 @@ L3: Wed 11
 * Burkes at beginning of homology
 
 L4: 2019 Sep 13 (Fri)
-* Burkes are talking about Goal-directed evolution
+* End roughly with Evaluating competing hypotheses
 
 ----------------------------------------------------------------------
 

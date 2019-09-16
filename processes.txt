@@ -279,7 +279,7 @@ How do you know a coin is perfectly fair?
 	What's another way to think about the evidence?
 
 		ANS How clear is it that we really have more (or less)
-		homozygotes than expected
+		homozygotes than expected?
 
 ----------------------------------------------------------------------
 
@@ -333,8 +333,8 @@ Example: Human blood groups
 
 		No evidence for non-random mating, or for fitness differences.
 
-		This _does not_ mean it's not happening, but _probably_ means that
-		it's small
+		This _does not_ mean it's not happening, but _probably_ means
+		that it's small
 
 ----------------------------------------------------------------------
 
