@@ -17,9 +17,7 @@ COMMENT
 
 ----------------------------------------------------------------------
 
-ADD epigenetics information
-
-Potential and unimplemented lecture resources
+## Potential and unimplemented lecture resources
 
 https://www.washingtonpost.com/science/2019/08/28/this-newfound-million-year-old-skull-is-an-iconic-specimen-early-human-evolution/?wpisrc=nl_rainbow&wpmm=1
 ns.draft.pdf
@@ -54,6 +52,9 @@ L5: End near beginning of new unit!
 L6: 2019 Sep 18 (Wed)
 * End at MN blood groups
 * Burkes! How do you know?
+
+L7: 2019 Sep 23 (Mon)
+* In the middle of disruptive selection
 
 ----------------------------------------------------------------------
 
