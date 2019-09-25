@@ -89,7 +89,7 @@ Pre- vs.~post-zygotic mechanisms
 		ANS Example: it takes a lot of resources for a horse to birth and raise a
 		mule, but there is no long-term fitness benefit
 
-			ANS This is presumably why they in fact rarely mate
+			ANS This is presumably why horses rarely mate with donkeys
 
 ----------------------------------------------------------------------
 
@@ -103,6 +103,8 @@ Disadvantages of the biological species concept
 
 		ANS What if two populations rarely come into contact because of
 		geographic distance?
+
+	COMMENT Rings of populations
 
 ----------------------------------------------------------------------
 
@@ -159,7 +161,7 @@ TSS Ecological species concept
 
 TSS Phylogenetic species concept
 
-	A phylogenetic species is a monophyletic group of populations
+	A phylogenetic species is a monophyletic group of _populations_
 
 		Must not be divisible into smaller species
 
@@ -199,7 +201,7 @@ Defining species
 
 		No one way is agreed to be the best
 
-	CORRECTION Usually we know more or less what we mean by a species, though
+	Usually we know more or less what we mean by a species, though
 
 ----------------------------------------------------------------------
 
@@ -494,6 +496,8 @@ Sticklebacks | Box 24.1
 
 	Limnetic sticklebacks arrived later
 
+		ANS Adapted to live in the water column
+
 	The two groups evolved to avoiding breeding with each other
 
 		ANS Courtship rituals
@@ -583,5 +587,3 @@ Conclusion
 
 		Particularly if we want definitions that include both asexual and sexual
 		species
-
-	ADD this is kind of a short Conclusion
