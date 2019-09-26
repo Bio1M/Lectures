@@ -561,13 +561,13 @@ Sunflowers | p.~510--512 \second{516--518}
 
 		ANS Rarely seems to happen
 
-		ANS If the hybrid has high fitness, why would reproductive isolation
-		evolve? 
+		ANS If the hybrid has high fitness, why would reproductive
+		isolation evolve? 
 
 	How did it happen?
 
-		ANS Probably because of an unusual adaptation: they hybrids live in drier
-		climates than either of the ``parent'' species
+		ANS Probably because of an unusual adaptation: the hybrids live
+		in drier climates than either of the ``parent'' species
 
 ----------------------------------------------------------------------
 
