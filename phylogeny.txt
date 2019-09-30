@@ -7,7 +7,7 @@ LEARN
 
 	Hox
 
-Check (or update ALL older figures?)
+Check (or update) ALL older figures?
 
 	Hee-hee!
 
@@ -392,15 +392,47 @@ EC
 
 ----------------------------------------------------------------------
 
+How to make a phenetic tree
+
+	1. Join the two open nodes that are closest to each other
+
+		Shortest distance
+
+	2. They are no longer active. Make a new node halfway between them
+
+		Average the traits
+
+		This step is conceptually simple and practically tricky
+
+		COMMENT This is why we have computers
+
+	3. Go back to step 1
+
+----------------------------------------------------------------------
+
+How to make a phenetic tree in this course
+
+	1. Join the two open nodes that are closest to each other
+
+		Shortest distance
+
+	ANS 2. \emph{Stop!} You're done.
+
+		ANS I only gave you three species
+
+	ANS Seriously. 
+
+	COMMENT I'm here to teach you concepts, not to teach you how to be a really
+	bad computer.
+
+----------------------------------------------------------------------
+
 Lessons
 
-	Phenetic analysis can be misleading
+	Phenetic analysis uses less information
 
-	Any analysis can be misleading, if data are limited
-
-		This is almost always a concern
-
-	Inferences about the common ancestor can be crucial
+	To do a cladistic analysis, inferences about the common ancestor can be
+	crucial
 
 		What if we thought the artiodactyl ancestor was aquatic?
 
