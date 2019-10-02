@@ -418,9 +418,9 @@ How to make a phenetic tree in this course
 
 	ANS 2. \emph{Stop!} You're done.
 
-		ANS I only gave you three species
+		ANS I will only give you three species
 
-	ANS Seriously. 
+		ANS Seriously. 
 
 	COMMENT I'm here to teach you concepts, not to teach you how to be a really
 	bad computer.
@@ -536,11 +536,13 @@ The web of life
 
 	Reuniting can create new species
 
-		Hybridization or allopolyploidy
+		Hybridization
+		
+		Allopolyploidy
+
+			ANS Polyploids arising from different (allo-) species
 
 	Wolf-coyote example | \url{http://advances.sciencemag.org/content/2/7/e1501714}
-
-	ADD allopolyploidy not mentioned elsewhere
 
 ----------------------------------------------------------------------
 
