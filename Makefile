@@ -84,6 +84,11 @@ processes.handouts.pdf: processes.txt
 processes.complete.pdf: processes.txt
 processes.outline.pdf: processes.txt
 
+## Flopped sickle looks like Taiwan; don't worry about it
+Ignore += sickle.jpg
+sickle.jpg: webpix/sickle.jpg 
+	convert -flop $< $@
+
 #### Speciation (P26 ⇒ P24)
 # speciation.2nd: speciation.txt
 speciation.draft.pdf: speciation.txt
@@ -94,8 +99,6 @@ speciation.outline.pdf: speciation.txt
 
 #### Phylogeny and the history of life (P27 ⇒ P25)
 #### Merge phylogeny in for next year??
-#### Does this mean phenetics?
-#### Are you looking at new content yet? How's the schedule??
 phylogeny.draft.pdf: phylogeny.txt
 phylogeny.final.pdf: phylogeny.txt
 phylogeny.handouts.pdf: phylogeny.txt
