@@ -189,6 +189,8 @@ Phenetic vs. cladistic analysis
 		ANS When our data are only distances, with no characters available
 		-- e.g., certain molecular techniques
 
+		ANS When we don't have enough baseline information
+
 ----------------------------------------------------------------------
 
 Synapomorphies
@@ -235,6 +237,9 @@ What characters are derived?
 			What if our flight example was ostriches, hawks, and sparrows?
 
 			ANS No evidence for similarity between hawks and sparrows
+
+			ANS We believe the common ancestor could fly, so there is no
+			shared, derived characteristic
 
 		A [derived] character is a character not shared by the common
 		ancestor of the group that we are currently thinking about
