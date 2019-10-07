@@ -64,6 +64,28 @@ L9: 2019 Sep 27 (Fri)
 L10: 2019 Sep 30 (Mon)
 * Ready for genetic incompatibilities
 
+L11 Barely finish ns unit
+* START phylogeny
+
+L12 (Fri)
+* End on Flight as evidence (Salmons are done with What characters, Burkes not)
+
+L13 7 Oct (Mon) Phylo
+
+L14 9 Oct (Wed) Phylo
+
+L15 11 Oct (Fri)
+
+L16 14 Oct (Mon)
+
+L17 16 Oct (Wed)
+
+L18 18 Oct (Fri)
+
+L19 21 Oct (Mon)
+
+L20 23 Oct (Wed)
+
 ----------------------------------------------------------------------
 
 2019 Test breakdown

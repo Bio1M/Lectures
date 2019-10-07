@@ -188,7 +188,7 @@ final.final.pdf: final.txt
 
 ## A special file to make complete notes for the test
 midterm1.txt: phylogeny.txt Makefile
-	perl -npe "last if /Example/" $< | perl -npe "s/CHAPTER.*/CHAPTER Midterm 1 extra notes/" > $@
+	perl -npe "last if /The history/" $< | perl -npe "s/CHAPTER.*/CHAPTER Midterm 1 extra notes/" > $@
 midterm1.complete.pdf: phylogeny.txt
 
 ######################################################################

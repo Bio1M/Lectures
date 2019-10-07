@@ -310,3 +310,173 @@ Parsimony
 
 ----------------------------------------------------------------------
 
+TSS Example: the evolution of whales
+
+	Whales seem, on the surface, to be pretty different from other
+	mammals, including the closest group, the artiodactyls
+
+	Early phenetic analyses showed whales in their own group (sisters to
+	artiodactyls)
+
+		Whales lack the distinctive artiodactyl ankle structure (surprise!)
+
+	What about cladistic analysis?
+
+----------------------------------------------------------------------
+
+FUNSLIDE Biology is crazy!
+
+	Which of these doesn't belong?
+
+		Whale
+
+		Rhinocerous
+
+		Hippopotamus
+
+		Elephant
+
+	ADD FUNSLIDE needs an annotation on complete notes
+
+----------------------------------------------------------------------
+
+PICSLIDE HIGHFIG Pearson/F28_phylogeny/28_04a_whale_phylogeny.jpg
+
+----------------------------------------------------------------------
+
+Activity: Tree-construction analysis
+
+	Hippos have derived characters A, B, C, D, Z
+
+	Cows have derived character A, Z
+
+	Whales have derived characters B, C, D, E, F, G, H, I, Z
+
+	Calculate distances, and make a phenetic tree
+
+	List synapomorphies, and make a cladistic tree
+
+----------------------------------------------------------------------
+
+Tree discussion
+
+	What is the effect of universal characteristics (like Z, above)?
+
+		ANS None
+
+	What is the effect of unique characteristics (like E, F, G, H, I)
+
+		ANS They affect phenetic trees, but not cladistic trees
+
+		ANS As long as we are sure that they are derived!
+
+	Why might whales have more derived characters than the other species?
+
+		ANS Because they have had to adapt more since moving to the water
+
+----------------------------------------------------------------------
+
+PICSLIDE HIGHFIG Pearson/F28_phylogeny/28_04b_whale_phylogeny.jpg
+
+----------------------------------------------------------------------
+
+Confirmation
+
+BCC
+
+SIDEFIG Pearson/F25_ns/25_11_whale_evolution_U.jpg
+
+NCC
+
+	Intermediate forms between hippo-like animals and whales
+
+	Discovered _after_ they were predicted from DNA evidence!
+
+EC
+
+----------------------------------------------------------------------
+
+PICSLIDE FIG webpix/mammal_trees.png
+
+----------------------------------------------------------------------
+
+How to make a phenetic tree
+
+	1. Join the two open nodes that are closest to each other
+
+		Shortest distance
+
+	2. They are no longer active. Make a new node halfway between them
+
+		Average the traits
+
+		This step is conceptually simple and practically tricky
+
+		COMMENT This is why we have computers
+
+	3. Go back to step 1
+
+----------------------------------------------------------------------
+
+How to make a phenetic tree in this course
+
+	1. Join the two open nodes that are closest to each other
+
+		Shortest distance
+
+	ANS 2. \emph{Stop!} You're done.
+
+		ANS I will only give you three species
+
+		ANS Seriously. 
+
+	COMMENT I'm here to teach you concepts, not to teach you how to be a really
+	bad computer.
+
+----------------------------------------------------------------------
+
+Lessons
+
+	Phenetic analysis uses less information
+
+	To do a cladistic analysis, inferences about the common ancestor can be
+	crucial
+
+		What if we thought the artiodactyl ancestor was aquatic?
+
+			E, F, G, H and I could all be basal characters
+
+			ANS We would conclude that cows are closely related to hippos
+
+----------------------------------------------------------------------
+
+Genetic vs.~morphological
+
+	Why was the genetic analysis more effective than the morphological?
+
+		ANS It can be hard to tell which traits are derived
+
+			ANS This can also be a problem with the genetic analysis
+
+		ANS Genetic analyses typically allow us to analyze more traits
+
+----------------------------------------------------------------------
+
+Phylogenetic trees are approximations!
+
+	Phylogenetic trees are tremendously useful and powerful tools for
+	organizing, understanding and analyzing biological data
+
+	But they have limitations:
+
+		The true history of life cannot really be summarized by a tree
+
+			Sex, other forms of combination or gene transfer
+
+		Trees constructed by humans are not necessarily even the best
+		approximations to the true history of life 
+		
+		Our guesses often change over time
+
+----------------------------------------------------------------------
+

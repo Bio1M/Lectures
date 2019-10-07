@@ -344,7 +344,6 @@ PICSLIDE HIGHFIG Pearson/F28_phylogeny/28_04a_whale_phylogeny.jpg
 
 ----------------------------------------------------------------------
 
-
 Activity: Tree-construction analysis
 
 	Hippos have derived characters A, B, C, D, Z
@@ -394,6 +393,10 @@ NCC
 	Discovered _after_ they were predicted from DNA evidence!
 
 EC
+
+----------------------------------------------------------------------
+
+PICSLIDE FIG webpix/mammal_trees.png
 
 ----------------------------------------------------------------------
 
@@ -528,7 +531,6 @@ Eukaryotes
 	Where did the nucleus come from?
 
 		Nobody knows
-
 
 ----------------------------------------------------------------------
 
