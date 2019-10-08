@@ -98,13 +98,13 @@ speciation.complete.pdf: speciation.txt
 speciation.outline.pdf: speciation.txt
 
 #### Phylogeny and the history of life (P27 ⇒ P25)
-#### Merge phylogeny in for next year??
 phylogeny.draft.pdf: phylogeny.txt
 phylogeny.final.pdf: phylogeny.txt
 phylogeny.handouts.pdf: phylogeny.txt
 phylogeny.complete.pdf: phylogeny.txt
 phylogeny.outline.pdf: phylogeny.txt
 
+### Ready to drop this 2019 Oct 07 (Mon)
 phenetics.draft.pdf: phenetics.txt
 phenetics.final.pdf: phenetics.txt
 phenetics.handouts.pdf: phenetics.txt
