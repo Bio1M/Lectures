@@ -1,0 +1,482 @@
+
+EXTRA
+
+LEARN
+
+	crown lizards
+
+	Hox
+
+Check (or update) ALL older figures?
+
+	Hee-hee!
+
+----------------------------------------------------------------------
+
+CHAPTER Midterm 1 extra notes
+
+----------------------------------------------------------------------
+
+TSEC Phylogeny | S25.1; Bioskill 11 \second{S27.1; Bioskills 3}
+
+	NOTES \textsl{Bioskills are in the back of your book}
+
+	Phylogeny is the evolutionary history of a group of organisms
+
+	Based on the idea that organisms are related by evolution
+
+	Understanding these relationships is critical to our understanding
+	of both evolution, and how biological processes work
+
+----------------------------------------------------------------------
+
+Phylogenetic trees 
+
+	A [phylogenetic tree] is a model of how a group of organisms
+	descended from a common ancestor
+
+	The model consists of [nodes], where groups split, [branches] where
+	evolution occurs, and [tips] representing observed [taxa] which are
+	the endpoints of the process we are trying to model.
+
+	A point where more than two branches diverge is called a _polytomy_.
+
+		Polytomies mean we don't know which event happened first.
+
+----------------------------------------------------------------------
+
+PICSLIDE FIG Pearson/F_skills/B07_1_phylogenetic_trees.jpg
+
+----------------------------------------------------------------------
+
+PICSLIDE WIDEFIG Pearson/F_skills/B07_2_phylo_tree_example.jpg
+
+----------------------------------------------------------------------
+
+Monophyletic group
+
+	A [monophyletic group] is a group _defined by_ a single common
+	ancestor
+
+		All descendants of the ancestor must be in the group
+
+	Monophyletic groups can also be called [clades] or [taxa].
+
+	As biologists, we should try to think in terms of clades
+
+		Are flying vertebrates a clade?
+
+		What are some prominent groups that are not clades?
+
+			ANS apes, reptiles, trees
+
+----------------------------------------------------------------------
+
+PICSLIDE WIDEFIG Pearson/F_skills/B07_2_phylo_tree_example.jpg
+
+----------------------------------------------------------------------
+
+Sister taxa
+
+	Sister taxa can be a useful way of thinking about trees
+
+		two taxa that share a common node
+
+		You need to take the whole taxon
+
+	E.g., sisters of: _Homo sapiens_; _Homo erectus_; humans?
+
+		ANS _Homo neanderthalensis_; _Hn_ and _Hs_; _Paranthropus_
+
+----------------------------------------------------------------------
+
+Reading phylogenetic trees
+
+	The tree indicates the pattern of branching of [lineages] (evolving
+	lines)
+
+	Tips are _assumed_ by the model to be monophyletic
+
+	A tree is a model of how evolution occurred
+
+		Trees that correspond to the same model are considered equivalent | (see
+		Bioskill)
+
+----------------------------------------------------------------------
+
+PICSLIDE WIDEFIG Pearson/F_skills/B07_2_phylo_tree_example.jpg
+
+----------------------------------------------------------------------
+
+PSLIDE Activity: which of these things is not like the others?
+
+
+PICSLIDE WIDEFIG Pearson/F_skills/B07_3_alternate_phylo_trees.jpg
+
+----------------------------------------------------------------------
+
+Order of species
+
+	Except for the branching pattern, we don't interpret anything about the
+	order of a tree
+
+		No species are higher or lower than others, according to the tree
+
+		We've all been evolving for the same amount of time
+
+	How do we judge how closely related two organisms are, according to a
+	tree?
+
+		ANS By looking for their common ancestor
+
+----------------------------------------------------------------------
+
+PICSLIDE WIDEFIG Pearson/F_skills/B07_2_phylo_tree_example.jpg
+
+----------------------------------------------------------------------
+
+
+TSS Constructing phylogenetic trees
+
+	First, measure [characteristics] (or [characters]) of the taxa of
+	interest -- i.e., anything that seems useful to measure
+
+		Can be [morphological] (i.e., physical) or genetic
+
+	Then infer (make an educated guess about) the phylogenetic
+	relationships.
+
+		[Phenetic] approaches use measures of distance between organisms
+
+		[Cladistic] approaches are based on modeling how evolution occurs
+		on the tree
+
+----------------------------------------------------------------------
+
+Morphological vs. genetic characteristics
+
+	Should we use morphological or genetic characteristics to infer phylogenies?
+
+		We usually have more information from genetic characteristics, and
+		this information is easier to measure precisely
+
+	When should we use morphological characteristics?
+
+		ANS When genetic information is not available
+
+			ANS Most fossil organisms
+
+		COMMENT Some viruses evolve so fast that morphological
+		characteristics can be more stable than genetic
+		characteristics
+
+----------------------------------------------------------------------
+
+Phenetic vs. cladistic analysis
+
+	Cladistic analysis makes use of the phylogenetic model of organisms
+	evolving from each other to infer phylogenies
+
+	Phenetic analysis ignores the phylogenetic model of organisms
+	evolving from each other while inferring phylogenies
+
+	Which is better?
+
+		ANS Cladistic analysis
+
+	When should we use the other one?
+
+		ANS When our data are only distances, with no characters available
+		-- e.g., certain molecular techniques
+
+		ANS When we don't have enough baseline information
+
+----------------------------------------------------------------------
+
+Synapomorphies
+
+	Classical cladistic analysis is based on [synapomorphies] -- shared,
+	[derived] characters -- as evidence that two taxa are related
+
+	Why do we focus on derived characters?
+
+		ANS These are things that evolved in the relevant context
+
+		ANS So they are the things our model (the phylogenies) must
+		explain 
+
+----------------------------------------------------------------------
+
+Flight as evidence
+
+	Oaks and fish don't fly, but birds do
+
+		ANS We're pretty sure that the common ancestor didn't fly
+
+		ANS No evidence (any model will have flight evolve once)
+
+		ANS Flight evolved once in either case
+
+	Mosquitoes and birds fly, but fish don't
+
+		ANS Evidence (flight might have evolved once or twice on this tree)
+
+		ANS But this evidence points in the wrong direction
+
+			ANS This is why we combine evidence from different sources
+
+----------------------------------------------------------------------
+
+What characters are derived?
+
+	Derived compared to what?
+
+		The common ancestor (characteristics of the common ancestor are
+		called [basal] or [ancestral] characters).  
+
+			What if our flight example was ostriches, hawks, and sparrows?
+
+			ANS No evidence for similarity between hawks and sparrows
+
+			ANS We believe the common ancestor could fly, so there is no
+			shared, derived characteristic
+
+		A [derived] character is a character not shared by the common
+		ancestor of the group that we are currently thinking about
+
+		One way to think about cladistic vs.~phenetic analysis is that
+		phenetic analysis treats derived and basal characters equally
+
+----------------------------------------------------------------------
+
+Inferring the common ancestor
+
+	We want to know what the common ancestor was like, so we can tell
+	which characters are derived (as opposed to basal)
+
+	This can be done sometimes by common sense
+	
+	Inferring the common ancestor statistically is difficult, for
+	technical reasons
+
+		We can make use of an [outgroup] to study a
+		group.  An outgroup is an organism closely related to, but
+		outside, the group being studied.
+
+		We assume that the the [root], or beginning, of the tree is where
+		the outgroup branches from the group
+
+----------------------------------------------------------------------
+
+Confusing the phylogeny
+
+	Two species may have the same trait because the trait evolved twice
+	independently -- [convergent evolution]
+
+		ANS Flight, trees, dolphins and icthyosaurs
+
+	An organism may lack a character that its ancestors had --
+	[secondary loss]
+
+		This can be even more confusing
+
+	Similarities that are not homologies (ie., not due to common
+	ancestry) are called [homoplasies] | Fig.~25.3 \second{Fig.~27.2}
+
+----------------------------------------------------------------------
+
+PIC HIGHFIG freeman/L25/fg25_02.jpg
+
+----------------------------------------------------------------------
+
+PIC WIDEFIG freeman/L25/fg25_03.jpg
+
+----------------------------------------------------------------------
+
+Parsimony
+
+	Classical cladistic analysis is based on searching for the tree that
+	can explain the observed data most [parsimoniously] -- with the
+	fewest number of changes necessary.
+
+	How do we address the problem of convergent evolution and homoplasy?
+
+		ANS Make use of many different characteristics, when possible
+
+		ANS It may also help to use many different taxa
+
+	COMMENT Modern approaches that use genetic data may use more sophisticated
+	approaches, rather than simple parsimony
+
+----------------------------------------------------------------------
+
+TSS Example: the evolution of whales
+
+	Whales seem, on the surface, to be pretty different from other
+	mammals, including the closest group, the artiodactyls
+
+	Early phenetic analyses showed whales in their own group (sisters to
+	artiodactyls)
+
+		Whales lack the distinctive artiodactyl ankle structure (surprise!)
+
+	What about cladistic analysis?
+
+----------------------------------------------------------------------
+
+FUNSLIDE Biology is crazy!
+
+	Which of these doesn't belong?
+
+		Whale
+
+		Rhinocerous
+
+		Hippopotamus
+
+		Elephant
+
+	ADD FUNSLIDE needs an annotation on complete notes
+
+----------------------------------------------------------------------
+
+PICSLIDE HIGHFIG Pearson/F28_phylogeny/28_04a_whale_phylogeny.jpg
+
+----------------------------------------------------------------------
+
+Activity: Tree-construction analysis
+
+	Hippos have derived characters A, B, C, D, Z
+
+	Cows have derived character A, Z
+
+	Whales have derived characters B, C, D, E, F, G, H, I, Z
+
+	Calculate distances, and make a phenetic tree
+
+	List synapomorphies, and make a cladistic tree
+
+----------------------------------------------------------------------
+
+Tree discussion
+
+	What is the effect of universal characteristics (like Z, above)?
+
+		ANS None
+
+	What is the effect of unique characteristics (like E, F, G, H, I)
+
+		ANS They affect phenetic trees, but not cladistic trees
+
+		ANS As long as we are sure that they are derived!
+
+	Why might whales have more derived characters than the other species?
+
+		ANS Because they have had to adapt more since moving to the water
+
+----------------------------------------------------------------------
+
+PICSLIDE HIGHFIG Pearson/F28_phylogeny/28_04b_whale_phylogeny.jpg
+
+----------------------------------------------------------------------
+
+Confirmation
+
+BCC
+
+SIDEFIG Pearson/F25_ns/25_11_whale_evolution_U.jpg
+
+NCC
+
+	Intermediate forms between hippo-like animals and whales
+
+	Discovered _after_ they were predicted from DNA evidence!
+
+EC
+
+----------------------------------------------------------------------
+
+PICSLIDE FIG webpix/mammal_trees.png
+
+----------------------------------------------------------------------
+
+How to make a phenetic tree
+
+	1. Join the two open nodes that are closest to each other
+
+		Shortest distance
+
+	2. They are no longer active. Make a new node halfway between them
+
+		Average the traits
+
+		This step is conceptually simple and practically tricky
+
+		COMMENT This is why we have computers
+
+	3. Go back to step 1
+
+----------------------------------------------------------------------
+
+How to make a phenetic tree in this course
+
+	1. Join the two open nodes that are closest to each other
+
+		Shortest distance
+
+	ANS 2. \emph{Stop!} You're done.
+
+		ANS I will only give you three species
+
+		ANS Seriously. 
+
+	COMMENT I'm here to teach you concepts, not to teach you how to be a really
+	bad computer.
+
+----------------------------------------------------------------------
+
+Lessons
+
+	Phenetic analysis uses less information
+
+	To do a cladistic analysis, inferences about the common ancestor can be
+	crucial
+
+		What if we thought the artiodactyl ancestor was aquatic?
+
+			E, F, G, H and I could all be basal characters
+
+			ANS We would conclude that cows are closely related to hippos
+
+----------------------------------------------------------------------
+
+Genetic vs.~morphological
+
+	Why was the genetic analysis more effective than the morphological?
+
+		ANS It can be hard to tell which traits are derived
+
+			ANS This can also be a problem with the genetic analysis
+
+		ANS Genetic analyses typically allow us to analyze more traits
+
+----------------------------------------------------------------------
+
+Phylogenetic trees are approximations!
+
+	Phylogenetic trees are tremendously useful and powerful tools for
+	organizing, understanding and analyzing biological data
+
+	But they have limitations:
+
+		The true history of life cannot really be summarized by a tree
+
+			Sex, other forms of combination or gene transfer
+
+		Trees constructed by humans are not necessarily even the best
+		approximations to the true history of life 
+		
+		Our guesses often change over time
+
+----------------------------------------------------------------------
+
