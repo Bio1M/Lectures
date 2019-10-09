@@ -192,8 +192,6 @@ Radiation and contraction
 
 	Examples:
 
-		NOANS
-
 		Therapsids, apes, hominins (us)
 
 	Radiation gives many chances for adaptation
@@ -299,12 +297,12 @@ Traits
 
 Changing models
 
-	Does swinging through trees provide evidence that orangutans are related
-	to bonobos, compared to humans or gorillas?
+	Does swinging through trees provide evidence that bonobos are closer to
+	orangutans than to humans or gorillas?
 
-		ANS Depends on the ancestor
+		ANS Depends on the ancestor: in this case it seems hard to say
 
-		ANS There could be evidence \ldots\ but there's more evidence that
+		ANS Even if there is evidence, there's more evidence that
 		they're closer to us
 
 	We used to think people were far from chimps and gorillas
@@ -618,10 +616,6 @@ EXTRA
 
 ----------------------------------------------------------------------
 
-CHAPTER Hominins | Chapter 56
-
-----------------------------------------------------------------------
-
 TSEC Emergence | S 56.1
 
 	[Hominins] refer to people and our upright ancestors
@@ -791,7 +785,10 @@ Gradual evolution
 
 		Making and using tools
 
-	REMARK There should be lots of ``loops" -- changes leading to other changes -- to explain how dramatically our ancestors evolved
+	Given the dramatic amount of evolution, there were likely a lot of adaptive
+	``loops"
+	
+		Changes in one area set the stage for changes in another area \ldots
 
 ----------------------------------------------------------------------
 
@@ -815,8 +812,8 @@ Studying evolution
 
 Back and forth evolution 
 
-	Very early hominins (6 mya) had facial and dental features that were similar
-	to later hominins (2 mya)
+	Many very early hominins (6 mya) had facial and dental features that were
+	similar to later hominins (2 mya)
 
 		Less similar to chimpanzees
 
@@ -826,9 +823,12 @@ Back and forth evolution
 
 		ANS Radiation and contraction
 
-		ANS Changing conditions
+			ANS The hominins we found may not be directly related to the
+			Australopiths
 
-			ANS Evolution is not goal-oriented
+		ANS Evolution is not goal-oriented
+
+			ANS Changing conditions can lead to changing directions of evolution
 
 ----------------------------------------------------------------------
 
@@ -886,7 +886,6 @@ Looping
 
 ----------------------------------------------------------------------
 
-
 Complex foraging and co-operation
 
 	Complex foraging may have promoted co-operation between females and
@@ -911,8 +910,8 @@ Complex foraging and thinking
 
 		Sensitivity vs.~crystallization
 
-		CORRECTION Time periods when we learn, vs.~time periods when we have fixed
-		behaviours
+			Time periods when we learn, vs.~time periods when we have fixed
+			behaviours
 
 	It also favors communication
 
@@ -953,7 +952,8 @@ How social were early hominins?
 
 		ANS Physical structures consistent with vocal communication
 
-		ANS Dental enamel! Preserves amazingly detailed history of growth and growth rate
+		ANS Dental enamel! Preserves amazingly detailed history of growth and
+		growth rate
 
 ----------------------------------------------------------------------
 
