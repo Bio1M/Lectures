@@ -112,7 +112,18 @@ phenetics.complete.pdf: phenetics.txt
 phenetics.outline.pdf: phenetics.txt
 
 ## New content
-## ~/Dropbox/courses/1M/he_supp/pearson_humans.pdf
+## Same as the old content!
+## diff ~/Dropbox/courses/1M/he_supp/pearson_humans.pdf Pearson/hesc.pdf ##
+
+## Short version (how did I run out of so much time in 2019?)
+## cat primates.txt hominins.txt > humans.txt ##
+## and then shorten
+## Probably don't need to shorten much; these are lightweight chapters
+humans.draft.pdf: humans.txt
+humans.final.pdf: humans.txt
+humans.handouts.pdf: humans.txt
+humans.complete.pdf: humans.txt
+humans.outline.pdf: humans.txt
 
 ## Primates 
 primates.draft.pdf: primates.txt
@@ -163,7 +174,7 @@ Sources += hb.lect
 
 # Large format is not implemented here. To do it, copy extarticle from a .tmp file in 3SS_content, and look for make rules.
 
-### Human evolution HHE based content 
+### Human evolution HHE based content
 apes.draft.pdf: apes.txt
 apes.final.pdf: apes.txt
 apes.handouts.pdf: apes.txt
