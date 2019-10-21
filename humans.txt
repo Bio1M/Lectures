@@ -618,6 +618,8 @@ EXTRA
 
 TSEC Emergence | S 56.1
 
+	COMMENT Why did I say Emergence?
+
 	[Hominins] refer to people and our upright ancestors
 
 	Characterized by:
