@@ -584,6 +584,8 @@ Learning about evolution
 
 		Timelines, identification, convergent evolution
 
+	REMARK: Skip a summary slide
+
 ----------------------------------------------------------------------
 
 TIME Summary
@@ -616,9 +618,7 @@ EXTRA
 
 ----------------------------------------------------------------------
 
-TSEC Emergence | S 56.1
-
-	COMMENT Why did I say Emergence?
+TSEC Hominins | S 56.1
 
 	[Hominins] refer to people and our upright ancestors
 
