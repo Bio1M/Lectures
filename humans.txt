@@ -586,7 +586,7 @@ Learning about evolution
 
 ----------------------------------------------------------------------
 
-Summary
+TIME Summary
 
 	People have important differences from other organisms
 
@@ -917,7 +917,7 @@ Complex foraging and thinking
 
 ----------------------------------------------------------------------
 
-Complex foraging and gender roles
+TIME Complex foraging and gender roles
 
 	How might complex foraging affect child care and sexual dimorphism?
 
@@ -928,7 +928,7 @@ Complex foraging and gender roles
 
 ----------------------------------------------------------------------
 
-Social behaviour
+TIME Social behaviour
 
 	As behaviour becomes more social, a wide variety of other adaptations may
 	become available
@@ -944,7 +944,7 @@ Social behaviour
 
 ----------------------------------------------------------------------
 
-How social were early hominins?
+TIME How social were early hominins?
 
 	What kind of clues might be available?
 
@@ -957,7 +957,7 @@ How social were early hominins?
 
 ----------------------------------------------------------------------
 
-Sexual dimorphism
+TIME Sexual dimorphism
 
 	The extent of sexual dimorphism tells us at least something about social
 	structures
@@ -981,7 +981,7 @@ Sexual dimorphism
 
 ----------------------------------------------------------------------
 
-Bimodality 
+TIME Bimodality 
 
 	Bimodality means having two peaks in a distribution
 
@@ -994,19 +994,19 @@ Bimodality
 
 ----------------------------------------------------------------------
 
-PICSLIDE
+TIME PICSLIDE
 
 PIC HIGHFIG jdpix/heights.Rout-0.pdf
 
 ----------------------------------------------------------------------
 
-PICSLIDE
+TIME PICSLIDE
 
 PIC HIGHFIG jdpix/heights.Rout-1.pdf
 
 ----------------------------------------------------------------------
 
-Teeth
+TIME Teeth
 
 	Chimpanzees and (especially) gorillas have extreme sexual dimorphism in
 	tooth size
@@ -1018,17 +1018,17 @@ Teeth
 
 ----------------------------------------------------------------------
 
-PIC FIG webpix/ape_teeth.png
+TIME PIC FIG webpix/ape_teeth.png
 
 ----------------------------------------------------------------------
 
-PICSLIDE
+TIME PICSLIDE
 
 PIC HIGHFIG jdpix/fake_teeth.Rout-0.pdf
 
 ----------------------------------------------------------------------
 
-PICSLIDE
+TIME PICSLIDE
 
 PIC HIGHFIG jdpix/fake_teeth.Rout-1.pdf
 

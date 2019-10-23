@@ -1,6 +1,9 @@
 !SQUARE {\bf %}
 !EM {\em %\,}
 
+## Eliminated for time
+TIME ^EXTRA
+
 !PIPE DEL
 handouts: --- %
 
