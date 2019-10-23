@@ -14,6 +14,8 @@ ADD
 
 COMMENT
 
+TIME (EXTRA-ed for time)
+
 ----------------------------------------------------------------------
 
 ## Potential and unimplemented lecture resources
@@ -74,17 +76,13 @@ L13 7 Oct (Mon) Phylo
 
 L14 9 Oct (Wed) Phylo
 
+[[3 periods were not enough for new humans; didn't shorten enough. Start earlier next time?]]
+
 L15 11 Oct (Fri)
 
-L16 14 Oct (Mon)
+L16 21 Oct (Mon)
 
-L17 16 Oct (Wed)
-
-L18 18 Oct (Fri)
-
-L19 21 Oct (Mon)
-
-L20 23 Oct (Wed)
+L17 23 Oct (Wed)
 
 ----------------------------------------------------------------------
 
