@@ -97,6 +97,7 @@ speciation.handouts.pdf: speciation.txt
 speciation.complete.pdf: speciation.txt
 speciation.outline.pdf: speciation.txt
 
+## Very little seems testable beyond section 1!
 #### Phylogeny and the history of life (P27 ⇒ P25)
 phylogeny.draft.pdf: phylogeny.txt
 phylogeny.final.pdf: phylogeny.txt
