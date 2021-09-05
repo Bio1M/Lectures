@@ -115,6 +115,7 @@ phenetics.outline.pdf: phenetics.txt
 ## New content
 ## Same as the old content!
 ## diff ~/Dropbox/courses/1M/he_supp/pearson_humans.pdf Pearson/hesc.pdf ##
+## diff ~/Downloads/Biological*.pdf Pearson/hesc.pdf ##
 
 ## Short version (how did I run out of so much time in 2019?)
 ## cat primates.txt hominins.txt > humans.txt ##
@@ -247,6 +248,6 @@ makestuff/Makefile:
 -include makestuff/git.mk
 -include makestuff/visual.mk
 -include makestuff/newtalk.mk
--include makestuff/texdeps.mk
+-include makestuff/texi.mk
 -include makestuff/projdir.mk
 

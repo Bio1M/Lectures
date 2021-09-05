@@ -24,26 +24,34 @@ Expectations of professor
 
 	Available by email and on discussion forums
 
-		TBD
-
 ----------------------------------------------------------------------
 
 Expectations of students
 
 	Start and end on time
 
-	Print the notes from the web and bring them to class
+	ONLINE Prepare the distributed handouts so you're ready to take notes
 
-	Don't talk while other students are talking, or while I am
+		ONLINE Paper will work best for a lot of people
+
+		ONLINE Electronic notes can work well if you work out a system
+
+	ONLINE Don't multi-task
+
+	ONLINE Try to participate
+
+	LIVE Print the notes from the web and bring them to class
+
+	LIVE Don't talk while other students are talking, or while I am
 	responding to student questions
 
-	If you must talk at other times, be inobtrusive
+	LIVE If you must talk at other times, be inobtrusive
 
-	Don't use your computer in class
+	LIVE Don't use your computer in class
 
-	If you must use your computer in class, be inobtrusive
+	LIVE If you must use your computer in class, be inobtrusive
 
-		And don't connect to the internet
+		LIVE And don't connect to the internet
 
 ----------------------------------------------------------------------
 
@@ -85,8 +93,8 @@ Why read the book?
 
 	It's interesting
 
-	The book will explain some things in a better way (for you
-	personally) than I do 
+	The book will explain some things in a better way for you
+	personally than I do 
 
 	Familiarity improves understanding
 
@@ -430,48 +438,6 @@ Hypotheses
 
 ----------------------------------------------------------------------
 
-TSS Observational studies
-
-	Look for ways to collect data that will support or challenge hypotheses
-
-	Scientists are cautious about making conclusions from observational studies
-
-		ANS It's hard to know if you've taken everything into account
-
-		ANS Experiments are more reliable …
-
-		ANS but you can't always do experiments
-
-----------------------------------------------------------------------
-
-PSLIDE Example: Why are giraffes so tall?
-
-FIG Pearson/C1_intro/giraffes.jpg
-
-----------------------------------------------------------------------
-
-Example: Why are giraffes so tall?
-
-	ANS They eat from trees, so that probably has something to do with it
-
-	ANS They use their necks for dramatic fights, so that probably has something
-	to do with it
-
-	NOANS Because their heads are way up in the air, and their legs have to be
-	long enough to reach the ground.
-
-	What can you do to investigate?
-
-		ANS How high up in trees do giraffes feed?
-
-		ANS Do males with long necks win more fights?
-
-	How likely are you to be convinced?
-
-		NOANS
-
-----------------------------------------------------------------------
-
 SS Experiments
 
 ----------------------------------------------------------------------
@@ -574,7 +540,8 @@ Replication
 	Good experiments are [replicated]: each group has more than one [replicate]
 
 		A replicate is a unit which is subjected to a chosen treatment
-		mouse, a troop of baboons, a flask
+
+			e.g., a mouse, a troop of baboons, a flask
 
 	Replicates should be \textbf{independent}. Replicates in the same group
 	should not have \emph{anything} in common that they don't share with other
@@ -584,7 +551,7 @@ Replication
 		cage, and the others in another cage?
 
 			ANS We then have to worry about all possible differences
-			between the two cages
+			between the two \emph{cages}
 
 	Example: I want to see how injecting a particular vaccine affects mouse
 	behaviour
@@ -605,6 +572,44 @@ Randomization
 
 ----------------------------------------------------------------------
 
+TSS Observational studies
+
+	Look for ways to collect data that will support or challenge hypotheses
+
+	Scientists are cautious about making conclusions from observational studies
+
+		ANS It's hard to know if you've taken everything into account
+
+		ANS Experiments are more reliable …
+
+	So why do we do them?
+
+		ANS You can't always do experiments
+
+		ANS Time, practicality, ethics 
+
+----------------------------------------------------------------------
+
+PSLIDE Example: Bighorn sheep
+
+FIG Pearson/C1_intro/giraffes.jpg
+
+----------------------------------------------------------------------
+
+Example: Bighorn sheep
+
+	NOTES Fig 1.9
+
+	ANS Live for a long time, and evolution is slow
+
+	ANS Hard to replicate conditions, would need a lot of independent populations
+
+	ANS Ethical issues
+
+	Without experiments, it's much harder to confirm what's going on
+
+----------------------------------------------------------------------
+
 Assignment: Car Trouble
 
 	A brother calls his sister because something is wrong with his car
@@ -617,17 +622,16 @@ Assignment: Car Trouble
 
 		Sister: I guess so.  If we're careful.
 
-	Each person drives their own car.  Nothing is wrong with the sister's car.  What is wrong with the brother's car?
+	Each person drives their own car.  Nothing is wrong with the sister's car.
+	What is wrong with the brother's car?
 
 ----------------------------------------------------------------------
 
-FUNSLIDE More logic
+More logic
 
 	Whatever doesn't kill you makes you stronger
 
-	Whatever doesn't make you stronger \ldots
+	If we take this literally, then: Whatever doesn't make you stronger \ldots
 
-		kills you
-
-	ADD A tiny bit more framing (broad assumptions or whattheflipever)
+		ANS kills you
 

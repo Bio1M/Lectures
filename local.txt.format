@@ -4,6 +4,14 @@
 ## Eliminated for time
 TIME ^EXTRA
 
+## Live class only
+LIVESLIDE ^EXTRA
+LIVE %!
+
+## Online class only
+ONLINESLIDE ^%%
+ONLINE ^%%
+
 !PIPE DEL
 handouts: --- %
 
