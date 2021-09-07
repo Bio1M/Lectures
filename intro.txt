@@ -229,7 +229,7 @@ Deductive thinking
 
 	Which of the four groups of people do you need to check out?
 
-		ANS The underage people, and the alcohol drinkers
+		ANS The alcohol drinkers, and the underage people
 
 ----------------------------------------------------------------------
 
@@ -556,6 +556,8 @@ Replication
 	Example: I want to see how injecting a particular vaccine affects mouse
 	behaviour
 
+		ANS Treatment mice all get caught and stuck with needles
+
 		ANS Give the control mice injections with no vaccine
 
 ----------------------------------------------------------------------
@@ -602,7 +604,7 @@ Example: Bighorn sheep
 
 	Why is it hard to experiment?
 
-		ANS Live for a long time, and evolution is slow
+		ANS Sheep live for a long time, and evolution is slow
 
 		ANS Hard to replicate conditions, would need a lot of independent
 		populations
