@@ -590,9 +590,9 @@ TSS Observational studies
 
 ----------------------------------------------------------------------
 
-PSLIDE Example: Bighorn sheep
+PICSLIDE 
 
-FIG Pearson/C1_intro/giraffes.jpg
+HIGHFIG Pearson/C3_01U/fg01_09.jpg
 
 ----------------------------------------------------------------------
 
@@ -600,11 +600,14 @@ Example: Bighorn sheep
 
 	NOTES Fig 1.9
 
-	ANS Live for a long time, and evolution is slow
+	Why is it hard to experiment?
 
-	ANS Hard to replicate conditions, would need a lot of independent populations
+		ANS Live for a long time, and evolution is slow
 
-	ANS Ethical issues
+		ANS Hard to replicate conditions, would need a lot of independent
+		populations
+
+		ANS Ethical issues
 
 	Without experiments, it's much harder to confirm what's going on
 
