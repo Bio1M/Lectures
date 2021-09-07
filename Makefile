@@ -13,7 +13,7 @@ vim_session:
 	bash -cl "vmt lecture.txt tutorial.txt"
 
 pullup: web.pull
- 
+
 Sources += Makefile README.md
 
 ######################################################################
