@@ -328,8 +328,6 @@ Assignment: Logical equivalence
 
 	Consider this an assignment
 
-REMARK Assignment. They should satisfy themselves that they understand
-
 ----------------------------------------------------------------------
 
 Logical equivalence
