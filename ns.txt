@@ -3,7 +3,11 @@ EXTRA
 
 Lower and higher organisms are not a thing
 
+	This can be discussed once we have phylogenies, maybe
+
 descent with modification
+
+	Not clear what I mean by this (angry face)
 
 ----------------------------------------------------------------------
 
@@ -280,7 +284,7 @@ TSEC Natural selection | Sec 22.3
 
 	Darwin's big idea was not evolution, but natural selection
 
-	The first real theory of evolution was developed by Lamarck
+	One detailed theory of evolution was developed by Lamarck
 
 		More famous for being wrong about how evolution occurs
 
@@ -306,9 +310,7 @@ Natural selection drives evolution
 		[Selection:] Reproductive success is not random, but
 		is influenced by differences in traits, including heritable traits
 
-	If all four of these assumptions hold, we expect evolution to occur:
-
-		Traits associated with good reproductive success will become more common
+	If all four of these assumptions hold, we expect evolution to occur \ldots
 
 ----------------------------------------------------------------------
 
@@ -322,7 +324,13 @@ Natural selection (short version)
 		these traits
 
 	Logical consequence?
-	
+
+		ANS Individuals with certain traits will produce more offspring
+		on average
+
+		ANS Those offspring will on average have more of these traits than the
+		general population
+
 		ANS Traits associated with good reproductive success will become more
 		common
 
@@ -373,11 +381,11 @@ Other examples
 
 ----------------------------------------------------------------------
 
-PICSLIDE FIG webpix/grey_squirrel.jpg
+PICSLIDE FIG webpix/black_squirrel.jpg
 
 ----------------------------------------------------------------------
 
-PICSLIDE FIG webpix/black_squirrel.jpg
+PICSLIDE FIG webpix/grey_squirrel.jpg
 
 ----------------------------------------------------------------------
 
