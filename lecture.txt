@@ -9,6 +9,10 @@ Wed: restart intro unit
 Fri: fail to finish intro unit
 * ant interpretation
 
+2021 Sep 14 (Tue): intro unit; barely start 22
+
+Wed: end on NS syllogism; forget car problem
+
 ----------------------------------------------------------------------
 
 HOT words for lecture update

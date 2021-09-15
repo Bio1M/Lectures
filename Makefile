@@ -148,6 +148,15 @@ hominins.outline.pdf: hominins.txt
 
 ######################################################################
 
+## Hands
+
+hands.html: hands.rmd HANDS
+	Rscript -e 'library("rmarkdown"); render("$<", output_format="html_document", output_file="$@")'
+
+HANDS: ;
+
+######################################################################
+
 ## Old content
 
 ## Old content is called .lect.
