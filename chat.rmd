@@ -1,0 +1,7 @@
+
+Please raise your hand.
+
+Or you can type in the chat if your student number ends with:
+
+<p style="text-align: center;"> `r sample(0:9, 1)` </p>
+

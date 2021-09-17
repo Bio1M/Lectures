@@ -1,0 +1,5 @@
+
+Please raise your hand if your student number ends with:
+
+<p style="text-align: center;"> `r sample(0:9, 1)` </p>
+
