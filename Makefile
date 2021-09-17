@@ -150,6 +150,9 @@ hominins.outline.pdf: hominins.txt
 
 ## Hands
 
+chat.html: chat.rmd HANDS
+	Rscript -e 'library("rmarkdown"); render("$<", output_format="html_document", output_file="$@")'
+
 hands.html: hands.rmd HANDS
 	Rscript -e 'library("rmarkdown"); render("$<", output_format="html_document", output_file="$@")'
 
