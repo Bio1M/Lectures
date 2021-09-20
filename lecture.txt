@@ -1,7 +1,7 @@
 
-2021 journal
+# 2021 journal
 
-2021 Sep 07 (Tue): disaster, no material covered
+## 2021 Sep 07 (Tue): disaster, no material covered
 
 Wed: restart intro unit
 * ended on "tall people" assignment
@@ -9,9 +9,11 @@ Wed: restart intro unit
 Fri: fail to finish intro unit
 * ant interpretation
 
-2021 Sep 14 (Tue): intro unit; barely start 22
+## 2021 Sep 14 (Tue): intro unit; barely start 22
 
 Wed: end on NS syllogism; forget car problem
+
+Fri: Car problem, end on breeding mice (Activity)
 
 ----------------------------------------------------------------------
 
