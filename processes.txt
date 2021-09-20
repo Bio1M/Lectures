@@ -605,15 +605,11 @@ Thought experiment
 
 PSLIDE Genetic drift
 
-Population 400
-
 FIG Pearson/F26_processes/26_12_2_genetic_drift_L.jpg
 
 ----------------------------------------------------------------------
 
 PSLIDE Genetic drift
-
-Population 4
 
 FIG Pearson/F26_processes/26_12_1_genetic_drift_L.jpg
 
@@ -632,7 +628,12 @@ Small populations
 		[Bottlenecks] occur when a population becomes small, then large
 		again
 
-			... or, when a new genetic mutation takes over a population
+			... or, when a beneficial genetic mutation takes over a population
+
+			ANS variation will be lost at that locus because the new gene is better
+
+			ANS but it can also be lost at other loci at random, because the whole
+			future population is descended from individuals with the new mutation
 
 ----------------------------------------------------------------------
 
