@@ -1,6 +1,8 @@
 
 EXTRA
 
+	ADD FUNSLIDE needs an annotation on complete notes
+
 LEARN
 
 	crown lizards
@@ -335,8 +337,6 @@ FUNSLIDE Biology is crazy!
 		Hippopotamus
 
 		Elephant
-
-	ADD FUNSLIDE needs an annotation on complete notes
 
 ----------------------------------------------------------------------
 
