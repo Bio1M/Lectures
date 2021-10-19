@@ -385,10 +385,8 @@ TSS Genetic incompatibility
 		ANS The populations will still compete, and one may drive the other
 		extinct
 
-		ANS Or, reproductive isolation and disruptive selection may work together
-		to make divergence more likely
-		
-			ANS or less unlikely
+		ANS But reproductive isolation can sometimes work together with natural
+		selection to make divergence possible
 
 ----------------------------------------------------------------------
 
