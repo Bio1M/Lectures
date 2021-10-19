@@ -14,7 +14,8 @@ vim_session:
 
 pullup: web.pull
 
-Sources += Makefile README.md
+Sources += Makefile README.md poll.txt
+
 
 ######################################################################
 
@@ -104,13 +105,6 @@ phylogeny.final.pdf: phylogeny.txt
 phylogeny.handouts.pdf: phylogeny.txt
 phylogeny.complete.pdf: phylogeny.txt
 phylogeny.outline.pdf: phylogeny.txt
-
-### Ready to drop this 2019 Oct 07 (Mon)
-phenetics.draft.pdf: phenetics.txt
-phenetics.final.pdf: phenetics.txt
-phenetics.handouts.pdf: phenetics.txt
-phenetics.complete.pdf: phenetics.txt
-phenetics.outline.pdf: phenetics.txt
 
 ## New content
 ## Same as the old content!
