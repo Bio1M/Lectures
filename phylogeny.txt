@@ -396,7 +396,11 @@ EC
 
 ----------------------------------------------------------------------
 
+FUNSLIDE Morphological and genetic cladograms
+
 PICSLIDE FIG webpix/mammal_trees.png
+
+EXTRA https://research.amnh.org/paleontology/perissodactyl/node/55
 
 ----------------------------------------------------------------------
 
@@ -782,7 +786,11 @@ Competition
 	We have seen major tree extinctions due to introduced diseases in the last
 	century
 
-		ANS It remains to be seen whether new evolution will fill this opportunity
+		ANS This opens up ecological niches 
+
+		ANS Species may diverge to fill these niches
+
+		ANS Or spread around the world to fill them
 
 ----------------------------------------------------------------------
 
@@ -805,7 +813,13 @@ Morphological innovation
 			This opened many new opportunities for _everyone_ (insects, mammals,
 			birds), not just the innovators
 
-			ANS Co-evolution
+			ANS Animals evolved to exploit the flowering plants
+
+			ANS Flowering plants and animals _co-evolved_
+
+			ANS Natural defenses and exploits
+
+			ANS Pollination and dispersal
 
 ----------------------------------------------------------------------
 

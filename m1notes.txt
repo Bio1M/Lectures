@@ -396,7 +396,11 @@ EC
 
 ----------------------------------------------------------------------
 
+FUNSLIDE Morphological and genetic cladograms
+
 PICSLIDE FIG webpix/mammal_trees.png
+
+EXTRA https://research.amnh.org/paleontology/perissodactyl/node/55
 
 ----------------------------------------------------------------------
 
