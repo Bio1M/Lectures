@@ -114,8 +114,6 @@ phylogeny.outline.pdf: phylogeny.txt
 ## Short version (how did I run out of so much time in 2019?)
 ## cat primates.txt hominins.txt > humans.txt ##
 ## and then shorten
-## Probably don't need to shorten much; these are lightweight chapters
-## OOPS!!!!
 humans.draft.pdf: humans.txt
 humans.final.pdf: humans.txt
 humans.handouts.pdf: humans.txt
