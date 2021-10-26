@@ -526,6 +526,10 @@ WIDEPIC webpix/antelope_skull.jpg
 
 ----------------------------------------------------------------------
 
+HIGHPIC webpix/gorilla_skull.jpg
+
+----------------------------------------------------------------------
+
 Sexual dimorphism
 
 	Information about differences between males and females has implications
