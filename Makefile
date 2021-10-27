@@ -16,7 +16,6 @@ pullup: web.pull
 
 Sources += Makefile README.md poll.txt
 
-
 ######################################################################
 
 ## Updating 2019 Sep 03 (Tue)
