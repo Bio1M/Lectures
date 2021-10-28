@@ -3,6 +3,8 @@
 
 ## Eliminated for time
 TIME ^DEFHEAD %%
+DROP ^DEFHEAD {\sl %% (not covered)}
+DROPPIC ^PICSLIDE
 
 ## Live class only
 LIVESLIDE ^EXTRA
