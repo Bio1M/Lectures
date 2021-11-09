@@ -120,6 +120,8 @@ humans.handouts.pdf: humans.txt
 humans.complete.pdf: humans.txt
 humans.outline.pdf: humans.txt
 
+#### Outdated
+
 ## Primates 
 primates.draft.pdf: primates.txt
 primates.final.pdf: primates.txt
