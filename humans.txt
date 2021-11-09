@@ -526,6 +526,10 @@ WIDEPIC webpix/antelope_skull.jpg
 
 ----------------------------------------------------------------------
 
+HIGHPIC webpix/gorilla_skull.jpg
+
+----------------------------------------------------------------------
+
 Sexual dimorphism
 
 	Information about differences between males and females has implications
@@ -946,7 +950,7 @@ TIME Social behaviour
 
 ----------------------------------------------------------------------
 
-TIME How social were early hominins?
+DROP How social were early hominins?
 
 	What kind of clues might be available?
 
@@ -959,7 +963,7 @@ TIME How social were early hominins?
 
 ----------------------------------------------------------------------
 
-TIME Sexual dimorphism
+DROP Sexual dimorphism
 
 	The extent of sexual dimorphism tells us at least something about social
 	structures
@@ -983,7 +987,7 @@ TIME Sexual dimorphism
 
 ----------------------------------------------------------------------
 
-TIME Bimodality 
+DROP Bimodality 
 
 	Bimodality means having two peaks in a distribution
 
@@ -996,19 +1000,19 @@ TIME Bimodality
 
 ----------------------------------------------------------------------
 
-TIME PICSLIDE
+DROPPIC
 
 PIC HIGHFIG jdpix/heights.Rout-0.pdf
 
 ----------------------------------------------------------------------
 
-TIME PICSLIDE
+DROPPIC
 
 PIC HIGHFIG jdpix/heights.Rout-1.pdf
 
 ----------------------------------------------------------------------
 
-TIME Teeth
+DROP Teeth
 
 	Chimpanzees and (especially) gorillas have extreme sexual dimorphism in
 	tooth size
@@ -1020,17 +1024,19 @@ TIME Teeth
 
 ----------------------------------------------------------------------
 
-TIME PIC FIG webpix/ape_teeth.png
+DROPPIC
+
+PIC FIG webpix/ape_teeth.png
 
 ----------------------------------------------------------------------
 
-TIME PICSLIDE
+DROPPIC
 
 PIC HIGHFIG jdpix/fake_teeth.Rout-0.pdf
 
 ----------------------------------------------------------------------
 
-TIME PICSLIDE
+DROPPIC
 
 PIC HIGHFIG jdpix/fake_teeth.Rout-1.pdf
 

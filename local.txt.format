@@ -2,7 +2,9 @@
 !EM {\em %\,}
 
 ## Eliminated for time
-TIME ^%%
+TIME ^DEFHEAD %%
+DROP ^DEFHEAD {\sl %% (not covered)}
+DROPPIC ^PICSLIDE
 
 ## Live class only
 LIVESLIDE ^EXTRA
