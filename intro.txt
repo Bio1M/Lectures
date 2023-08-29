@@ -1,4 +1,24 @@
 
+EXTRA TODO
+
+Polls (can try on the fly)
+
+Update Pearson figures
+* vanLeeuwenhoek
+* Pasteur
+
+Add Redi maggot experiment
+
+Replace Pearson examples
+* Bighorn sheep
+* Ant experiment
+
+Update NOTES!
+
+ADD
+
+----------------------------------------------------------------------
+
 CHAPTER Course introduction
 
 ----------------------------------------------------------------------
@@ -74,7 +94,7 @@ Structure of presentation
 
 Why come to class?
 
-	It's required
+	It's “required”
 
 	Listening and thinking and talking will help you understand
 	concepts, instead of just memorizing
@@ -82,10 +102,11 @@ Why come to class?
 		Classroom discussion makes the course more interesting and memorable
 
 	Details and terminology should be covered in sufficient detail in
-	the notes; concepts may not be
+	the notes – concepts may not be
 
-	COMMENT You can't get your money back, so you may as well enjoy
-	the show
+	It's good to be in a biology environment a few times a week
+
+	Good chance to interact with other students
 
 ----------------------------------------------------------------------
 
@@ -203,7 +224,7 @@ PRESLIDE Deductive thinking
 
 	Which of the four groups of cards do you need to turn over?
 
-		ANS 
+		NOANS 
 
 ----------------------------------------------------------------------
 
@@ -535,21 +556,22 @@ Control
 
 Replication
 
-	Good experiments are [replicated]: each group has more than one [replicate]
+	Good experiments are [replicated]: each treatment group has more than one
+	[replicate]
 
 		A replicate is a unit which is subjected to a chosen treatment
 
 			e.g., a mouse, a troop of baboons, a flask
 
-	Replicates should be \textbf{independent}. Replicates in the same group
-	should not have \emph{anything} in common that they don't share with other
+	Replicates should be [independent]. Replicates in the same group
+	should not have _anything_ in common that they don't share with other
 	groups (except for the factor we are studying).
 
 		What if we put all the mice that get vitamin supplements in one
 		cage, and the others in another cage?
 
 			ANS We then have to worry about all possible differences
-			between the two \emph{cages}
+			between the two _cages_
 
 	Example: I want to see how injecting a particular vaccine affects mouse
 	behaviour
@@ -562,12 +584,12 @@ Replication
 
 Randomization
 
-	Good experiments are \textbf{randomized}: units are assigned to treatments
+	Good experiments are [randomized]: units are assigned to treatments
 	randomly
 
 		First, arrange the experiment
 
-		e.g., first pick which mice to put into which cages, \emph{then} decide
+		e.g., first pick which mice to put into which cages, _then_ decide
 		at random which cages get supplements
 
 ----------------------------------------------------------------------
