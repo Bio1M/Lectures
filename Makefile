@@ -32,10 +32,36 @@ imageDrop = ~/Dropbox/courses/1M
 
 Sources += $(wildcard *.step)
 
-Ignore += webpix Pearson norton jdpix freeman sharp
-Pearson norton jdpix freeman sharp: dir = $(imageDrop)
-Pearson norton jdpix freeman sharp: 
-	$(linkdir)
+picdirs = Pearson norton jdpix freeman sharp hlw
+Ignore += $(picdirs)
+$(picdirs): dir = $(imageDrop)
+$(picdirs): 
+	$(alwayslinkdir)
+
+######################################################################
+
+## macmillan images MacMillan Macmillan (How Life Works – hlw)
+
+## go hlw/22Phylo_images/ ##
+## hlw/22Phylo_images.imagenames:
+%.imagenames: %
+	cd $* && rename 's/image(.)\./image0$$1./' *.jpg
+
+## It's good to delimit these names
+## but might have been better to try using / instead of adding characters
+hlw/%_images: tmp_images.zipdir
+	$(mkdir)
+	$(MV) $</ppt/media/*.jpg $@
+	$(RMR) $<
+
+tmp_images.zipdir: tmp_images.zip
+	mkdir $@
+	$(copy)
+	cd $@ && unzip $<
+	$(RM) $<
+
+tmp_images.zip:
+	bash -cl "downcall $@"
 
 ######################################################################
 
