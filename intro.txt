@@ -11,12 +11,6 @@ Dive into meteor dinosaurs
 
 Howdy Doody?
 
-Replace bar picture?
-
-Primate tree and monkey discussion?
-
-ADD
-
 ----------------------------------------------------------------------
 
 EXTRA Future
@@ -241,7 +235,9 @@ PRESLIDE Deductive thinking
 
 PSLIDE Drinks
 
-FIG webpix/bar.jpg
+FIG webpix/restaurant.jpg
+
+ADD Change text below -- in front you see the people, in back you see the tables
 
 ----------------------------------------------------------------------
 
