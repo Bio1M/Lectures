@@ -411,19 +411,19 @@ EC
 
 ----------------------------------------------------------------------
 
-PSLIDE Cells | Fig 1.9
+OUTSLIDE Cells | Fig 1.9
 
 FIG hlw/01Intro_images/image19.jpg
 
 ----------------------------------------------------------------------
 
-PSLIDE Cells | Fig 1.9
+OUTSLIDE Cells | Fig 1.9
 
 FIG hlw/01Intro_images/image22.jpg
 
 ----------------------------------------------------------------------
 
-PSLIDE Cells | Fig 1.10
+OUTSLIDE Cells | Fig 1.10
 
 FIG hlw/01Intro_images/image25.jpg
 
@@ -450,9 +450,15 @@ BC
 
 	Is this just craziness?
 
+		NOANS
+
 	Why three jars?
 
+		NOANS
+
 	Any concerns?
+
+		NOANS
 
 NC
 
@@ -578,11 +584,15 @@ Replication
 	should not have _anything_ in common that they don't share with other
 	groups (except for the factor we are studying).
 
-		What if we put all the mice that get vitamin supplements in one
-		cage, and the others in another cage?
+	What if we put all the mice that get vitamin supplements in one
+	cage, and the others in another cage?
 
-			ANS We then have to worry about all possible differences
-			between the two _cages_
+		ANS We then have to worry about all possible differences
+		between the two _cages_
+
+		ANS Maybe one cage is colder, or gets a lot of glare
+
+		ANS Maybe one cage has a bad social dynamic
 
 ----------------------------------------------------------------------
 
