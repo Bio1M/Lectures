@@ -63,6 +63,7 @@ Sources += *.txt
 
 ### Look out for RSLIDE; ADD; CHANGE
 #### Introduction (P1)
+intro.poll.csv: intro.txt pollcsv.pl
 intro.draft.pdf: intro.txt
 intro.final.pdf: intro.txt
 intro.handouts.pdf: intro.txt

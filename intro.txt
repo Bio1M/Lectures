@@ -149,6 +149,18 @@ REPSLIDE Structure of presentation
 
 ----------------------------------------------------------------------
 
+PSLIDE Polling
+
+	I am going to try an _experiment_  with polling software
+
+	I am going to ask you later if it was a good idea
+
+	Text from your cell phone, or answer on the web
+
+	POLL  What province, US state, or country are you from?
+
+----------------------------------------------------------------------
+
 SEC Thinking conceptually
 
 ----------------------------------------------------------------------
