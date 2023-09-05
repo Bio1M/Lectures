@@ -6,13 +6,13 @@ TIME ^DEFHEAD %%
 DROP ^DEFHEAD {\sl %% (not covered)}
 DROPPIC ^PICSLIDE
 
-## Live class only
-LIVESLIDE ^EXTRA
-LIVE %!
-
 ## Online class only
-ONLINESLIDE ^%%
-ONLINE ^%%
+ONLINESLIDE ^EXTRA
+ONLINE %!
+
+## Live class only
+LIVESLIDE ^%%
+LIVE ^%%
 
 !PIPE DEL
 handouts: --- %

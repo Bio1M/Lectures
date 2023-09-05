@@ -1,4 +1,24 @@
 
+EXTRA TODO
+
+Polls (can try on the fly)
+
+Fox?
+
+Make the section chooser
+
+Dive into meteor dinosaurs
+
+Howdy Doody?
+
+----------------------------------------------------------------------
+
+EXTRA Future
+
+* A real experiment, maybe something from Quinn and shields
+
+----------------------------------------------------------------------
+
 CHAPTER Course introduction
 
 ----------------------------------------------------------------------
@@ -74,7 +94,7 @@ Structure of presentation
 
 Why come to class?
 
-	It's required
+	It's “required”
 
 	Listening and thinking and talking will help you understand
 	concepts, instead of just memorizing
@@ -82,10 +102,11 @@ Why come to class?
 		Classroom discussion makes the course more interesting and memorable
 
 	Details and terminology should be covered in sufficient detail in
-	the notes; concepts may not be
+	the notes – concepts may not be
 
-	COMMENT You can't get your money back, so you may as well enjoy
-	the show
+	It's good to be in a biology environment a few times a week
+
+	Good chance to interact with other students
 
 ----------------------------------------------------------------------
 
@@ -116,19 +137,22 @@ Taking notes
 
 Evaluation
 
-	You are not responsible for details unless they are in the notes
+	I am responsible _only_ for your midterm and exam evaluation
+	(and only for half of that)
 
-		and not responsible for terminology unless it's in [bold]
+	For my content: 
 
-	You _are_ responsible for relevant ideas and concepts from lectures
-	and readings
+		You are not responsible for details unless they are in the notes
 
-	Conceptual questions, logical inference questions and application questions
-	are fair game
+			and not responsible for terminology unless it's in [bold]
 
-		Practice questions will be available
+		You _are_ responsible for relevant ideas and concepts from lectures
+		and readings
 
-	Dushoff is responsible only for your midterm/exam evaluation (and only for half of that)
+		Conceptual questions, logical inference questions and application
+		questions are fair game
+
+			Practice questions will be available
 
 ----------------------------------------------------------------------
 
@@ -177,6 +201,8 @@ Deductive thinking
 
 		COMMENT Which is more complicated: algebra or hockey?
 
+		COMMENT Which are we better at thinking about?
+
 ----------------------------------------------------------------------
 
 PSLIDE Algebra
@@ -215,13 +241,15 @@ PRESLIDE Deductive thinking
 
 	Which of the four groups of cards do you need to turn over?
 
-		ANS 
+		NOANS 
 
 ----------------------------------------------------------------------
 
 PSLIDE Drinks
 
-FIG webpix/bar.jpg
+FIG webpix/restaurant.jpg
+
+ADD Change text below -- in front you see the people, in back you see the tables
 
 ----------------------------------------------------------------------
 
@@ -308,8 +336,8 @@ FIG webpix/flying_cow.jpg
 
 Why are simple things difficult?
 
-	Probably because we've evolved to be good at certain kinds of
-	thinking
+	Probably because we are _adapted_ specifically to be good at certain kinds
+	of thinking
 
 	Example: training pigeons
 
@@ -344,11 +372,14 @@ Assignment: Logical equivalence
 
 Logical equivalence
 
-	Statements are [logically equivalent] if they express the same fact in different words.  In other words, if either one is true, the other one must be true.
+	Statements are [logically equivalent] if they express the same fact in
+	different words.  In other words, if either one is true, the other one must
+	be true.
 
 		And vice versa
 
-	Different people find it useful to think about logical equivalence in different ways
+	Different people find it useful to think about logical equivalence in
+	different ways
 
 		Can you construct an example where one is true and the other is false?
 
@@ -356,9 +387,11 @@ Logical equivalence
 
 		What would it take to falsify each statement?
 
+		Can I construct a parallel example that I can relate to?
+
 ----------------------------------------------------------------------
 
-SEC The cell theory | Sec 1.2
+SEC The cell theory
 
 ----------------------------------------------------------------------
 
@@ -366,7 +399,7 @@ All living organisms are composed of cells
 
 BCC
 
-SIDEFIG Pearson/alpha1_intro/01_01_vanLeeuwenhoek.jpg
+SIDEFIG hlw/01Intro_images/image20.jpg
 
 NCC
 
@@ -376,9 +409,31 @@ NCC
 
 	[Proteins] made of [amino acids]
 
-	What about viruses?
+	COMMENT What about viruses?
+
+		COMMENT No cells
+
+		COMMENT Typically not defined as living organisms
 
 EC
+
+----------------------------------------------------------------------
+
+OUTSLIDE Cells | Fig 1.9
+
+FIG hlw/01Intro_images/image19.jpg
+
+----------------------------------------------------------------------
+
+OUTSLIDE Cells | Fig 1.9
+
+FIG hlw/01Intro_images/image22.jpg
+
+----------------------------------------------------------------------
+
+OUTSLIDE Cells | Fig 1.10
+
+FIG hlw/01Intro_images/image25.jpg
 
 ----------------------------------------------------------------------
 
@@ -392,23 +447,42 @@ Where do cells come from?
 
 		ANS Then where did the first cells come from?
 
-----------------------------------------------------------------------
-
-PSLIDE The Pasteur experiment
-
-FIG Pearson/alpha1_intro/01_02a_Pasteur_exprmnts.jpg
+	COMMENT The origin of early cells is a big research topic, including here at
+	Mac!
 
 ----------------------------------------------------------------------
 
-PSLIDE The Pasteur experiment
+Where do flies come from? | Fig 1.7
 
-FIG Pearson/alpha1_intro/01_02b_Pasteur_exprmnts.jpg
+BC
+
+	Is this just craziness?
+
+		NOANS
+
+	Why three jars?
+
+		NOANS
+
+	Any concerns?
+
+		NOANS
+
+NC
+
+SIDEFIG hlw/01Intro_images/image16.jpg
+
+EC
 
 ----------------------------------------------------------------------
 
-The Pasteur experiment
+PSLIDE Where do microbes come from?
 
-	NOTES Fig 1.2 
+WIDEFIG hlw/01Intro_images/image17.jpg
+
+----------------------------------------------------------------------
+
+Where do microbes come from? | Fig 1.8
 
 	Why was it necessary to have two flasks?
 
@@ -419,15 +493,19 @@ The Pasteur experiment
 
 		ANS Maybe the flask was somehow poisonous or discouraging
 
+		ANS It's the _contrast_ that's convincing
+
 	Does this prove all cells come from cells?
 
 		ANS Maybe cells can generate spontaneously under other conditions
 
 		ANS \ldots, but that's not what's happening here
 
+	COMMENT Hold up one finger if you want to finish copying blue stuff
+
 ----------------------------------------------------------------------
 
-SEC Doing biology | Sec 1.6
+SEC Doing biology | Sec 1.1
 
 ----------------------------------------------------------------------
 
@@ -448,68 +526,13 @@ Hypotheses
 
 ----------------------------------------------------------------------
 
+OUTSLIDE Scientific inquiry | Fig 1.2
+
+WIDEFIG hlw/01Intro_images/image03.jpg
+
+----------------------------------------------------------------------
+
 SS Experiments
-
-----------------------------------------------------------------------
-
-Example: How do ants navigate through landscapes?
-
-	Many species of ants move efficiently through landscapes while finding food
-	and returning to their nests
-
-	How do ants navigate through landscapes?
-
-	NOTES Fig 1.10--12
-
-----------------------------------------------------------------------
-
-PSLIDE Ant navigation
-
-FIG Pearson/alpha1_intro/01_09_ant_foraging.jpg
-
-----------------------------------------------------------------------
-
-PSLIDE Ant navigation
-
-FIG Pearson/C1_intro/ants_1.jpg
-
-----------------------------------------------------------------------
-
-PSLIDE Ant navigation
-
-WIDEFIG Pearson/C1_intro/ants_2.jpg
-
-----------------------------------------------------------------------
-
-PSLIDE Ant navigation
-
-FIG Pearson/C1_intro/ants_3.jpg
-
-----------------------------------------------------------------------
-
-PSLIDE Ant navigation
-
-WIDEFIG Pearson/C1_intro/ants_4.jpg
-
-----------------------------------------------------------------------
-
-Interpretation
-
-	What would you think if the modified ants didn't navigate normally this time?
-
-		ANS That the manipulation messed them up in some way we didn't think of
-
-	Why do we test the normal ants _again_?
-
-		ANS As a check on our experimental setup
-
-		ANS Replication principle: shouldn't compare modified ants this time to normal ants from last time; many things may have changed
-
-	What should we conclude?
-
-		ANS Ants use information about number of steps 
-
-		ANS Do we think that ants are counting the way that we do?
 
 ----------------------------------------------------------------------
 
@@ -543,44 +566,65 @@ Control
 	Groups should be as similar as possible, except for the factor that we wish
 	to study
 
-----------------------------------------------------------------------
-
-Replication
-
-	Good experiments are [replicated]: each group has more than one [replicate]
-
-		A replicate is a unit which is subjected to a chosen treatment
-
-			e.g., a mouse, a troop of baboons, a flask
-
-	Replicates should be \textbf{independent}. Replicates in the same group
-	should not have \emph{anything} in common that they don't share with other
-	groups (except for the factor we are studying).
-
-		What if we put all the mice that get vitamin supplements in one
-		cage, and the others in another cage?
-
-			ANS We then have to worry about all possible differences
-			between the two \emph{cages}
-
 	Example: I want to see how injecting a particular vaccine affects mouse
 	behaviour
 
+	Can you think of a problem?
+
 		ANS Treatment mice all get caught and stuck with needles
+
+	A solution?
 
 		ANS Give the control mice injections with no vaccine
 
 ----------------------------------------------------------------------
 
+Replication
+
+	Good experiments are [replicated]: each treatment group has more than one
+	[replicate]
+
+		A replicate is a unit which is subjected to a chosen treatment
+
+			e.g., a mouse, a troop of baboons, a flask
+
+	Replicates should be [independent]. Replicates in the same group
+	should not have _anything_ in common that they don't share with other
+	groups (except for the factor we are studying).
+
+	What if we put all the mice that get vitamin supplements in one
+	cage, and the others in another cage?
+
+		ANS We then have to worry about all possible differences
+		between the two _cages_
+
+		ANS Maybe one cage is colder, or gets a lot of glare
+
+		ANS Maybe one cage has a bad social dynamic
+
+----------------------------------------------------------------------
+
 Randomization
 
-	Good experiments are \textbf{randomized}: units are assigned to treatments
+	Good experiments are [randomized]: units are assigned to treatments
 	randomly
 
 		First, arrange the experiment
 
-		e.g., first pick which mice to put into which cages, \emph{then} decide
+		e.g., first pick which mice to put into which cages, _then_ decide
 		at random which cages get supplements
+
+----------------------------------------------------------------------
+
+OUTSLIDE Where do flies come from? 
+
+WIDEFIG hlw/01Intro_images/image16.jpg
+
+----------------------------------------------------------------------
+
+OUTSLIDE Where do microbes come from? 
+
+WIDEFIG hlw/01Intro_images/image17.jpg
 
 ----------------------------------------------------------------------
 
@@ -602,26 +646,43 @@ TSS Observational studies
 
 ----------------------------------------------------------------------
 
-PICSLIDE 
+OUTSLIDE Dinosaurs | Fig 1.3
 
-HIGHFIG Pearson/C3_01U/fg01_09.jpg
+WIDEFIG hlw/01Intro_images/image05.jpg
 
 ----------------------------------------------------------------------
 
-Example: Bighorn sheep
+OUTSLIDE Dinosaurs 
 
-	NOTES Fig 1.9
+WIDEFIG hlw/01Intro_images/image06.jpg
 
-	Why is it hard to experiment?
+----------------------------------------------------------------------
 
-		ANS Sheep live for a long time, and evolution is slow
+OUTSLIDE Dinosaurs 
 
-		ANS Hard to replicate conditions, would need a lot of independent
-		populations
+WIDEFIG hlw/01Intro_images/image08.jpg
 
-		ANS Ethical issues
+----------------------------------------------------------------------
 
-	Without experiments, it's much harder to confirm what's going on
+OUTSLIDE Dinosaurs 
+
+WIDEFIG hlw/01Intro_images/image09.jpg
+
+----------------------------------------------------------------------
+
+Dinosaurs
+
+	Why did the dinosaurs go extinct?
+
+		ANS _Probably_ a meteor
+
+	Can we test this with an experiment?
+
+		ANS Don't be ridiculous
+
+	_Are_ the dinosaurs extinct?
+
+		ANS We will come back to this!
 
 ----------------------------------------------------------------------
 

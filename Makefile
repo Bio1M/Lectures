@@ -18,6 +18,9 @@ Sources += Makefile README.md poll.txt
 
 ######################################################################
 
+## Web links
+## Should I do all Avenue?
+
 ## Updating 2019 Sep 03 (Tue)
 
 Sources += content.mk
@@ -32,10 +35,36 @@ imageDrop = ~/Dropbox/courses/1M
 
 Sources += $(wildcard *.step)
 
-Ignore += webpix Pearson norton jdpix freeman sharp
-Pearson norton jdpix freeman sharp: dir = $(imageDrop)
-Pearson norton jdpix freeman sharp: 
-	$(linkdir)
+picdirs = Pearson norton jdpix freeman sharp hlw
+Ignore += $(picdirs)
+$(picdirs): dir = $(imageDrop)
+$(picdirs): 
+	$(alwayslinkdir)
+
+######################################################################
+
+## macmillan images MacMillan Macmillan (How Life Works – hlw)
+
+## go hlw/22Phylo_images/ ##
+## hlw/22Phylo_images.imagenames:
+%.imagenames: %
+	cd $* && rename 's/image(.)\./image0$$1./' *.jpg
+
+## It's good to delimit these names
+## but might have been better to try using / instead of adding characters
+hlw/%_images: tmp_images.zipdir
+	$(mkdir)
+	$(MV) $</ppt/media/*.jpg $@
+	$(RMR) $<
+
+tmp_images.zipdir: tmp_images.zip
+	mkdir $@
+	$(copy)
+	cd $@ && unzip $<
+	$(RM) $<
+
+tmp_images.zip:
+	bash -cl "downcall $@"
 
 ######################################################################
 
@@ -57,7 +86,6 @@ Sources += copy.tex
 
 #####################################################################
 
-
 ## Content
 Sources += *.txt
 
@@ -66,7 +94,8 @@ Sources += *.txt
 intro.poll.csv: intro.txt pollcsv.pl
 intro.draft.pdf: intro.txt
 intro.final.pdf: intro.txt
-intro.handouts.pdf: intro.txt
+## intro.handouts.pdf: intro.txt
+## intro.handouts.tex.docx: intro.txt
 intro.complete.pdf: intro.txt
 intro.outline.pdf: intro.txt
 intro.html: intro.step
@@ -238,6 +267,17 @@ mn.Rout: mn.R
 pardirs += web
 
 pushdir = web/materials/
+
+######################################################################
+
+## Developing
+
+## Makes a nice document, but sheds the answers spaces?
+## Use some sort of explicit character?
+## Actually, it seems like a big disaster ... maybe better to go through html, but that seems like a lot of work
+## Wait for demand? Yes. 2023 Sep 03 (Sun)
+%.tex.docx: %.tex
+	pandoc -o $@ $<
 
 ######################################################################
 
