@@ -181,7 +181,7 @@ PSLIDE Polling
 
 	Text from your cell phone, or answer on the web
 
-	POLL  What province, US state, or country are you from?
+	POLL What province, US state, or country are you from? | Where are you from?
 
 ----------------------------------------------------------------------
 
@@ -239,7 +239,8 @@ PRESLIDE Deductive thinking
 	The interviewer asks you to test the hypothesis that all of the aces
 	have airplanes on the back
 
-	Which of the four groups of cards do you need to turn over?
+	POLL Which of the four groups of cards do you need to turn over? Aces only;
+	airplanes only; aces and airplanes; aces and bicycles
 
 		NOANS 
 
@@ -267,9 +268,11 @@ Deductive thinking
 	
 		everybody who is drinking alcohol is of legal age
 
-	Which of the four groups of people do you need to check out?
+	POLL Which of the four groups of people do you need to check out? Drinkers
+	only; older people only; drinkers and older people; drinkers and younger
+	people
 
-		ANS The alcohol drinkers, and the underage people
+		ANS Drinkers and younger people
 
 ----------------------------------------------------------------------
 

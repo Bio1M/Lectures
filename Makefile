@@ -270,6 +270,20 @@ pushdir = web/materials/
 
 ######################################################################
 
+## Direct crib from 3SS 2023 Sep 05 (Tue)
+
+Sources += $(wildcard *.pl)
+
+## Poll conversion
+## Use semi-colons for MC
+## | for separation (or ?; will that work for pdf outputs?)
+Ignore += *.poll.csv
+%.poll.csv: %.txt pollcsv.pl
+	$(PUSH)
+
+######################################################################
+
+
 ## Developing
 
 ## Makes a nice document, but sheds the answers spaces?
