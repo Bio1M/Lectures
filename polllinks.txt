@@ -1,0 +1,7 @@
+Poll Everywhere
+
+	When poll is active:
+
+		go to \url{PollEv.com/jonathandushoff424}
+
+		Send jonathandushoff424 to 37607

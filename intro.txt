@@ -183,6 +183,12 @@ PSLIDE Polling
 
 	POLL What province, US state, or country are you from? | Where are you from?
 
+	SHORTCLASS When poll is active:
+
+		SHORTCLASS go to \url{PollEv.com/jonathandushoff424}
+
+		SHORTCLASS Send jonathandushoff424 to 37607
+
 ----------------------------------------------------------------------
 
 SEC Thinking conceptually

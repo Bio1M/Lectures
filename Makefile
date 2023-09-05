@@ -89,6 +89,8 @@ Sources += copy.tex
 ## Content
 Sources += *.txt
 
+## polllinks.draft.pdf: polllinks.txt
+
 ### Look out for RSLIDE; ADD; CHANGE
 #### Introduction (P1)
 intro.poll.csv: intro.txt pollcsv.pl
