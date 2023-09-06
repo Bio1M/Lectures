@@ -45,7 +45,12 @@ $(picdirs):
 
 ## macmillan images MacMillan Macmillan (How Life Works – hlw)
 
-## go hlw/22Phylo_images/ ##
+## hlw/01Intro_images/
+## hlw/20Evol_images/
+## hlw/21Spec_images/
+## hlw/22Phylo_images/
+## hlw/23Humans.images/
+
 ## hlw/22Phylo_images.imagenames:
 %.imagenames: %
 	cd $* && rename 's/image(.)\./image0$$1./' *.jpg

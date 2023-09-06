@@ -5,11 +5,29 @@ Lower and higher organisms are not a thing
 
 	This can be discussed once we have phylogenies, maybe
 
-descent with modification
+Sociable fruit flies:
+* https://pubmed.ncbi.nlm.nih.gov/34605553/
+* NOT free (has a free summary something)
 
-	Not clear what I mean by this (angry face)
+Check Pearson again before pushing presentation
 
-	Maybe spend more time talking about the path-dependence of evolution
+----------------------------------------------------------------------
+
+EXTRA Readings
+
+1.4 (by Friday)
+
+20.4 (by Tuesday)
+
+----------------------------------------------------------------------
+
+EXTRA Lost
+
+F22.2 Good fish phylogeny (also others, compare!)
+
+F22.24 Good fish phylogeny
+
+\url{https://www.gocomics.com/doonesbury/2005/12/18}
 
 ----------------------------------------------------------------------
 
@@ -38,14 +56,13 @@ TSEC Evolution
 
 ----------------------------------------------------------------------
 
-SS Change through time | Sec 22.2
-(2ndEd pp.~457--459)
+SS Change through time PP Sec 22.2
 
 ----------------------------------------------------------------------
 
 PSLIDE Fossils
 
-FIG Pearson/alpha22_ns/22_02_fossil_record_L.jpg
+FIG hlw/22Phylo_images/image23.jpg
 
 ----------------------------------------------------------------------
 
@@ -60,7 +77,6 @@ Fossils
 	
 	The [fossil record] refers to the collection of all known fossils
 
-	NOTES Chapter 25 (2ndEd 27) for more info about fossils
 
 ----------------------------------------------------------------------
 
@@ -83,7 +99,7 @@ Transitional forms
 
 BC
 
-SIDEFIG Pearson/F25_ns/25_04_tetrapod_limb_L.jpg
+SIDEFIG hlw/22Phylo_images/image35.jpg
 
 NC
 
@@ -93,8 +109,6 @@ NC
 		This often happens in the same geographic area
 
 	Consistent with species evolving: changing through time
-
-	NOTES Fig 22.4 (24.4 2ndEd)
 
 EC
 
@@ -107,8 +121,6 @@ Vestigial traits
 	
 	Examples?
 
-	NOTES Fig. 22.5 (24.5 2ndEd)
-
 ----------------------------------------------------------------------
 
 Directly observed evolution
@@ -116,22 +128,39 @@ Directly observed evolution
 	Although much evolution occurs very slowly, some kinds of evolution
 	can be, and have been, observed on faster time scales
 
-		Tuberculosis | pp.458--460
-(2ndEd pp.465--466)
+		Ground finches PP Fig 20.8
 
-		Ground finches | pp.~460--462
-(2ndEd pp.~468--470)
+		Tuberculosis
 
-----------------------------------------------------------------------
-
-PSLIDE Tuberculosis
-
-SIDEFIG Pearson/F25_ns/25_13_drug_resistance_L.jpg
+		E. Coli PP Fig 1.17
 
 ----------------------------------------------------------------------
 
-TSS Relationships between species | pp.~452--455
-(2ndEd pp.~459--463)
+PSLIDE Ground finches
+
+----------------------------------------------------------------------
+
+Tuberculosis PP See also Fig 13.8, Case 19
+
+	By the time tuberculosis disease becomes apparent, there are usually many
+	millions of bacteria in the lungs
+
+	If you treat a patient with a single drug, there will usually be some
+	[resistant] bacteria that can survive
+
+	These bacteria multiply and replace the [sensitive] bacteria
+
+	In many cases, they cause disease again
+
+----------------------------------------------------------------------
+
+PSLIDE E. coli PP Fig 1.17
+
+FIG hlw/01Intro_images/image37.jpg
+
+----------------------------------------------------------------------
+
+TSS Relationships between species PP pp.~452--455
 
 	If species evolved from a common ancestor, we expect to see evidence
 	that they are related to each other
@@ -150,7 +179,7 @@ Geographic relationships
 
 BCC
 
-SIDEFIG Pearson/F25_ns/25_06_mockingbirds_L.jpg
+SIDEFIG hlw/21Spec_images/image18.jpg
 
 NCC
 
@@ -161,8 +190,6 @@ NCC
 	starting from a common ancestor in the region
 
 	Support for the theory of evolution
-
-	NOTES Fig. 22.6 (24.6 2ndEd)
 
 EC
 
@@ -182,7 +209,7 @@ Evolution and similarity
 
 ----------------------------------------------------------------------
 
-Homology | Table 22.1
+Homology PP Table 22.1
 
 	A [homology] is a similarity that is due to common ancestry
 
@@ -202,8 +229,6 @@ Genetic homology
 
 		Some genes involved in development are very similar all the way
 		from insects to mammals
-
-	NOTES Fig 22.7 (24.10 2ndEd)
 
 ----------------------------------------------------------------------
 
@@ -275,14 +300,13 @@ Identifying homologies
 		Genetic evidence and morphological evidence often agree
 
 			We get consistent stories from different lines of evidence, e.g.,
-			whale example | p.~455
+			whale example PP p.~455
 
 			ADD Your own stories
 
 ----------------------------------------------------------------------
 
-TSEC Natural selection | Sec 22.3
-(2ndEd Sec 24.3)
+TSEC Natural selection PP Sec 22.3
 
 	Darwin's big idea was not evolution, but natural selection
 
@@ -360,8 +384,7 @@ SIDEFIG Pearson/F25_ns/25_13_drug_resistance_L.jpg
 
 ----------------------------------------------------------------------
 
-Example: Tuberculosis | Fig 22.10
-(2ndEd Fig 24.13)
+Example: Tuberculosis PP Fig 22.10
 
 	What if there were no variation?
 
@@ -376,10 +399,9 @@ Example: Tuberculosis | Fig 22.10
 Other examples
 
 	Galapagos finches' beak sizes evolve as availability of seed
-	resources changes.  | Fig 22.14
-(2ndEd Fig 24.17)
+	resources changes.  PP Fig 22.14
 
-	Squirrels! | \url{https://en.wikipedia.org/wiki/Black_squirrel}
+	Squirrels! PP \url{https://en.wikipedia.org/wiki/Black_squirrel}
 
 ----------------------------------------------------------------------
 
@@ -434,8 +456,7 @@ Activity
 
 ----------------------------------------------------------------------
 
-SEC The nature of adaptation | Sec 22.5
-(2ndEd Sec 24.5)
+SEC The nature of adaptation PP Sec 22.5
 
 ----------------------------------------------------------------------
 
@@ -658,7 +679,7 @@ Historical constraints
 
 		Vestigial traits
 
-		Blind spot in the vertebrate eye | \url{https://en.wikipedia.org/wiki/Blind_spot_(vision)}
+		Blind spot in the vertebrate eye PP \url{https://en.wikipedia.org/wiki/Blind_spot_(vision)}
 
 		Humans are not well designed to be upright
 
