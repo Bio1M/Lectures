@@ -551,7 +551,7 @@ Example: Vitamin C
 	a standard diet, with Vitamin C supplement, to see whether it has a long,
 	happy, healthy life.
 
-	What is wrong with this experiment?
+	POLL What is wrong with this experiment?
 
 		ANS No comparison.  I don't know how the mouse would have done in the
 		absence of the supplement
@@ -601,7 +601,7 @@ Replication
 	should not have _anything_ in common that they don't share with other
 	groups (except for the factor we are studying).
 
-	What if we put all the mice that get vitamin supplements in one
+	POLL What if we put all the mice that get vitamin supplements in one
 	cage, and the others in another cage?
 
 		ANS We then have to worry about all possible differences
