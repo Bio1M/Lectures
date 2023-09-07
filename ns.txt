@@ -19,6 +19,8 @@ EXTRA Readings
 
 20.4 (by Tuesday)
 
+Please prepare the natural selection handouts for Friday's class. The main readings are Sec 1.4 and Sec 20.4 from your book (achieve link). Other readings are indicated in the handouts. These readings are&nbsp;complementary. Although you are encouraged to do them earlier than later, you are not being asked to prepare any part for a particular time.
+
 ----------------------------------------------------------------------
 
 EXTRA Lost
@@ -311,15 +313,21 @@ Identifying homologies
 
 ----------------------------------------------------------------------
 
-TSEC Natural selection | Sec 20.4
+SEC Natural selection | Sec 20.4
+
+----------------------------------------------------------------------
 
 	Darwin's big idea was not evolution, but natural selection
 
-	One detailed theory of evolution was developed by Lamarck
+	Natural selection is the _way_ adaptive evolution occurs
 
-		More famous for being wrong about how evolution occurs
+	What is [adaptation]?
 
-		ANS He thought _acquired characteristics_ were inherited
+		Organisms evolving to become better suited to their environment
+
+		Includes physical environment and biological environment
+
+			Competing, eating and not being eaten \ldots
 
 ----------------------------------------------------------------------
 
@@ -435,7 +443,7 @@ SEC The nature of adaptation
 
 Other models
 
-	Natural selection is not the only possible model for how evolution
+	Natural selection is not the only possible model for how adaptive evolution
 	could occur
 
 		Inheritance of acquired characteristics (Lamarck)
@@ -449,7 +457,9 @@ Inheritance of acquired characteristics
 	This is the idea that individuals change in response to their
 	environment, and pass those changes on to their offspring
 
-		Example: giraffes reaching for food
+		Giraffes reaching for food
+
+		Antelopes running away from lions
 
 	It is now known that while individuals do often change in response
 	to their environment, such changes are not (usually) passed on to
@@ -459,6 +469,11 @@ Inheritance of acquired characteristics
 		happen, but it's not the main way that evolution proceeds
 
 		NOTES \url{https://en.wikipedia.org/wiki/Epigenetics}
+
+		COMMENT Lamarck is now mostly known for being wrong about this, but he
+		was an influential scholar of evolution 
+
+		ADD Check that!
 
 ----------------------------------------------------------------------
 
