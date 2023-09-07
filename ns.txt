@@ -56,7 +56,7 @@ TSEC Evolution
 
 ----------------------------------------------------------------------
 
-SS Change through time PP Sec 22.2
+SS Change through time
 
 ----------------------------------------------------------------------
 
@@ -128,11 +128,11 @@ Directly observed evolution
 	Although much evolution occurs very slowly, some kinds of evolution
 	can be, and have been, observed on faster time scales
 
-		Ground finches PP Fig 20.8
+		Ground finches | Fig 20.8
 
 		Tuberculosis
 
-		E. Coli PP Fig 1.17
+		E. Coli | Fig 1.17
 
 ----------------------------------------------------------------------
 
@@ -142,7 +142,7 @@ PSLIDE Ground finches
 
 ----------------------------------------------------------------------
 
-Tuberculosis PP See also Fig 13.8, Case 19
+Tuberculosis | See also Fig 13.8, Case 19
 
 	By the time tuberculosis disease becomes apparent, there are usually many
 	millions of bacteria in the lungs
@@ -158,7 +158,7 @@ Tuberculosis PP See also Fig 13.8, Case 19
 
 ----------------------------------------------------------------------
 
-PSLIDE E. coli PP Fig 1.17
+PSLIDE E. coli | Fig 1.17
 
 FIG hlw/01Intro_images/image37.jpg
 
@@ -166,7 +166,7 @@ ADD Sociable fruit flies:
 
 ----------------------------------------------------------------------
 
-TSS Relationships between species PP pp.~452--455
+TSS Relationships between species
 
 	If species evolved from a common ancestor, we expect to see evidence
 	that they are related to each other
@@ -215,7 +215,7 @@ Evolution and similarity
 
 ----------------------------------------------------------------------
 
-Homology PP Table 22.1
+Homology
 
 	A [homology] is a similarity that is due to common ancestry
 
@@ -242,20 +242,17 @@ Genetic homology
 
 PSLIDE Genetic homology
 
-FIG Pearson/F25_ns/25_10_homology_evidence_L.jpg
-
-	An eye-promoter gene from mice promotes eye growth in flies!
+	An eye-promoter gene from mice promotes eye growth in flies! | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4286332/
 
 ----------------------------------------------------------------------
 
-
 Developmental homology
 
-BCC
+BC
 
 SIDEFIG Pearson/F25_ns/25_08_developmtl_homology_L.jpg
 
-NCC
+NC
 
 	[Developmental homology] is homology in the traits of [embryos]
 	(developing organisms)
@@ -270,11 +267,11 @@ PIC HIGHFIG Pearson/F25_ns/25_09_structural_homology_U.jpg
 
 ----------------------------------------------------------------------
 
-Structural homology
+Structural homology | \url{https://en.wikipedia.org/wiki/Homology_%28biology%29}
 
 BCC
 
-SIDEFIG Pearson/F25_ns/25_09_structural_homology_L.jpg
+SIDEFIG webpix/hdbwLimbs.png
 
 NCC
 
@@ -283,15 +280,13 @@ NCC
 
 		Tetrapod limbs
 
-		ADD NOTES link
-
 EC
 
 ----------------------------------------------------------------------
 
 PSLIDE Tetrapod limbs
 
-WIDEFIG Pearson/F25_ns/25_09_structural_homology_L.jpg
+WIDEFIG webpix/hdbwLimbs.png
 
 ----------------------------------------------------------------------
 
@@ -316,7 +311,7 @@ Identifying homologies
 
 ----------------------------------------------------------------------
 
-TSEC Natural selection PP Sec 22.3
+TSEC Natural selection | Sec 20.4
 
 	Darwin's big idea was not evolution, but natural selection
 
@@ -394,7 +389,7 @@ SIDEFIG Pearson/F25_ns/25_13_drug_resistance_L.jpg
 
 ----------------------------------------------------------------------
 
-Example: Tuberculosis PP Fig 22.10
+Example: Tuberculosis
 
 	What if there were no variation?
 
@@ -403,37 +398,6 @@ Example: Tuberculosis PP Fig 22.10
 	What if variation were not heritable?
 
 	What if there were no selection?
-
-----------------------------------------------------------------------
-
-Other examples
-
-	Galapagos finches' beak sizes evolve as availability of seed
-	resources changes.  PP Fig 22.14
-
-	Squirrels! PP \url{https://en.wikipedia.org/wiki/Black_squirrel}
-
-----------------------------------------------------------------------
-
-PICSLIDE FIG webpix/black_squirrel.jpg
-
-----------------------------------------------------------------------
-
-PICSLIDE FIG webpix/grey_squirrel.jpg
-
-----------------------------------------------------------------------
-
-PSLIDE Squirrels
-
-BCC
-
-CFIG webpix/grey_squirrel.jpg
-
-NCC
-
-CFIG webpix/black_squirrel.jpg
-
-EC
 
 ----------------------------------------------------------------------
 
@@ -459,14 +423,13 @@ Activity
 
 		ANS [Replicate]. Use many offspring (from different mothers and fathers).
 
-		ANS [Randomize]. Select individuals to breed at random
-
-			ANS Maybe less important -- but if you do it, you don't have to worry
-			about it
+		ANS [Randomize]. Any choice that you have to make about how to treat them
+		(which nesting site to put which animal, how to feed them) should be
+		explicitly randomized
 
 ----------------------------------------------------------------------
 
-SEC The nature of adaptation PP Sec 22.5
+SEC The nature of adaptation
 
 ----------------------------------------------------------------------
 
@@ -569,8 +532,7 @@ Goal-directed evolution
 
 			Birds gain, then lose, flying ability
 
-			Things that become parasites may become much smaller and
-			simpler
+			Some organisms gain complexity and then _lose_ it again
 
 ----------------------------------------------------------------------
 
@@ -637,32 +599,11 @@ Acclimation
 
 		ANS Some forms of severe altitude sickness are probably due to
 		acclimation systems going off track
-		
+
+		ANS We do it because we're programmed to do it; we're programmed to do it
+		because it's _usually_ beneficial
+
 		COMMENT A story about digging holes
-
-----------------------------------------------------------------------
-
-EXTRA The good of the species
-
-	 Resting: the book no longer discusses this topic here
-
-	Selection operates on individuals; individuals are not adapted to act
-	for the good of the species
-
-	The evolution of co-operation always involves tension between what is
-	good for the group, and what is good for the individual
-
-		If `cheating' strategies can evolve, they will
-
-		A [cheater] benefits from co-operation, but does not participate
-
-	Do lemmings commit suicide?
-
-----------------------------------------------------------------------
-
-EXTRA PSLIDE A lemming not committing suicide
-
-FIG webpix/lemming.jpg
 
 ----------------------------------------------------------------------
 
@@ -687,9 +628,9 @@ Historical constraints
 
 	Examples
 
-		Vestigial traits
+		Vestigial traits are often things that evolution can't easily get rid of
 
-		Blind spot in the vertebrate eye PP \url{https://en.wikipedia.org/wiki/Blind_spot_(vision)}
+		Blind spot in the vertebrate eye | \url{https://en.wikipedia.org/wiki/Blind_spot_(vision)}
 
 		Humans are not well designed to be upright
 
@@ -713,7 +654,9 @@ Evolution by natural selection -- Summary
 		Darwin's logical postulates: heritable variation in traits;
 		differential reproductive success based on traits
 
-		Direct observations of natural selection (TB, finches, moths)
+		Direct observations of natural selection (TB, finches)
+
+		Experiments with artificial selection and other manipulations
 
 	Natural selection by (gradual) evolution imposes important
 	constraints
