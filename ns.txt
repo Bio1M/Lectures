@@ -95,7 +95,7 @@ Extinction
 
 ----------------------------------------------------------------------
 
-Transitional forms
+Transitional forms | Fig 22.22
 
 BC
 
@@ -106,7 +106,7 @@ NC
 	When a species disappears from the fossil record, a similar species
 	often appears
 
-		This often happens in the same geographic area
+		This often happens in the same geographic area | Fig 22.22
 
 	Consistent with species evolving: changing through time
 
@@ -138,6 +138,8 @@ Directly observed evolution
 
 PSLIDE Ground finches
 
+	ADD Picture
+
 ----------------------------------------------------------------------
 
 Tuberculosis PP See also Fig 13.8, Case 19
@@ -152,11 +154,15 @@ Tuberculosis PP See also Fig 13.8, Case 19
 
 	In many cases, they cause disease again
 
+	ADD Picture
+
 ----------------------------------------------------------------------
 
 PSLIDE E. coli PP Fig 1.17
 
 FIG hlw/01Intro_images/image37.jpg
+
+ADD Sociable fruit flies:
 
 ----------------------------------------------------------------------
 
@@ -230,6 +236,8 @@ Genetic homology
 		Some genes involved in development are very similar all the way
 		from insects to mammals
 
+			Genes from mice can cause frogs to grow eyes on their legs!
+
 ----------------------------------------------------------------------
 
 PSLIDE Genetic homology
@@ -275,6 +283,8 @@ NCC
 
 		Tetrapod limbs
 
+		ADD NOTES link
+
 EC
 
 ----------------------------------------------------------------------
@@ -297,12 +307,12 @@ Identifying homologies
 
 		Organisms fall naturally into groups
 
-		Genetic evidence and morphological evidence often agree
+		Genetic evidence and morphological evidence often agree; we get similar
+		stories from different lines of evidence,
 
-			We get consistent stories from different lines of evidence, e.g.,
-			whale example PP p.~455
+			tetrapod evolution | Fig 22.22
 
-			ADD Your own stories
+			whales and hippos 
 
 ----------------------------------------------------------------------
 
