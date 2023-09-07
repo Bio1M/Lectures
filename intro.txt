@@ -428,19 +428,19 @@ EC
 
 ----------------------------------------------------------------------
 
-OUTSLIDE Cells | Fig 1.9
+BOOKSLIDE Cells | Fig 1.9
 
 FIG hlw/01Intro_images/image19.jpg
 
 ----------------------------------------------------------------------
 
-OUTSLIDE Cells | Fig 1.9
+BOOKSLIDE Cells | Fig 1.9
 
 FIG hlw/01Intro_images/image22.jpg
 
 ----------------------------------------------------------------------
 
-OUTSLIDE Cells | Fig 1.10
+BOOKSLIDE Cells | Fig 1.10
 
 FIG hlw/01Intro_images/image25.jpg
 
@@ -535,7 +535,7 @@ Hypotheses
 
 ----------------------------------------------------------------------
 
-OUTSLIDE Scientific inquiry | Fig 1.2
+BOOKSLIDE Scientific inquiry | Fig 1.2
 
 WIDEFIG hlw/01Intro_images/image03.jpg
 
@@ -625,13 +625,13 @@ Randomization
 
 ----------------------------------------------------------------------
 
-OUTSLIDE Where do flies come from? 
+BOOKSLIDE Where do flies come from? 
 
 WIDEFIG hlw/01Intro_images/image16.jpg
 
 ----------------------------------------------------------------------
 
-OUTSLIDE Where do microbes come from? 
+BOOKSLIDE Where do microbes come from? 
 
 WIDEFIG hlw/01Intro_images/image17.jpg
 
@@ -655,25 +655,25 @@ TSS Observational studies
 
 ----------------------------------------------------------------------
 
-OUTSLIDE Dinosaurs | Fig 1.3
+BOOKSLIDE Dinosaurs | Fig 1.3
 
 WIDEFIG hlw/01Intro_images/image05.jpg
 
 ----------------------------------------------------------------------
 
-OUTSLIDE Dinosaurs 
+BOOKSLIDE Dinosaurs 
 
 WIDEFIG hlw/01Intro_images/image06.jpg
 
 ----------------------------------------------------------------------
 
-OUTSLIDE Dinosaurs 
+BOOKSLIDE Dinosaurs 
 
 WIDEFIG hlw/01Intro_images/image08.jpg
 
 ----------------------------------------------------------------------
 
-OUTSLIDE Dinosaurs 
+BOOKSLIDE Dinosaurs 
 
 WIDEFIG hlw/01Intro_images/image09.jpg
 

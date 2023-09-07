@@ -15,15 +15,13 @@ vim_session:
 pullup: web.pull
 
 Sources += Makefile README.md poll.txt
+## Sources += content.mk
 
 ######################################################################
 
 ## Web links
-## Should I do all Avenue?
-
-## Updating 2019 Sep 03 (Tue)
-
-Sources += content.mk
+# https://avenue.mcmaster.ca/login.php?target=%2Fd2l%2Fhome%2F551736
+# https://achieve.macmillanlearning.com/courses/g3zdfj/mycourse#
 
 ######################################################################
 
