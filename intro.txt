@@ -685,6 +685,10 @@ Dinosaurs
 
 		ANS _Probably_ a meteor
 
+		ANS Evidence in book is not all that we have
+
+		ANS No replication, no control!
+
 	Can we test this with an experiment?
 
 		ANS Don't be ridiculous
