@@ -5,8 +5,6 @@ Lower and higher organisms are not a thing
 
 	This can be discussed once we have phylogenies, maybe
 
-Sociable fruit flies:
-* https://pubmed.ncbi.nlm.nih.gov/34605553/
 * NOT free (has a free summary something)
 
 Check Pearson again before pushing presentation
@@ -138,7 +136,7 @@ Directly observed evolution
 
 PSLIDE Ground finches
 
-	ADD Picture
+FIG hlw/20Evol_images/image16.jpg
 
 ----------------------------------------------------------------------
 
@@ -162,7 +160,17 @@ PSLIDE E. coli | Fig 1.17
 
 FIG hlw/01Intro_images/image37.jpg
 
-ADD Sociable fruit flies:
+----------------------------------------------------------------------
+
+PSLIDE Sociable fruit flies:
+
+FIG webpix/socialFlies.jpg
+
+	Flies selected to hang out with each other or not
+
+	Research from McMaster! (Dukas, Dworkin)
+
+	\url{https://pubmed.ncbi.nlm.nih.gov/34605553/}
 
 ----------------------------------------------------------------------
 
