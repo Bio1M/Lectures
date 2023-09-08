@@ -5,10 +5,6 @@ Lower and higher organisms are not a thing
 
 	This can be discussed once we have phylogenies, maybe
 
-* NOT free (has a free summary something)
-
-Check Pearson again before pushing presentation
-
 ----------------------------------------------------------------------
 
 EXTRA Readings
@@ -136,13 +132,15 @@ Directly observed evolution
 
 ----------------------------------------------------------------------
 
-PSLIDE Ground finches
+TEXTSLIDE Ground finches
 
 FIG hlw/20Evol_images/image16.jpg
 
 ----------------------------------------------------------------------
 
 Tuberculosis | See also Fig 13.8, Case 19
+
+BC
 
 	By the time tuberculosis disease becomes apparent, there are usually many
 	millions of bacteria in the lungs
@@ -154,8 +152,13 @@ Tuberculosis | See also Fig 13.8, Case 19
 
 	In many cases, they cause disease again
 
-	ADD Picture
+	ADD Don't treat with a single drug!
 
+NC
+
+	SIDEFIG webpix/resistantTB.jpg
+
+EC
 ----------------------------------------------------------------------
 
 PSLIDE E. coli | Fig 1.17
@@ -260,7 +263,7 @@ Developmental homology
 
 BC
 
-SIDEFIG Pearson/F25_ns/25_08_developmtl_homology_L.jpg
+SIDEFIG webpix/HaeckelEmbryos.jpg
 
 NC
 
@@ -270,10 +273,6 @@ NC
 		Embryos of all vertebrates show striking similarities
 
 EC
-
-----------------------------------------------------------------------
-
-PIC HIGHFIG Pearson/F25_ns/25_09_structural_homology_U.jpg
 
 ----------------------------------------------------------------------
 
@@ -321,9 +320,7 @@ Identifying homologies
 
 ----------------------------------------------------------------------
 
-SEC Natural selection | Sec 20.4
-
-----------------------------------------------------------------------
+TSEC Natural selection | Sec 20.4
 
 	Darwin's big idea was not evolution, but natural selection
 
@@ -399,12 +396,6 @@ Fitness
 
 ----------------------------------------------------------------------
 
-PSLIDE Tuberculosis
-
-SIDEFIG Pearson/F25_ns/25_13_drug_resistance_L.jpg
-
-----------------------------------------------------------------------
-
 Example: Tuberculosis
 
 	What if there were no variation?
@@ -417,9 +408,9 @@ Example: Tuberculosis
 
 ----------------------------------------------------------------------
 
-PSLIDE Finch beaks
+REPSLIDE Finch beaks
 
-FIG Pearson/F25_ns/25_16_finch_beaks_study_L.jpg
+FIG hlw/20Evol_images/image16.jpg
 
 ----------------------------------------------------------------------
 
@@ -479,9 +470,7 @@ Inheritance of acquired characteristics
 		NOTES \url{https://en.wikipedia.org/wiki/Epigenetics}
 
 		COMMENT Lamarck is now mostly known for being wrong about this, but he
-		was an influential scholar of evolution 
-
-		ADD Check that!
+		was an influential supporter of evolution 
 
 ----------------------------------------------------------------------
 
@@ -581,7 +570,20 @@ Adaptation vs.~acclimation
 
 PSLIDE Adaptation and acclimation
 
-WIDEFIG Pearson/alpha22_ns/22_16_adaptation_L.jpg
+BCC
+
+SIDEFIG webpix/inuits.jpg
+
+	Inuit people are _adapted_ to cold
+
+NCC
+
+SIDEFIG webpix/peary.jpg
+
+	Many polar explorers need to _acclimate_ to the cold
+
+EC
+
 
 ----------------------------------------------------------------------
 
