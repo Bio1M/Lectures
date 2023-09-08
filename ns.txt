@@ -41,14 +41,18 @@ TSEC Evolution
 
 	The theory of evolution asserts that species have changed through time ([evolved]).
 
-	Does this mean that scientists don't believe in God?
+	POLL Does this mean that scientists don't believe in God? | Can scientists
+	believe in God?
 
 		ANS Many scientists do believe in God
 
-		ANS Scientists learn about the world through experiment and
-		observation
+		ANS Scientists do science using experiment and observation
 
 		ANS Scientists don't treat religious texts as _literally_ true
+
+		ANS Neither side has an answer about the ultimate cause
+
+	ADD Turtles
 
 ----------------------------------------------------------------------
 
@@ -56,7 +60,7 @@ SS Change through time
 
 ----------------------------------------------------------------------
 
-PSLIDE Fossils
+BOOKSLIDE Fossils
 
 FIG hlw/22Phylo_images/image23.jpg
 
@@ -97,6 +101,8 @@ BC
 
 SIDEFIG hlw/22Phylo_images/image35.jpg
 
+	COMMENT See book
+
 NC
 
 	When a species disappears from the fossil record, a similar species
@@ -132,7 +138,7 @@ Directly observed evolution
 
 ----------------------------------------------------------------------
 
-TEXTSLIDE Ground finches
+BOOKSLIDE Ground finches
 
 FIG hlw/20Evol_images/image16.jpg
 
@@ -156,12 +162,12 @@ BC
 
 NC
 
-	SIDEFIG webpix/resistantTB.jpg
+SIDEFIG webpix/resistantTB.jpg
 
 EC
 ----------------------------------------------------------------------
 
-PSLIDE E. coli | Fig 1.17
+BOOKSLIDE E. coli | Fig 1.17
 
 FIG hlw/01Intro_images/image37.jpg
 
@@ -199,6 +205,8 @@ Geographic relationships
 BCC
 
 SIDEFIG hlw/21Spec_images/image18.jpg
+
+	COMMENT See book
 
 NCC
 
@@ -249,13 +257,8 @@ Genetic homology
 		Some genes involved in development are very similar all the way
 		from insects to mammals
 
-			Genes from mice can cause frogs to grow eyes on their legs!
-
-----------------------------------------------------------------------
-
-PSLIDE Genetic homology
-
-	An eye-promoter gene from mice promotes eye growth in flies! | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4286332/
+			Genes from mice can cause frogs to grow eyes on their legs! |
+			https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4286332/
 
 ----------------------------------------------------------------------
 
@@ -408,7 +411,7 @@ Example: Tuberculosis
 
 ----------------------------------------------------------------------
 
-REPSLIDE Finch beaks
+BOOKSLIDE Finch beaks
 
 FIG hlw/20Evol_images/image16.jpg
 
