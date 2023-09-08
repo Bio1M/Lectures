@@ -121,7 +121,7 @@ Vestigial traits
 	A [vestigial trait] is a structure that has no function, but is
 	similar to functioning structures in related species
 	
-	Examples?
+	POLL Examples?
 
 ----------------------------------------------------------------------
 
