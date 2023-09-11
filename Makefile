@@ -14,6 +14,7 @@ vim_session:
 
 pullup: web.pull
 
+## poll.txt is a slime-mold link and some Teams links from virtual delivery
 Sources += Makefile README.md poll.txt
 ## Sources += content.mk
 
@@ -22,6 +23,7 @@ Sources += Makefile README.md poll.txt
 ## Web links
 # https://avenue.mcmaster.ca/login.php?target=%2Fd2l%2Fhome%2F551736
 # https://achieve.macmillanlearning.com/courses/g3zdfj/mycourse#
+# https://teams.microsoft.com/_#/school/conversations/Lecture%20Content%20Questions?threadId=19:03abfa4d79324a05ab7a6df639a2f085@thread.tacv2&ctx=channel
 
 ######################################################################
 
