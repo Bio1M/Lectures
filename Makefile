@@ -108,11 +108,12 @@ intro.outline.pdf: intro.txt
 intro.html: intro.step
 
 #### Natural selection (P24 => P22)
-ns.draft.pdf: ns.txt
-ns.final.pdf: ns.txt
-ns.handouts.pdf: ns.txt
-ns.complete.pdf: ns.txt
-ns.outline.pdf: ns.txt
+## ns.draft.pdf: ns.txt
+## ns.poll.csv: ns.txt
+## ns.final.pdf: ns.txt
+## ns.handouts.pdf: ns.txt
+## ns.complete.pdf: ns.txt
+## ns.outline.pdf: ns.txt
 
 #### Evolutionary processes (P25 ⇒ P23)
 processes.draft.pdf: processes.txt
