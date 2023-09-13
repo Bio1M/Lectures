@@ -11,7 +11,7 @@ CHAPTER Evolutionary processes
 
 Evolution by natural selection
 
-	What is the weak link in the story I told last chapter?
+	POLL What is the _missing_ from the story I told last chapter?
 
 		Heritable [variation] in traits
 
@@ -52,6 +52,9 @@ Loci
 
 Two definitions of evolution
 
+	ADD Redo, no book. Maybe ask them whether there are other mechanisms besides
+	natural selection
+
 	_Lecture_: heritable changes in species traits over time
 
 	_Book_: changes in allele frequencies
@@ -90,7 +93,6 @@ NCC
 WIDEFIG webpix/carbon_moth.jpg
 
 EC
-
 
 ----------------------------------------------------------------------
 
