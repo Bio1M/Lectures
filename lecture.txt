@@ -1,10 +1,12 @@
 
 # 2023 journal
 
-## 2023 Sep 03
+## 2023 Sep 04
+==============
 
 Intro unit should take a little less than two periods (or a little more than two with IA introduction).
 
+<<<<<<< HEAD
 Ended week at:
 * End of section (morning)
 * Developmental homologies (afternoon)
@@ -14,6 +16,14 @@ Post: fruit fly links
 Start with:
 * Car trouble
 * Fruit fly clarification
+=======
+Ended week 1 (L3) around the Evolution/NS break of the NS unit
+* C1 ended on first syllogism slide
+* C2 on Developmental homology
+
+2023 Sep 11 (Mon)
+=================
+>>>>>>> 2602ba13c6b6527da70adada58cb2b72a5e1e4e7
 
 ----------------------------------------------------------------------
 
