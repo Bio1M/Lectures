@@ -116,11 +116,17 @@ intro.html: intro.step
 ## ns.outline.pdf: ns.txt
 
 #### Evolutionary processes (P25 ⇒ P23)
-processes.draft.pdf: processes.txt
-processes.final.pdf: processes.txt
-processes.handouts.pdf: processes.txt
-processes.complete.pdf: processes.txt
-processes.outline.pdf: processes.txt
+## processes.draft.pdf: processes.txt
+## processes.final.pdf: processes.txt
+## processes.handouts.pdf: processes.txt
+## processes.complete.pdf: processes.txt
+## processes.outline.pdf: processes.txt
+
+Ignore += punnett.jpg
+punnett.jpg: hlw/20Evol_images/image08.jpg
+	convert -crop 1280x960+0+0 $< $@ 
+
+Sources += mn.tsv
 
 ## Flopped sickle looks like Taiwan; don't worry about it
 Ignore += sickle.jpg
