@@ -50,21 +50,19 @@ Loci
 
 ----------------------------------------------------------------------
 
-Two definitions of evolution
+Evolution
 
-	ADD Redo, no book. Maybe ask them whether there are other mechanisms besides
-	natural selection
+	Heritable changes in species traits over time
 
-	_Lecture_: heritable changes in species traits over time
+	Driven by changes in allele frequencies
 
-	_Book_: changes in allele frequencies
+	POLL What processes _cause_ evolution?
 
-	These definitions are consistent; use the one which helps you think
-	clearly
+		NOANS
 
 ----------------------------------------------------------------------
 
-SEC Analyzing genotype frequencies | S23.1 (2ndEd S25.2)
+SEC Analyzing genotype frequencies | S20.2–20.3
 
 ----------------------------------------------------------------------
 
@@ -118,28 +116,36 @@ Example: peppered moths
 	If individuals with genotype $XY$ have the same phenotype (on
 	average) as those with $XX$, we say that $X$ is a [dominant] allele
 	and $Y$ is a [recessive] allele.  
+		
+		We will call this [simple dominance]
 
-	If $XY$ individuals have an intermediate phenotype (between $XX$ and
-	$YY$, we say $X$ and $Y$ are [incompletely dominant].
+		This is rarely _exactly_ true, but often close enough to true.
 
 ----------------------------------------------------------------------
 
-Co-dominance
+Allele interactions
 
-	Co-dominance means when both phenotypes are expressed.
-	Whatever that would mean.
+	When neither allele dominates, a variety of complicated things can happen.
 
-	Examples?
+	People also tell complicated stories about naming these things. We're also
+	not going to worry about that:
 
-	a very particular term that should fall under incomplete
-	dominance
+		Co-dominance
 
-	People shouldn't worry about this distinction, and you
-	shouldn't worry about it for this course
+		Incomplete dominance
 
-		Notice that it's not in bold
+		We will use [complex dominance] for anything that's not very close to
+		simple dominance
 
-	COMMENT Tell Dushoff to stop, if he's getting carried away
+	NOTES Table 20.1
+
+----------------------------------------------------------------------
+
+PSLIDE ABO Blood groups
+
+WIDEFIG hlw/20Evol_images/image06.jpg
+
+ADD Pea/maize, corn from wikipedia (turtles), mixes, …
 
 ----------------------------------------------------------------------
 
@@ -200,8 +206,7 @@ Activity: Professional coin flipping
 
 ----------------------------------------------------------------------
 
-
-Hardy-Weinberg distribution
+Hardy-Weinberg distribution | F20.4
 
 	The Hardy-Weinberg distribution is the distribution expected if
 	alleles work like coins (random and independent).
@@ -225,13 +230,13 @@ Hardy-Weinberg distribution
 
 PSLIDE Sea turtles
 
-FIG Pearson/F26_processes/26_00_albino_sea_turtle_L.jpg
+ADD \url{https://en.wikipedia.org/wiki/Dominance_%28genetics%29}
 
 ----------------------------------------------------------------------
 
 PSLIDE Hardy-Weinberg distribution
 
-FIG Pearson/F26_processes/26_02_Hardy_Weinberg_II_L.jpg
+FIG punnett.jpg
 
 ----------------------------------------------------------------------
 
@@ -270,6 +275,9 @@ What do we mean by expected?
 
 	The `expected value' is an average of what is expected under our
 	assumptions
+
+		The idea is a conceptual average over what would happen if we did the
+		same experiment many times
 
 ----------------------------------------------------------------------
 
@@ -324,51 +332,57 @@ Differences from equilibrium
 	Hardy-Weinberg is a [null model]: it tells us what to expect if
 	complicating effects are absent
 
-	Without a null model, we couldn't start interpreting.
-
-----------------------------------------------------------------------
-
-PSLIDE Example: Human blood groups
-
-WIDEFIG Pearson/F26_processes/TB26_1_MN_blood_groups_L.jpg
+	Without a null model, we couldn't ask _how_ do observations differ from
+	expectations
 
 ----------------------------------------------------------------------
 
 Example: Human blood groups
 
 	MN blood groups in different human populations are very close to
-	Hardy-Weinberg equilibrium | Table 23.1 (2ndEd 25.1)
+	Hardy-Weinberg equilibrium 
+
+		NOTES \url{https://tinyurl.com/MN-morning-2023}
+
+		NOTES \url{https://tinyurl.com/MN-afternoon-2023}
 
 		No evidence for non-random mating, or for fitness differences.
 
 		This _does not_ mean it's not happening, but _probably_ means
 		that it's small
 
+		Especially when we observe the same thing many times
+
 ----------------------------------------------------------------------
 
 Activity: Human blood groups at the global level
 
-	ANS Observed 0.386; 0.361; 0.253
+	POLL At the global level, how will MN blood groups compare to HW
+	expectations? | At the global level, how will MN blood groups compare to HW
+	expectations? More homozygotes; near expectation; fewer homozygotes
 
-	ANS Expected 0.321; 0.491; 0.188
+		NOANS
 
-	ANS More homozygotes than expected
+	POLL What did we find? | What did we find? More homozygotes; near expectation; fewer homozygotes
 
-	ANS They are not in equilibrium, because mating is not random across
-	these groups
+		ANS More homozygotes
 
-	ANS These data are telling us different (reasonable) stories at
-	different scales
+	POLL Why?
+
+		ANS Mostly because mating is not random
+
+		ANS These data are telling us different (reasonable) stories at different
+		scales
 
 ----------------------------------------------------------------------
 
 PSLIDE Example: Human HLA genes
 
-WIDEFIG Pearson/F26_processes/TB26_2_HLA_genotypes_L.jpg
+ADD Some info!!
 
 ----------------------------------------------------------------------
 
-Example: Human HLA genes | Table 23.2 (2ndEd 25.2)
+Example: Human HLA genes
 
 	HLA genes are used by the immune system to recognize disease-causing
 	organisms
@@ -379,11 +393,13 @@ Example: Human HLA genes | Table 23.2 (2ndEd 25.2)
 	Data shows that more people are heterozygous for HLA genes than
 	would be expected under the Hardy-Weinberg assumption
 
+	ADD a data link
+
 ----------------------------------------------------------------------
 
 Heterozygous HLA genes
 
-	Why might more people be heterozygous for HLA genes than predicted
+	POLL Why might more people be heterozygous for HLA genes than predicted
 	by Hardy-Weinberg?
 
 		ANS Heterozygous people might be more likely to survive
@@ -402,11 +418,17 @@ Heterozygous HLA genes
 
 ----------------------------------------------------------------------
 
-SEC Types of natural selection | S23.2 (2ndEd S25.3)
+SEC Types of natural selection | S20.4 (again!)
 
 ----------------------------------------------------------------------
 
-TSS Directional selection
+SS Trait level
+
+----------------------------------------------------------------------
+
+Directional selection | F20.8
+
+BCC
 
 	[Directional selection] tends to move a population in a particular
 	direction
@@ -415,17 +437,11 @@ TSS Directional selection
 
 		Human brains
 
-----------------------------------------------------------------------
+NCC
 
-PSLIDE Cliff swallow example
+SIDEFIG hlw/20Evol_images/image16.jpg
 
-FIG webpix/swallows.jpg
-
-----------------------------------------------------------------------
-
-PSLIDE Cliff swallow example
-
-FIG Pearson/F26_processes/26_05b_directional_select_L.jpg
+EC
 
 ----------------------------------------------------------------------
 
@@ -449,17 +465,19 @@ Multi-directional selection
 
 ----------------------------------------------------------------------
 
-TSS Stabilizing selection
+Stabilizing selection | F20.7
+
+BCC
 
 	[Stabilizing selection] tends to keep the population where it is
 
-		Example: human birthweights | Fig 23.4 (2ndEd 25.4)
+		ANS Usually because population is already adapted
 
-----------------------------------------------------------------------
+NCC
 
-PSLIDE Stabilizing selection
+SIDEFIG hlw/20Evol_images/image13.jpg
 
-FIG Pearson/F26_processes/26_06b_stabilizing_select_L.jpg
+EC
 
 ----------------------------------------------------------------------
 
@@ -482,22 +500,39 @@ Connections between selection types
 			ANS Things often develop by directional selection, but at any given
 			time, most of what we see is under stabilizing selection
 
+			ANS Because most organisms are highly adapted
+
 ----------------------------------------------------------------------
 
-TSS Disruptive selection
+Disruptive selection | F20.9
 
 	Disruptive selection favors phenotypes _different_ from the average
-	value | Fig 23.5 (2ndEd 25.5)
+	value
 
-		Black-bellied seedcrackers
+		Black-bellied seedcrackers have different types with different bill
+		sizes. 
 
-		Animals that get eaten a lot may want to look different from
-		their peers
+			Big bills may be good for big seeds and small for small
 
-	Disruptive selection may lead to [speciation] -- the formation of
+			There may not _be_ a lot of medium seeds in many forests
+
+		Animals that get eaten a lot ([prey]) may want to look different from
+		their peers so that the [predators] that eat them don't find them as
+		easily
+
+	Disruptive selection can lead to [speciation] -- the formation of
 	new species.
 
-	ADD Could clarify here that you mean a population average, we expect the population to move
+	ADD Could clarify here that you mean a population average, we expect the population to move. Don't understand 2023 Sep 13 (Wed)
+
+----------------------------------------------------------------------
+
+Frequency dependence
+
+	Disruptive selection is closely related to [frequency dependence]
+
+	Frequency dependence is the idea that some trait types do relatively better
+	if they are rare.
 
 ----------------------------------------------------------------------
 
@@ -509,19 +544,49 @@ FIG webpix/seedcracker.jpg
 
 PSLIDE Disruptive selection
 
-FIG Pearson/F26_processes/26_07b_disruptive_select_L.jpg
+ADD hlw
 
 ----------------------------------------------------------------------
 
-TSS Balancing selection
+SS Allele level
+
+----------------------------------------------------------------------
+
+Positive/negative selection
+
+	An allele that has greater fitness than others _in a particular context_ is
+	called [advantageous]
+
+		It will tend to increase due to [positive] (natural) selection
+
+	An allele that has less fitness than others _in a particular context_ is
+	called [deleterious]
+
+		It will tend to decrease due to [negative] (natural) selection
+
+	The context can change when the environment changes, or \ldots
+
+		ANS When other alleles change
+
+----------------------------------------------------------------------
+
+Balancing selection
 
 	Balancing selection tends to maintain allele diversity
 
 		When there is no single best allele
 
-	[Heterozygote advantage]: when heterozygotes have higher fitness
+	Disruptive selection at the trait level will always cause some balancing
+	selection
 
-	[Frequency dependence]: when rare types have higher fitness
+		ANS If natural selection is pushing in different directions, there must
+		be some different alleles involved
+
+	Balancing selection can also be caused by [heterozygote advantage]: when
+	heterozygotes have higher fitness
+
+		ANS The only way to get a heterozygote is by having different alleles
+		combine
 
 ----------------------------------------------------------------------
 
@@ -569,18 +634,31 @@ BC
 
 NC
 
-SIDEFIG Pearson/F26_processes/26_07b_disruptive_select_L.jpg
+SIDEFIG webpix/seedcracker.jpg
 
 EC
 
+----------------------------------------------------------------------
+
+Alleles and traits
+
+	Most traits that we measure depend on many alleles from many different loci
+
+	We _learn_ a lot from simple traits that depend on a single locus
+
+		Simple to study
+
+		Simple to explain
+
+	Changes at one locus can affect the selection environment at another locus
 
 ----------------------------------------------------------------------
 
-SEC Other evolutionary mechanisms
+SEC Other evolutionary mechanisms | S20.5
 
 ----------------------------------------------------------------------
 
-TSS Genetic drift
+TSS Genetic drift | F20.13
 
 	[Genetic drift] is change in allele frequencies due to random
 	sampling:
@@ -590,6 +668,9 @@ TSS Genetic drift
 		Offspring receive certain parental alleles, and not others
 
 	These factors will lead to an accumulation of random changes in
+	allele frequencies
+
+	Drift is a likely reason why different human populations have different MN
 	allele frequencies
 
 ----------------------------------------------------------------------
@@ -603,19 +684,25 @@ Thought experiment
 	Now imagine choosing 100 alleles at random (with replacement) from a
 	population of 50 $A$ and 50 $B$ alleles
 
-		Repeat, using new population as a starting point | Fig 23.6 (2ndEd 25.6)
+		Repeat, using new population as a starting point | F20.13
 
 ----------------------------------------------------------------------
 
 PSLIDE Genetic drift
 
-FIG Pearson/F26_processes/26_12_2_genetic_drift_L.jpg
+SIDEFIG hlw/20Evol_images/image27.jpg
 
 ----------------------------------------------------------------------
 
 PSLIDE Genetic drift
 
-FIG Pearson/F26_processes/26_12_1_genetic_drift_L.jpg
+SIDEFIG hlw/20Evol_images/image28.jpg
+
+----------------------------------------------------------------------
+
+PSLIDE Genetic drift
+
+SIDEFIG hlw/20Evol_images/image29.jpg
 
 ----------------------------------------------------------------------
 
@@ -648,18 +735,22 @@ Fixation and loss
 
 	Advantageous alleles are often (not always) fixed
 
+		ANS Positive selection
+
 	Disadvantageous alleles are usually (not always) lost
+
+		ANS Negative selection
 
 	Alleles with [neutral] differences (no selective difference) will be
 	fixed or lost at random
 
-		This is also true for alleles with small effects
+		This is also true for alleles with small effects!
 
 	Drift tends to reduce genetic variation
 
 ----------------------------------------------------------------------
 
-TSS Gene flow | S23.4 (2ndEd S25.4)
+TSS Gene flow
 
 	[Gene flow] is the movement of alleles from one population to another
 
@@ -674,7 +765,7 @@ TSS Gene flow | S23.4 (2ndEd S25.4)
 
 ----------------------------------------------------------------------
 
-TSS Mutation | S23.5 (2ndEd S25.5)
+TSS Mutation
 
 	[Mutations] are heritable errors in copying DNA
 
@@ -729,7 +820,7 @@ Complex organisms
 
 		Much evidence of intermediate forms
 
-	NOTES Check out videos of ``evolution of the eye''
+	NOTES Evolution of the eye video \url{https://www.pbslearningmedia.org/resource/tdc02.sci.life.evo.nilssoneye/evolution-of-the-eye/}
 
 ----------------------------------------------------------------------
 
@@ -737,10 +828,8 @@ What about sex?
 
 	Sex does not _directly_ change allele frequencies
 
-		Your book may say this means it's not an ``evolutionary process'' -- 
-		don't worry about that 
-
-	It does act to bring alleles together (and to split them apart)
+	It does act to bring alleles together (and to split them apart), this is
+	called [recombination]
 
 	Sex is not a source of new alleles
 
@@ -781,10 +870,16 @@ Inbreeding depression
 		As populations get smaller, inbreeding becomes more common
 
 	Wildlife studies show that panthers with both parents from Florida
-	(small population) do not survive well | Fig 23.14
+	(small population) do not survive well | Fig 20.14
 
 	Human demographic studies show strikingly lower survival for children of
 	first cousins
+
+----------------------------------------------------------------------
+
+PSLIDE Florida panthers
+
+HFIG 0.8 hlw/20Evol_images/image30.jpg
 
 ----------------------------------------------------------------------
 
@@ -797,54 +892,49 @@ TSS Sexual selection
 
 ----------------------------------------------------------------------
 
-Example: zebra finches
+Example: Pukeko
 
-	Males but not females have colorful orange beaks
+BCC
 
-	Hypothesis: these beaks make males more attractive to females | Fig 23.18 (2ndEd 25.17)
+	Studied by Quinn lab here at Mac
+
+	Hypothesis: Bright crests make males more attractive to females
+
+NCC
+
+SIDEFIG webpix/pukeko.jpg
+
+EC
 
 ----------------------------------------------------------------------
 
-PSLIDE Zebra finches
+Activity: Pukeko experiments
 
-FIG Pearson/F26_processes/un/26_08a_zebra_finch_beaks_U.jpg
+	POLL How would you test this hypothesis?
 
-----------------------------------------------------------------------
+		ANS Give some males bigger or brighter crests
 
-Activity: Zebra finch experiments
-
-	How would you test this hypothesis?
-
-		ANS Make some males' beaks more orange. How?
+			ANS Paint, cardboard, dietary supplement
 
 		ANS Test whether they are preferred by females
 
 ----------------------------------------------------------------------
 
-Results: Zebra finch experiments
+Pukeko analysis
 
-	ANS Treatment males were fed enriched diets
+	Why not simply find and use birds with naturally better crests?
 
-		ANS Their beaks became more orange
-
-		ANS They were preferred by females
-
-	Why not simply find and use birds whose beaks are naturally more or less
-	orange?
-
-		ANS Orange-beaked birds may differ in other ways (bigger,
+		ANS The crests may be better because they differ in other ways (bigger,
 		healthier, etc.)
 
-	What is a possible problem with the conclusion that females prefer
-	birds with orange beaks?
+		ANS We always want to make groups as similar as we can
 
-		ANS The diet enrichment may have other effects 
+	What is a concern with the methods proposed? What could you do about it?
 
-----------------------------------------------------------------------
+		ANS Whatever we do to improve the crests may have other effects
 
-PSLIDE Finch results
-
-FIG Pearson/F26_processes/26_08b_zebra_finch_beaks_L.jpg
+		ANS Try to compensate and make treatment and control as similar as
+		possible
 
 ----------------------------------------------------------------------
 
@@ -883,7 +973,7 @@ Investment in reproduction
 
 Testing the theory
 
-	How might we test the theory that males compete more sexually
+	POLL How might we test the theory that males compete more sexually
 	because females invest more in offspring?
 
 		ANS Are there any species where these roles seem to be reversed?
@@ -926,7 +1016,7 @@ Example: elephant seals
 
 	Huge variation in reproductive success
 
-	Huge size difference between males and females (strong sexual dimorphism) | Fig 23.19 (2ndEd 25.19)
+	Huge size difference between males and females (strong sexual dimorphism) 
 
 ----------------------------------------------------------------------
 
@@ -938,7 +1028,9 @@ PICSLIDE WIDEFIG webpix/seal_battle.jpg
 
 ----------------------------------------------------------------------
 
-What about people?
+EXTRA What about people?
+
+	ADD above: more about tradeoffs between sexual selection and other goals
 
 	Men and women have pretty clear size differences
 
@@ -972,7 +1064,7 @@ Conclusions
 
 	[Genetic drift] and [gene flow] are also non-adaptive drivers of evolution
 
-	The adaptation we see is the result of all of these processes:
+	The organisms we see are the result of all of these processes:
 
 		adaptive, non-adaptive, previously adaptive
 

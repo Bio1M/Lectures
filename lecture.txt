@@ -8,6 +8,7 @@ Intro unit should take a little less than two periods (or a little more than two
 
 Ended week at:
 * End of section (morning)
+	* first syllogism slide
 * Developmental homologies (afternoon)
 
 Post: fruit fly links
@@ -18,6 +19,14 @@ Start with:
 
 2023 Sep 11 (Mon)
 =================
+
+<<<<<<< HEAD
+=======
+
+Ended Tuesday:
+* Why do we acclimate?
+* Mouse-breeding activity
+>>>>>>> 4d4ee23cd1c9d91626d9f9bfa893e85aa6dbe513
 
 ----------------------------------------------------------------------
 
