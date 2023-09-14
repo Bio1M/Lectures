@@ -651,6 +651,8 @@ Acclimation
 
 		COMMENT A story about digging holes
 
+		COMMENT This is why moths orbit lights that aren't in the sky
+
 ----------------------------------------------------------------------
 
 Tradeoffs
