@@ -122,7 +122,6 @@ Example: peppered moths
 		We will call this [simple dominance]
 
 		This is rarely _exactly_ true, but often close enough to true.
-		worry about these details
 
 ----------------------------------------------------------------------
 
@@ -137,7 +136,8 @@ Allele interactions
 
 		Incomplete dominance
 
-		We will use [complex dominance]
+		We will use [complex dominance] for anything that's not very close to
+		simple dominance
 
 	NOTES Table 20.1
 
@@ -146,6 +146,8 @@ Allele interactions
 PSLIDE ABO Blood groups
 
 WIDEFIG hlw/20Evol_images/image06.jpg
+
+ADD Pea/maize, corn from wikipedia (turtles), mixes, …
 
 ----------------------------------------------------------------------
 
@@ -332,15 +334,8 @@ Differences from equilibrium
 	Hardy-Weinberg is a [null model]: it tells us what to expect if
 	complicating effects are absent
 
-	Without a null model, we couldn't start interpreting.
-
-----------------------------------------------------------------------
-
-PSLIDE Example: Human blood groups
-
-WIDEFIG Pearson/F26_processes/TB26_1_MN_blood_groups_L.jpg
-
-ADD Replace this example
+	Without a null model, we couldn't ask _how_ do observations differ from
+	expectations
 
 ----------------------------------------------------------------------
 
@@ -365,11 +360,12 @@ Example: Human blood groups
 Activity: Human blood groups at the global level
 
 	POLL At the global level, how will MN blood groups compare to HW
-	expectations? | More homozygotes; near expectation; fewer homozygotes
+	expectations? | At the global level, how will MN blood groups compare to HW
+	expectations? More homozygotes; near expectation; fewer homozygotes
 
 		NOANS
 
-	POLL What did we find? | More homozygotes; near expectation; fewer homozygotes
+	POLL What did we find? | What did we find? More homozygotes; near expectation; fewer homozygotes
 
 		ANS More homozygotes
 
@@ -384,7 +380,7 @@ Activity: Human blood groups at the global level
 
 PSLIDE Example: Human HLA genes
 
-WIDEFIG Pearson/F26_processes/TB26_2_HLA_genotypes_L.jpg
+ADD Some info!!
 
 ----------------------------------------------------------------------
 
@@ -434,6 +430,8 @@ SS Trait level
 
 Directional selection | F20.8
 
+BCC
+
 	[Directional selection] tends to move a population in a particular
 	direction
 
@@ -441,19 +439,11 @@ Directional selection | F20.8
 
 		Human brains
 
-----------------------------------------------------------------------
+NCC
 
-PSLIDE Cliff swallow example
+SIDEFIG hlw/20Evol_images/image16.jpg
 
-ADD finch picture
-
-FIG webpix/swallows.jpg
-
-----------------------------------------------------------------------
-
-PSLIDE Cliff swallow example
-
-FIG Pearson/F26_processes/26_05b_directional_select_L.jpg
+EC
 
 ----------------------------------------------------------------------
 
@@ -479,9 +469,17 @@ Multi-directional selection
 
 Stabilizing selection | F20.7
 
+BCC
+
 	[Stabilizing selection] tends to keep the population where it is
 
-	ADD hlw
+		ANS Usually because population is already adapted
+
+NCC
+
+SIDEFIG hlw/20Evol_images/image13.jpg
+
+EC
 
 ----------------------------------------------------------------------
 
@@ -503,6 +501,8 @@ Connections between selection types
 
 			ANS Things often develop by directional selection, but at any given
 			time, most of what we see is under stabilizing selection
+
+			ANS Because most organisms are highly adapted
 
 ----------------------------------------------------------------------
 
@@ -636,10 +636,23 @@ BC
 
 NC
 
-SIDEFIG Pearson/F26_processes/26_07b_disruptive_select_L.jpg
+SIDEFIG webpix/seedcracker.jpg
 
 EC
 
+----------------------------------------------------------------------
+
+Alleles and traits
+
+	Most traits that we measure depend on many alleles from many different loci
+
+	We _learn_ a lot from simple traits that depend on a single locus
+
+		Simple to study
+
+		Simple to explain
+
+	Changes at one locus can affect the selection environment at another locus
 
 ----------------------------------------------------------------------
 
@@ -647,7 +660,7 @@ SEC Other evolutionary mechanisms | S20.5
 
 ----------------------------------------------------------------------
 
-TSS Genetic drift
+TSS Genetic drift | F20.13
 
 	[Genetic drift] is change in allele frequencies due to random
 	sampling:
@@ -657,6 +670,9 @@ TSS Genetic drift
 		Offspring receive certain parental alleles, and not others
 
 	These factors will lead to an accumulation of random changes in
+	allele frequencies
+
+	Drift is a likely reason why different human populations have different MN
 	allele frequencies
 
 ----------------------------------------------------------------------
@@ -676,13 +692,19 @@ Thought experiment
 
 PSLIDE Genetic drift
 
-FIG Pearson/F26_processes/26_12_2_genetic_drift_L.jpg
+SIDEFIG hlw/20Evol_images/image27.jpg
 
 ----------------------------------------------------------------------
 
 PSLIDE Genetic drift
 
-FIG Pearson/F26_processes/26_12_1_genetic_drift_L.jpg
+SIDEFIG hlw/20Evol_images/image28.jpg
+
+----------------------------------------------------------------------
+
+PSLIDE Genetic drift
+
+SIDEFIG hlw/20Evol_images/image29.jpg
 
 ----------------------------------------------------------------------
 
@@ -857,6 +879,12 @@ Inbreeding depression
 
 ----------------------------------------------------------------------
 
+PSLIDE Florida panthers
+
+HFIG 0.8 hlw/20Evol_images/image30.jpg
+
+----------------------------------------------------------------------
+
 TSS Sexual selection
 
 	[Sexual selection] is a form of natural selection
@@ -868,11 +896,17 @@ TSS Sexual selection
 
 Example: Pukeko
 
+BCC
+
 	Studied by Quinn lab here at Mac
 
 	Hypothesis: Bright crests make males more attractive to females
 
-	ADD Picture
+NCC
+
+SIDEFIG webpix/pukeko.jpg
+
+EC
 
 ----------------------------------------------------------------------
 
@@ -892,10 +926,12 @@ Pukeko analysis
 
 	Why not simply find and use birds with naturally better crests?
 
-		ANS We can't analyze cause and effect. The crests may be better because
-		they differ in other ways (bigger, healthier, etc.)
+		ANS The crests may be better because they differ in other ways (bigger,
+		healthier, etc.)
 
-	What are some concerns with the methods proposed?
+		ANS We always want to make groups as similar as we can
+
+	What is a concern with the methods proposed? What could you do about it?
 
 		ANS Whatever we do to improve the crests may have other effects
 
@@ -939,7 +975,7 @@ Investment in reproduction
 
 Testing the theory
 
-	How might we test the theory that males compete more sexually
+	POLL How might we test the theory that males compete more sexually
 	because females invest more in offspring?
 
 		ANS Are there any species where these roles seem to be reversed?
@@ -982,7 +1018,7 @@ Example: elephant seals
 
 	Huge variation in reproductive success
 
-	Huge size difference between males and females (strong sexual dimorphism) | Fig 23.19 (2ndEd 25.19)
+	Huge size difference between males and females (strong sexual dimorphism) 
 
 ----------------------------------------------------------------------
 
@@ -995,6 +1031,8 @@ PICSLIDE WIDEFIG webpix/seal_battle.jpg
 ----------------------------------------------------------------------
 
 EXTRA What about people?
+
+	ADD above: more about tradeoffs between sexual selection and other goals
 
 	Men and women have pretty clear size differences
 
@@ -1028,7 +1066,7 @@ Conclusions
 
 	[Genetic drift] and [gene flow] are also non-adaptive drivers of evolution
 
-	The adaptation we see is the result of all of these processes:
+	The organisms we see are the result of all of these processes:
 
 		adaptive, non-adaptive, previously adaptive
 

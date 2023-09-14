@@ -117,6 +117,7 @@ intro.html: intro.step
 
 #### Evolutionary processes (P25 ⇒ P23)
 ## processes.draft.pdf: processes.txt
+## processes.poll.csv: processes.txt
 ## processes.final.pdf: processes.txt
 ## processes.handouts.pdf: processes.txt
 ## processes.complete.pdf: processes.txt
