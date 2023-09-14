@@ -102,8 +102,6 @@ Example: peppered moths
 
 	NOTES Kettlewell's experiment \url{https://en.wikipedia.org/wiki/Kettlewell%27s_experiment}
 
-	ADD Look up heterozygotes
-
 	Two different alleles possible at the wing color gene: $A_1$
 	and $A_2$.
 

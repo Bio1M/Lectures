@@ -634,14 +634,16 @@ Acclimation
 
 	Why do we acclimate?
 
-		ANS It has probably evolved because acclimation is beneficial
+		ANS It has probably evolved as an adaptive response
+
+		ANS because acclimation is beneficial
 
 	Are responses to changed conditions always good?
 
-		ANS No. Systems respond in ways that have usually been good through
+		ANS No. Systems respond in ways that have _usually_ been good through
 		evolutionary time 
 
-		ANS Some forms of severe altitude sickness are probably due to
+		ANS Some forms of altitude sickness are probably due to
 		acclimation systems going off track
 
 		ANS We do it because we're programmed to do it; we're programmed to do it
@@ -674,7 +676,8 @@ Historical constraints
 
 		Vestigial traits are often things that evolution can't easily get rid of
 
-		Blind spot in the vertebrate eye | \url{https://en.wikipedia.org/wiki/Blind_spot_(vision)}
+		Blind spot in the vertebrate eye |
+		\url{https://en.wikipedia.org/wiki/Blind_spot_(vision)}
 
 		Humans are not well designed to be upright
 
