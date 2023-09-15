@@ -459,6 +459,8 @@ Multi-directional selection
 
 	Why might small-beaked finches have advantages?
 
+		ANS May be faster at processing small seeds
+
 		ANS Can use the resources for something else
 
 			ANS Faster growth, more fat storage 
