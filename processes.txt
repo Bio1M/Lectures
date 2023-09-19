@@ -145,7 +145,7 @@ PSLIDE ABO Blood groups
 
 WIDEFIG hlw/20Evol_images/image06.jpg
 
-ADD Pea/maize, corn from wikipedia (turtles), mixes, …
+ADD Pea/maize, corn, mixes, \url{https://en.wikipedia.org/wiki/Dominance_%28genetics%29}
 
 ----------------------------------------------------------------------
 
@@ -225,12 +225,6 @@ Hardy-Weinberg distribution | F20.4
 		ANS Because you could get $A_1$ from Mom and $A_2$ from Dad,
 			or $A_1$ from Dad and $A_2$ from Mom
 			\ldots two ways to do it
-
-----------------------------------------------------------------------
-
-PSLIDE Sea turtles
-
-ADD \url{https://en.wikipedia.org/wiki/Dominance_%28genetics%29}
 
 ----------------------------------------------------------------------
 
@@ -378,7 +372,7 @@ Activity: Human blood groups at the global level
 
 PSLIDE Example: Human HLA genes
 
-ADD Some info!!
+ADD Data table if possible
 
 ----------------------------------------------------------------------
 
@@ -392,8 +386,6 @@ Example: Human HLA genes
 
 	Data shows that more people are heterozygous for HLA genes than
 	would be expected under the Hardy-Weinberg assumption
-
-	ADD a data link
 
 ----------------------------------------------------------------------
 
@@ -525,7 +517,7 @@ Disruptive selection | F20.9
 	Disruptive selection can lead to [speciation] -- the formation of
 	new species.
 
-	ADD Could clarify here that you mean a population average, we expect the population to move. Don't understand 2023 Sep 13 (Wed)
+	COMMENT See also F20.9
 
 ----------------------------------------------------------------------
 
@@ -546,7 +538,7 @@ FIG webpix/seedcracker.jpg
 
 PSLIDE Disruptive selection
 
-ADD hlw
+WIDEFIG hlw/20Evol_images/image19.jpg
 
 ----------------------------------------------------------------------
 
@@ -626,6 +618,8 @@ BC
 
 			ANS frequency dependence
 
+			ANS disruptive selection
+
 	What happens when large-billed and small-billed individuals breed?
 
 		ANS They could have low-fitness offspring
@@ -655,6 +649,21 @@ Alleles and traits
 	Changes at one locus can affect the selection environment at another locus
 
 ----------------------------------------------------------------------
+
+PSLIDE Alleles and traits
+
+BC
+
+HFIG 0.9 webpix/dwarfCorn.jpg
+
+NC
+
+	From Wikipedia page on genetic dominance
+
+EC
+
+----------------------------------------------------------------------
+
 
 SEC Other evolutionary mechanisms | S20.5
 
@@ -834,6 +843,8 @@ What about sex?
 	called [recombination]
 
 	Sex is not a source of new alleles
+
+		COMMENT Depending on how we define alleles
 
 		But it is a source of new combinations
 
