@@ -6,9 +6,9 @@
 
 Intro unit should take a little less than two periods (or a little more than two with IA introduction).
 
-<<<<<<< HEAD
 Ended week at:
 * End of section (morning)
+	* first syllogism slide
 * Developmental homologies (afternoon)
 
 Post: fruit fly links
@@ -16,14 +16,17 @@ Post: fruit fly links
 Start with:
 * Car trouble
 * Fruit fly clarification
-=======
-Ended week 1 (L3) around the Evolution/NS break of the NS unit
-* C1 ended on first syllogism slide
-* C2 on Developmental homology
 
 2023 Sep 11 (Mon)
 =================
->>>>>>> 2602ba13c6b6527da70adada58cb2b72a5e1e4e7
+
+<<<<<<< HEAD
+=======
+
+Ended Tuesday:
+* Why do we acclimate?
+* Mouse-breeding activity
+>>>>>>> 4d4ee23cd1c9d91626d9f9bfa893e85aa6dbe513
 
 ----------------------------------------------------------------------
 
