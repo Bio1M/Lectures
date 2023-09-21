@@ -3,13 +3,13 @@ CHAPTER Speciation
 
 ----------------------------------------------------------------------
 
-TSEC How are species defined? | S24.1 \second{S26.1}
+TSEC How are species defined? PP S24.1 \second{S26.1}
 
 	Conceptually, we define species as ``evolutionary units'':
 
 		Individuals within a species are evolving together
 
-		Individuals of different species evolve independently | Fig 24.1 \second{ Fig 26.1}
+		Individuals of different species evolve independently PP Fig 24.1 \second{ Fig 26.1}
 
 	It is difficult to make this conceptual definition into a practical
 	definition
@@ -21,7 +21,11 @@ TSEC How are species defined? | S24.1 \second{S26.1}
 
 ----------------------------------------------------------------------
 
-PICSLIDE WIDEFIG Pearson/F27_speciation/27_01_speciation.jpg
+Speciation
+
+F21.6
+
+F21.9
 
 ----------------------------------------------------------------------
 
@@ -168,11 +172,7 @@ TSS Phylogenetic species concept
 	A [monophyletic group] is a group _defined by_ a single common
 	ancestor
 
-		All descendants of the ancestor must be in the group | Fig 24.2 \second{Fig 26.2}
-
-----------------------------------------------------------------------
-
-PICSLIDE HIGHFIG Pearson/F27_speciation/un/27_02b_phy_species_concept.jpg
+		And consisting of all descendants of the ancestor
 
 ----------------------------------------------------------------------
 
@@ -186,12 +186,14 @@ Phylogenetic species concept
 
 	Disadvantages
 
-		Hard to estimate phylogenies
+		Need to estimate phylogenies; can be hard
 
 		Requires a lot of information about populations
 
-	Believers in the phylogenetic species concept recognize a _lot_ of
+	Believers in the phylogenetic species concept recognize a lot of
 	species
+
+		e.g., two species of African elephant
 
 ----------------------------------------------------------------------
 
@@ -235,7 +237,7 @@ How do species split?
 
 ----------------------------------------------------------------------
 
-TSEC Species divergence in allopatry | S24.2 \second{S26.2}
+TSEC Species divergence in allopatry PP S24.2 \second{S26.2}
 
 	[Allopatry] refers to organisms living apart from each other
 
@@ -249,7 +251,7 @@ TSEC Species divergence in allopatry | S24.2 \second{S26.2}
 			ANS Different environments, or different adaptive mutations
 
 	How can two populations of the same species be isolated from each
-	other? | Fig 24.5
+	other? PP Fig 24.5
 
 ----------------------------------------------------------------------
 
@@ -264,7 +266,7 @@ TSS Dispersal
 
 ----------------------------------------------------------------------
 
-PICSLIDE HIGHFIG Pearson/F27_speciation/27_04a_allopatry.jpg
+Peripatric speciation F21.8
 
 ----------------------------------------------------------------------
 
@@ -288,19 +290,11 @@ TSS Vicariance
 
 ----------------------------------------------------------------------
 
-PICSLIDE WIDEFIG freeman/24L/24_05a_vicariance-L.jpg
+Shrimp
 
-----------------------------------------------------------------------
+F21.7
 
-PICSLIDE WIDEFIG freeman/24L/24_05b_vicariance-L.jpg
-
-----------------------------------------------------------------------
-
-PICSLIDE WIDEFIG freeman/24L/24_05c_vicariance-L.jpg
-
-----------------------------------------------------------------------
-
-PICSLIDE WIDEFIG freeman/24L/24_05d_vicariance-L.jpg
+ADD co-speciation (maybe)
 
 ----------------------------------------------------------------------
 
@@ -318,9 +312,11 @@ NC
 
 EC
 
+ADD Ratite pictures
+
 ----------------------------------------------------------------------
 
-TSEC Species divergence in sympatry | S24.3 \second{S26.3}
+TSEC Species divergence in sympatry PP S24.3 \second{S26.3}
 
 	[Sympatry] refers to organisms living in the same geographic area
 
@@ -345,7 +341,7 @@ SS Disruptive selection
 
 ----------------------------------------------------------------------
 
-Divergence by partitioning habitats | Fig 24.7 \second{Fig 26.10}
+Divergence by partitioning habitats PP Fig 24.7 \second{Fig 26.10}
 
 	Insects that feed on many different plants may be subject to
 	divergent selection
@@ -357,17 +353,11 @@ Divergence by partitioning habitats | Fig 24.7 \second{Fig 26.10}
 	In other cases, individuals may mate preferentially with individuals
 	with the same host plant, and divergence may occur
 
-----------------------------------------------------------------------
-
-PICSLIDE
-
-WIDEFIG freeman/Ch24/fg24_07.jpg
+	ADD Something about adaptation
 
 ----------------------------------------------------------------------
 
-PICSLIDE
-
-HIGHFIG freeman/L24/fg24_08.jpg
+Hawthorn flies
 
 ----------------------------------------------------------------------
 
@@ -397,7 +387,7 @@ Polyploidy
 
 	Sometimes these [polyploid] individuals survive, and can even mate
 
-	This produces instant reproductive isolation | Fig.~24.9
+	This produces instant reproductive isolation PP Fig.~24.9
 
 	It can also provide material for new genetic innovation
 
@@ -414,7 +404,9 @@ PICSLIDE FIG webpix/clawed_frog.jpg
 
 ----------------------------------------------------------------------
 
-TSEC Reuniting | S24.4 \second{S26.4}
+TSEC Reuniting PP S24.4 \second{S26.4}
+
+	ADD Rething where this should go or how it should work
 
 	What happens when isolated populations come back into contact?
 
@@ -484,7 +476,7 @@ PICSLIDE WIDEFIG webpix/sticklebacks.jpg
 
 ----------------------------------------------------------------------
 
-Sticklebacks | Box 24.1
+Sticklebacks PP Box 24.1
 
 	Closely related freshwater sticklebacks live on the bottom (benthic) or in
 	the water column (limnetic)
@@ -519,21 +511,11 @@ TSS Exclusion
 	One species might eliminate the other species, either by
 	competition, or by better success in mating
 
-		Warblers competing for mates | Fig 24.14 \second{Fig 26.12}
+		Warblers competing for mates PP Fig 24.14 \second{Fig 26.12}
 
 		Modern humans
 
-----------------------------------------------------------------------
-
-PICSLIDE HIGHFIG Pearson/F27_speciation/27_11_hybrid_zone.jpg
-
-----------------------------------------------------------------------
-
-PICSLIDE WIDEFIG Pearson/alpha24_speciation/UN_p495_1_human_species.jpg
-
-----------------------------------------------------------------------
-
-PICSLIDE WIDEFIG Pearson/alpha24_speciation/UN_p495_2_question14.jpg
+Figures or different examples needed?
 
 ----------------------------------------------------------------------
 
@@ -545,7 +527,7 @@ PICSLIDE WIDEFIG Pearson/F27_speciation/27_00_sunflower_species.jpg
 
 ----------------------------------------------------------------------
 
-Sunflowers | p.~510--512 \second{516--518}
+Sunflowers PP p.~510--512 \second{516--518}
 
 	A cool species of sunflower
 	
