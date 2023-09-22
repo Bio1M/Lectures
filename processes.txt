@@ -576,6 +576,8 @@ Balancing selection
 		ANS If natural selection is pushing in different directions, there must
 		be some different alleles involved
 
+		COMMENT Not 100% true, see seedcrackers Example below
+
 	Balancing selection can also be caused by [heterozygote advantage]: when
 	heterozygotes have higher fitness
 
