@@ -180,18 +180,40 @@ TSS Ecological species concept
 
 	Commonly used for small things, particularly small asexual things
 
+		ANS Bacteria, archaea
+
 ----------------------------------------------------------------------
 
 TSS Phylogenetic species concept
 
 	A phylogenetic species is a monophyletic group of _populations_
 
-		Must not be divisible into smaller species
+		Must not be divisible into smaller groups
 
 	A [monophyletic group] is a group _defined by_ a single common
 	ancestor
 
 		And consisting of all descendants of the ancestor
+
+----------------------------------------------------------------------
+
+Book's version of Phylogenetic species concept
+
+	Mammals could all be one species?
+
+		ANS Not if we start from populations and take the smallest grou
+
+	A group of siblings and cousins could make a species?
+
+		NOANS
+
+	Exercise: what does your family tree look like?
+
+		ANS Small groups do _not_ make distinct groups in sexual species
+
+		ANS Plus, we can start by defining populations
+
+	COMMENT Science is not really about trust
 
 ----------------------------------------------------------------------
 
@@ -209,10 +231,34 @@ Phylogenetic species concept
 
 		Requires a lot of information about populations
 
+----------------------------------------------------------------------
+
+Applications
+
 	Believers in the phylogenetic species concept recognize a lot of
 	species
 
 		e.g., two species of African elephant
+
+	\ldots and can answer practical questions:
+
+		Should we consider Sri Lankan and Indian elephants as separate species?
+
+	ADD elephant pictures
+
+----------------------------------------------------------------------
+
+Limitations
+
+	The answer might be different for different sets of genes
+
+		immune genes might group species that we don't want to group
+
+		male- or female-linked genes might give different answers than other genes
+
+	Answer might also differ depending on how you define populations
+
+		ANS Especially for asexual species
 
 ----------------------------------------------------------------------
 
@@ -252,7 +298,7 @@ How do species split?
 		diverge
 
 		ANS There is often a loop: isolation allows divergence,
-		which causes natural selection for more isolation
+		which can cause natural selection for more isolation
 
 ----------------------------------------------------------------------
 
@@ -286,11 +332,22 @@ TSS Dispersal
 
 ----------------------------------------------------------------------
 
-Peripatric speciation F21.8
+Peripatric speciation 
+
+	Populations on small islands are likely to be founded later, by small
+	groups, and to have smaller populations
+
+		ANS more opportunity for genetic drift
+
+	Islands may also have different biological or physical environments
+
+		Uniform weather, fewer food species, fewer competitors
+
+		ANS more opportunity for natural selection
 
 ----------------------------------------------------------------------
 
-PICSLIDE WIDEFIG webpix/island_lizards.png
+PICSLIDE WIDEFIG hlw/21Spec_images/image16.jpg
 
 ----------------------------------------------------------------------
 
@@ -310,15 +367,19 @@ TSS Vicariance
 
 ----------------------------------------------------------------------
 
-Shrimp
+Example: Shrimp | F21.7
 
-F21.7
-
-ADD co-speciation (maybe)
+PRESENT WIDEFIG hlw/21Spec_images/image14.jpg
 
 ----------------------------------------------------------------------
 
-Example: ratites
+PSLIDE Shrimp
+
+FIG hlw/21Spec_images/image15.jpg
+
+----------------------------------------------------------------------
+
+Example: ratites | wikipedia/Palaeognathae
 
 BC
 
@@ -332,7 +393,9 @@ NC
 
 EC
 
-ADD Ratite pictures
+----------------------------------------------------------------------
+
+PSLIDE HIGHFIG my_images/ratites.png
 
 ----------------------------------------------------------------------
 
@@ -382,7 +445,21 @@ Hawthorn flies
 
 BC
 
+	Apples are ready before hawthorns, so there should be disruptive selection
+
+	There is already evidence that reproductive isolation is evolving:
+
+		Flies raised on each type of fruit prefer to seek mates on the same type
+		of fruit
+
+	What might happen next?
+
+		ANS Each group is now more free to adapt to their specific fruit, with
+		less gene flow
+
 NC
+
+ADD Picture
 
 EC
 
@@ -409,31 +486,34 @@ TSS Genetic incompatibility
 
 Hybridization
 
-	Sometimes populations which usually don't produce successful offspring will
-	produce some successful offspring by chance
-
-	For example, sunflowers were found that resembled unsuccessful natural
-	hybrids of two other species
-
-	Breeding experiments and genetic observations suggest that is how it arose
+	Some species seem to have arisen as hybrids between two other species
 
 	Why is this surprising?
 
-		ANS Most of the hybrids have low fitness
+		ANS If they can breed successfully, how are they separate species?
 
-		ANS If hybrids can have high fitness, why would reproductive
-		isolation evolve? 
+		ANS And how did the hybrids stay separate?
 
-	How did it happen?
+	What do we conclude?
 
-		ANS Probably because of an unusual adaptation: the hybrids live
-		in drier patches than either of the ``parent'' species
-
-		ANS As a hybrid, it may have been easier for it to avoid gene flow and
-		achieve reproductive isolation
+		ANS The successful hybrid is probably a rare event that can't easily
+		happen often
 
 ----------------------------------------------------------------------
 
+Example: sunflowers | F21.14
+
+	For example, sunflowers were found that resembled observed,
+	not-very-successful natural hybrids of two other species
+
+	Scientists hypothesized the third species was a hybrid
+
+	Breeding experiments and genetic observations supported this hypothesis
+
+	Part of the reason for survival is probably that they the new species has a
+	surprising adaptation
+
+		They do best in drier patches than either of the parents
 
 ----------------------------------------------------------------------
 
@@ -464,6 +544,8 @@ Polyploidy and speciation
 
 		ANS Two copies of each gene, so it may be possible to keep one and mutate
 		one
+
+	Polyploidy events can involve individuals of the same, or different, species
 
 ----------------------------------------------------------------------
 
@@ -574,6 +656,40 @@ Exclusion
 		Warblers
 
 		Modern humans
+
+----------------------------------------------------------------------
+
+Mating success
+
+	In some reuniting areas, we see zones where there is convincing evidence for
+	better mating success of one species than the other
+
+		Most genes are dominated by one species, but mitochondrial genes are
+		mixed between two species
+
+			ANS Males, but not females of the dominant species have been doing
+			better
+
+	ADD Warbler picture
+
+----------------------------------------------------------------------
+
+Modern humans
+
+	Modern humans spread through the world and out-competed earlier human
+	populations
+
+	There is evidence that there was some inter-breeding, though
+
+	Modern _non-African_ populations show evidence of pre-modern genes
+
+----------------------------------------------------------------------
+
+PSLIDE Modern humans
+
+SIDEFIG my_images/people.png
+
+wikipedia/humans
 
 ----------------------------------------------------------------------
 
