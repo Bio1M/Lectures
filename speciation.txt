@@ -1,15 +1,41 @@
 
+EXTRA
+
+https://www.jstor.org.libaccess.lib.mcmaster.ca/stable/3084434
+* African elephant phylogent, maybe just use pix of forest and savannah elephants
+
+Think about webs of life
+
+Co-speciation?
+
+----------------------------------------------------------------------
+
 CHAPTER Speciation
 
 ----------------------------------------------------------------------
 
-TSEC How are species defined? PP S24.1 \second{S26.1}
+Speciation | F21.9
+
+BC
+
+SIDEFIG hlw/21Spec_images/image18.jpg
+
+NC
+
+	What patterns and processes allowed a single ancestor to diversify into
+	$>$10 million species?
+
+EC
+
+----------------------------------------------------------------------
+
+TSEC How are species defined? 
 
 	Conceptually, we define species as ``evolutionary units'':
 
 		Individuals within a species are evolving together
 
-		Individuals of different species evolve independently PP Fig 24.1 \second{ Fig 26.1}
+		Individuals of different species evolve independently
 
 	It is difficult to make this conceptual definition into a practical
 	definition
@@ -18,14 +44,6 @@ TSEC How are species defined? PP S24.1 \second{S26.1}
 		species
 
 		Life is complex
-
-----------------------------------------------------------------------
-
-Speciation
-
-F21.6
-
-F21.9
 
 ----------------------------------------------------------------------
 
@@ -134,7 +152,7 @@ TSS Morphological species concept
 
 ----------------------------------------------------------------------
 
-PSLIDE Meadowlarks
+PRESLIDE Meadowlarks
 
 BCC
 
@@ -161,18 +179,40 @@ TSS Ecological species concept
 
 	Commonly used for small things, particularly small asexual things
 
+		ANS Bacteria, archaea
+
 ----------------------------------------------------------------------
 
 TSS Phylogenetic species concept
 
 	A phylogenetic species is a monophyletic group of _populations_
 
-		Must not be divisible into smaller species
+		Must not be divisible into smaller groups
 
 	A [monophyletic group] is a group _defined by_ a single common
 	ancestor
 
 		And consisting of all descendants of the ancestor
+
+----------------------------------------------------------------------
+
+Book's version of Phylogenetic species concept
+
+	Mammals could all be one species?
+
+		ANS Not if we start from populations and take the smallest group
+
+	A group of siblings and cousins could make a species?
+
+		NOANS
+
+	Exercise: what does your family tree look like?
+
+		ANS Small groups do _not_ make distinct groups in sexual species
+
+		ANS Plus, we can start by defining populations
+
+	COMMENT Science is not really about trust
 
 ----------------------------------------------------------------------
 
@@ -190,10 +230,59 @@ Phylogenetic species concept
 
 		Requires a lot of information about populations
 
+----------------------------------------------------------------------
+
+Applications
+
 	Believers in the phylogenetic species concept recognize a lot of
 	species
 
 		e.g., two species of African elephant
+
+	\ldots and can answer practical questions:
+
+		Should we consider Sri Lankan and Indian elephants as separate species?
+
+----------------------------------------------------------------------
+
+PSLIDE African Bush Elephant 
+
+FIG webpix/bushElephant.jpg
+
+----------------------------------------------------------------------
+
+PSLIDE African Forest Elephant 
+
+FIG webpix/forestElephant.jpg
+
+----------------------------------------------------------------------
+
+PSLIDE Sri Lankan Elephant 
+
+FIG webpix/SLElephant.jpg
+
+----------------------------------------------------------------------
+
+PSLIDE Indian Elephant 
+
+FIG webpix/indianElephant.jpg
+
+----------------------------------------------------------------------
+
+Limitations
+
+	The answer might be different for different sets of genes
+
+		immune genes might group species that we don't want to group
+
+		male- or female-linked genes might give different answers than other genes
+
+			COMMENT If we focus on mitochondria, then maybe you and your cousins
+			are a species
+
+	Answer might also differ depending on how you define populations
+
+		ANS Especially for asexual species
 
 ----------------------------------------------------------------------
 
@@ -233,11 +322,11 @@ How do species split?
 		diverge
 
 		ANS There is often a loop: isolation allows divergence,
-		which causes natural selection for more isolation
+		which can cause natural selection for more isolation
 
 ----------------------------------------------------------------------
 
-TSEC Species divergence in allopatry PP S24.2 \second{S26.2}
+TSEC Species divergence in allopatry | First part of S21.3
 
 	[Allopatry] refers to organisms living apart from each other
 
@@ -248,10 +337,11 @@ TSEC Species divergence in allopatry PP S24.2 \second{S26.2}
 		
 		ANS Natural selection
 
-			ANS Different environments, or different adaptive mutations
+			ANS Different environments, or different adaptive responses to similar
+			situations
 
 	How can two populations of the same species be isolated from each
-	other? PP Fig 24.5
+	other? | F21.7 and 21.8
 
 ----------------------------------------------------------------------
 
@@ -266,11 +356,22 @@ TSS Dispersal
 
 ----------------------------------------------------------------------
 
-Peripatric speciation F21.8
+Peripatric speciation 
+
+	Populations on small islands are likely to be founded later, by small
+	groups, and to have smaller populations
+
+		ANS more opportunity for genetic drift
+
+	Islands may also have different biological or physical environments
+
+		Uniform weather, fewer food species, fewer competitors
+
+		ANS more opportunity for natural selection
 
 ----------------------------------------------------------------------
 
-PICSLIDE WIDEFIG webpix/island_lizards.png
+PICSLIDE WIDEFIG hlw/21Spec_images/image16.jpg
 
 ----------------------------------------------------------------------
 
@@ -290,15 +391,19 @@ TSS Vicariance
 
 ----------------------------------------------------------------------
 
-Shrimp
+Example: Shrimp | F21.7
 
-F21.7
-
-ADD co-speciation (maybe)
+PRESENT WIDEFIG hlw/21Spec_images/image14.jpg
 
 ----------------------------------------------------------------------
 
-Example: ratites
+PSLIDE Shrimp
+
+FIG hlw/21Spec_images/image15.jpg
+
+----------------------------------------------------------------------
+
+Example: ratites | wikipedia/Palaeognathae
 
 BC
 
@@ -312,11 +417,29 @@ NC
 
 EC
 
-ADD Ratite pictures
+----------------------------------------------------------------------
+
+PICSLIDE HIGHFIG my_images/ratites.png
 
 ----------------------------------------------------------------------
 
-TSEC Species divergence in sympatry PP S24.3 \second{S26.3}
+Exercise: What is a biological “island”?
+
+	ANS
+
+	Examples:
+
+		ANS An island can be an island
+
+		ANS
+
+		ANS
+
+		ANS
+
+----------------------------------------------------------------------
+
+TSEC Species divergence in sympatry  | First part of S21.3
 
 	[Sympatry] refers to organisms living in the same geographic area
 
@@ -327,13 +450,11 @@ TSEC Species divergence in sympatry PP S24.3 \second{S26.3}
 
 		ANS Competition
 
-	Are there exceptions to this expectation?
+	What are some ways it can happen
 
-		ANS Seed crackers?
+		ANS Disruptive selection
 
-		ANS Hawthorn flies
-
-		ANS Soapberry bugs
+		ANS Genetic incompatibility
 
 ----------------------------------------------------------------------
 
@@ -341,10 +462,10 @@ SS Disruptive selection
 
 ----------------------------------------------------------------------
 
-Divergence by partitioning habitats PP Fig 24.7 \second{Fig 26.10}
+Divergence by partitioning habitats | F20.9
 
 	Insects that feed on many different plants may be subject to
-	divergent selection
+	disruptive selection
 
 		An individual may do most of its feeding on one particular plant
 
@@ -353,11 +474,34 @@ Divergence by partitioning habitats PP Fig 24.7 \second{Fig 26.10}
 	In other cases, individuals may mate preferentially with individuals
 	with the same host plant, and divergence may occur
 
-	ADD Something about adaptation
+		ANS More opportunity to meet individuals in the same place or same timing
+
+		ANS Natural selection to mate with similar individuals to increase
+		fitness 
 
 ----------------------------------------------------------------------
 
 Hawthorn flies
+
+BC
+
+	Apples are ready before hawthorns, so there should be disruptive selection
+
+	There is already evidence that reproductive isolation is evolving:
+
+		Flies raised on each type of fruit prefer to seek mates on the same type
+		of fruit
+
+	What might happen next?
+
+		ANS Each group is now more free to adapt to their specific fruit, with
+		less gene flow
+
+NC
+
+ADD Picture
+
+EC
 
 ----------------------------------------------------------------------
 
@@ -380,33 +524,89 @@ TSS Genetic incompatibility
 
 ----------------------------------------------------------------------
 
+Hybridization
+
+	Some species seem to have arisen as hybrids between two other species
+
+	Why is this surprising?
+
+		ANS If they can breed successfully, how are they separate species?
+
+		ANS And how did the hybrids stay separate?
+
+	What do we conclude?
+
+		ANS The successful hybrid is probably a rare event that can't easily
+		happen often
+
+----------------------------------------------------------------------
+
+Example: sunflowers | F21.14
+
+	For example, sunflowers were found that resembled observed,
+	not-very-successful natural hybrids of two other species
+
+	Scientists hypothesized the third species was a hybrid
+
+	Breeding experiments and genetic observations supported this hypothesis
+
+	Part of the reason for survival is probably that they the new species has a
+	surprising adaptation
+
+		They do best in drier patches than either of the parents
+
+----------------------------------------------------------------------
+
 Polyploidy
 
 	Reproductive mistakes can occur that produce individuals with extra copies
 	of each chromosome
 
-	Sometimes these [polyploid] individuals survive, and can even mate
+	Usually, these [polyploid] individuals don't survive, or can't mate
 
-	This produces instant reproductive isolation PP Fig.~24.9
+		ANS Would need a lot of things to balance perfectly
 
-	It can also provide material for new genetic innovation
+		ANS Would probably need to mate with themselves, or other polyploids
+
+	Sometimes, however, they do survive and persist!
+
+----------------------------------------------------------------------
+
+Polyploidy and speciation
+
+	Polyploidy produces instant reproductive isolation 
+
+	But new polyploid individuals still face another obstacle
+
+		ANS Need to compete with the ancestral species
+
+	Polyploidy can also provide material for new genetic innovation
 
 		ANS Two copies of each gene, so it may be possible to keep one and mutate
 		one
 
-----------------------------------------------------------------------
-
-PICSLIDE HIGHFIG freeman/L24/fg24_10.jpg
+	Polyploidy events can involve individuals of the same, or different, species
 
 ----------------------------------------------------------------------
 
-PICSLIDE FIG webpix/clawed_frog.jpg
+Example: clawed frogs
+
+BC
+
+	The Evans lab here at Mac studies an amazingly polyploid system
+
+	Current species have up to six times as many chromosomes as their ancestors
+	after multiple polyploidy event
+
+NC
+
+SIDEFIG webpix/clawed_frog.jpg
+
+EC
 
 ----------------------------------------------------------------------
 
-TSEC Reuniting PP S24.4 \second{S26.4}
-
-	ADD Rething where this should go or how it should work
+TSEC Reuniting 
 
 	What happens when isolated populations come back into contact?
 
@@ -416,9 +616,12 @@ TSEC Reuniting PP S24.4 \second{S26.4}
 
 		a river changes course
 
+	Observing what happened (or is happening) in this case can give insight into
+	what constitutes speciation
+
 ----------------------------------------------------------------------
 
-TSS Fusion
+Fusion
 
 	When two isolated populations come into contact, they may [fuse] --
 	go back together
@@ -429,7 +632,7 @@ TSS Fusion
 
 ----------------------------------------------------------------------
 
-TSS Reinforcement
+Reinforcement
 
 	In some cases, hybrid offspring may have low fitness
 
@@ -472,29 +675,7 @@ Meadowlarks
 
 ----------------------------------------------------------------------
 
-PICSLIDE WIDEFIG webpix/sticklebacks.jpg
-
-----------------------------------------------------------------------
-
-Sticklebacks PP Box 24.1
-
-	Closely related freshwater sticklebacks live on the bottom (benthic) or in
-	the water column (limnetic)
-
-	Benthic sticklebacks arrived first (from the ocean), and are highly adapted
-	to live on the bottom
-
-	Limnetic sticklebacks arrived later
-
-		ANS Adapted to live in the water column
-
-	The two groups evolved to avoiding breeding with each other
-
-		ANS Courtship rituals
-
-----------------------------------------------------------------------
-
-TSS Hybrid zones
+Hybrid zones
 
 	When hybrid offspring are functional, and well-adapted to the
 	overlap zone, there may be a zone where hybrids occur
@@ -506,48 +687,48 @@ TSS Hybrid zones
 
 ----------------------------------------------------------------------
 
-TSS Exclusion
+Exclusion
 
 	One species might eliminate the other species, either by
 	competition, or by better success in mating
 
-		Warblers competing for mates PP Fig 24.14 \second{Fig 26.12}
+		Warblers
 
 		Modern humans
 
-Figures or different examples needed?
+----------------------------------------------------------------------
+
+Mating success
+
+	In some reuniting areas, we see zones where there is convincing evidence for
+	better mating success of one species than the other
+
+		Most genes are dominated by one species, but mitochondrial genes are
+		mixed between two species
+
+			ANS Males, but not females of the dominant species have been doing
+			better
+
+	ADD Warbler picture
 
 ----------------------------------------------------------------------
 
-SS New species
+Modern humans
+
+	Modern humans spread through the world and out-competed earlier human
+	populations
+
+	There is evidence that there was some inter-breeding, though
+
+	Modern _non-African_ populations show evidence of pre-modern genes
 
 ----------------------------------------------------------------------
 
-PICSLIDE WIDEFIG Pearson/F27_speciation/27_00_sunflower_species.jpg
+PSLIDE Modern humans
 
-----------------------------------------------------------------------
+SIDEFIG my_images/people.png
 
-Sunflowers PP p.~510--512 \second{516--518}
-
-	A cool species of sunflower
-	
-		Resembles natural hybrids from a hybrid zone
-
-		Is that how it arose?
-
-	Breeding experiments suggest that it's likely
-
-	Why is this surprising?
-
-		ANS Rarely seems to happen
-
-		ANS If the hybrid has high fitness, why would reproductive
-		isolation evolve? 
-
-	How did it happen?
-
-		ANS Probably because of an unusual adaptation: the hybrids live
-		in drier climates than either of the ``parent'' species
+wikipedia/humans
 
 ----------------------------------------------------------------------
 

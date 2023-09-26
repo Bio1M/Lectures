@@ -11,7 +11,7 @@ CHAPTER Evolutionary processes
 
 Evolution by natural selection
 
-	POLL What is the _missing_ from the story I told last chapter?
+	POLL What is \sout{the} _missing_ from the story I told last chapter?
 
 		Heritable [variation] in traits
 
