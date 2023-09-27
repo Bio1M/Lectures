@@ -147,6 +147,8 @@ TSS Morphological species concept
 		ANS There are groups that look very similar but can't produce viable
 		offspring
 
+		ANS Males and females, different life stages, or specific phenotypes might look very different, but be part of the same population (ADDED)
+
 		ANS Not clear how definition relates to our conceptual definition of
 		evolutionary units
 
