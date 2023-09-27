@@ -1,17 +1,16 @@
 
 EXTRA
 
-	ADD FUNSLIDE needs an annotation on complete notes
+PP
 
-LEARN
+ADD
 
-	crown lizards
+Pearson
 
-	Hox
+freeman
 
-Check (or update) ALL older figures?
-
-	Hee-hee!
+Trees vs.~webs
+* Bubby and Zayda, etc.
 
 ----------------------------------------------------------------------
 
@@ -19,9 +18,7 @@ CHAPTER Phylogeny and the history of life
 
 ----------------------------------------------------------------------
 
-TSEC Phylogeny | S25.1; Bioskill 11 \second{S27.1; Bioskills 3}
-
-	NOTES \textsl{Bioskills are in the back of your book}
+TSEC Phylogeny
 
 	Phylogeny is the evolutionary history of a group of organisms
 
@@ -101,8 +98,7 @@ Reading phylogenetic trees
 
 	A tree is a model of how evolution occurred
 
-		Trees that correspond to the same model are considered equivalent | (see
-		Bioskill)
+		Trees that correspond to the same model are considered equivalent PP 
 
 ----------------------------------------------------------------------
 
@@ -111,7 +107,6 @@ PICSLIDE WIDEFIG Pearson/F_skills/B07_2_phylo_tree_example.jpg
 ----------------------------------------------------------------------
 
 PSLIDE Activity: which of these things is not like the others?
-
 
 PICSLIDE WIDEFIG Pearson/F_skills/B07_3_alternate_phylo_trees.jpg
 
@@ -283,7 +278,7 @@ Confusing the phylogeny
 		This can be even more confusing
 
 	Similarities that are not homologies (ie., not due to common
-	ancestry) are called [homoplasies] | Fig.~25.3 \second{Fig.~27.2}
+	ancestry) are called [analogies] PP Fig.~25.3 \second{Fig.~27.2}
 
 ----------------------------------------------------------------------
 
@@ -301,7 +296,7 @@ Parsimony
 	can explain the observed data most [parsimoniously] -- with the
 	fewest number of changes necessary.
 
-	How do we address the problem of convergent evolution and homoplasy?
+	How do we address the problem of convergent evolution and analogy?
 
 		ANS Make use of many different characteristics, when possible
 
@@ -484,7 +479,7 @@ Phylogenetic trees are approximations!
 
 ----------------------------------------------------------------------
 
-SEC The history of life | S1.5 \second{S1.4}
+SEC The history of life PP S1.5 \second{S1.4}
 
 ----------------------------------------------------------------------
 
@@ -500,7 +495,7 @@ TSS The shape of the tree
 
 ----------------------------------------------------------------------
 
-Three domains | Fig 1.7 \second{Fig 1.6}
+Three domains PP Fig 1.7 \second{Fig 1.6}
 
 	Bacteria
 
@@ -553,7 +548,7 @@ The web of life
 
 			ANS Polyploids arising from different (allo-) species
 
-	Wolf-coyote example | \url{http://advances.sciencemag.org/content/2/7/e1501714}
+	Wolf-coyote example PP \url{http://advances.sciencemag.org/content/2/7/e1501714}
 
 ----------------------------------------------------------------------
 
@@ -593,9 +588,9 @@ Five kingdoms
 
 ----------------------------------------------------------------------
 
-TSS The fossil record | pp.~520--522 \second{pp.~526--528}
+TSS The fossil record PP pp.~520--522 \second{pp.~526--528}
 
-	A [fossil] is a physical trace of an organism from the past | Table 25.4 \second{Fig 27.7}
+	A [fossil] is a physical trace of an organism from the past PP Table 25.4 \second{Fig 27.7}
 
 		Intact fossils retain their form and substance
 
@@ -646,7 +641,7 @@ Accounting for biases
 	Trying to figure out what happened based on what kind of fossils we
 	happen to find is tricky
 
-	Orchid phylogeny | \url{http://www.nature.com/news/2007/070829/full/news070827-4.html}
+	Orchid phylogeny PP \url{http://www.nature.com/news/2007/070829/full/news070827-4.html}
 
 
 ----------------------------------------------------------------------
@@ -659,7 +654,7 @@ PICSLIDE WIDEFIG jdpix/pollen.jpg
 
 ----------------------------------------------------------------------
 
-TSS Putting the timeline together | Fig.~25.6--7
+TSS Putting the timeline together PP Fig.~25.6--7
 
 	Dates of specimens can be inferred using radioactive isotopes (harder than it sounds)
 
@@ -723,7 +718,7 @@ TSEC Processes of diversification
 
 ----------------------------------------------------------------------
 
-TSS Adaptive radiations | pp.~525--527 \second{pp.~530--534}
+TSS Adaptive radiations PP pp.~525--527 \second{pp.~530--534}
 
 	An [adaptive radiation] occurs when a single lineage produces many
 	descendant species, in a short period of time, that make their
@@ -767,11 +762,11 @@ Colonization
 	
 		What is the same, and what is different, between similar cases?
 
-		Finches | (earlier chapters) 
+		Finches PP (earlier chapters) 
 
-		Silverswords in Hawaii | Fig 25.8 \second{Fig 27.14}
+		Silverswords in Hawaii PP Fig 25.8 \second{Fig 27.14}
 
-		Anolis lizards | Fig 25.9 \second{Fig 27.15}
+		Anolis lizards PP Fig 25.9 \second{Fig 27.15}
 
 ----------------------------------------------------------------------
 
@@ -823,7 +818,7 @@ Morphological innovation
 
 ----------------------------------------------------------------------
 
-Hox genes | Fig 25.14 \second{Fig 27.21}
+Hox genes PP Fig 25.14 \second{Fig 27.21}
 
 	[Hox genes] are involved in determining the identity of different
 	body parts
@@ -862,7 +857,7 @@ Gene duplication
 
 ----------------------------------------------------------------------
 
-TSS Mass extinctions | S25.4 \second{pp.~575-578}
+TSS Mass extinctions PP S25.4 \second{pp.~575-578}
 
 	Five major mass extinctions so far
 
