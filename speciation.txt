@@ -1,8 +1,10 @@
 
 EXTRA
 
+Look for ADDED, NEW for next year
+
 https://www.jstor.org.libaccess.lib.mcmaster.ca/stable/3084434
-* African elephant phylogent, maybe just use pix of forest and savannah elephants
+* African elephant phylogeny, maybe just use pix of forest and savannah elephants
 
 Think about webs of life
 
@@ -147,7 +149,8 @@ TSS Morphological species concept
 		ANS There are groups that look very similar but can't produce viable
 		offspring
 
-		ANS Males and females, different life stages, or specific phenotypes might look very different, but be part of the same population (ADDED)
+		ANS Males and females, different life stages, or specific phenotypes
+		might look very different, but be part of the same population (ADDED)
 
 		ANS Not clear how definition relates to our conceptual definition of
 		evolutionary units
@@ -473,7 +476,8 @@ Divergence by partitioning habitats | F20.9
 
 	In some cases, gene flow will prevent divergence
 
-		ANS When genes from two populations mix, the populations become more similar 
+		ANS When genes from two populations mix, the populations become more
+		similar (NEW)
 
 	In other cases, individuals may mate preferentially with individuals
 	with the same host plant, and divergence may occur
@@ -498,12 +502,13 @@ BC
 
 	What might happen next?
 
-		ANS Each group is now more free to adapt to their specific fruit, with
-		less gene flow
+		ANS Less gene flow; more fruit-specific adaptation; more divergence
 
 NC
 
-ADD Picture
+SIDEFIG webpix/hawthornFly.jpg
+
+wikipedia/Apple\_maggot
 
 EC
 
@@ -558,6 +563,14 @@ Example: sunflowers | F21.14
 	surprising adaptation
 
 		They do best in drier patches than either of the parents
+
+		ANS Less likely to be driven extinct by competition
+
+----------------------------------------------------------------------
+
+PSLIDE Hybrid sunflowers
+
+HIGHFIG hlw/21Spec_images/image28.jpg
 
 ----------------------------------------------------------------------
 
@@ -651,7 +664,7 @@ Reinforcement
 
 ----------------------------------------------------------------------
 
-PSLIDE Meadowlarks
+REPSLIDE Meadowlarks
 
 BCC
 
@@ -704,6 +717,8 @@ Exclusion
 
 Mating success
 
+BC
+
 	In some reuniting areas, we see zones where there is convincing evidence for
 	better mating success of one species than the other
 
@@ -713,7 +728,13 @@ Mating success
 			ANS Males, but not females of the dominant species have been doing
 			better
 
-	ADD Warbler picture
+			ANS Mitochondrial genes are inherited only from the mother
+
+NC
+
+SIDEFIG webpix/townsend.jpg
+
+EC
 
 ----------------------------------------------------------------------
 
