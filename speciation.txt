@@ -471,6 +471,8 @@ Divergence by partitioning habitats | F20.9
 
 	In some cases, gene flow will prevent divergence
 
+		ANS When genes from two populations mix, the populations become more similar 
+
 	In other cases, individuals may mate preferentially with individuals
 	with the same host plant, and divergence may occur
 
