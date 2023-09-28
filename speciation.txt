@@ -430,17 +430,30 @@ PICSLIDE HIGHFIG my_images/ratites.png
 
 Exercise: What is a biological “island”?
 
-	ANS
+	ANS An area that is isolated from the point of view of a species of interest
 
 	Examples:
 
 		ANS An island can be an island
 
-		ANS
+		ANS A mountaintop be an island
 
-		ANS
+		ANS Deep pockets of oceans or lakes
 
-		ANS
+		ANS Caves
+
+		ANS Stomachs and other parts of hosts
+
+		ANS Soil types (basic or acidic)
+
+----------------------------------------------------------------------
+
+EXTRA Other student contributions
+
+	Popoulations ikns symptarty have similar env conditionso
+
+	talk more about connections btw fd and disruptive selection
+
 
 ----------------------------------------------------------------------
 
