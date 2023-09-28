@@ -444,6 +444,30 @@ Exercise: What is a biological “island”?
 
 ----------------------------------------------------------------------
 
+PSLIDE Biological islands
+
+FIG webpix/island.jpg
+
+----------------------------------------------------------------------
+
+PSLIDE Biological islands
+
+WIDEFIG webpix/oasis.jpg
+
+----------------------------------------------------------------------
+
+PSLIDE Biological islands
+
+FIG webpix/mountaintop.jpg
+
+----------------------------------------------------------------------
+
+PSLIDE Biological islands
+
+FIG webpix/kettleLakes.jpg
+
+----------------------------------------------------------------------
+
 TSEC Species divergence in sympatry  | First part of S21.3
 
 	[Sympatry] refers to organisms living in the same geographic area
@@ -461,6 +485,8 @@ TSEC Species divergence in sympatry  | First part of S21.3
 
 		ANS Genetic incompatibility
 
+		ANS These can also combine
+
 ----------------------------------------------------------------------
 
 SS Disruptive selection
@@ -477,7 +503,7 @@ Divergence by partitioning habitats | F20.9
 	In some cases, gene flow will prevent divergence
 
 		ANS When genes from two populations mix, the populations become more
-		similar (NEW)
+		similar
 
 	In other cases, individuals may mate preferentially with individuals
 	with the same host plant, and divergence may occur
@@ -599,8 +625,8 @@ Polyploidy and speciation
 
 	Polyploidy can also provide material for new genetic innovation
 
-		ANS Two copies of each gene, so it may be possible to keep one and mutate
-		one
+		ANS Two (or more) copies of each gene, so it may be possible to keep one
+		and mutate one
 
 	Polyploidy events can involve individuals of the same, or different, species
 
@@ -613,7 +639,7 @@ BC
 	The Evans lab here at Mac studies an amazingly polyploid system
 
 	Current species have up to six times as many chromosomes as their ancestors
-	after multiple polyploidy event
+	after multiple polyploidy events
 
 NC
 
