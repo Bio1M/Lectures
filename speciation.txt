@@ -430,21 +430,27 @@ PICSLIDE HIGHFIG my_images/ratites.png
 
 Exercise: What is a biological “island”?
 
-	ANS An area that is isolated from the point of view of a species of interest
+	ANS An ecosystem that is isolated (surrounded by different ecosystems)
+
+	ANS Can the species we're interested in easily travel to other places?
 
 	Examples:
 
 		ANS An island can be an island
 
-		ANS A mountaintop be an island
+		ANS Wildlife conservation area, zoo?
 
-		ANS Deep pockets of oceans or lakes
+		ANS Earth?
+
+		ANS Mountaintop
+
+		ANS A lake
+
+		ANS Land-use islands (places humans haven't chosen)
 
 		ANS Caves
 
-		ANS Stomachs and other parts of hosts
-
-		ANS Soil types (basic or acidic)
+		ANS Geothermal vents
 
 ----------------------------------------------------------------------
 
