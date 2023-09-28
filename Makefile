@@ -137,7 +137,9 @@ sickle.jpg: webpix/sickle.jpg
 #### Speciation (P26 ⇒ P24)
 # speciation.2nd: speciation.txt
 speciation.draft.pdf: speciation.txt
-speciation.final.pdf: speciation.txt
+## speciation.final.pdf: speciation.txt
+speciation.final.pdf: speciation.final.tex
+	$(latexonly)
 speciation.handouts.pdf: speciation.txt
 speciation.complete.pdf: speciation.txt
 speciation.outline.pdf: speciation.txt
