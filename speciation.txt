@@ -12,42 +12,6 @@ Co-speciation?
 
 ----------------------------------------------------------------------
 
-Exercise: What is a biological “island”?
-
-	ANS An area that is isolated from the point of view of a species of interest
-
-	Examples:
-
-		ANS An island can be an island
-
-		ANS A mountaintop be an island
-
-		ANS Deep pockets of oceans or lakes
-
-		ANS Caves
-
-		ANS Stomachs and other parts of hosts
-
-		ANS Soil types (basic or acidic)
-
-----------------------------------------------------------------------
-
-Exercise: Reuniting
-
-	Why is observing reunited populations important? What kind of things might we learn?
-
-		ANS If two populations are fusing, we kind of think they're the same
-		species
-
-		ANS If separation is reinforced, they might already be two distinct
-		species, or else they're becoming that
-
-		ANS Exclusion shows us that some species do better than others, gives insight into the difficulty of speciation with competition
-
-		ANS Learn more about compatibility of different kinds of genetic differences
-
-----------------------------------------------------------------------
-
 CHAPTER Speciation
 
 ----------------------------------------------------------------------
@@ -466,27 +430,15 @@ PICSLIDE HIGHFIG my_images/ratites.png
 
 Exercise: What is a biological “island”?
 
-	ANS An ecosystem that is isolated (surrounded by different ecosystems)
-
-	ANS Can the species we're interested in easily travel to other places?
+	ANS An area that is isolated from the point of view of a species of interest
 
 	Examples:
 
-		ANS An island can be an island
+		ANS Everyone: islands, mountaintops, caves, animals (for bacteria)
 
-		ANS Wildlife conservation area, zoo?
+		ANS Morning: deep pockets of the ocean, patches of soil
 
-		ANS Earth?
-
-		ANS Mountaintop
-
-		ANS A lake
-
-		ANS Land-use islands (places humans haven't chosen)
-
-		ANS Caves
-
-		ANS Geothermal vents
+		ANS Afternoon: conservation areas, geothermal vents, lakes
 
 ----------------------------------------------------------------------
 
@@ -533,6 +485,8 @@ TSEC Species divergence in sympatry  | First part of S21.3
 		ANS Gene flow
 
 		ANS Competition
+
+		ANS Similar environments (ADDED)
 
 	What are some ways it can happen
 
@@ -840,11 +794,20 @@ wikipedia/humans
 
 Exercise: Reuniting
 
-	Why is observing reunited populations important?
+	Why is observing reunited populations important? What kind of things might
+	we learn?
 
-		ANS How distinct are they? Do they hybridize, how do the hybrids do?`
+		ANS If two populations are fusing, we kind of think they're the same
+		species
 
-		ANS Is there evidence of reinforcement
+		ANS If separation is reinforced, they might already be two distinct
+		species, or else they're becoming that
+
+		ANS Exclusion shows us that some species do better than others, gives
+		insight into the difficulty of speciation with competition
+
+		ANS Learn more about compatibility of different kinds of genetic
+		differences
 
 		ANS Observing reunited populations teaches us about speciation in general 
 
