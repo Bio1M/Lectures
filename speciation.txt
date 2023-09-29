@@ -12,6 +12,42 @@ Co-speciation?
 
 ----------------------------------------------------------------------
 
+Exercise: What is a biological “island”?
+
+	ANS An area that is isolated from the point of view of a species of interest
+
+	Examples:
+
+		ANS An island can be an island
+
+		ANS A mountaintop be an island
+
+		ANS Deep pockets of oceans or lakes
+
+		ANS Caves
+
+		ANS Stomachs and other parts of hosts
+
+		ANS Soil types (basic or acidic)
+
+----------------------------------------------------------------------
+
+Exercise: Reuniting
+
+	Why is observing reunited populations important? What kind of things might we learn?
+
+		ANS If two populations are fusing, we kind of think they're the same
+		species
+
+		ANS If separation is reinforced, they might already be two distinct
+		species, or else they're becoming that
+
+		ANS Exclusion shows us that some species do better than others, gives insight into the difficulty of speciation with competition
+
+		ANS Learn more about compatibility of different kinds of genetic differences
+
+----------------------------------------------------------------------
+
 CHAPTER Speciation
 
 ----------------------------------------------------------------------
