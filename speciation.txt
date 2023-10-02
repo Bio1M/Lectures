@@ -430,17 +430,48 @@ PICSLIDE HIGHFIG my_images/ratites.png
 
 Exercise: What is a biological “island”?
 
-	ANS
+	ANS An area that is isolated from the point of view of a species of interest
 
 	Examples:
 
-		ANS An island can be an island
+		ANS Everyone: islands, mountaintops, caves, animals (for bacteria)
 
-		ANS
+		ANS Morning: deep pockets of the ocean, patches of soil
 
-		ANS
+		ANS Afternoon: conservation areas, geothermal vents, lakes
 
-		ANS
+----------------------------------------------------------------------
+
+EXTRA Other student contributions
+
+	Popoulations ikns symptarty have similar env conditionso
+
+	talk more about connections btw fd and disruptive selection
+
+
+----------------------------------------------------------------------
+
+PSLIDE Biological islands
+
+FIG webpix/island.jpg
+
+----------------------------------------------------------------------
+
+PSLIDE Biological islands
+
+WIDEFIG webpix/oasis.jpg
+
+----------------------------------------------------------------------
+
+PSLIDE Biological islands
+
+FIG webpix/mountaintop.jpg
+
+----------------------------------------------------------------------
+
+PSLIDE Biological islands
+
+FIG webpix/kettleLakes.jpg
 
 ----------------------------------------------------------------------
 
@@ -455,11 +486,15 @@ TSEC Species divergence in sympatry  | First part of S21.3
 
 		ANS Competition
 
+		ANS Similar environments (ADDED)
+
 	What are some ways it can happen
 
 		ANS Disruptive selection
 
 		ANS Genetic incompatibility
+
+		ANS These can also combine
 
 ----------------------------------------------------------------------
 
@@ -477,7 +512,7 @@ Divergence by partitioning habitats | F20.9
 	In some cases, gene flow will prevent divergence
 
 		ANS When genes from two populations mix, the populations become more
-		similar (NEW)
+		similar
 
 	In other cases, individuals may mate preferentially with individuals
 	with the same host plant, and divergence may occur
@@ -599,8 +634,8 @@ Polyploidy and speciation
 
 	Polyploidy can also provide material for new genetic innovation
 
-		ANS Two copies of each gene, so it may be possible to keep one and mutate
-		one
+		ANS Two (or more) copies of each gene, so it may be possible to keep one
+		and mutate one
 
 	Polyploidy events can involve individuals of the same, or different, species
 
@@ -613,7 +648,7 @@ BC
 	The Evans lab here at Mac studies an amazingly polyploid system
 
 	Current species have up to six times as many chromosomes as their ancestors
-	after multiple polyploidy event
+	after multiple polyploidy events
 
 NC
 
@@ -754,6 +789,27 @@ PSLIDE Modern humans
 SIDEFIG my_images/people.png
 
 wikipedia/humans
+
+----------------------------------------------------------------------
+
+Exercise: Reuniting
+
+	Why is observing reunited populations important? What kind of things might
+	we learn?
+
+		ANS If two populations are fusing, we kind of think they're the same
+		species
+
+		ANS If separation is reinforced, they might already be two distinct
+		species, or else they're becoming that
+
+		ANS Exclusion shows us that some species do better than others, gives
+		insight into the difficulty of speciation with competition
+
+		ANS Learn more about compatibility of different kinds of genetic
+		differences
+
+		ANS Observing reunited populations teaches us about speciation in general 
 
 ----------------------------------------------------------------------
 
