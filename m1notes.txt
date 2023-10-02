@@ -5,12 +5,14 @@ PP
 
 ADD
 
-Pearson
-
-freeman
-
 Trees vs.~webs
 * Bubby and Zayda, etc.
+
+No such thing as a fish
+
+Are dinosaurs extinct?
+
+22.24?
 
 ----------------------------------------------------------------------
 
@@ -18,7 +20,7 @@ CHAPTER Midterm 1 extra notes
 
 ----------------------------------------------------------------------
 
-TSEC Phylogeny
+TSEC Phylogeny 
 
 	Phylogeny is the evolutionary history of a group of organisms
 
@@ -29,7 +31,9 @@ TSEC Phylogeny
 
 ----------------------------------------------------------------------
 
-Phylogenetic trees 
+TSS Interpreting phylogenetic trees | S22.1, F22.2
+
+BC
 
 	A [phylogenetic tree] is a model of how a group of organisms
 	descended from a common ancestor
@@ -38,17 +42,11 @@ Phylogenetic trees
 	evolution occurs, and [tips] representing observed [taxa] which are
 	the endpoints of the process we are trying to model.
 
-	A point where more than two branches diverge is called a _polytomy_.
+NC
 
-		Polytomies mean we don't know which event happened first.
+SIDEFIG hlw/22Phylo_images/image05.jpg
 
-----------------------------------------------------------------------
-
-PICSLIDE FIG Pearson/F_skills/B07_1_phylogenetic_trees.jpg
-
-----------------------------------------------------------------------
-
-PICSLIDE WIDEFIG Pearson/F_skills/B07_2_phylo_tree_example.jpg
+EC
 
 ----------------------------------------------------------------------
 
@@ -63,7 +61,7 @@ Monophyletic group
 
 	As biologists, we should try to think in terms of clades
 
-		Are flying vertebrates a clade?
+		Are winged tetrapods a clade?
 
 		What are some prominent groups that are not clades?
 
@@ -71,25 +69,27 @@ Monophyletic group
 
 ----------------------------------------------------------------------
 
-PICSLIDE WIDEFIG Pearson/F_skills/B07_2_phylo_tree_example.jpg
+Sister taxa | F22.2
 
-----------------------------------------------------------------------
-
-Sister taxa
+BC
 
 	Sister taxa can be a useful way of thinking about trees
 
 		two taxa that share a common node
 
+		at any scale
+
 		You need to take the whole taxon
 
-	E.g., sisters of: _Homo sapiens_; _Homo erectus_; humans?
+NC
 
-		ANS _Homo neanderthalensis_; _Hn_ and _Hs_; _Paranthropus_
+SIDEFIG hlw/22Phylo_images/image05.jpg
+
+EC
 
 ----------------------------------------------------------------------
 
-Reading phylogenetic trees
+Interpreting phylogenetic trees
 
 	The tree indicates the pattern of branching of [lineages] (evolving
 	lines)
@@ -98,17 +98,19 @@ Reading phylogenetic trees
 
 	A tree is a model of how evolution occurred
 
-		Trees that correspond to the same model are considered equivalent PP 
+		Trees that correspond to the same model are considered equivalent | F 22.3
+
+		NOTES \url{https://commons.wikimedia.org/wiki/Category:Phylogenetic_trees_of_mammals}
 
 ----------------------------------------------------------------------
 
-PICSLIDE WIDEFIG Pearson/F_skills/B07_2_phylo_tree_example.jpg
+PICSLIDE FIG webpix/primate_tree.png
 
 ----------------------------------------------------------------------
 
-PSLIDE Activity: which of these things is not like the others?
+Activity: which of these things is not like the others?
 
-PICSLIDE WIDEFIG Pearson/F_skills/B07_3_alternate_phylo_trees.jpg
+WIDEFIG sixtrees.Rout.pdf
 
 ----------------------------------------------------------------------
 
@@ -128,12 +130,7 @@ Order of species
 
 ----------------------------------------------------------------------
 
-PICSLIDE WIDEFIG Pearson/F_skills/B07_2_phylo_tree_example.jpg
-
-----------------------------------------------------------------------
-
-
-TSS Constructing phylogenetic trees
+TSS Constructing phylogenetic trees | S22.2
 
 	First, measure [characteristics] (or [characters]) of the taxa of
 	interest -- i.e., anything that seems useful to measure
@@ -278,19 +275,19 @@ Confusing the phylogeny
 		This can be even more confusing
 
 	Similarities that are not homologies (ie., not due to common
-	ancestry) are called [analogies] PP Fig.~25.3 \second{Fig.~27.2}
+	ancestry) are called [analogies] | F22.7
 
 ----------------------------------------------------------------------
 
-PIC HIGHFIG freeman/L25/fg25_02.jpg
+HIGHPIC hlw/22Phylo_images/image11.jpg
 
 ----------------------------------------------------------------------
 
-PIC WIDEFIG freeman/L25/fg25_03.jpg
+WIDEPIC webpix/turtleSkeleton.jpg
 
 ----------------------------------------------------------------------
 
-Parsimony
+Parsimony | F22.9
 
 	Classical cladistic analysis is based on searching for the tree that
 	can explain the observed data most [parsimoniously] -- with the
@@ -321,7 +318,7 @@ TSS Example: the evolution of whales
 
 ----------------------------------------------------------------------
 
-FUNSLIDE Biology is crazy!
+Biology is crazy! | \url{https://research.amnh.org/paleontology/perissodactyl/node/55}
 
 	Which of these doesn't belong?
 
@@ -335,7 +332,9 @@ FUNSLIDE Biology is crazy!
 
 ----------------------------------------------------------------------
 
-PICSLIDE HIGHFIG Pearson/F28_phylogeny/28_04a_whale_phylogeny.jpg
+PSLIDE Morphological tree
+
+FRAMEFIG mammal_0.png
 
 ----------------------------------------------------------------------
 
@@ -371,15 +370,31 @@ Tree discussion
 
 ----------------------------------------------------------------------
 
-PICSLIDE HIGHFIG Pearson/F28_phylogeny/28_04b_whale_phylogeny.jpg
+Similarities vs.~differences
+
+	Conceptually, we expect the pair with the fewest differences to match the
+	pair with most similarities
+
+	We count differences for phenetic trees and similarities for cladistic trees
+	because it's easier
+
+	The conceptual difference between phenetic and cladistic is:
+
+		ANS cladistic focuses specifically on _derived_ similarities
 
 ----------------------------------------------------------------------
 
-Confirmation
+PSLIDE Modern tree
+
+FRAMEFIG mammal_1.png
+
+----------------------------------------------------------------------
+
+Confirmation | \url{https://en.wikipedia.org/wiki/Protocetidae}
 
 BCC
 
-SIDEFIG Pearson/F25_ns/25_11_whale_evolution_U.jpg
+SIDEFIG webpix/borealestes.png
 
 NCC
 
@@ -391,11 +406,11 @@ EC
 
 ----------------------------------------------------------------------
 
-FUNSLIDE Morphological and genetic cladograms
+PICSLIDE FIG webpix/georgiacetus.jpg
+
+----------------------------------------------------------------------
 
 PICSLIDE FIG webpix/mammal_trees.png
-
-EXTRA https://research.amnh.org/paleontology/perissodactyl/node/55
 
 ----------------------------------------------------------------------
 
@@ -429,7 +444,7 @@ How to make a phenetic tree in this course
 
 		ANS Seriously. 
 
-	COMMENT I'm here to teach you concepts, not to teach you how to be a really
+	COMMENT I'm here to teach you concepts, not how to be a really
 	bad computer.
 
 ----------------------------------------------------------------------

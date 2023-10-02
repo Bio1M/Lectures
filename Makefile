@@ -18,6 +18,8 @@ pullup: web.pull
 Sources += Makefile README.md poll.txt
 ## Sources += content.mk
 
+autopipeR = defined
+
 ######################################################################
 
 ## Web links
@@ -151,6 +153,12 @@ phylogeny.handouts.pdf: phylogeny.txt
 phylogeny.complete.pdf: phylogeny.txt
 phylogeny.outline.pdf: phylogeny.txt
 
+Ignore += *.png
+mammal_0.png: webpix/mammal_trees.png
+	convert -crop 480x619+0+0 $< $@
+mammal_1.png: webpix/mammal_trees.png
+	convert -crop 480x619+480+0 $< $@
+
 ## New content
 ## Same as the old content!
 ## diff ~/Dropbox/courses/1M/he_supp/pearson_humans.pdf Pearson/hesc.pdf ##
@@ -187,7 +195,20 @@ hominins.outline.pdf: hominins.txt
 
 ######################################################################
 
-## Hands
+## Tree stuff (replicated from bbTests)
+
+Sources += $(wildcard *.R *.tre)
+
+sixtrees.Rout: interchange.tre sixtrees.R
+
+## interchange.tree.Rout: interchange.tre tree.R
+%.tree.Rout: tree.R %.tre
+	$(pipeR)
+
+######################################################################
+
+## Hands (assign people to respond based on student number (virtual)
+## Newer hand stuff is for some reason in notebook (where it loops, so maybe that's good)
 
 Sources += *.rmd
 
@@ -323,7 +344,7 @@ makestuff/Makefile:
 	ls $@
 
 -include makestuff/os.mk
--include makestuff/wrapR.mk
+-include makestuff/pipeR.mk
 -include makestuff/webpix.mk
 -include makestuff/git.mk
 -include makestuff/visual.mk
