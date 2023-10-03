@@ -69,6 +69,18 @@ Monophyletic group
 
 ----------------------------------------------------------------------
 
+BCC
+
+SIDEFIG webpix/nosuch.jpg
+
+NCC
+
+SIDEFIG hlw/22Phylo_images/image05.jpg
+
+EC
+
+----------------------------------------------------------------------
+
 Sister taxa | F22.2
 
 BC
@@ -101,10 +113,13 @@ Interpreting phylogenetic trees
 		Trees that correspond to the same model are considered equivalent | F 22.3
 
 		NOTES \url{https://commons.wikimedia.org/wiki/Category:Phylogenetic_trees_of_mammals}
+		https://commons.wikimedia.org/wiki/Category:Phylogenetic_trees_of_mammals
 
 ----------------------------------------------------------------------
 
 PICSLIDE FIG webpix/primate_tree.png
+
+ADD \url{https://commons.wikimedia.org/wiki/File:Pbio.0020005.g003_(14137677045).png}
 
 ----------------------------------------------------------------------
 
@@ -128,7 +143,17 @@ Order of species
 
 		ANS By looking for their common ancestor
 
+
 ----------------------------------------------------------------------
+
+HIGHPIC hlw/22Phylo_images/image05.jpg
+
+----------------------------------------------------------------------
+
+HIGHPIC webpix/primate_tree.png
+
+----------------------------------------------------------------------
+
 
 TSS Constructing phylogenetic trees | S22.2
 
@@ -184,6 +209,13 @@ Phenetic vs. cladistic analysis
 		-- e.g., certain molecular techniques
 
 		ANS When we don't have enough baseline information
+
+		COMMENT The book talks about trusting the molecular clock, but this is
+		complicated and there are still no _advantages_
+
+----------------------------------------------------------------------
+
+WIDEPIC webpix/turtleSkeleton.jpg
 
 ----------------------------------------------------------------------
 
@@ -283,7 +315,7 @@ HIGHPIC hlw/22Phylo_images/image11.jpg
 
 ----------------------------------------------------------------------
 
-WIDEPIC webpix/turtleSkeleton.jpg
+WIDEPIC webpix/icthy.png
 
 ----------------------------------------------------------------------
 
