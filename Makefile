@@ -277,7 +277,9 @@ final.final.pdf: final.txt
 ## Note chopping
 
 ## A special file to make complete notes for the test
-m1notes.txt: phylogeny.txt Makefile
+## m1notes.txt: phylogeny.txt Makefile
+## Don't auto-make it unless you need to.
+m1notes.txt:
 	perl -npe "last if /The history/" $< | perl -npe "s/CHAPTER.*/CHAPTER Midterm 1 extra notes/" > $@
 m1notes.complete.pdf: phylogeny.txt
 
