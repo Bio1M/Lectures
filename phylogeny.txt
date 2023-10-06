@@ -453,7 +453,7 @@ PICSLIDE FIG webpix/georgiacetus.jpg
 
 ----------------------------------------------------------------------
 
-PICSLIDE FIG webpix/mammal_trees.png
+WIDEPIC webpix/mammal_trees.png
 
 ----------------------------------------------------------------------
 
