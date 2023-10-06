@@ -352,6 +352,9 @@ Parsimony | F22.9
 
 		ANS Make use of many different characteristics, when possible
 
+			ANS Look at characteristics in detail (break them up into smaller
+			characteristics)
+
 		ANS It may also help to use many different taxa
 
 	COMMENT Modern approaches that use genetic data may use more sophisticated
