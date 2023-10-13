@@ -164,7 +164,10 @@ mammal_1.png: webpix/mammal_trees.png
 ## diff ~/Dropbox/courses/1M/he_supp/pearson_humans.pdf Pearson/hesc.pdf ##
 ## diff ~/Downloads/Biological*.pdf Pearson/hesc.pdf ##
 
+#### Outdated
+
 ## Short version (how did I run out of so much time in 2019?)
+## Based primarily on Sharp, with some nods towards new-at-the-time Pearson content)
 ## cat primates.txt hominins.txt > humans.txt ##
 ## and then shorten
 humans.draft.pdf: humans.txt
@@ -172,8 +175,6 @@ humans.final.pdf: humans.txt
 humans.handouts.pdf: humans.txt
 humans.complete.pdf: humans.txt
 humans.outline.pdf: humans.txt
-
-#### Outdated
 
 ## Primates 
 primates.draft.pdf: primates.txt

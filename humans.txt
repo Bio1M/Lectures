@@ -1,6 +1,17 @@
 
 EXTRA
 
+PP
+
+sharp\/
+
+freeman
+
+----------------------------------------------------------------------
+
+EXTRA
+
+https://www.nytimes.com/2023/10/05/science/humans-lions-fear-sounds.html?campaign_id=9&emc=edit_nn_20231006&instance_id=104556&nl=the-morning&regi_id=77434583&segment_id=146652&te=1&user_id=0245f60ac244a7208ee38d8a0d398e01
 
 https://www.newscientist.com/article/2390715-our-ultra-mobile-arm-joints-may-have-evolved-for-climbing-down-trees/
 
@@ -14,7 +25,7 @@ EXTRA
 
 ----------------------------------------------------------------------
 
-CHAPTER Human evolution | Chapters 55--56, pdf on Avenue
+CHAPTER Human evolution PP Chapters 55--56, pdf on Avenue
 
 ----------------------------------------------------------------------
 
@@ -92,7 +103,7 @@ PIC HIGHFIG freeman/25L/25_06_Phanerozoic-L.jpg
 
 ----------------------------------------------------------------------
 
-Timeline | Fig 25.7
+Timeline PP Fig 25.7
 
 	Why not just say how long ago?
 
@@ -247,7 +258,7 @@ Advantages of previous radiation
 
 ----------------------------------------------------------------------
 
-EXTRA Mammals | S55.1
+EXTRA Mammals PP S55.1
 
 	ANS Produce milk
 
@@ -263,7 +274,7 @@ EXTRA Mammals | S55.1
 
 ----------------------------------------------------------------------
 
-TSEC The evolution of primates | S55.2--3
+TSEC The evolution of primates PP S55.2--3
 
 	Humans are [primates], an ``order" characterized by
 
@@ -384,7 +395,7 @@ Patterns of adaptation
 
 ----------------------------------------------------------------------
 
-EXTRA Anthropoids | Fig 55.2
+EXTRA Anthropoids PP Fig 55.2
 
 BCC
 
@@ -409,11 +420,11 @@ EXTRA Show other phylogeny (need to screenshot)
 
 ----------------------------------------------------------------------
 
-SEC Apes | S55.4
+SEC Apes PP S55.4
 
 ----------------------------------------------------------------------
 
-Ape adaptations | p.228
+Ape adaptations PP p.228
 
 	Apes are more adapted for swinging through trees, whereas monkeys
 	are more adapted for climbing and leaping
@@ -450,7 +461,7 @@ Patterns of replacement
 
 ----------------------------------------------------------------------
 
-SEC Learning about the past | S 55.5
+SEC Learning about the past PP S 55.5
 
 ----------------------------------------------------------------------
 
@@ -468,7 +479,7 @@ Getting fed
 
 ----------------------------------------------------------------------
 
-Teeth | Fig 9.15
+Teeth PP Fig 9.15
 
 	Teeth are very important for processing food
 
@@ -618,18 +629,7 @@ TIME Summary
 
 ----------------------------------------------------------------------
 
-
-EXTRA
-
-	~/Dropbox/courses/1M/he_supp/pearson_humans.pdf
-
-	ADD
-
-	EXTRA
-
-----------------------------------------------------------------------
-
-TSEC Hominins | S 56.1
+TSEC Hominins PP S 56.1
 
 	[Hominins] refer to people and our upright ancestors
 
@@ -641,7 +641,7 @@ TSEC Hominins | S 56.1
 
 ----------------------------------------------------------------------
 
-Taxonomy | \url{https://en.wikipedia.org/wiki/Hominini}
+Taxonomy PP \url{https://en.wikipedia.org/wiki/Hominini}
 
 BCC
 
@@ -685,7 +685,7 @@ FIG sharp/figs18/fg32_21.jpg
 
 ----------------------------------------------------------------------
 
-Competition and replacement | Fig 56.2
+Competition and replacement PP Fig 56.2
 
 	\emph{H. erectus} replaced everything that came before it
 
@@ -736,7 +736,7 @@ Evaluating evidence
 
 ----------------------------------------------------------------------
 
-Apelike ancestors | See First Hominin subsection
+Apelike ancestors PP See First Hominin subsection
 
 	Were our ancestors more like us, or more like apes?
 
@@ -760,7 +760,7 @@ PIC FIG jdpix/bias.png
 
 ----------------------------------------------------------------------
 
-Upright posture | S56.3 Bipedalism
+ posture PP S56.3 Bipedalism
 
 	How did upright posture and upright walking evolve?
 	
@@ -809,7 +809,7 @@ Studying evolution
 
 	Evidence from fossils
 
-		knees, hips, backs, skulls all provide evidence about posture | Fig 56.8
+		knees, hips, backs, skulls all provide evidence about posture PP Fig 56.8
 
 		teeth and jaws provide evidence about diet
 
@@ -1002,7 +1002,7 @@ DROP Bimodality
 		men, and a peak for women
 
 	If traits are strongly dimorphic, we should be able to tell by sampling,
-	even if we don't know which fossils come from males and which from females |
+	even if we don't know which fossils come from males and which from females PP
 	\url{https://www.cdc.gov/nchs/nhis/index.htm}
 
 ----------------------------------------------------------------------
@@ -1027,7 +1027,7 @@ DROP Teeth
 	We can tell our ancestors have less dimorphism than that \emph{even if we
 	can't tell the males from the females}
 
-		ANS We would expect to see two clear peaks in the distribution | \url{https://www.researchgate.net/figure/Canine-bimodality-in-extant-African-Apes-Extant-African-apes-possess-a-high-degree-of_fig22_41025013}
+		ANS We would expect to see two clear peaks in the distribution PP \url{https://www.researchgate.net/figure/Canine-bimodality-in-extant-African-Apes-Extant-African-apes-possess-a-high-degree-of_fig22_41025013}
 
 ----------------------------------------------------------------------
 
@@ -1059,7 +1059,7 @@ Rate of development
 
 	Clues are available
 
-		Dental enamel | \url{https://embryo.asu.edu/pages/human-evolution-inferred-tooth-growth-and-development}
+		Dental enamel PP \url{https://embryo.asu.edu/pages/human-evolution-inferred-tooth-growth-and-development}
 
 		Molar development
 
