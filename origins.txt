@@ -1,0 +1,1143 @@
+
+EXTRA Ideas
+
+Relatedness of humans and chimps
+
+Importance of delayed puberty
+
+Survivorship bias
+
+How is the observer bias story woven in?
+
+Adaptive loops
+
+F 23.6 and the process of radiation and contraction
+* Therapsids
+* Apes (maybe?)
+* hominids
+
+F23.9, different trees from different genes
+
+Book and the mitochondria nonsense
+
+Biology vs. culture issues
+
+F23.14, where are the dolphins
+* webpix/brainBody.png
+
+What is culture? F23.18
+
+Dobzhansky and Dushoff
+
+----------------------------------------------------------------------
+
+EXTRA
+
+PP
+
+sharp\/
+
+freeman
+
+----------------------------------------------------------------------
+
+EXTRA
+
+https://www.nytimes.com/2023/10/05/science/humans-lions-fear-sounds.html?campaign_id=9&emc=edit_nn_20231006&instance_id=104556&nl=the-morning&regi_id=77434583&segment_id=146652&te=1&user_id=0245f60ac244a7208ee38d8a0d398e01
+
+https://www.newscientist.com/article/2390715-our-ultra-mobile-arm-joints-may-have-evolved-for-climbing-down-trees/
+
+----------------------------------------------------------------------
+
+EXTRA 
+
+~/Dropbox/courses/1M/he_supp/pearson_humans.pdf
+
+	norton
+
+----------------------------------------------------------------------
+
+CHAPTER Human evolution PP Chapters 55--56, pdf on Avenue
+
+----------------------------------------------------------------------
+
+SEC Patterns of evolution
+
+----------------------------------------------------------------------
+
+Humans as an example
+
+	We are an example of a biological species that has evolved
+
+		Many of your friends are probably humans
+
+	Humans seem unique:
+
+		How do they differ from other evolved organisms?
+
+		What do they share with other evolved organisms?
+
+----------------------------------------------------------------------
+
+PIC WIDEFIG jdpix/crowd.jpg
+
+----------------------------------------------------------------------
+
+Similarities and differences
+
+	What is different about people?
+
+		ANS Complex thoughts
+
+		ANS Culture
+
+		ANS Language
+
+		ANS Technology
+
+	What is the same?
+
+		ANS We're here because our ancestors reproduced
+
+		ANS If our reproductive success depends on heritable variation in traits
+		\ldots
+
+			ANS We're still evolving
+
+			ANS In what direction or directions?
+
+----------------------------------------------------------------------
+
+History
+
+	There are a _lot_ of steps (and a lot of divergences) between us and the
+	last universal common ancestor of life
+
+	More than 3 billion years ago!
+
+	Some key steps:
+
+		[Eukaryotes]
+
+		[Animals]
+
+		[Vertebrates]
+
+		[Mammals]
+
+		[Primates]
+
+		[Apes]
+
+----------------------------------------------------------------------
+
+PIC HIGHFIG freeman/25L/25_06_Phanerozoic-L.jpg
+
+----------------------------------------------------------------------
+
+Timeline PP Fig 25.7
+
+	Why not just say how long ago?
+
+		Periods may be punctuated by major events
+
+			Radiations, mass extinctions
+
+		People started talking about periods before they had good measures of how
+		long ago things happened
+
+		Periods have cool names
+
+			ANS Connections help people think clearly
+
+----------------------------------------------------------------------
+
+TSS Context for evolution
+
+	Adaptations build on existing adaptations -- often in unexpected ways
+
+	Evolution does not know where it's going
+
+	In a constant environment, species can only improve with gradual adaptations
+	to the same environment 
+
+		and will be in danger of getting ``stuck'', e.g. vertebrate eyes
+
+	A changing environment provides opportunities to try new combinations and
+	build in unexpected directions
+
+----------------------------------------------------------------------
+
+Physical changes
+
+	Physical changes often provide species with new adaptive challenges and
+	opportunities:
+
+	Global climate change
+
+	Continental drift
+
+	Geological changes
+
+		New environments can arise (e.g., mountain ranges, desert basins)
+
+		Geology may also change connections between two populations without a
+		large effect on how they live
+
+			Rivers changing course
+
+			Mountain ranges separating valley species
+
+			ANS Provides opportunities for allopatric speciation
+
+----------------------------------------------------------------------
+
+PICSLIDE HIGHFIG webpix/Pangaea.gif.jpg
+
+----------------------------------------------------------------------
+
+Changing ecosystems
+
+	Taxa can be dramatically affected by changes in other taxa
+
+		Due to evolution or to colonization
+
+	Interactions with other organisms are key to most ecological niches
+
+		Who do I eat? Who is trying to eat me? How do I reproduce?
+
+	Co-evolution is a key driver of diversity. For example:
+
+		Plants evolve new ways to use insects for sex, or vertebrates for
+		dispersal
+
+		Animals evolve new ways to benefit from plant resources
+
+----------------------------------------------------------------------
+
+WIDEPIC webpix/hummingbird.jpg
+
+----------------------------------------------------------------------
+
+WIDEPIC webpix/fig_wasps.jpg
+
+----------------------------------------------------------------------
+
+Mammalian ancestors
+
+	Our ancestors, the [therapsids], radiated and dominated many terrestrial
+	environments _before_ dinosaurs did
+
+	Therapsids were largely replaced by dinosaurs in the age of dinosaurs
+
+		But some survived, and one radiated after a mass extinction
+
+----------------------------------------------------------------------
+
+Radiation and contraction
+
+	Many clades seem to go through periods of radiation and contraction
+
+		Gain and then loss of species diversity
+
+	Examples:
+
+		Therapsids, apes, hominins (us)
+
+	Radiation gives many chances for adaptation
+
+		Things that have had radiations may be more likely to persist
+
+		Even after periods of contraction
+
+----------------------------------------------------------------------
+
+Reasons for contraction
+
+	What are some reasons that a diverse clade suffer many extinctions?
+
+		ANS Changing conditions (climate change, continents moving)
+
+		ANS Competition from other clades (therapsids vs.~dinosaurs)
+
+		ANS Competition from a successful member (people vs.~other hominins)
+
+----------------------------------------------------------------------
+
+Interpreting patterns
+
+	We see a lot of clades with a history of radiations
+
+	Does that mean most clades radiate?
+
+		ANS Maybe it's just the ones see
+
+		ANS Clades with a history of radiations may be more successful
+
+----------------------------------------------------------------------
+
+Survivorship bias
+
+	Bias arises from the fact that we're much more likely to observe successful
+	taxa 
+	
+		ANS Unlikely adaptive mutations
+
+		ANS Weird speciation events
+
+		ANS Polyploidy and other duplications
+
+		ANS Endosymbioses (mitochondria, chloroplasts)
+
+----------------------------------------------------------------------
+
+
+Advantages of previous radiation
+
+	They've explored more kinds of environments
+
+	They're found in more different specific places
+
+		e.g., marsupials in Australia
+
+	They've had more chances to adapt
+
+		May have a few very successful species (like us)
+
+----------------------------------------------------------------------
+
+EXTRA Mammals PP S55.1
+
+	ANS Produce milk
+
+	ANS Diaphragm enhances respiration
+
+	ANS Hair (fur) for insulation
+
+	ANS Hard palate to breathe efficiently while eating
+
+	What might these have in common?
+
+		ANS High metabolism (warm-blooded)
+
+----------------------------------------------------------------------
+
+TSEC The evolution of primates PP S55.2--3
+
+	Humans are [primates], an ``order" characterized by
+
+		Highly developed [stereroscopic] vision
+
+			Eyes are close together, face forward, and are used together
+
+			Allows 3-d visualization
+
+		Versatile limbs
+
+			Grasping hands and feet
+
+			Nails and fingertips (instead of claws)
+
+		Large brains
+
+----------------------------------------------------------------------
+
+HIGHPIC Pearson/F35_deutero/35_36_primate_phylogeny.jpg
+
+----------------------------------------------------------------------
+
+Traits
+
+	What sort of traits do biologists use to characterize a group?
+
+		ANS Derived traits
+
+	How would you interpret the fact that humans don't have grasping
+	feet?
+
+		ANS Our ancestors lost the trait
+
+		ANS It takes many traits to make an accurate phylogeny
+
+----------------------------------------------------------------------
+
+Changing models
+
+	Does swinging through trees provide evidence that bonobos are closer to
+	orangutans than to humans or gorillas?
+
+		ANS Depends on the ancestor: in this case it seems hard to say
+
+		ANS Even if there is evidence, there's more evidence that
+		they're closer to us
+
+	We used to think people were far from chimps and gorillas
+
+		ANS Observer bias
+
+		ANS Phenetic approaches: humans have a lot of adaptations
+
+			ANS And we're good at recognizing them -- more observer bias
+
+----------------------------------------------------------------------
+
+The angiosperm explosion
+
+	Flowering plants diversified very rapidly around 100 [mya] --
+	million years ago
+
+	This radically changed the ecology of the world, and opened up many
+	new niches, apparently including space for primates
+
+----------------------------------------------------------------------
+
+HIGHPIC webpix/pine_forest.jpg
+
+----------------------------------------------------------------------
+
+WIDEPIC webpix/mixed_forest.jpg
+
+----------------------------------------------------------------------
+
+Primate adaptations
+
+	There are a variety of theories for how characteristic primate
+	adaptations evolved
+
+	Each step was likely favored adaptively
+
+	Likely something to do with processing and handling angiosperm fruit
+	and flowers
+
+		Or else the insects that fed on these fruit and flowers
+
+----------------------------------------------------------------------
+
+Adaptive theories
+
+	There are many theories for why primate traits might have been adaptively
+	favored in our ancestors
+
+		Leaping from branch to branch
+
+		Climbing and balancing on trees
+
+		Exploiting new plant resources
+
+		Catching insects
+
+		[Adaptive foraging]: the ability to switch between types of food, and to
+		learn to use new types of food
+
+----------------------------------------------------------------------
+
+Patterns of adaptation
+
+	These strategies may have evolved sequentially
+
+		Maybe exploiting tree resources came first, but similar traits helped
+		some species later catch insects
+
+		Maybe traits which evolved for one specific purpose later became useful
+		for adaptive foraging
+
+----------------------------------------------------------------------
+
+EXTRA Anthropoids PP Fig 55.2
+
+BCC
+
+	Anthropoids is the sub-group of primates including apes and monkeys
+
+		ANS Monkeys are not a clade!
+
+		ANS Old-world primates (book) is not a good name for the clade containing
+		Old-world monkeys
+
+		ANS Another good name for anthropoids might be simians
+
+NCC
+
+SIDEFIG Pearson/F35_deutero/35_36_primate_phylogeny.jpg
+
+EC
+
+----------------------------------------------------------------------
+
+EXTRA Show other phylogeny (need to screenshot)
+
+----------------------------------------------------------------------
+
+SEC Apes PP S55.4
+
+----------------------------------------------------------------------
+
+Ape adaptations PP p.228
+
+	Apes are more adapted for swinging through trees, whereas monkeys
+	are more adapted for climbing and leaping
+
+	More upright
+
+	Better at hanging, and worse at sitting
+
+	Lots of missing pieces of the puzzle
+
+		There may be a lot of convergent evolution and secondary loss going on
+
+----------------------------------------------------------------------
+
+Patterns of replacement
+
+	Apes ``radiated" into many habitats before monkeys did
+
+		Many ape species were apparently later replaced by monkeys
+
+	Why might apes have diversified, and later been replaced by monkeys?
+
+		ANS Changing climactic conditions
+
+		ANS Changes in plants or insects
+
+		ANS Unpredictable adaptive innovations
+
+	What if the ape radiation had never happened?
+
+		ANS Less diversity between surviving apes
+
+		ANS Probably no people
+
+----------------------------------------------------------------------
+
+SEC Learning about the past PP S 55.5
+
+----------------------------------------------------------------------
+
+Getting fed
+
+	A major factor in adaptation is food source.
+
+	The most important strategies for early primates were:
+	
+		[Frugivory]: eating fruits (and sometimes flowers)
+
+		[Folivory]: eating leaves
+
+		[Insectivory]: eating insects
+
+----------------------------------------------------------------------
+
+Teeth PP Fig 9.15
+
+	Teeth are very important for processing food
+
+	Why do we have two sets of teeth?
+
+		ANS Makes it more likely our teeth will last for longer
+
+		ANS This is probably also why wisdom teeth come in late
+
+	Teeth help scientists understand what extinct animals ate
+
+		Often preserved, highly adapted
+
+	REMARK Canadian research from 2018: insanely detailed study of dinosaur
+	teeth and wear marks
+
+----------------------------------------------------------------------
+
+PIC FIG webpix/dog_teeth.jpg
+
+----------------------------------------------------------------------
+
+PIC FIG webpix/Horse_teeth.jpg
+
+----------------------------------------------------------------------
+
+PIC HIGHFIG webpix/toothwear.jpg
+
+----------------------------------------------------------------------
+
+Eyes 
+
+	Eye [orbits] are the skeletal cavities where eyes are
+
+	Orbits tell us size, shape and position of eyes from fossil animals
+
+	What are the advantages and disadvantages of more forward-facing eyes?
+
+		ANS Better for precise tasks, three-dimensional visualization
+
+		ANS Not as good for looking around, being alert
+
+	What are the advantages and disadvantages of larger eyes?
+
+		ANS Better for night vision
+
+		ANS More costly? Harder to protect?
+
+		ANS Are small (or deep) eyes better for day vision?
+
+----------------------------------------------------------------------
+
+HIGHPIC webpix/orbit.png
+
+----------------------------------------------------------------------
+
+WIDEPIC webpix/leopard_skull.jpg
+
+----------------------------------------------------------------------
+
+WIDEPIC webpix/antelope_skull.jpg
+
+----------------------------------------------------------------------
+
+HIGHPIC webpix/gorilla_skull.jpg
+
+----------------------------------------------------------------------
+
+Sexual dimorphism
+
+	Information about differences between males and females has implications
+	about social structure and mating patterns
+
+		In species where there is more variation in male success (less bonding in
+		pairs), we expect:
+
+			ANS More sexual dimorphism
+
+			ANS More competition between males for females
+
+----------------------------------------------------------------------
+
+WIDEPIC webpix/gorillas.jpg
+
+----------------------------------------------------------------------
+
+WIDEPIC webpix/bonobos.jpg
+
+----------------------------------------------------------------------
+
+Dimorphism and sexual strategies
+
+	Gorillas live in male-centered groups (one adult male, several adult females)
+
+	Chimpanzees live in large, well-mixed groups with lots of interactions
+	between males and females
+
+	Which species should have more sexual dimorphism overall?
+
+		ANS Gorillas. Males are huge and strong and compete for females by
+		displaying and fighting. A dominant male has exclusive access to a group
+		of females
+
+	Which species should have larger male genitals?
+
+		ANS Chimpanzees have much larger genitals.
+		
+		ANS Gorillas don't use genitals as part of sexual competition
+
+	What about humans?
+
+		REMARK Big penises and small testicles
+
+----------------------------------------------------------------------
+
+Learning about evolution
+
+	Understanding the course of evolution is an important part of understanding
+	how things work now
+
+		How organisms work, and how ecosystems work
+
+	There are many challenges:
+
+		Timelines, identification, convergent evolution
+
+	REMARK: Skip a summary slide
+
+----------------------------------------------------------------------
+
+TIME Summary
+
+	People have important differences from other organisms
+
+	We got here using the same rules of natural selection as everyone else
+
+		Things may be different _now_, but even that is not so clear
+
+	Adaptation does not move in a straight line
+
+		Changing conditions lead to opportunities for new adaptations
+
+		New adaptations _themselves_ can be an important cause of changing
+		conditions
+
+			Innovations, or co-evolution with other taxa
+
+----------------------------------------------------------------------
+
+TSEC Hominins PP S 56.1
+
+	[Hominins] refer to people and our upright ancestors
+
+	Characterized by:
+
+		Walking upright
+
+		Specific changes in chewing design: teeth, jaws and skull
+
+----------------------------------------------------------------------
+
+Taxonomy PP \url{https://en.wikipedia.org/wiki/Hominini}
+
+BCC
+
+SIDEFIG webpix/homininae.png
+
+NCC
+
+	REMARK Taxonomy from wikipedia
+
+	Homonoidea, Hominidae, Hominininae, Hominini, Hominina, Homo
+
+	Why so much detailed splitting?
+
+		ANS We're a little bit full of ourselves
+
+		ANS Observer bias
+
+EC
+
+----------------------------------------------------------------------
+
+Putting together the puzzle
+
+	What did our common ancestor with chimpanzees look like?
+
+	Which fossils are related to which other fossils?
+
+	The key is which features are reliable indicators of relatedness?
+
+		ANS How do we tell the difference between convergence and homology?
+
+		ANS It's all in the details
+
+		ANS And it's not always clear
+
+----------------------------------------------------------------------
+
+PICSLIDE
+
+FIG sharp/figs18/fg32_21.jpg
+
+----------------------------------------------------------------------
+
+Competition and replacement PP Fig 56.2
+
+	\emph{H. erectus} replaced everything that came before it
+
+	\emph{H. sapiens} replaced everything that came before _it_
+
+----------------------------------------------------------------------
+
+Modern humans
+
+	Characterized by small face and teeth
+
+	Less robust skeletal structure
+
+	Evolved in Africa around 200 [kya] (thousand years ago)
+
+	Took over most of the world in the last 50,000 years
+
+----------------------------------------------------------------------
+
+Why are we here?
+
+	Modern humans arose around 200 kya, but took over the world around 50
+	kya
+
+	What happened?
+
+		Cultural change?
+
+		Evolutionary change?
+
+			Sudden or gradual?
+
+		Why don't we see evidence?
+
+			ANS Might be about our brains, and not reflected in fossils
+
+----------------------------------------------------------------------
+
+Evaluating evidence
+
+	There are a lot of theories and a great deal of expertise
+
+	But expertise can also lead to over-confidence
+
+	As with other examples, we try to make and test theories
+
+		ANS Make predictions about things that haven't been seen yet
+
+----------------------------------------------------------------------
+
+Apelike ancestors PP See First Hominin subsection
+
+	Were our ancestors more like us, or more like apes?
+
+		ANS Trick question: we _are_ apes, if apes are a clade
+
+		ANS Among living apes, the closest _relatives_ of our ancestors is us
+
+		ANS In some important ways, we have evolved more than chimpanzees have
+
+		ANS But chimpanzees have probably evolved more than we think
+
+			ANS Observer bias
+
+			ANS Our ancestors are less like chimps than we thought 
+
+----------------------------------------------------------------------
+
+PSLIDE Observer bias
+
+PIC FIG jdpix/bias.png
+
+----------------------------------------------------------------------
+
+ posture PP S56.3 Bipedalism
+
+	How did upright posture and upright walking evolve?
+	
+	It's not known, but there are many theories:
+
+		Adaptation to walking on the ground instead of swinging through
+		trees
+
+			ANS If so, probably dependent on [gradual] evolution from
+			existing form
+
+		Adaptation for keeping cool
+
+		Adaptation for harvesting food
+
+		Adaptation for carrying food
+
+----------------------------------------------------------------------
+
+PIC FIG sharp/figs18/figure-56.8a.jpg
+
+----------------------------------------------------------------------
+
+Gradual evolution
+
+	Hominins' evolution of upright posture was likely dependent on
+	evolutionary history and circumstance
+
+		Built on previous adaptations
+
+	Evolution of upright posture almost certainly led to further
+	evolutionary change:
+
+		Carrying and storing things
+
+		Making and using tools
+
+	Given the dramatic amount of evolution, there were likely a lot of adaptive
+	``loops"
+	
+		Changes in one area set the stage for changes in another area \ldots
+
+----------------------------------------------------------------------
+
+Studying evolution
+
+	Evidence from fossils
+
+		knees, hips, backs, skulls all provide evidence about posture PP Fig 56.8
+
+		teeth and jaws provide evidence about diet
+
+	Evidence from archaeology
+
+		hominin fossils may be found in particular placess
+		
+		associated with fossils from things that hominins used to eat
+
+		or with tools
+
+----------------------------------------------------------------------
+
+Back and forth evolution 
+
+	Many very early hominins (6 mya) had facial and dental features that were
+	similar to later hominins (2 mya)
+
+		Less similar to chimpanzees
+
+		But also less similar to _Australopiths_ (3 mya)
+
+	Is this surprising?
+
+		ANS Radiation and contraction
+
+			ANS The hominins we found may not be directly related to the
+			Australopiths
+
+		ANS Evolution is not goal-oriented
+
+			ANS Changing conditions can lead to changing directions of evolution
+
+----------------------------------------------------------------------
+
+Hominin phylogenies 
+
+	Hominins had a large number of speciation and extinction events
+
+		Consistent with radiation and contraction
+
+		Likely provided more opportunities for adaptation in the long run
+
+	The tree is not well understood, despite intensive study
+
+		ANS Changing environments and convergent evolution
+
+----------------------------------------------------------------------
+
+PICSLIDE WIDEFIG Pearson/F_skills/B07_2_phylo_tree_example.jpg
+
+----------------------------------------------------------------------
+
+SEC Sociality
+
+----------------------------------------------------------------------
+
+Complex foraging 
+
+	A key part of human evolution was shaped by [complex foraging]
+	strategies of our ancestors -- they relied on many types of food,
+	including types of food that are difficult to get or process
+
+	What adaptations likely favored this strategy?
+
+		ANS Clever hands, upright walking
+
+	What further adaptations might this strategy have favored?
+
+		ANS Big brains
+
+		ANS co-operation, including male-female co-operation
+
+		ANS Social behaviour
+
+----------------------------------------------------------------------
+
+Looping
+
+	Lots of adaptations may be partly explained by adaptive loops
+
+		ANS Complex foraging ⇒ more sociality ⇒ bigger brains
+		⇒ more opportunities to adapt complex foraging techniques \ldots
+
+		ANS More communication ⇒ more complex social interactions ⇒ bigger brains
+		⇒ more opportunities to evolve better communication or language
+
+----------------------------------------------------------------------
+
+Complex foraging and co-operation
+
+	Complex foraging may have promoted co-operation between females and
+	males, since primate child care is not well suited to a hunting life
+	style
+
+	It may have promoted co-operation between people with different
+	skills, since they might have access to food at different times
+
+	It may have promoted co-operation among hunters, since hunting success is
+	highly variable
+
+	It may have promoted co-operation in teaching and learning
+
+----------------------------------------------------------------------
+
+Complex foraging and thinking
+
+	Complex foraging favors large brains that can learn a lot
+
+	It also favors a long learning period
+
+		Sensitivity vs.~crystallization
+
+			Time periods when we learn, vs.~time periods when we have fixed
+			behaviours
+
+	It also favors communication
+
+----------------------------------------------------------------------
+
+TIME Complex foraging and gender roles
+
+	How might complex foraging affect child care and sexual dimorphism?
+
+		ANS If males and females co-operate, then pair bonds might be more stable
+
+		ANS If pair bonds are more stable, we expect sexual dimorphism to
+		be less
+
+----------------------------------------------------------------------
+
+TIME Social behaviour
+
+	As behaviour becomes more social, a wide variety of other adaptations may
+	become available
+
+		Mostly related to thinking and communication
+
+	Leading to more opportunities for looping:
+
+		ANS Bigger brains may facilitate more food-gathering and survival
+		strategies
+
+		ANS Communication may favor co-operation
+
+----------------------------------------------------------------------
+
+DROP How social were early hominins?
+
+	What kind of clues might be available?
+
+		ANS Sexual dimorphism
+
+		ANS Physical structures consistent with vocal communication
+
+		ANS Dental enamel! Preserves amazingly detailed history of growth and
+		growth rate
+
+----------------------------------------------------------------------
+
+DROP Sexual dimorphism
+
+	The extent of sexual dimorphism tells us at least something about social
+	structures
+
+		ANS Large amounts of sexual dimorphism probably mean less sociality and
+		co-operation
+
+		ANS At least among adult males
+
+	How do we know whose bones are male and female?
+
+		ANS [Pelvises] (hip bones) are very different in all of our ancestors
+
+		ANS Because childbirth
+
+	How do we know whose teeth are male and female?
+
+		ANS We don't, usually
+
+		ANS Bimodality can tell us about dimorphism anyway
+
+----------------------------------------------------------------------
+
+DROP Bimodality 
+
+	Bimodality means having two peaks in a distribution
+
+		For example, a modern human height distribution would have a peak for
+		men, and a peak for women
+
+	If traits are strongly dimorphic, we should be able to tell by sampling,
+	even if we don't know which fossils come from males and which from females PP
+	\url{https://www.cdc.gov/nchs/nhis/index.htm}
+
+----------------------------------------------------------------------
+
+DROPPIC
+
+PIC HIGHFIG jdpix/heights.Rout-0.pdf
+
+----------------------------------------------------------------------
+
+DROPPIC
+
+PIC HIGHFIG jdpix/heights.Rout-1.pdf
+
+----------------------------------------------------------------------
+
+DROP Teeth
+
+	Chimpanzees and (especially) gorillas have extreme sexual dimorphism in
+	tooth size
+
+	We can tell our ancestors have less dimorphism than that \emph{even if we
+	can't tell the males from the females}
+
+		ANS We would expect to see two clear peaks in the distribution PP \url{https://www.researchgate.net/figure/Canine-bimodality-in-extant-African-Apes-Extant-African-apes-possess-a-high-degree-of_fig22_41025013}
+
+----------------------------------------------------------------------
+
+DROPPIC
+
+PIC FIG webpix/ape_teeth.png
+
+----------------------------------------------------------------------
+
+DROPPIC
+
+PIC HIGHFIG jdpix/fake_teeth.Rout-0.pdf
+
+----------------------------------------------------------------------
+
+DROPPIC
+
+PIC HIGHFIG jdpix/fake_teeth.Rout-1.pdf
+
+----------------------------------------------------------------------
+
+Rate of development
+
+	Why do human children develop _so_ slowly?
+
+		ANS Presumably related to elaborate sociality
+
+	We are therefore very interested in how long it took our ancestors to mature
+
+	Clues are available
+
+		Dental enamel PP \url{https://embryo.asu.edu/pages/human-evolution-inferred-tooth-growth-and-development}
+
+		Molar development
+
+	But it's a hard problem
+
+----------------------------------------------------------------------
+
+PICSLIDE
+
+FIG webpix/young_horse.jpg
+
+REMARK 2-year-old
+
+----------------------------------------------------------------------
+
+Summary
+
+	People evolved by the same basic rules as other organisms
+
+		ANS Adaptation by natural selection
+
+	Followed a very different path
+
+		ANS Strong loops that continually created new adaptive opportunities
+
+	There is a lot we can learn about ourselves from biology
+
+		ANS We are affected by all of the same basic processes as other organisms
+
+	And also a lot that we can't learn
+
+		ANS We are also strongly affected by our complex brains (and complex
+		cultures) 

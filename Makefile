@@ -10,7 +10,7 @@ current: target
 # Session
 
 vim_session:
-	bash -cl "vmt lecture.txt tutorial.txt"
+	bash -cl "vmt lecture.txt notes.txt tutorial.txt"
 
 pullup: web.pull
 
@@ -26,6 +26,10 @@ autopipeR = defined
 # https://avenue.mcmaster.ca/login.php?target=%2Fd2l%2Fhome%2F551736
 # https://achieve.macmillanlearning.com/courses/g3zdfj/mycourse#
 # https://teams.microsoft.com/_#/school/conversations/Lecture%20Content%20Questions?threadId=19:03abfa4d79324a05ab7a6df639a2f085@thread.tacv2&ctx=channel
+
+######################################################################
+
+## HLW sucks, use notes.txt
 
 ######################################################################
 
@@ -147,17 +151,23 @@ Sources += speciation.links
 
 ## Very little seems testable beyond section 1!
 #### Phylogeny and the history of life (P27 ⇒ P25)
-phylogeny.draft.pdf: phylogeny.txt
-phylogeny.final.pdf: phylogeny.txt
-phylogeny.handouts.pdf: phylogeny.txt
-phylogeny.complete.pdf: phylogeny.txt
-phylogeny.outline.pdf: phylogeny.txt
-
+# phylogeny.draft.pdf: phylogeny.txt
+# phylogeny.final.pdf: phylogeny.txt
+# phylogeny.handouts.pdf: phylogeny.txt
+# phylogeny.complete.pdf: phylogeny.txt
+# phylogeny.outline.pdf: phylogeny.txt
 Ignore += *.png
 mammal_0.png: webpix/mammal_trees.png
 	convert -crop 480x619+0+0 $< $@
 mammal_1.png: webpix/mammal_trees.png
 	convert -crop 480x619+480+0 $< $@
+
+## 2023 humans
+# origins.draft.pdf: origins.txt
+# origins.final.pdf: origins.txt
+# origins.handouts.pdf: origins.txt
+# origins.complete.pdf: origins.txt
+# origins.outline.pdf: origins.txt
 
 ## New content
 ## Same as the old content!
@@ -170,11 +180,11 @@ mammal_1.png: webpix/mammal_trees.png
 ## Based primarily on Sharp, with some nods towards new-at-the-time Pearson content)
 ## cat primates.txt hominins.txt > humans.txt ##
 ## and then shorten
-humans.draft.pdf: humans.txt
-humans.final.pdf: humans.txt
-humans.handouts.pdf: humans.txt
-humans.complete.pdf: humans.txt
-humans.outline.pdf: humans.txt
+# humans.draft.pdf: humans.txt
+# humans.final.pdf: humans.txt
+# humans.handouts.pdf: humans.txt
+# humans.complete.pdf: humans.txt
+# humans.outline.pdf: humans.txt
 
 ## Primates 
 primates.draft.pdf: primates.txt
