@@ -894,12 +894,16 @@ Activity: how are people causing extinctions?
 
 ----------------------------------------------------------------------
 
-PSLIDE Extra: humans are scary
+FUNSLIDE Our ancestors also caused extinctions around the world
 
-https://www.nytimes.com/2023/10/05/science/humans-lions-fear-sounds.html?campaign_id=9&emc=edit_nn_20231006&instance_id=104556&nl=the-morning&regi_id=77434583&segment_id=146652&te=1&user_id=0245f60ac244a7208ee38d8a0d398e01
+	Many large mammals outside of Africa were driven extinct 
+	\textgreater\ 5000 years ago
+
+	Mammals in Africa likely co-evolved to be very scared of humans
+	
+	HREF https://www.nytimes.com/2023/10/05/science/humans-lions-fear-sounds.html?campaign_id=9&emc=edit_nn_20231006&instance_id=104556&nl=the-morning&regi_id=77434583&segment_id=146652&te=1&user_id=0245f60ac244a7208ee38d8a0d398e01 New research from South Africa
 
 ----------------------------------------------------------------------
-
 
 Conclusion
 

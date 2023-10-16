@@ -55,9 +55,9 @@ $(picdirs):
 ## hlw/20Evol_images/
 ## hlw/21Spec_images/
 ## hlw/22Phylo_images/
-## hlw/23Humans.images/
+## go hlw/23Humans_images/ ##
 
-## hlw/22Phylo_images.imagenames:
+## hlw/23Humans_images.imagenames:
 %.imagenames: %
 	cd $* && rename 's/image(.)\./image0$$1./' *.jpg
 

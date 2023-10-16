@@ -1,7 +1,8 @@
 
-EXTRA Ideas
+EXTRA 
 
 Relatedness of humans and chimps
+* Relatedness of humans vs Neanderthals
 
 Importance of delayed puberty
 
@@ -12,9 +13,6 @@ How is the observer bias story woven in?
 Adaptive loops
 
 F 23.6 and the process of radiation and contraction
-* Therapsids
-* Apes (maybe?)
-* hominids
 
 F23.9, different trees from different genes
 
@@ -29,35 +27,19 @@ What is culture? F23.18
 
 Dobzhansky and Dushoff
 
-----------------------------------------------------------------------
-
-EXTRA
-
-PP
-
-sharp\/
-
-freeman
+Back to adaptive foraging
 
 ----------------------------------------------------------------------
 
 EXTRA
-
-https://www.nytimes.com/2023/10/05/science/humans-lions-fear-sounds.html?campaign_id=9&emc=edit_nn_20231006&instance_id=104556&nl=the-morning&regi_id=77434583&segment_id=146652&te=1&user_id=0245f60ac244a7208ee38d8a0d398e01
 
 https://www.newscientist.com/article/2390715-our-ultra-mobile-arm-joints-may-have-evolved-for-climbing-down-trees/
 
-----------------------------------------------------------------------
-
-EXTRA 
-
-~/Dropbox/courses/1M/he_supp/pearson_humans.pdf
-
-	norton
+https://royalsocietypublishing.org/doi/10.1098/rsos.230145
 
 ----------------------------------------------------------------------
 
-CHAPTER Human evolution PP Chapters 55--56, pdf on Avenue
+CHAPTER Human evolution | Chapter 23
 
 ----------------------------------------------------------------------
 
@@ -131,11 +113,7 @@ History
 
 ----------------------------------------------------------------------
 
-PIC HIGHFIG freeman/25L/25_06_Phanerozoic-L.jpg
-
-----------------------------------------------------------------------
-
-Timeline PP Fig 25.7
+EXTRA Timeline 
 
 	Why not just say how long ago?
 
@@ -270,7 +248,7 @@ Interpreting patterns
 
 	Does that mean most clades radiate?
 
-		ANS Maybe it's just the ones see
+		ANS Maybe it's just the ones we notice
 
 		ANS Clades with a history of radiations may be more successful
 
@@ -287,10 +265,10 @@ Survivorship bias
 
 		ANS Polyploidy and other duplications
 
-		ANS Endosymbioses (mitochondria, chloroplasts)
+		ANS Endosymbioses (combinations of different organisms!): mitochondria,
+		chloroplasts
 
 ----------------------------------------------------------------------
-
 
 Advantages of previous radiation
 
@@ -306,7 +284,11 @@ Advantages of previous radiation
 
 ----------------------------------------------------------------------
 
-EXTRA Mammals PP S55.1
+SEC Our recent history
+
+----------------------------------------------------------------------
+
+EXTRA Mammals
 
 	ANS Produce milk
 
@@ -322,7 +304,7 @@ EXTRA Mammals PP S55.1
 
 ----------------------------------------------------------------------
 
-TSEC The evolution of primates PP S55.2--3
+TSS Primates
 
 	Humans are [primates], an ``order" characterized by
 
@@ -340,13 +322,17 @@ TSEC The evolution of primates PP S55.2--3
 
 		Large brains
 
-----------------------------------------------------------------------
-
-HIGHPIC Pearson/F35_deutero/35_36_primate_phylogeny.jpg
+			ANS Compared to related groups of mammals
 
 ----------------------------------------------------------------------
 
-Traits
+PSLIDE Primates
+
+WIDEFIG hlw/23Humans_images/image02.jpg 
+
+----------------------------------------------------------------------
+
+EXTRA Traits
 
 	What sort of traits do biologists use to characterize a group?
 
@@ -443,36 +429,13 @@ Patterns of adaptation
 
 ----------------------------------------------------------------------
 
-EXTRA Anthropoids PP Fig 55.2
+Adaptive looping
 
-BCC
-
-	Anthropoids is the sub-group of primates including apes and monkeys
-
-		ANS Monkeys are not a clade!
-
-		ANS Old-world primates (book) is not a good name for the clade containing
-		Old-world monkeys
-
-		ANS Another good name for anthropoids might be simians
-
-NCC
-
-SIDEFIG Pearson/F35_deutero/35_36_primate_phylogeny.jpg
-
-EC
+ADD Big brains, clever hands, stereoscopic vision, more flexible foraging strategies
 
 ----------------------------------------------------------------------
 
-EXTRA Show other phylogeny (need to screenshot)
-
-----------------------------------------------------------------------
-
-SEC Apes PP S55.4
-
-----------------------------------------------------------------------
-
-Ape adaptations PP p.228
+TSS Apes
 
 	Apes are more adapted for swinging through trees, whereas monkeys
 	are more adapted for climbing and leaping
@@ -509,7 +472,401 @@ Patterns of replacement
 
 ----------------------------------------------------------------------
 
-SEC Learning about the past PP S 55.5
+TSS Hominins 
+
+	[Hominins] refer to people and our upright ancestors
+
+	Characterized by:
+
+		Walking upright
+
+		Specific changes in chewing design: teeth, jaws and skull
+
+----------------------------------------------------------------------
+
+Taxonomy | \url{https://en.wikipedia.org/wiki/Hominini}
+
+BCC
+
+SIDEFIG webpix/homininae.png
+
+NCC
+
+	REMARK Taxonomy from wikipedia
+
+	Homonoidea, Hominidae, Hominininae, Hominini, Hominina, Homo
+
+	Why so much detailed splitting?
+
+		ANS We're a little bit full of ourselves
+
+		ANS Observer bias
+
+EC
+
+----------------------------------------------------------------------
+
+Putting together the puzzle
+
+	What did our common ancestor with chimpanzees look like?
+
+	Which fossils are related to which other fossils?
+
+	The key is which features are reliable indicators of relatedness?
+
+		ANS How do we tell the difference between convergence and homology?
+
+		ANS It's all in the details
+
+		ANS And it's not always clear
+
+----------------------------------------------------------------------
+
+Modern humans
+
+	Characterized by small face and teeth
+
+	Less robust skeletal structure
+
+	Evolved in Africa around 200 [kya] (thousand years ago)
+
+	Took over most of the world in the last 50,000 years
+
+----------------------------------------------------------------------
+
+Why are we here?
+
+	Modern humans arose around 200 kya, but took over the world around 50
+	kya
+
+	What happened?
+
+		Cultural change?
+
+		Evolutionary change?
+
+			Sudden or gradual?
+
+		Why don't we see evidence?
+
+			ANS Might be about our brains, and not reflected in fossils
+
+----------------------------------------------------------------------
+
+Evaluating evidence
+
+	There are a lot of theories and a great deal of expertise
+
+	But expertise can also lead to over-confidence
+
+	As with other examples, we try to make and test theories
+
+		ANS Make predictions about things that haven't been seen yet
+
+----------------------------------------------------------------------
+
+Apelike ancestors 
+
+	Were our ancestors more like us, or more like apes?
+
+		ANS Trick question: we _are_ apes, if apes are a clade
+
+		ANS Among living apes, the closest _relatives_ of our ancestors is us
+
+		ANS In some important ways, we have evolved more than chimpanzees have
+
+		ANS But chimpanzees have probably evolved more than we think
+
+			ANS Observer bias
+
+			ANS Our ancestors are less like chimps than we thought 
+
+----------------------------------------------------------------------
+
+Upright posture
+
+	How did upright posture and upright walking evolve?
+	
+	It's not known, but there are many theories:
+
+		Adaptation to walking on the ground instead of swinging through
+		trees
+
+			ANS If so, probably dependent on [gradual] evolution from
+			existing form
+
+		Adaptation for keeping cool
+
+		Adaptation for harvesting food
+
+		Adaptation for carrying food
+
+----------------------------------------------------------------------
+
+Gradual evolution
+
+	Hominins' evolution of upright posture was likely dependent on
+	evolutionary history and circumstance
+
+		Built on previous adaptations
+
+	Evolution of upright posture almost certainly led to further
+	evolutionary change:
+
+		Carrying and storing things
+
+		Making and using tools
+
+	Given the dramatic amount of evolution, there were likely a lot of adaptive
+	``loops"
+	
+		Changes in one area set the stage for changes in another area \ldots
+
+----------------------------------------------------------------------
+
+Studying evolution
+
+	Evidence from fossils
+
+		knees, hips, backs, skulls all provide evidence about posture
+
+		teeth and jaws provide evidence about diet
+
+	Evidence from archaeology
+
+		hominin fossils may be found in particular placess
+		
+		associated with fossils from things that hominins used to eat
+
+		or with tools
+
+----------------------------------------------------------------------
+
+
+Hominin phylogenies 
+
+	Hominins had a large number of speciation and extinction events
+
+		Consistent with radiation and contraction
+
+		Likely provided more opportunities for adaptation in the long run
+
+	The tree is not well understood, despite intensive study
+
+----------------------------------------------------------------------
+
+SEC Sociality
+
+----------------------------------------------------------------------
+
+Complex foraging 
+
+	A key part of human evolution was shaped by [complex foraging]
+	strategies of our ancestors -- they relied on many types of food,
+	including types of food that are difficult to get or process
+
+	What adaptations likely favored this strategy?
+
+		ANS Clever hands, upright walking
+
+	What further adaptations might this strategy have favored?
+
+		ANS Big brains
+
+		ANS co-operation, including male-female co-operation
+
+		ANS Social behaviour
+
+----------------------------------------------------------------------
+
+Looping
+
+	Lots of adaptations may be partly explained by adaptive loops
+
+		ANS Complex foraging ⇒ more sociality ⇒ bigger brains
+		⇒ more opportunities to adapt complex foraging techniques \ldots
+
+		ANS More communication ⇒ more complex social interactions ⇒ bigger brains
+		⇒ more opportunities to evolve better communication or language
+
+----------------------------------------------------------------------
+
+Complex foraging and co-operation
+
+	Complex foraging may have promoted co-operation between females and
+	males, since primate child care is not well suited to a hunting life
+	style
+
+	It may have promoted co-operation between people with different
+	skills, since they might have access to food at different times
+
+	It may have promoted co-operation among hunters, since hunting success is
+	highly variable
+
+	It may have promoted co-operation in teaching and learning
+
+----------------------------------------------------------------------
+
+Complex foraging and thinking
+
+	Complex foraging favors large brains that can learn a lot
+
+	It also favors a long learning period
+
+		Sensitivity vs.~crystallization
+
+			Time periods when we learn, vs.~time periods when we have fixed
+			behaviours
+
+	It also favors communication
+
+----------------------------------------------------------------------
+
+TIME Complex foraging and gender roles
+
+	How might complex foraging affect child care and sexual dimorphism?
+
+		ANS If males and females co-operate, then pair bonds might be more stable
+
+		ANS If pair bonds are more stable, we expect sexual dimorphism to
+		be less
+
+----------------------------------------------------------------------
+
+TIME Social behaviour
+
+	As behaviour becomes more social, a wide variety of other adaptations may
+	become available
+
+		Mostly related to thinking and communication
+
+	Leading to more opportunities for looping:
+
+		ANS Bigger brains may facilitate more food-gathering and survival
+		strategies
+
+		ANS Communication may favor co-operation
+
+----------------------------------------------------------------------
+
+DROP How social were early hominins?
+
+	What kind of clues might be available?
+
+		ANS Sexual dimorphism
+
+		ANS Physical structures consistent with vocal communication
+
+		ANS Dental enamel! Preserves amazingly detailed history of growth and
+		growth rate
+
+----------------------------------------------------------------------
+
+DROP Sexual dimorphism
+
+	The extent of sexual dimorphism tells us at least something about social
+	structures
+
+		ANS Large amounts of sexual dimorphism probably mean less sociality and
+		co-operation
+
+		ANS At least among adult males
+
+	How do we know whose bones are male and female?
+
+		ANS [Pelvises] (hip bones) are very different in all of our ancestors
+
+		ANS Because childbirth
+
+	How do we know whose teeth are male and female?
+
+		ANS We don't, usually
+
+		ANS Bimodality can tell us about dimorphism anyway
+
+----------------------------------------------------------------------
+
+DROP Bimodality 
+
+	Bimodality means having two peaks in a distribution
+
+		For example, a modern human height distribution would have a peak for
+		men, and a peak for women
+
+	If traits are strongly dimorphic, we should be able to tell by sampling,
+	even if we don't know which fossils come from males and which from females |
+	\url{https://www.cdc.gov/nchs/nhis/index.htm}
+
+----------------------------------------------------------------------
+
+DROPPIC
+
+PIC HIGHFIG jdpix/heights.Rout-0.pdf
+
+----------------------------------------------------------------------
+
+DROPPIC
+
+PIC HIGHFIG jdpix/heights.Rout-1.pdf
+
+----------------------------------------------------------------------
+
+DROP Teeth
+
+	Chimpanzees and (especially) gorillas have extreme sexual dimorphism in
+	tooth size
+
+	We can tell our ancestors have less dimorphism than that \emph{even if we
+	can't tell the males from the females}
+
+		ANS We would expect to see two clear peaks in the distribution | \url{https://www.researchgate.net/figure/Canine-bimodality-in-extant-African-Apes-Extant-African-apes-possess-a-high-degree-of_fig22_41025013}
+
+----------------------------------------------------------------------
+
+DROPPIC
+
+PIC FIG webpix/ape_teeth.png
+
+----------------------------------------------------------------------
+
+DROPPIC
+
+PIC HIGHFIG jdpix/fake_teeth.Rout-0.pdf
+
+----------------------------------------------------------------------
+
+DROPPIC
+
+PIC HIGHFIG jdpix/fake_teeth.Rout-1.pdf
+
+----------------------------------------------------------------------
+
+Rate of development
+
+	Why do human children develop _so_ slowly?
+
+		ANS Presumably related to elaborate sociality
+
+	We are therefore very interested in how long it took our ancestors to mature
+
+	Clues are available
+
+		Dental enamel | \url{https://embryo.asu.edu/pages/human-evolution-inferred-tooth-growth-and-development}
+
+		Molar development
+
+	But it's a hard problem
+
+----------------------------------------------------------------------
+
+PICSLIDE
+
+FIG webpix/young_horse.jpg
+
+REMARK 2-year-old
+
+----------------------------------------------------------------------
+SEC Learning about the past 
 
 ----------------------------------------------------------------------
 
@@ -527,7 +884,7 @@ Getting fed
 
 ----------------------------------------------------------------------
 
-Teeth PP Fig 9.15
+Teeth 
 
 	Teeth are very important for processing food
 
@@ -677,451 +1034,6 @@ TIME Summary
 
 ----------------------------------------------------------------------
 
-TSEC Hominins PP S 56.1
-
-	[Hominins] refer to people and our upright ancestors
-
-	Characterized by:
-
-		Walking upright
-
-		Specific changes in chewing design: teeth, jaws and skull
-
-----------------------------------------------------------------------
-
-Taxonomy PP \url{https://en.wikipedia.org/wiki/Hominini}
-
-BCC
-
-SIDEFIG webpix/homininae.png
-
-NCC
-
-	REMARK Taxonomy from wikipedia
-
-	Homonoidea, Hominidae, Hominininae, Hominini, Hominina, Homo
-
-	Why so much detailed splitting?
-
-		ANS We're a little bit full of ourselves
-
-		ANS Observer bias
-
-EC
-
-----------------------------------------------------------------------
-
-Putting together the puzzle
-
-	What did our common ancestor with chimpanzees look like?
-
-	Which fossils are related to which other fossils?
-
-	The key is which features are reliable indicators of relatedness?
-
-		ANS How do we tell the difference between convergence and homology?
-
-		ANS It's all in the details
-
-		ANS And it's not always clear
-
-----------------------------------------------------------------------
-
-PICSLIDE
-
-FIG sharp/figs18/fg32_21.jpg
-
-----------------------------------------------------------------------
-
-Competition and replacement PP Fig 56.2
-
-	\emph{H. erectus} replaced everything that came before it
-
-	\emph{H. sapiens} replaced everything that came before _it_
-
-----------------------------------------------------------------------
-
-Modern humans
-
-	Characterized by small face and teeth
-
-	Less robust skeletal structure
-
-	Evolved in Africa around 200 [kya] (thousand years ago)
-
-	Took over most of the world in the last 50,000 years
-
-----------------------------------------------------------------------
-
-Why are we here?
-
-	Modern humans arose around 200 kya, but took over the world around 50
-	kya
-
-	What happened?
-
-		Cultural change?
-
-		Evolutionary change?
-
-			Sudden or gradual?
-
-		Why don't we see evidence?
-
-			ANS Might be about our brains, and not reflected in fossils
-
-----------------------------------------------------------------------
-
-Evaluating evidence
-
-	There are a lot of theories and a great deal of expertise
-
-	But expertise can also lead to over-confidence
-
-	As with other examples, we try to make and test theories
-
-		ANS Make predictions about things that haven't been seen yet
-
-----------------------------------------------------------------------
-
-Apelike ancestors PP See First Hominin subsection
-
-	Were our ancestors more like us, or more like apes?
-
-		ANS Trick question: we _are_ apes, if apes are a clade
-
-		ANS Among living apes, the closest _relatives_ of our ancestors is us
-
-		ANS In some important ways, we have evolved more than chimpanzees have
-
-		ANS But chimpanzees have probably evolved more than we think
-
-			ANS Observer bias
-
-			ANS Our ancestors are less like chimps than we thought 
-
-----------------------------------------------------------------------
-
-PSLIDE Observer bias
-
-PIC FIG jdpix/bias.png
-
-----------------------------------------------------------------------
-
- posture PP S56.3 Bipedalism
-
-	How did upright posture and upright walking evolve?
-	
-	It's not known, but there are many theories:
-
-		Adaptation to walking on the ground instead of swinging through
-		trees
-
-			ANS If so, probably dependent on [gradual] evolution from
-			existing form
-
-		Adaptation for keeping cool
-
-		Adaptation for harvesting food
-
-		Adaptation for carrying food
-
-----------------------------------------------------------------------
-
-PIC FIG sharp/figs18/figure-56.8a.jpg
-
-----------------------------------------------------------------------
-
-Gradual evolution
-
-	Hominins' evolution of upright posture was likely dependent on
-	evolutionary history and circumstance
-
-		Built on previous adaptations
-
-	Evolution of upright posture almost certainly led to further
-	evolutionary change:
-
-		Carrying and storing things
-
-		Making and using tools
-
-	Given the dramatic amount of evolution, there were likely a lot of adaptive
-	``loops"
-	
-		Changes in one area set the stage for changes in another area \ldots
-
-----------------------------------------------------------------------
-
-Studying evolution
-
-	Evidence from fossils
-
-		knees, hips, backs, skulls all provide evidence about posture PP Fig 56.8
-
-		teeth and jaws provide evidence about diet
-
-	Evidence from archaeology
-
-		hominin fossils may be found in particular placess
-		
-		associated with fossils from things that hominins used to eat
-
-		or with tools
-
-----------------------------------------------------------------------
-
-Back and forth evolution 
-
-	Many very early hominins (6 mya) had facial and dental features that were
-	similar to later hominins (2 mya)
-
-		Less similar to chimpanzees
-
-		But also less similar to _Australopiths_ (3 mya)
-
-	Is this surprising?
-
-		ANS Radiation and contraction
-
-			ANS The hominins we found may not be directly related to the
-			Australopiths
-
-		ANS Evolution is not goal-oriented
-
-			ANS Changing conditions can lead to changing directions of evolution
-
-----------------------------------------------------------------------
-
-Hominin phylogenies 
-
-	Hominins had a large number of speciation and extinction events
-
-		Consistent with radiation and contraction
-
-		Likely provided more opportunities for adaptation in the long run
-
-	The tree is not well understood, despite intensive study
-
-		ANS Changing environments and convergent evolution
-
-----------------------------------------------------------------------
-
-PICSLIDE WIDEFIG Pearson/F_skills/B07_2_phylo_tree_example.jpg
-
-----------------------------------------------------------------------
-
-SEC Sociality
-
-----------------------------------------------------------------------
-
-Complex foraging 
-
-	A key part of human evolution was shaped by [complex foraging]
-	strategies of our ancestors -- they relied on many types of food,
-	including types of food that are difficult to get or process
-
-	What adaptations likely favored this strategy?
-
-		ANS Clever hands, upright walking
-
-	What further adaptations might this strategy have favored?
-
-		ANS Big brains
-
-		ANS co-operation, including male-female co-operation
-
-		ANS Social behaviour
-
-----------------------------------------------------------------------
-
-Looping
-
-	Lots of adaptations may be partly explained by adaptive loops
-
-		ANS Complex foraging ⇒ more sociality ⇒ bigger brains
-		⇒ more opportunities to adapt complex foraging techniques \ldots
-
-		ANS More communication ⇒ more complex social interactions ⇒ bigger brains
-		⇒ more opportunities to evolve better communication or language
-
-----------------------------------------------------------------------
-
-Complex foraging and co-operation
-
-	Complex foraging may have promoted co-operation between females and
-	males, since primate child care is not well suited to a hunting life
-	style
-
-	It may have promoted co-operation between people with different
-	skills, since they might have access to food at different times
-
-	It may have promoted co-operation among hunters, since hunting success is
-	highly variable
-
-	It may have promoted co-operation in teaching and learning
-
-----------------------------------------------------------------------
-
-Complex foraging and thinking
-
-	Complex foraging favors large brains that can learn a lot
-
-	It also favors a long learning period
-
-		Sensitivity vs.~crystallization
-
-			Time periods when we learn, vs.~time periods when we have fixed
-			behaviours
-
-	It also favors communication
-
-----------------------------------------------------------------------
-
-TIME Complex foraging and gender roles
-
-	How might complex foraging affect child care and sexual dimorphism?
-
-		ANS If males and females co-operate, then pair bonds might be more stable
-
-		ANS If pair bonds are more stable, we expect sexual dimorphism to
-		be less
-
-----------------------------------------------------------------------
-
-TIME Social behaviour
-
-	As behaviour becomes more social, a wide variety of other adaptations may
-	become available
-
-		Mostly related to thinking and communication
-
-	Leading to more opportunities for looping:
-
-		ANS Bigger brains may facilitate more food-gathering and survival
-		strategies
-
-		ANS Communication may favor co-operation
-
-----------------------------------------------------------------------
-
-DROP How social were early hominins?
-
-	What kind of clues might be available?
-
-		ANS Sexual dimorphism
-
-		ANS Physical structures consistent with vocal communication
-
-		ANS Dental enamel! Preserves amazingly detailed history of growth and
-		growth rate
-
-----------------------------------------------------------------------
-
-DROP Sexual dimorphism
-
-	The extent of sexual dimorphism tells us at least something about social
-	structures
-
-		ANS Large amounts of sexual dimorphism probably mean less sociality and
-		co-operation
-
-		ANS At least among adult males
-
-	How do we know whose bones are male and female?
-
-		ANS [Pelvises] (hip bones) are very different in all of our ancestors
-
-		ANS Because childbirth
-
-	How do we know whose teeth are male and female?
-
-		ANS We don't, usually
-
-		ANS Bimodality can tell us about dimorphism anyway
-
-----------------------------------------------------------------------
-
-DROP Bimodality 
-
-	Bimodality means having two peaks in a distribution
-
-		For example, a modern human height distribution would have a peak for
-		men, and a peak for women
-
-	If traits are strongly dimorphic, we should be able to tell by sampling,
-	even if we don't know which fossils come from males and which from females PP
-	\url{https://www.cdc.gov/nchs/nhis/index.htm}
-
-----------------------------------------------------------------------
-
-DROPPIC
-
-PIC HIGHFIG jdpix/heights.Rout-0.pdf
-
-----------------------------------------------------------------------
-
-DROPPIC
-
-PIC HIGHFIG jdpix/heights.Rout-1.pdf
-
-----------------------------------------------------------------------
-
-DROP Teeth
-
-	Chimpanzees and (especially) gorillas have extreme sexual dimorphism in
-	tooth size
-
-	We can tell our ancestors have less dimorphism than that \emph{even if we
-	can't tell the males from the females}
-
-		ANS We would expect to see two clear peaks in the distribution PP \url{https://www.researchgate.net/figure/Canine-bimodality-in-extant-African-Apes-Extant-African-apes-possess-a-high-degree-of_fig22_41025013}
-
-----------------------------------------------------------------------
-
-DROPPIC
-
-PIC FIG webpix/ape_teeth.png
-
-----------------------------------------------------------------------
-
-DROPPIC
-
-PIC HIGHFIG jdpix/fake_teeth.Rout-0.pdf
-
-----------------------------------------------------------------------
-
-DROPPIC
-
-PIC HIGHFIG jdpix/fake_teeth.Rout-1.pdf
-
-----------------------------------------------------------------------
-
-Rate of development
-
-	Why do human children develop _so_ slowly?
-
-		ANS Presumably related to elaborate sociality
-
-	We are therefore very interested in how long it took our ancestors to mature
-
-	Clues are available
-
-		Dental enamel PP \url{https://embryo.asu.edu/pages/human-evolution-inferred-tooth-growth-and-development}
-
-		Molar development
-
-	But it's a hard problem
-
-----------------------------------------------------------------------
-
-PICSLIDE
-
-FIG webpix/young_horse.jpg
-
-REMARK 2-year-old
-
-----------------------------------------------------------------------
 
 Summary
 

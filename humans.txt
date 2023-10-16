@@ -760,7 +760,7 @@ PIC FIG jdpix/bias.png
 
 ----------------------------------------------------------------------
 
- posture PP S56.3 Bipedalism
+Upright posture PP S56.3 Bipedalism
 
 	How did upright posture and upright walking evolve?
 	
