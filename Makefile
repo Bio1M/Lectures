@@ -163,6 +163,8 @@ mammal_1.png: webpix/mammal_trees.png
 	convert -crop 480x619+480+0 $< $@
 
 ## 2023 humans; human content is this insane metastatizing repetitive list
+## New hlw/dushoff content; dropped a fair amount of stuff from older files
+## See particularly humans.txt, I guess.
 # origins.draft.pdf: origins.txt
 # origins.final.pdf: origins.txt
 # origins.handouts.pdf: origins.txt

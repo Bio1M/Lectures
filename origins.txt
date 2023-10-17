@@ -1,21 +1,14 @@
 
 EXTRA 
 
-* Relatedness of humans vs Neanderthals
-
 Importance of delayed puberty
 * Add horses
 
-F 23.6 and the process of radiation and contraction
-
 F23.9, different trees from different genes
-
-Book and the mitochondria nonsense
 
 Biology vs. culture issues
 
 F23.14, where are the dolphins
-* webpix/brainBody.png
 
 What is culture? F23.18
 
@@ -397,9 +390,13 @@ BC
 
 NC
 
-ADD some sort of ape picture
+SIDEFIG hlw/23Humans_images/image23.jpg 
 
 EC
+
+----------------------------------------------------------------------
+
+WIDEFIG hlw/23Humans_images/image03.jpg 
 
 ----------------------------------------------------------------------
 
@@ -431,7 +428,7 @@ Chimps vs.~humans | F23.3
 
 		ANS About 1% \ldots
 
-			ANS in homologous proteins!
+			ANS in homologous sequences!
 
 		ANS About 4% overall
 
@@ -441,13 +438,12 @@ Chimps vs.~humans | F23.3
 
 		ANS Changes aren't all that small
 
-		ANS A lot of genes about just keeping house: lungs, liver, immune system,
-		even basic cellular function
+		ANS A lot of genes about metabolic function: lungs, liver, immune system
+		\ldots even basic cellular function
 
 ----------------------------------------------------------------------
 
-
-TSS Hominins 
+TSS Hominins  | F23.9
 
 BC
 
@@ -455,15 +451,19 @@ BC
 
 	Characterized by:
 
-		Walking upright
+		Walking upright (even more than apes) | F23.12
 
 		Specific changes in chewing design: teeth, jaws and skull
 
 NC
 
-	ADD Picture
+	ADD Picture paranthropus maybe?
 
 EC
+
+----------------------------------------------------------------------
+
+WIDEPICl hlw/23Humans_images/image10.jpg 
 
 ----------------------------------------------------------------------
 
@@ -489,20 +489,6 @@ EC
 
 ----------------------------------------------------------------------
 
-Modern humans
-
-	Characterized by small face and teeth
-
-	Less robust skeletal structure
-
-	Evolved in Africa around 200 [kya] (thousand years ago)
-
-	Took over most of the world in the last 50,000 years!
-
-	ADD picture?
-
-----------------------------------------------------------------------
-
 Upright posture
 
 	How did upright posture and upright walking evolve?
@@ -520,24 +506,35 @@ Upright posture
 
 ----------------------------------------------------------------------
 
-Gradual evolution
+More radiation and contraction
 
-	Hominins' evolution of upright posture was likely dependent on
-	evolutionary history and circumstance
+BCC
 
-		Built on previous adaptations
+	_H. ergaster_ probably out-competed and replaced several related species,
+	then radiated
 
-	Evolution of upright posture almost certainly led to further
-	evolutionary change:
+	Modern humans replaced other descendants of _ergaster_
 
-		Carrying and storing things
+NCC
 
-		Making and using tools
+SIDEFIG hlw/23Humans_images/image07.jpg 
 
-	Given the dramatic amount of evolution, there were likely a lot of adaptive
-	``loops"
-	
-		Changes in one area set the stage for changes in another area \ldots
+EC
+
+----------------------------------------------------------------------
+
+
+Modern humans
+
+	Characterized by small face and teeth
+
+	Less robust skeletal structure
+
+	Evolved in Africa around 200 [kya] (thousand years ago)
+
+	Took over most of the world in the last 50,000 years!
+
+	ADD picture?
 
 ----------------------------------------------------------------------
 
@@ -547,39 +544,48 @@ SEC Sociality
 
 Complex foraging 
 
-	Our ancestors went beyond the adaptive strategies of their relatives and found a tremendous variety of ways to feed themselves:
+	Our ancestors went beyond the adaptive strategies of their relatives and
+	found a tremendous variety of ways to feed themselves:
 
-ADD Where do dolphins fint?
+		ANS Cooking and fire 
 
-----------------------------------------------------------------------
+		ANS Weapons and hunting
 
-	What adaptations likely favored this strategy?
+		ANS Tools and digging
 
-		ANS Clever hands, upright walking
-
-	What further adaptations might this strategy have favored?
-
-		ANS Big brains
-
-		ANS co-operation, including male-female co-operation
-
-		ANS Social behaviour
+		ANS Selecting plants
 
 ----------------------------------------------------------------------
 
-Looping
+Complex foraging
 
-	Lots of adaptations may be partly explained by adaptive loops
+	These strategies likely built on, and also favored, existing traits:
 
-		ANS Complex foraging ⇒ more sociality ⇒ bigger brains
-		⇒ more opportunities to adapt complex foraging techniques \ldots
+		Big brains, clever hands, stereoscopic vision, uprightness
 
-		ANS More communication ⇒ more complex social interactions ⇒ bigger brains
-		⇒ more opportunities to evolve better communication or language
+	This is an example of:
+
+		ANS adaptive looping
 
 ----------------------------------------------------------------------
 
-Complex foraging and co-operation
+HIGHPIC hlw/23Humans_images/image24.jpg 
+
+----------------------------------------------------------------------
+
+Brain and body size | F23.14
+
+	What is missing from the book's picture? | \url{https://en.wikipedia.org/wiki/Brain%E2%80%93body_mass_ratio)
+
+		ANS Dolphins!
+
+----------------------------------------------------------------------
+
+WIDEPIC webpix/brainBody.png
+
+----------------------------------------------------------------------
+
+Co-operation and sociality
 
 	Complex foraging may have promoted co-operation between females and
 	males, since primate child care is not well suited to a hunting life
@@ -650,85 +656,6 @@ DROP How social were early hominins?
 
 ----------------------------------------------------------------------
 
-DROP Sexual dimorphism
-
-	The extent of sexual dimorphism tells us at least something about social
-	structures
-
-		ANS Large amounts of sexual dimorphism probably mean less sociality and
-		co-operation
-
-		ANS At least among adult males
-
-	How do we know whose bones are male and female?
-
-		ANS [Pelvises] (hip bones) are very different in all of our ancestors
-
-		ANS Because childbirth
-
-	How do we know whose teeth are male and female?
-
-		ANS We don't, usually
-
-		ANS Bimodality can tell us about dimorphism anyway
-
-----------------------------------------------------------------------
-
-DROP Bimodality 
-
-	Bimodality means having two peaks in a distribution
-
-		For example, a modern human height distribution would have a peak for
-		men, and a peak for women
-
-	If traits are strongly dimorphic, we should be able to tell by sampling,
-	even if we don't know which fossils come from males and which from females |
-	\url{https://www.cdc.gov/nchs/nhis/index.htm}
-
-----------------------------------------------------------------------
-
-DROPPIC
-
-PIC HIGHFIG jdpix/heights.Rout-0.pdf
-
-----------------------------------------------------------------------
-
-DROPPIC
-
-PIC HIGHFIG jdpix/heights.Rout-1.pdf
-
-----------------------------------------------------------------------
-
-DROP Teeth
-
-	Chimpanzees and (especially) gorillas have extreme sexual dimorphism in
-	tooth size
-
-	We can tell our ancestors have less dimorphism than that \emph{even if we
-	can't tell the males from the females}
-
-		ANS We would expect to see two clear peaks in the distribution | \url{https://www.researchgate.net/figure/Canine-bimodality-in-extant-African-Apes-Extant-African-apes-possess-a-high-degree-of_fig22_41025013}
-
-----------------------------------------------------------------------
-
-DROPPIC
-
-PIC FIG webpix/ape_teeth.png
-
-----------------------------------------------------------------------
-
-DROPPIC
-
-PIC HIGHFIG jdpix/fake_teeth.Rout-0.pdf
-
-----------------------------------------------------------------------
-
-DROPPIC
-
-PIC HIGHFIG jdpix/fake_teeth.Rout-1.pdf
-
-----------------------------------------------------------------------
-
 Rate of development
 
 	Why do human children develop _so_ slowly?
@@ -754,6 +681,7 @@ FIG webpix/young_horse.jpg
 REMARK 2-year-old
 
 ----------------------------------------------------------------------
+
 SEC Learning about the past 
 
 ----------------------------------------------------------------------
