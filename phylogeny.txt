@@ -530,7 +530,7 @@ Genetic vs.~morphological
 
 			ANS This can also be a problem with the genetic analysis
 
-		ANS Genetic analyses typically allow us to analyze more traits
+		ANS Genetic analyses typically allow us to analyze more traits!
 
 ----------------------------------------------------------------------
 
@@ -549,6 +549,10 @@ Phylogenetic trees are approximations!
 		approximations to the true history of life 
 		
 		Our guesses often change over time
+
+----------------------------------------------------------------------
+
+WIDEPIC hlw/22Phylo_images/image30.jpg
 
 ----------------------------------------------------------------------
 
@@ -627,7 +631,7 @@ PIC WIDEFIG webpix/wolf_coyote.jpg
 
 Five kingdoms
 
-	ANS
+	ANS 
 
 	Not really a good way to describe the evolution of life
 
@@ -637,7 +641,7 @@ Five kingdoms
 		dominate _visible_ life
 
 			ANS Some branches are have organisms that are much smaller, or just
-			have much fewer organisms
+			have many fewer organisms
 
 		ANS Archaea and bacteria are difficult to tell apart even with a
 		microscope
@@ -648,7 +652,7 @@ WIDEPIC webpix/domains.png
 
 ----------------------------------------------------------------------
 
-WIDEPIC webpix/eukaryoteTree.jpg
+HIGHPIC webpix/eukaryoteTree.jpg
 
 ----------------------------------------------------------------------
 
@@ -690,6 +694,22 @@ TSS The fossil record | F22.14
 		they are decomposing
 
 	COMMENT Does any of this seem likely?
+
+----------------------------------------------------------------------
+
+WIDEPIC hlw/22Phylo_images/image23.jpg
+
+----------------------------------------------------------------------
+
+HIGHPIC hlw/22Phylo_images/image24.jpg
+
+----------------------------------------------------------------------
+
+WIDEPIC hlw/22Phylo_images/image25.jpg
+
+----------------------------------------------------------------------
+
+HIGHPIC hlw/22Phylo_images/image26.jpg
 
 ----------------------------------------------------------------------
 
@@ -825,24 +845,24 @@ Morphological innovation
 
 	A new adaptive mutation can open up further possibilities for adaptation
 
-		The arthropod body plan
-		
-			insects, arachnids, crustaceans \ldots
+	The arthropod body plan
+	
+		insects, arachnids, crustaceans \ldots
 
-		The tetrapod body plan
-		
-			reptiles, mammals \ldots
+	The tetrapod body plan
+	
+		reptiles, mammals \ldots
 
-		Flowering plants
+	Flowering plants
 
-			This opened many new opportunities for _everyone_ (insects, mammals,
-			birds), not just the innovators
+		This opened many new opportunities for _everyone_ (insects, mammals,
+		birds), not just the innovators
 
-			ANS Animals evolved to exploit the flowering plants
+		ANS Animals evolved to exploit the flowering plants
 
-			ANS Flowering plants and animals _co-evolved_
+		ANS Flowering plants and animals _co-evolved_
 
-			ANS Natural defenses and exploits
+			ANS Natural defenses and ways to exploit them
 
 			ANS Pollination and dispersal
 
