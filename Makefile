@@ -162,7 +162,7 @@ mammal_0.png: webpix/mammal_trees.png
 mammal_1.png: webpix/mammal_trees.png
 	convert -crop 480x619+480+0 $< $@
 
-## 2023 humans
+## 2023 humans; human content is this insane metastatizing repetitive list
 # origins.draft.pdf: origins.txt
 # origins.final.pdf: origins.txt
 # origins.handouts.pdf: origins.txt
