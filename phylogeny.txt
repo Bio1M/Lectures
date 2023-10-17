@@ -3,16 +3,11 @@ EXTRA
 
 PP
 
-ADD
+ADD 22.24? or not (time line of mammals and sauropsids)
 
 Trees vs.~webs
 * Bubby and Zayda, etc.
 
-No such thing as a fish
-
-Are dinosaurs extinct?
-
-22.24?
 
 ----------------------------------------------------------------------
 
@@ -631,7 +626,7 @@ PIC WIDEFIG webpix/wolf_coyote.jpg
 
 Five kingdoms
 
-	ANS 
+	ANS Fungi, plants, animals, protists (monera), bacteria (prokaryotes?)
 
 	Not really a good way to describe the evolution of life
 
@@ -662,7 +657,9 @@ BC
 
 	ANS When populations are not mixing
 
-		ANS Genetic exchange must be structured via sex
+		ANS Geographical barriers
+
+		ANS Structured genetic exchange (e.g., sex)
 
 		ANS populations have diverged enough to not have sex with each other
 

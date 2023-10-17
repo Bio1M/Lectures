@@ -150,7 +150,7 @@ speciation.outline.pdf: speciation.txt
 Sources += speciation.links
 
 ## Very little seems testable beyond section 1!
-#### Phylogeny and the history of life (P27 ⇒ P25)
+#### Phylogeny and the history of life (P27 ⇒ P25 ⇒ H23?)
 # phylogeny.draft.pdf: phylogeny.txt
 # phylogeny.final.pdf: phylogeny.txt
 # phylogeny.handouts.pdf: phylogeny.txt
