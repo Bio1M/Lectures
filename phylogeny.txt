@@ -657,7 +657,9 @@ BC
 
 	ANS When populations are not mixing
 
-		ANS Genetic exchange must be structured via sex
+		ANS Geographical barriers
+
+		ANS Structured genetic exchange (e.g., sex)
 
 		ANS populations have diverged enough to not have sex with each other
 
