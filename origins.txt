@@ -1,16 +1,10 @@
 
 EXTRA 
 
-Relatedness of humans and chimps
 * Relatedness of humans vs Neanderthals
 
 Importance of delayed puberty
-
-Survivorship bias
-
-How is the observer bias story woven in?
-
-Adaptive loops
+* Add horses
 
 F 23.6 and the process of radiation and contraction
 
@@ -81,52 +75,12 @@ Similarities and differences
 
 		ANS We're here because our ancestors reproduced
 
-		ANS If our reproductive success depends on heritable variation in traits
-		\ldots
+		ANS _If_ our current reproductive success depends on heritable variation
+		in traits, _then_:
 
 			ANS We're still evolving
 
 			ANS In what direction or directions?
-
-----------------------------------------------------------------------
-
-History
-
-	There are a _lot_ of steps (and a lot of divergences) between us and the
-	last universal common ancestor of life
-
-	More than 3 billion years ago!
-
-	Some key steps:
-
-		[Eukaryotes]
-
-		[Animals]
-
-		[Vertebrates]
-
-		[Mammals]
-
-		[Primates]
-
-		[Apes]
-
-----------------------------------------------------------------------
-
-EXTRA Timeline 
-
-	Why not just say how long ago?
-
-		Periods may be punctuated by major events
-
-			Radiations, mass extinctions
-
-		People started talking about periods before they had good measures of how
-		long ago things happened
-
-		Periods have cool names
-
-			ANS Connections help people think clearly
 
 ----------------------------------------------------------------------
 
@@ -272,6 +226,9 @@ Survivorship bias
 
 Advantages of previous radiation
 
+	A clade that has radiated in the past may have advantages even after it
+	contracts
+
 	They've explored more kinds of environments
 
 	They're found in more different specific places
@@ -347,19 +304,13 @@ EXTRA Traits
 
 ----------------------------------------------------------------------
 
-Changing models
-
-	Does swinging through trees provide evidence that bonobos are closer to
-	orangutans than to humans or gorillas?
-
-		ANS Depends on the ancestor: in this case it seems hard to say
-
-		ANS Even if there is evidence, there's more evidence that
-		they're closer to us
+Observing ourselves
 
 	We used to think people were far from chimps and gorillas
 
-		ANS Observer bias
+		ANS [Observer bias]
+
+			ANS Scientists are human, which gives us a particular perspective
 
 		ANS Phenetic approaches: humans have a lot of adaptations
 
@@ -417,25 +368,25 @@ Adaptive theories
 
 ----------------------------------------------------------------------
 
-Patterns of adaptation
-
-	These strategies may have evolved sequentially
-
-		Maybe exploiting tree resources came first, but similar traits helped
-		some species later catch insects
-
-		Maybe traits which evolved for one specific purpose later became useful
-		for adaptive foraging
-
-----------------------------------------------------------------------
-
 Adaptive looping
 
-ADD Big brains, clever hands, stereoscopic vision, more flexible foraging strategies
+	Sometimes adaptations can reinforce each other:
+
+		Bigger brains may increase selection for adaptive foraging
+
+		Needing to process more types of food my increase selection for clever
+		hands
+
+		More clever hands may increase selection for good stereoscopic vision
+
+		Ability to see and manipulate things in front of you may increase
+		selection for bigger brains \ldots
 
 ----------------------------------------------------------------------
 
-TSS Apes
+TSS Apes | F23.2
+
+BC
 
 	Apes are more adapted for swinging through trees, whereas monkeys
 	are more adapted for climbing and leaping
@@ -444,9 +395,11 @@ TSS Apes
 
 	Better at hanging, and worse at sitting
 
-	Lots of missing pieces of the puzzle
+NC
 
-		There may be a lot of convergent evolution and secondary loss going on
+ADD some sort of ape picture
+
+EC
 
 ----------------------------------------------------------------------
 
@@ -454,9 +407,9 @@ Patterns of replacement
 
 	Apes ``radiated" into many habitats before monkeys did
 
-		Many ape species were apparently later replaced by monkeys
+		Many ape species were apparently later replaced by Old World monkeys
 
-	Why might apes have diversified, and later been replaced by monkeys?
+	Why might apes have been replaced, if they were able to radiate successfully?
 
 		ANS Changing climactic conditions
 
@@ -472,7 +425,31 @@ Patterns of replacement
 
 ----------------------------------------------------------------------
 
+Chimps vs.~humans | F23.3
+
+	How much genetic difference? | \url{https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-06962-8}
+
+		ANS About 1% \ldots
+
+			ANS in homologous proteins!
+
+		ANS About 4% overall
+
+	Early results were very surprising, but maybe shouldn't have been
+
+		ANS Small changes can have large effects
+
+		ANS Changes aren't all that small
+
+		ANS A lot of genes about just keeping house: lungs, liver, immune system,
+		even basic cellular function
+
+----------------------------------------------------------------------
+
+
 TSS Hominins 
+
+BC
 
 	[Hominins] refer to people and our upright ancestors
 
@@ -481,6 +458,12 @@ TSS Hominins
 		Walking upright
 
 		Specific changes in chewing design: teeth, jaws and skull
+
+NC
+
+	ADD Picture
+
+EC
 
 ----------------------------------------------------------------------
 
@@ -506,22 +489,6 @@ EC
 
 ----------------------------------------------------------------------
 
-Putting together the puzzle
-
-	What did our common ancestor with chimpanzees look like?
-
-	Which fossils are related to which other fossils?
-
-	The key is which features are reliable indicators of relatedness?
-
-		ANS How do we tell the difference between convergence and homology?
-
-		ANS It's all in the details
-
-		ANS And it's not always clear
-
-----------------------------------------------------------------------
-
 Modern humans
 
 	Characterized by small face and teeth
@@ -530,56 +497,9 @@ Modern humans
 
 	Evolved in Africa around 200 [kya] (thousand years ago)
 
-	Took over most of the world in the last 50,000 years
+	Took over most of the world in the last 50,000 years!
 
-----------------------------------------------------------------------
-
-Why are we here?
-
-	Modern humans arose around 200 kya, but took over the world around 50
-	kya
-
-	What happened?
-
-		Cultural change?
-
-		Evolutionary change?
-
-			Sudden or gradual?
-
-		Why don't we see evidence?
-
-			ANS Might be about our brains, and not reflected in fossils
-
-----------------------------------------------------------------------
-
-Evaluating evidence
-
-	There are a lot of theories and a great deal of expertise
-
-	But expertise can also lead to over-confidence
-
-	As with other examples, we try to make and test theories
-
-		ANS Make predictions about things that haven't been seen yet
-
-----------------------------------------------------------------------
-
-Apelike ancestors 
-
-	Were our ancestors more like us, or more like apes?
-
-		ANS Trick question: we _are_ apes, if apes are a clade
-
-		ANS Among living apes, the closest _relatives_ of our ancestors is us
-
-		ANS In some important ways, we have evolved more than chimpanzees have
-
-		ANS But chimpanzees have probably evolved more than we think
-
-			ANS Observer bias
-
-			ANS Our ancestors are less like chimps than we thought 
+	ADD picture?
 
 ----------------------------------------------------------------------
 
@@ -591,9 +511,6 @@ Upright posture
 
 		Adaptation to walking on the ground instead of swinging through
 		trees
-
-			ANS If so, probably dependent on [gradual] evolution from
-			existing form
 
 		Adaptation for keeping cool
 
@@ -624,46 +541,17 @@ Gradual evolution
 
 ----------------------------------------------------------------------
 
-Studying evolution
-
-	Evidence from fossils
-
-		knees, hips, backs, skulls all provide evidence about posture
-
-		teeth and jaws provide evidence about diet
-
-	Evidence from archaeology
-
-		hominin fossils may be found in particular placess
-		
-		associated with fossils from things that hominins used to eat
-
-		or with tools
-
-----------------------------------------------------------------------
-
-
-Hominin phylogenies 
-
-	Hominins had a large number of speciation and extinction events
-
-		Consistent with radiation and contraction
-
-		Likely provided more opportunities for adaptation in the long run
-
-	The tree is not well understood, despite intensive study
-
-----------------------------------------------------------------------
-
 SEC Sociality
 
 ----------------------------------------------------------------------
 
 Complex foraging 
 
-	A key part of human evolution was shaped by [complex foraging]
-	strategies of our ancestors -- they relied on many types of food,
-	including types of food that are difficult to get or process
+	Our ancestors went beyond the adaptive strategies of their relatives and found a tremendous variety of ways to feed themselves:
+
+ADD Where do dolphins fint?
+
+----------------------------------------------------------------------
 
 	What adaptations likely favored this strategy?
 
