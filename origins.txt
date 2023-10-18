@@ -1,20 +1,7 @@
 
 EXTRA 
 
-Importance of delayed puberty
-* Add horses
-
 F23.9, different trees from different genes
-
-Biology vs. culture issues
-
-F23.14, where are the dolphins
-
-What is culture? F23.18
-
-Dobzhansky and Dushoff
-
-Back to adaptive foraging
 
 ----------------------------------------------------------------------
 
@@ -400,6 +387,26 @@ WIDEFIG hlw/23Humans_images/image03.jpg
 
 ----------------------------------------------------------------------
 
+Mobile arm joints | \url{https://royalsocietypublishing.org/doi/10.1098/rsos.230145}
+
+BC
+ 
+	New research suggests that apes' arm joints may have evolved to help heavy
+	animals specifically climb _down_ from trees
+
+	This is another adaptation that likely led to further adaptations in a
+	different direction
+
+		ANS Use of arms for other tasks, like adaptive foraging or tool use
+
+NC
+
+SIDEFIG climbingApes.png
+
+EC
+
+----------------------------------------------------------------------
+
 Patterns of replacement
 
 	Apes ``radiated" into many habitats before monkeys did
@@ -463,7 +470,7 @@ EC
 
 ----------------------------------------------------------------------
 
-WIDEPICl hlw/23Humans_images/image10.jpg 
+WIDEPIC hlw/23Humans_images/image10.jpg 
 
 ----------------------------------------------------------------------
 
@@ -561,7 +568,7 @@ Complex foraging
 
 	These strategies likely built on, and also favored, existing traits:
 
-		Big brains, clever hands, stereoscopic vision, uprightness
+		Big brains, clever hands, mobile arms, stereoscopic vision, uprightness
 
 	This is an example of:
 
@@ -587,98 +594,43 @@ WIDEPIC webpix/brainBody.png
 
 Co-operation and sociality
 
-	Complex foraging may have promoted co-operation between females and
-	males, since primate child care is not well suited to a hunting life
-	style
+	Complex foraging can lead to selection for more co-operation
 
-	It may have promoted co-operation between people with different
-	skills, since they might have access to food at different times
+		Different skill sets
 
-	It may have promoted co-operation among hunters, since hunting success is
-	highly variable
+		Different tasks
 
-	It may have promoted co-operation in teaching and learning
+	This can lead to new adaptive loops
 
-----------------------------------------------------------------------
+		Social interactions
 
-Complex foraging and thinking
+		Big brains
 
-	Complex foraging favors large brains that can learn a lot
+		Communication
 
-	It also favors a long learning period
+		Culture
 
-		Sensitivity vs.~crystallization
-
-			Time periods when we learn, vs.~time periods when we have fixed
-			behaviours
-
-	It also favors communication
-
-----------------------------------------------------------------------
-
-TIME Complex foraging and gender roles
-
-	How might complex foraging affect child care and sexual dimorphism?
-
-		ANS If males and females co-operate, then pair bonds might be more stable
-
-		ANS If pair bonds are more stable, we expect sexual dimorphism to
-		be less
-
-----------------------------------------------------------------------
-
-TIME Social behaviour
-
-	As behaviour becomes more social, a wide variety of other adaptations may
-	become available
-
-		Mostly related to thinking and communication
-
-	Leading to more opportunities for looping:
-
-		ANS Bigger brains may facilitate more food-gathering and survival
-		strategies
-
-		ANS Communication may favor co-operation
-
-----------------------------------------------------------------------
-
-DROP How social were early hominins?
-
-	What kind of clues might be available?
-
-		ANS Sexual dimorphism
-
-		ANS Physical structures consistent with vocal communication
-
-		ANS Dental enamel! Preserves amazingly detailed history of growth and
-		growth rate
+		Long development period
 
 ----------------------------------------------------------------------
 
 Rate of development
 
+BCC
+
 	Why do human children develop _so_ slowly?
 
-		ANS Presumably related to elaborate sociality
+		ANS A lot to learn
 
-	We are therefore very interested in how long it took our ancestors to mature
+		ANS Social skills important to survival
 
-	Clues are available
+NCC
 
-		Dental enamel | \url{https://embryo.asu.edu/pages/human-evolution-inferred-tooth-growth-and-development}
-
-		Molar development
-
-	But it's a hard problem
-
-----------------------------------------------------------------------
-
-PICSLIDE
-
-FIG webpix/young_horse.jpg
+SIDEFIG webpix/young_horse.jpg
 
 REMARK 2-year-old
+
+EC
 
 ----------------------------------------------------------------------
 
@@ -810,9 +762,16 @@ Dimorphism and sexual strategies
 		
 		ANS Gorillas don't use genitals as part of sexual competition
 
-	What about humans?
+----------------------------------------------------------------------
 
-		REMARK Big penises and small testicles
+Human sexual competition
+
+	Compared to other apes, humans have big penises and small testicles
+
+		ANS Genitals are likely important in competition for sexual access
+
+		ANS Probably less sperm competition than chimpanzees (more stable
+		relationships)
 
 ----------------------------------------------------------------------
 
@@ -827,11 +786,9 @@ Learning about evolution
 
 		Timelines, identification, convergent evolution
 
-	REMARK: Skip a summary slide
-
 ----------------------------------------------------------------------
 
-TIME Summary
+Summary
 
 	People have important differences from other organisms
 
@@ -849,7 +806,6 @@ TIME Summary
 			Innovations, or co-evolution with other taxa
 
 ----------------------------------------------------------------------
-
 
 Summary
 
@@ -869,3 +825,7 @@ Summary
 
 		ANS We are also strongly affected by our complex brains (and complex
 		cultures) 
+
+----------------------------------------------------------------------
+
+FUNSLIDE Dobzhansky and Dushoff
