@@ -199,8 +199,7 @@ Survivorship bias
 
 		ANS Polyploidy and other duplications
 
-		ANS Endosymbioses (combinations of different organisms!): mitochondria,
-		chloroplasts
+		ANS Organisms literally combining! mitochondria, chloroplasts
 
 ----------------------------------------------------------------------
 
@@ -383,7 +382,7 @@ EC
 
 ----------------------------------------------------------------------
 
-WIDEFIG hlw/23Humans_images/image03.jpg 
+WIDEPIC hlw/23Humans_images/image03.jpg 
 
 ----------------------------------------------------------------------
 
@@ -482,13 +481,13 @@ SIDEFIG webpix/homininae.png
 
 NCC
 
-	REMARK Taxonomy from wikipedia
-
-	Homonoidea, Hominidae, Hominininae, Hominini, Hominina, Homo
+	Homonoidea, Hominidae, Homininae, Hominini, Hominina, Homo
 
 	Why so much detailed splitting?
 
 		ANS We're a little bit full of ourselves
+
+			ANS We find things that make us different significant
 
 		ANS Observer bias
 
@@ -582,9 +581,13 @@ HIGHPIC hlw/23Humans_images/image24.jpg
 
 Brain and body size | F23.14
 
-	What is missing from the book's picture? | \url{https://en.wikipedia.org/wiki/Brain%E2%80%93body_mass_ratio)
+	What is missing from the book's picture? | \url{https://en.wikipedia.org/wiki/Brain-body_mass_ratio}
 
 		ANS Dolphins!
+
+	What do we know about these animals?
+
+		ANS Brain size probably driven by sociality!
 
 ----------------------------------------------------------------------
 
@@ -829,3 +832,5 @@ Summary
 ----------------------------------------------------------------------
 
 FUNSLIDE Dobzhansky and Dushoff
+
+ADD
