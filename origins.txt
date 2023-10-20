@@ -195,7 +195,7 @@ Survivorship bias
 	
 		ANS Unlikely adaptive mutations
 
-		ANS Weird speciation events
+		ANS Weird speciation events (e.g., sunflower hybrids)
 
 		ANS Polyploidy and other duplications
 
@@ -353,7 +353,7 @@ Adaptive looping
 
 		Bigger brains may increase selection for adaptive foraging
 
-		Needing to process more types of food my increase selection for clever
+		Needing to process more types of food may increase selection for clever
 		hands
 
 		More clever hands may increase selection for good stereoscopic vision
@@ -414,11 +414,11 @@ Patterns of replacement
 
 	Why might apes have been replaced, if they were able to radiate successfully?
 
-		ANS Changing climactic conditions
+		ANS Changing climatic conditions
 
 		ANS Changes in plants or insects
 
-		ANS Unpredictable adaptive innovations
+		ANS Adaptive innovations by the monkeys
 
 	What if the ape radiation had never happened?
 
@@ -463,7 +463,9 @@ BC
 
 NC
 
-	ADD Picture paranthropus maybe?
+SIDEFIG webpix/pRskull.jpg
+
+SIDEFIG webpix/pRdrawing.jpg
 
 EC
 
