@@ -62,16 +62,14 @@ Monophyletic group
 
 			ANS Fish (we will talk about this soon)
 
-			ANS Bugs (spiders and insects); look at this
-
-			ANS Vegetables
+			ANS Bugs (insects are closer to lobsters than they are to spiders or
+			ticks)
 
 			ANS Prokaryotes (bacteria and archaea)
 
 			ANS Reptiles (would need to include birds)
 
 			ANS Apes (would need to include humans)
-
 
 ----------------------------------------------------------------------
 
