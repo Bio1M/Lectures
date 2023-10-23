@@ -119,7 +119,6 @@ Interpreting phylogenetic trees
 		Trees that correspond to the same model are considered equivalent | F 22.3
 
 		NOTES \url{https://commons.wikimedia.org/wiki/Category:Phylogenetic_trees_of_mammals}
-		https://commons.wikimedia.org/wiki/Category:Phylogenetic_trees_of_mammals
 
 ----------------------------------------------------------------------
 
@@ -901,13 +900,17 @@ TSS Mass extinctions
 
 Activity: how are people causing extinctions?
 
-	ANS
+	ANS Over-harvesting: e.g., too much hunting and finishing
 
-	ANS
+	ANS Land use: deforestation, urbanization, agriculture
 
-	ANS
+	ANS Climate change: changing weather, ocean acidification
 
-	ANS
+	ANS Over-using resources: e.g., drying out river basins
+
+	ANS Introductions of species (predators, competitiors, diseases), both accidental and intentional
+
+	ANS Pollution
 
 ----------------------------------------------------------------------
 
