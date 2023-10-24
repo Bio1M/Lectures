@@ -53,6 +53,8 @@ Similarities and differences
 
 	What is the same?
 
+		ANS Genetic code, biochemical processes
+
 		ANS We're here because our ancestors reproduced
 
 		ANS _If_ our current reproductive success depends on heritable variation
@@ -61,6 +63,9 @@ Similarities and differences
 			ANS We're still evolving
 
 			ANS In what direction or directions?
+
+			ANS For how long will natural selection push us in the same direction
+			as now?
 
 ----------------------------------------------------------------------
 
