@@ -835,4 +835,10 @@ Summary
 
 FUNSLIDE Dobzhansky and Dushoff
 
-ADD
+	“Nothing in biology makes sense except in the light of evolution.” ---
+	Theodosius Dobzhansky, 1973
+
+	“Nothing in biology makes sense, period.” ---
+	Dushoff, 2005
+
+	Biology is wild and wonderful; it's fun to do your best to make sense of it, but …
