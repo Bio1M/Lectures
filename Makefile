@@ -85,7 +85,7 @@ tmp_images.zip:
 -include makestuff/newtalk.def
 -include makestuff/repos.def
 
-Ignore += beamer.tmp
+Ignore += beamer.tmp *.TEX
 
 ## Formatting
 ## Script is makestuff/newtalk/lect.pl
