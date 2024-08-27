@@ -15,8 +15,10 @@ vim_session:
 pullup: web.pull
 
 ## poll.txt is a slime-mold link and some Teams links from virtual delivery
-Sources += Makefile README.md poll.txt
+Sources += Makefile poll.txt
 ## Sources += content.mk
+
+Sources += README.md LICENSE.md drop.md
 
 autopipeR = defined
 
@@ -51,6 +53,7 @@ $(picdirs):
 
 ## jd.lmk: jd.local
 
+## drop.filemerge: drop.md
 ## drop.filemerge: drop.md
 
 ######################################################################
