@@ -91,7 +91,7 @@ tmp_images.zip:
 -include makestuff/newtalk.def
 -include makestuff/repos.def
 
-Ignore += beamer.tmp
+Ignore += beamer.tmp *.TEX
 
 ## Formatting
 ## Script is makestuff/newtalk/lect.pl
@@ -374,6 +374,6 @@ makestuff/Makefile:
 -include makestuff/git.mk
 -include makestuff/visual.mk
 -include makestuff/newtalk.mk
--include makestuff/texi.mk
+-include makestuff/texj.mk
 -include makestuff/projdir.mk
 
