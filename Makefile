@@ -49,6 +49,12 @@ $(picdirs):
 
 ######################################################################
 
+## jd.lmk: jd.local
+
+## drop.filemerge: drop.md
+
+######################################################################
+
 ## macmillan images MacMillan Macmillan (How Life Works – hlw)
 
 ## hlw/01Intro_images/
@@ -362,6 +368,7 @@ makestuff/Makefile:
 	ls $@
 
 -include makestuff/os.mk
+-include makestuff/ldrop.mk
 -include makestuff/pipeR.mk
 -include makestuff/webpix.mk
 -include makestuff/git.mk
