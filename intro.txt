@@ -173,7 +173,7 @@ REPSLIDE Structure of presentation
 
 ----------------------------------------------------------------------
 
-PSLIDE Polling
+EXTRA Polling
 
 	I am going to try an _experiment_  with polling software
 
@@ -245,7 +245,7 @@ PRESLIDE Deductive thinking
 	The interviewer asks you to test the hypothesis that all of the aces
 	have airplanes on the back
 
-	POLL Which of the four groups of cards do you need to turn over? Aces only;
+	Which of the four groups of cards do you need to turn over? Aces only;
 	airplanes only; aces and airplanes; aces and bicycles
 
 		NOANS 
@@ -274,7 +274,7 @@ Deductive thinking
 	
 		everybody who is drinking alcohol is of legal age
 
-	POLL Which of the four groups of people do you need to check out? Drinkers
+	Which of the four groups of people do you need to check out? Drinkers
 	only; older people only; drinkers and older people; drinkers and younger
 	people
 
@@ -551,7 +551,7 @@ Example: Vitamin C
 	a standard diet, with Vitamin C supplement, to see whether it has a long,
 	happy, healthy life.
 
-	POLL What is wrong with this experiment?
+	What is wrong with this experiment?
 
 		ANS No comparison.  I don't know how the mouse would have done in the
 		absence of the supplement

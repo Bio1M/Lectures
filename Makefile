@@ -54,7 +54,6 @@ $(picdirs):
 ## jd.lmk: jd.local
 
 ## drop.filemerge: drop.md
-## drop.filemerge: drop.md
 
 ######################################################################
 
@@ -232,20 +231,10 @@ sixtrees.Rout: interchange.tre sixtrees.R
 
 ######################################################################
 
-## Hands (assign people to respond based on student number (virtual)
+## Raising hands, calling on specific groups
+## Virtual stuff deleted from here 2024 Aug 29 (Thu)
 ## Newer hand stuff is for some reason in notebook (where it loops, so maybe that's good)
-
-Sources += *.rmd
-
-Ignore += chat.html
-chat.html: chat.rmd HANDS
-	Rscript -e 'library("rmarkdown"); render("$<", output_format="html_document", output_file="$@")'
-
-Ignore += hands.html
-hands.html: hands.rmd HANDS
-	Rscript -e 'library("rmarkdown"); render("$<", output_format="html_document", output_file="$@")'
-
-HANDS: ;
+## `make call` (over there)
 
 ######################################################################
 
