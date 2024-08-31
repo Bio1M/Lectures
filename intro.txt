@@ -16,6 +16,7 @@ Howdy Doody?
 EXTRA Future
 
 * A real experiment, maybe something from Quinn and shields
+	* Postponed for 2024, annotate things more clearly, see what you want to do and explain it
 
 ----------------------------------------------------------------------
 
@@ -175,6 +176,8 @@ REPSLIDE Structure of presentation
 
 EXTRA Polling
 
+	Suppressed for 2024
+
 	I am going to try an _experiment_  with polling software
 
 	I am going to ask you later if it was a good idea
@@ -256,23 +259,21 @@ PSLIDE Drinks
 
 FIG webpix/restaurant.jpg
 
-ADD Change text below -- in front you see the people, in back you see the tables
-
 ----------------------------------------------------------------------
 
 Deductive thinking
 
 	You are the manager of a restaurant
 
-	You can see some people's drinks clearly, and tell whether the
-	drinks are alcoholic or not (but not the people's ages)
+	In the bar section, you can see the customers' drinks clearly, and tell
+	whether the drinks are alcoholic or not (but not the people's ages)
 
-	You can see other people's faces clearly, and tell whether they are
-	underage or legal-age (but not what they are drinking)
+	In the restaurant section, you the customers' faces clearly, and tell
+	whether they are underage or not (but not what they are drinking)
 
 	You want to test the hypothesis that everything is OK:
 	
-		everybody who is drinking alcohol is of legal age
+		ANS everybody who is drinking alcohol is of legal age
 
 	Which of the four groups of people do you need to check out? Drinkers
 	only; older people only; drinkers and older people; drinkers and younger

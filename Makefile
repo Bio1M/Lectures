@@ -25,7 +25,7 @@ autopipeR = defined
 ######################################################################
 
 ## Web links
-# https://avenue.mcmaster.ca/login.php?target=%2Fd2l%2Fhome%2F551736
+# https://avenue.mcmaster.ca/login.php?target=%2Fd2l%2Fhome%2F631227
 # https://achieve.macmillanlearning.com/courses/g3zdfj/mycourse#
 # https://teams.microsoft.com/_#/school/conversations/Lecture%20Content%20Questions?threadId=19:03abfa4d79324a05ab7a6df639a2f085@thread.tacv2&ctx=channel
 
@@ -110,16 +110,19 @@ Sources += *.txt
 
 ## polllinks.draft.pdf: polllinks.txt
 
-### Look out for RSLIDE; ADD; CHANGE
+### Look out for RSLIDE; ADD; CHANGE; EXTRA
 #### Introduction (P1)
-intro.poll.csv: intro.txt pollcsv.pl
-intro.draft.pdf: intro.txt
-intro.final.pdf: intro.txt
+## intro.poll.csv: intro.txt pollcsv.pl
+## intro.draft.pdf: intro.txt
+## intro.final.pdf: intro.txt
 ## intro.handouts.pdf: intro.txt
 ## intro.handouts.tex.docx: intro.txt
-intro.complete.pdf: intro.txt
-intro.outline.pdf: intro.txt
-intro.html: intro.step
+## intro.complete.pdf: intro.txt
+## intro.outline.pdf: intro.txt
+## intro.html: intro.step
+## intro.readings.TXT: intro.txt readings.pl
+
+## readings.txt has draft text for sharing about how the readings work
 
 #### Natural selection (P24 => P22)
 ## ns.draft.pdf: ns.txt
@@ -323,6 +326,15 @@ pushdir = web/materials/
 
 ######################################################################
 
+## Providing more information 2024 Aug 31 (Sat)
+
+Ignore += *.TXT
+
+%.readings.TXT: %.txt readings.pl
+	$(PUSH)
+
+######################################################################
+
 ## Direct crib from 3SS 2023 Sep 05 (Tue)
 
 Sources += $(wildcard *.pl)
@@ -335,7 +347,6 @@ Ignore += *.poll.csv
 	$(PUSH)
 
 ######################################################################
-
 
 ## Developing
 
