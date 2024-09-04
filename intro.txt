@@ -1,7 +1,11 @@
 
-EXTRA TODO
+EXTRA
 
-Polls (can try on the fly)
+go hlw/01Intro_images/ ##
+
+----------------------------------------------------------------------
+
+EXTRA TODO
 
 Fox?
 
@@ -444,6 +448,14 @@ FIG hlw/01Intro_images/image22.jpg
 BOOKSLIDE Cells | Fig 1.10
 
 FIG hlw/01Intro_images/image25.jpg
+
+----------------------------------------------------------------------
+
+PICSLIDE
+
+FIG hlw/01Intro_images/image18.jpg
+
+COMMENT Which of these things is not like the others?
 
 ----------------------------------------------------------------------
 

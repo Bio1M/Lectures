@@ -122,6 +122,8 @@ Sources += *.txt
 ## intro.html: intro.step
 ## intro.readings.TXT: intro.txt readings.pl
 
+## intro.draft.tex: intro.draft.log
+
 ## readings.txt has draft text for sharing about how the readings work
 
 #### Natural selection (P24 => P22)
