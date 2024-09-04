@@ -624,6 +624,8 @@ Replication
 
 		ANS Maybe one cage has a bad social dynamic
 
+		ANS Each _cage_ is one replicate in this case
+
 ----------------------------------------------------------------------
 
 Randomization
