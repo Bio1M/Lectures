@@ -451,7 +451,7 @@ FIG hlw/01Intro_images/image25.jpg
 
 ----------------------------------------------------------------------
 
-PICSLIDE
+PICSLIDE | Figs 1.9 and 1.10
 
 FIG hlw/01Intro_images/image18.jpg
 

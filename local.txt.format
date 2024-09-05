@@ -1,3 +1,6 @@
+## Polls can be activated or inactivated; they may not be consistent right now
+POLL ^%%
+
 !SQUARE {\bf %}
 !EM {\em %\,}
 
