@@ -33,6 +33,7 @@ draft: Speaker: %%
 BOOKSLIDE NULLSLIDE
 draft final: ^DEFHEAD {\sl %% (see textbook)}
 
+POLL ^%%
 
 ## An answer space in the notes only (answer uncertain or not specified yet in lecture)  
 NNOANS ^ANS %%

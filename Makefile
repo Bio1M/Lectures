@@ -26,6 +26,7 @@ autopipeR = defined
 
 ## Web links
 # https://avenue.mcmaster.ca/login.php?target=%2Fd2l%2Fhome%2F631227
+## https://avenue.cllmcmaster.ca/d2l/le/content/631227/viewContent/4736964/View
 # https://achieve.macmillanlearning.com/courses/g3zdfj/mycourse#
 # https://teams.microsoft.com/_#/school/conversations/Lecture%20Content%20Questions?threadId=19:03abfa4d79324a05ab7a6df639a2f085@thread.tacv2&ctx=channel
 
