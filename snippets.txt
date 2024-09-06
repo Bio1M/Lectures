@@ -1,0 +1,16 @@
+
+Logical equivalence
+
+	Are these two statements logically equivalent?
+
+		Tall people are mean
+
+		Mean people are tall
+
+	Are these two statements logically equivalent?
+
+		Good food is not cheap
+
+		Cheap food is not good
+
+	ANS First pair is not equivalent, second pair is equivalent

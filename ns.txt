@@ -168,6 +168,7 @@ NC
 SIDEFIG webpix/resistantTB.jpg
 
 EC
+
 ----------------------------------------------------------------------
 
 BOOKSLIDE E. coli | Fig 1.17

@@ -109,7 +109,23 @@ Sources += copy.tex
 ## Content
 Sources += *.txt
 
-## polllinks.draft.pdf: polllinks.txt
+## To be brought up at various times or out of context
+## Shouldn't need handouts
+
+## snippets.draft.pdf: snippets.txt
+## snippets.final.pdf: snippets.txt
+
+## intro.poll.csv: intro.txt pollcsv.pl
+## intro.draft.pdf: intro.txt
+## intro.final.pdf: intro.txt
+## intro.handouts.pdf: intro.txt
+## intro.handouts.tex.docx: intro.txt
+## intro.complete.pdf: intro.txt
+## intro.outline.pdf: intro.txt
+## intro.html: intro.step
+## intro.readings.TXT: intro.txt readings.pl
+
+## intro.draft.tex: intro.draft.log
 
 ### Look out for RSLIDE; ADD; CHANGE; EXTRA
 #### Introduction (P1)
@@ -291,6 +307,8 @@ homo.html: homo.step
 final.complete.pdf: final.txt
 final.draft.pdf: final.txt
 final.final.pdf: final.txt
+
+## polllinks.draft.pdf: polllinks.txt
 
 ######################################################################
 
