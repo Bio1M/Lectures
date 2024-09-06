@@ -451,7 +451,7 @@ FIG hlw/01Intro_images/image25.jpg
 
 ----------------------------------------------------------------------
 
-PICSLIDE
+PICSLIDE | Figs 1.9 and 1.10
 
 FIG hlw/01Intro_images/image18.jpg
 
@@ -614,7 +614,7 @@ Replication
 	should not have _anything_ in common that they don't share with other
 	groups (except for the factor we are studying).
 
-	POLL What if we put all the mice that get vitamin supplements in one
+	What if we put all the mice that get vitamin supplements in one
 	cage, and the others in another cage?
 
 		ANS We then have to worry about all possible differences

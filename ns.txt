@@ -1,6 +1,10 @@
 
 EXTRA
 
+Tuberculosis pix from somewhere?
+
+What is Case 19?
+
 Lower and higher organisms are not a thing
 
 	This can be discussed once we have phylogenies, maybe
@@ -9,11 +13,7 @@ Lower and higher organisms are not a thing
 
 EXTRA Readings
 
-1.4 (by Friday)
-
-20.4 (by Tuesday)
-
-Please prepare the natural selection handouts for Friday's class. The main readings are Sec 1.4 and Sec 20.4 from your book (achieve link). Other readings are indicated in the handouts. These readings are&nbsp;complementary. Although you are encouraged to do them earlier than later, you are not being asked to prepare any part for a particular time.
+Please prepare the natural selection handouts for Friday's class. The main readings are Sec 1.4 and Sec 20.4 from your book. Other readings are indicated in the handouts. These readings are complementary to the lecture material. You are encouraged to do them soon, but there is no specific time frame.
 
 ----------------------------------------------------------------------
 
@@ -21,9 +21,10 @@ EXTRA Lost
 
 F22.2 Good fish phylogeny (also others, compare!)
 
-F22.24 Good fish phylogeny
+F22.24 Bad fish phylogeny
 
-\url{https://www.gocomics.com/doonesbury/2005/12/18}
+Creationist medicine cartoon
+* \url{https://www.gocomics.com/doonesbury/2005/12/18}
 
 ----------------------------------------------------------------------
 
@@ -52,7 +53,7 @@ TSEC Evolution
 
 		ANS Neither side has an answer about the ultimate cause
 
-	ADD Turtles
+	COMMENT Turtles all the way down
 
 ----------------------------------------------------------------------
 
@@ -60,7 +61,7 @@ SS Change through time
 
 ----------------------------------------------------------------------
 
-BOOKSLIDE Fossils
+PSLIDE Fossils
 
 FIG hlw/22Phylo_images/image23.jpg
 
@@ -144,7 +145,7 @@ FIG hlw/20Evol_images/image16.jpg
 
 ----------------------------------------------------------------------
 
-Tuberculosis | See also Fig 13.8, Case 19
+Tuberculosis | See also Fig 13.8
 
 BC
 
@@ -158,7 +159,9 @@ BC
 
 	In many cases, they cause disease again
 
-	ADD Don't treat with a single drug!
+	How is this avoided?
+
+		ANS Don't treat with a single drug!
 
 NC
 
@@ -240,8 +243,10 @@ Homology
 
 	A [homology] is a similarity that is due to common ancestry
 
-		Similarities apparently due to homology are widespread.  This is a
+		Similarities _apparently_ due to homology are widespread.  This is a
 		strength of the theory of evolution.
+
+	REMARK Foreshadow: we will circle back to why I said apparently
 
 ----------------------------------------------------------------------
 
@@ -486,7 +491,8 @@ Inheritance of acquired characteristics
 		COMMENT We even more recently know that sometimes this _can_
 		happen, but it's not the main way that evolution proceeds
 
-		NOTES \url{https://en.wikipedia.org/wiki/Epigenetics}
+		NOTES \url{https://en.wikipedia.org/wiki/Epigenetics} -- not part of the
+		course, but interesting!
 
 		COMMENT Lamarck is now mostly known for being wrong about this, but he
 		was an influential supporter of evolution 
@@ -537,7 +543,7 @@ Inheritance of acquired characteristics
 Activity
 
 	POLL What would be the key points of a similar experiment to test whether
-	tail lengths respond to natural (actually, artificial) selection?
+	tail lengths respond to selection?
 
 		ANS In each generation, allow mice with longer (or shorter) tails
 		more chances to breed
@@ -599,10 +605,9 @@ NCC
 
 SIDEFIG webpix/peary.jpg
 
-	Many polar explorers need to _acclimate_ to the cold
+	Polar explorers _acclimate_ to the cold
 
 EC
-
 
 ----------------------------------------------------------------------
 
