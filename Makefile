@@ -386,10 +386,12 @@ Sources += Makefile
 
 Ignore += makestuff
 msrepo = https://github.com/dushoff
-Makefile: makestuff/Makefile
-makestuff/Makefile:
-	git clone $(msrepo)/makestuff
-	ls $@
+
+Makefile: makestuff/01.stamp
+makestuff/%.stamp:
+	- $(RM) makestuff/*.stamp
+	(cd makestuff && $(MAKE) pull) || git clone --depth 1 $(msrepo)/makestuff
+	touch $@
 
 -include makestuff/os.mk
 -include makestuff/ldrop.mk
