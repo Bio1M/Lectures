@@ -14,3 +14,43 @@ Logical equivalence
 		Cheap food is not good
 
 	ANS First pair is not equivalent, second pair is equivalent
+
+----------------------------------------------------------------------
+
+Assignment: Car Trouble
+
+	A brother calls his sister because something is wrong with his car
+
+	She arrives, and they have this conversation:
+
+		Sister: I have a tow hitch, and a tow rope, but I obviously can't tow you.
+
+		Brother: That's OK, I can tow _you_!
+
+		Sister: I guess so.  If we're careful.
+
+	Each person drives their own car.  Nothing is wrong with the sister's car.
+	What is wrong with the brother's car?
+
+----------------------------------------------------------------------
+
+CSLIDE Car Trouble
+
+	ANS The brother's brakes are not working
+
+		ANS But his brake lights are OK
+
+	If sister tows the brother with a rope
+
+		ANS Any time she stops, he will crash into her
+
+	If brother tows the sister
+
+		ANS she can stop them both from behknd
+
+	Can she tell when to brake from behind?
+
+		ANS When the brother hits the brakes, she will see the brake lights
+
+		ANS It works almost normally if both follow their driving instincts
+
