@@ -18,7 +18,7 @@ pullup: web.pull
 Sources += Makefile poll.txt
 ## Sources += content.mk
 
-Sources += README.md LICENSE.md drop.md germ.md
+Sources += README.md LICENSE.md drop.md germ.md slides.md
 
 autopipeR = defined
 
