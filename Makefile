@@ -130,7 +130,6 @@ Sources += *.txt
 
 #### Natural selection (P24 => P22)
 ## ns.draft.pdf: ns.txt
-## ns.poll.csv: ns.txt
 ## ns.final.pdf: ns.txt
 ## ns.handouts.pdf: ns.txt
 ## ns.complete.pdf: ns.txt
