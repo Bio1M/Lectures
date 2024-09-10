@@ -115,33 +115,18 @@ Sources += *.txt
 ## snippets.draft.pdf: snippets.txt
 ## snippets.final.pdf: snippets.txt
 
-## intro.poll.csv: intro.txt pollcsv.pl
-## intro.draft.pdf: intro.txt
-## intro.final.pdf: intro.txt
-## intro.handouts.pdf: intro.txt
-## intro.handouts.tex.docx: intro.txt
-## intro.complete.pdf: intro.txt
-## intro.outline.pdf: intro.txt
-## intro.html: intro.step
-## intro.readings.TXT: intro.txt readings.pl
-
-## intro.draft.tex: intro.draft.log
-
 ### Look out for RSLIDE; ADD; CHANGE; EXTRA
 #### Introduction (P1)
-## intro.poll.csv: intro.txt pollcsv.pl
 ## intro.draft.pdf: intro.txt
 ## intro.final.pdf: intro.txt
 ## intro.handouts.pdf: intro.txt
-## intro.handouts.tex.docx: intro.txt
 ## intro.complete.pdf: intro.txt
 ## intro.outline.pdf: intro.txt
 ## intro.html: intro.step
-## intro.readings.TXT: intro.txt readings.pl
-
-## intro.draft.tex: intro.draft.log
 
 ## readings.txt has draft text for sharing about how the readings work
+## See also…
+## intro.readings.TXT: intro.txt readings.pl
 
 #### Natural selection (P24 => P22)
 ## ns.draft.pdf: ns.txt

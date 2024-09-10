@@ -34,7 +34,7 @@ Assignment: Car Trouble
 
 ----------------------------------------------------------------------
 
-CSLIDE Car Trouble
+FUNSLIDE Car Trouble
 
 	ANS The brother's brakes are not working
 
