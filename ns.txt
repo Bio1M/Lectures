@@ -329,25 +329,6 @@ Identifying homologies
 
 ----------------------------------------------------------------------
 
-Car trouble
-
-	A brother calls his sister because something is wrong with his car
-
-	She arrives, and they have this conversation:
-
-		Sister: I have a tow hitch, and a tow rope, but I obviously can't tow you.
-
-		Brother: That's OK, I can tow _you_!
-
-		Sister: I guess so.  If we're careful.
-
-	Each person drives their own car.  Nothing is wrong with the sister's car.
-
-	POLL What is wrong with the brother's car?
-
-----------------------------------------------------------------------
-
-
 TSEC Natural selection | Sec 20.4
 
 	Darwin's big idea was not evolution, but natural selection
@@ -426,6 +407,8 @@ Fitness
 
 Example: Tuberculosis
 
+BC
+
 	What if there were no variation?
 
 		Where does variation come from?
@@ -433,6 +416,12 @@ Example: Tuberculosis
 	What if variation were not heritable?
 
 	What if there were no selection?
+
+NC
+
+SIDEFIG webpix/resistantTB.jpg
+
+EC
 
 ----------------------------------------------------------------------
 
