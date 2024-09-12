@@ -107,7 +107,7 @@ PICSLIDE HIGHFIG webpix/pepper_birch.jpg
 
 Example: peppered moths 
 
-	NOTES Kettlewell's experiment \url{https://en.wikipedia.org/wiki/Kettlewell%27s_experiment}
+	NOTES \href{https://en.wikipedia.org/wiki/Kettlewell%27s_experiment}{Kettlewell's experiment on wikipedia}
 
 	Two different alleles possible at the wing color gene: $A_1$
 	and $A_2$.
@@ -144,15 +144,15 @@ Allele interactions
 		We will use [complex dominance] for anything that's not very close to
 		simple dominance
 
-	NOTES Table 20.1, Wikipedia page on genetic dominance
+	NOTES Table 20.1
+
+	NOTES \href{https://en.wikipedia.org/wiki/Dominance_%28genetics%29}{Wikipedia page on genetic dominance}
 
 ----------------------------------------------------------------------
 
 PLAINNOTE Example: ABO Blood groups have simple dominance
 
 PIC WIDEFIG hlw/20Evol_images/image06.jpg
-
-## https://en.wikipedia.org/wiki/Dominance_%28genetics%29
 
 ----------------------------------------------------------------------
 
@@ -169,8 +169,6 @@ PIC HFIG 0.9 webpix/dwarfCorn.jpg
 	The plant in the middle is a hybrid
 
 		ANS Does this count as simple dominance?
-
-	NOTES \url{https://en.wikipedia.org/wiki/Dominance_%28genetics%29}
 
 ----------------------------------------------------------------------
 
