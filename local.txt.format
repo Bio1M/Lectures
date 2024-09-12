@@ -9,6 +9,12 @@ TIME ^DEFHEAD %%
 DROP ^DEFHEAD {\sl %% (not covered)}
 DROPPIC ^PICSLIDE
 
+PLAINNOTE ^DEFHEAD %%
+handouts complete: \textbf{%%}
+
+CONT ^DEFHEAD %%
+handouts complete: %!
+
 ## Online class only
 ONLINESLIDE ^EXTRA
 ONLINE %!
