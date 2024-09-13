@@ -156,7 +156,9 @@ PIC WIDEFIG hlw/20Evol_images/image06.jpg
 
 ----------------------------------------------------------------------
 
-PLAINNOTE Example: Many cultivated flowers have complex dominance patterns
+SLIDEHEAD Example: flower color
+
+NOTEHEAD Example: Many cultivated flowers have complex dominance patterns
 
 PIC HIGHFIG webpix/camellia.jpg
 
@@ -164,7 +166,7 @@ PIC HIGHFIG webpix/camellia.jpg
 
 PLAINNOTE There can be borderline cases
 
-PIC HFIG 0.9 webpix/dwarfCorn.jpg
+PIC HFIG 0.75 webpix/dwarfCorn.jpg
 
 	The plant in the middle is a hybrid
 

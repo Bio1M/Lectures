@@ -12,6 +12,12 @@ DROPPIC ^PICSLIDE
 PLAINNOTE ^DEFHEAD %%
 handouts complete: \textbf{%%}
 
+SLIDEHEAD ^DEFHEAD %%
+handouts complete: %!
+
+NOTEHEAD \textbf{%%}
+draft final: %!
+
 CONT ^DEFHEAD %%
 handouts complete: %!
 
