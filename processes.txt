@@ -158,7 +158,7 @@ PIC WIDEFIG hlw/20Evol_images/image06.jpg
 
 PLAINNOTE Example: Many cultivated flowers have complex dominance patterns
 
-PIC WIDEFIG webpix/camellia.jpg
+PIC HIGHFIG webpix/camellia.jpg
 
 ----------------------------------------------------------------------
 
