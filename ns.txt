@@ -544,6 +544,12 @@ Activity
 
 			ANS Make couples, and choose 2 offspring from each?
 
+		ANS Wrong!
+
+			ANS Need more than one population in each treatment group
+
+			ANS Control, shortening, lengthening
+
 ----------------------------------------------------------------------
 
 Goal-directed evolution

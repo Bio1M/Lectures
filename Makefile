@@ -137,7 +137,6 @@ Sources += *.txt
 
 #### Evolutionary processes (P25 ⇒ P23)
 ## processes.draft.pdf: processes.txt
-## processes.poll.csv: processes.txt
 ## processes.final.pdf: processes.txt
 ## processes.handouts.pdf: processes.txt
 ## processes.complete.pdf: processes.txt
@@ -371,7 +370,7 @@ Sources += Makefile
 Ignore += makestuff
 msrepo = https://github.com/dushoff
 
-Makefile: makestuff/01.stamp
+Makefile: makestuff/02.stamp
 makestuff/%.stamp:
 	- $(RM) makestuff/*.stamp
 	(cd makestuff && $(MAKE) pull) || git clone --depth 1 $(msrepo)/makestuff

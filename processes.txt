@@ -1,7 +1,14 @@
  
 EXTRA
 
-Better structure? At least a more overview-ish intro
+Make sure to give a good overview in the Intro section, make use of ToC
+
+HLA Data (highlight this pic)
+
+Work on plainnote (make slide titles shorter)
+
+my_images/HLAt3.png
+my_images/HLAt3.pdf
 
 ----------------------------------------------------------------------
 
@@ -11,14 +18,14 @@ CHAPTER Evolutionary processes
 
 Evolution by natural selection
 
-	What is the _missing_ from the story I told last chapter?
+	What is _missing_ from the story I told last chapter?
 
 		Heritable [variation] in traits
 
 		[Selection] (i.e., differential reproductive success) _based on_
 		these traits
 
-	ANS Where does heritable variation in traits come from?
+			ANS Where does heritable variation in traits come from?
 
 ----------------------------------------------------------------------
 
@@ -100,7 +107,7 @@ PICSLIDE HIGHFIG webpix/pepper_birch.jpg
 
 Example: peppered moths 
 
-	NOTES Kettlewell's experiment \url{https://en.wikipedia.org/wiki/Kettlewell%27s_experiment}
+	NOTES \href{https://en.wikipedia.org/wiki/Kettlewell%27s_experiment}{Kettlewell's experiment on wikipedia}
 
 	Two different alleles possible at the wing color gene: $A_1$
 	and $A_2$.
@@ -139,15 +146,34 @@ Allele interactions
 
 	NOTES Table 20.1
 
-----------------------------------------------------------------------
-
-PSLIDE ABO Blood groups
-
-WIDEFIG hlw/20Evol_images/image06.jpg
-
-ADD Pea/maize, corn, mixes, \url{https://en.wikipedia.org/wiki/Dominance_%28genetics%29}
+	NOTES \href{https://en.wikipedia.org/wiki/Dominance_%28genetics%29}{Wikipedia page on genetic dominance}
 
 ----------------------------------------------------------------------
+
+PLAINNOTE Example: ABO Blood groups have simple dominance
+
+PIC WIDEFIG hlw/20Evol_images/image06.jpg
+
+----------------------------------------------------------------------
+
+SLIDEHEAD Example: flower color
+
+NOTEHEAD Example: Many cultivated flowers have complex dominance patterns
+
+PIC HIGHFIG webpix/camellia.jpg
+
+----------------------------------------------------------------------
+
+PLAINNOTE There can be borderline cases
+
+PIC HFIG 0.75 webpix/dwarfCorn.jpg
+
+	The plant in the middle is a hybrid
+
+		ANS Does this count as simple dominance?
+
+----------------------------------------------------------------------
+
 
 Analyzing genotype frequencies
 
@@ -311,7 +337,9 @@ Hardy-Weinberg equilibrium
 		Hardy-Weinberg distribution, with no change in allele frequencies
 		from generation to generation.
 
-	This never happens
+	_DO_ these assumptions hold exactly?
+
+		No!
 
 ----------------------------------------------------------------------
 
@@ -329,6 +357,8 @@ Differences from equilibrium
 	Without a null model, we couldn't ask _how_ do observations differ from
 	expectations
 
+	The _direction_ of the difference is key to interpreting
+
 ----------------------------------------------------------------------
 
 Example: Human blood groups
@@ -336,9 +366,9 @@ Example: Human blood groups
 	MN blood groups in different human populations are very close to
 	Hardy-Weinberg equilibrium 
 
-		NOTES \url{https://tinyurl.com/MN-morning-2023}
+		NOTES \url{https://tinyurl.com/MN-morning-2024}
 
-		NOTES \url{https://tinyurl.com/MN-afternoon-2023}
+		NOTES \url{https://tinyurl.com/MN-afternoon-2024}
 
 		No evidence for non-random mating, or for fitness differences.
 
@@ -351,7 +381,7 @@ Example: Human blood groups
 
 Activity: Human blood groups at the global level
 
-	POLL At the global level, how will MN blood groups compare to HW
+	POLL At the _global_ level, how do you expect MN blood groups compare to HW
 	expectations? | At the global level, how will MN blood groups compare to HW
 	expectations? More homozygotes; near expectation; fewer homozygotes
 
@@ -370,13 +400,15 @@ Activity: Human blood groups at the global level
 
 ----------------------------------------------------------------------
 
-PSLIDE Example: Human HLA genes
+Example: Human HLA genes
 
-ADD Data table if possible
+PIC HIGHFIG my_images/HLAt3.png
+
+NOTES Table from Markow et al., Am. J. Hum. Genet. 53:943-952, 1993
 
 ----------------------------------------------------------------------
 
-Example: Human HLA genes
+CONT Example: Human HLA genes
 
 	HLA genes are used by the immune system to recognize disease-causing
 	organisms
@@ -562,6 +594,8 @@ Positive/negative selection
 
 		ANS When other alleles change
 
+		ANS We call this the genetic context
+
 ----------------------------------------------------------------------
 
 Balancing selection
@@ -570,13 +604,13 @@ Balancing selection
 
 		When there is no single best allele
 
-	Disruptive selection at the trait level will always cause some balancing
-	selection
+	Disruptive selection at the trait level tends to cause balancing
+	selection at the allele level
 
-		ANS If natural selection is pushing in different directions, there must
-		be some different alleles involved
+		ANS Different alleles correspond to the different selected phenotypes
 
-		COMMENT Not 100% true, see seedcrackers Example below
+		ANS e.g., some seedcrackers with big-bill alleles and some with
+		small-bill alleles
 
 	Balancing selection can also be caused by [heterozygote advantage]: when
 	heterozygotes have higher fitness
@@ -652,21 +686,6 @@ Alleles and traits
 
 ----------------------------------------------------------------------
 
-PSLIDE Alleles and traits
-
-BC
-
-HFIG 0.9 webpix/dwarfCorn.jpg
-
-NC
-
-	From Wikipedia page on genetic dominance
-
-EC
-
-----------------------------------------------------------------------
-
-
 SEC Other evolutionary mechanisms | S20.5
 
 ----------------------------------------------------------------------
@@ -694,10 +713,15 @@ Thought experiment
 
 		Repeat
 
+		ANS 50 plus-or-minus a few each time
+
 	Now imagine choosing 100 alleles at random (with replacement) from a
 	population of 50 $A$ and 50 $B$ alleles
 
 		Repeat, using new population as a starting point | F20.13
+
+		ANS 50 plus-or-minus a few, then something-else plus-or-minus a few;
+		drifts around in random directions
 
 ----------------------------------------------------------------------
 
@@ -831,9 +855,17 @@ Complex organisms
 
 		Beneficial changes can accumulate gradually
 
-		Much evidence of intermediate forms
+		Much evidence of intermediate forms (see video in notes)
 
 	NOTES Evolution of the eye video \url{https://www.pbslearningmedia.org/resource/tdc02.sci.life.evo.nilssoneye/evolution-of-the-eye/}
+
+	COMMENT My personal perspective
+
+		COMMENT We don't know enough theory to say that it could or could not
+		have have happened based on mechanistic understanding
+
+		COMMENT But it definitely looks like it _did_, so that implies that it's
+		possible
 
 ----------------------------------------------------------------------
 
@@ -844,11 +876,9 @@ What about sex?
 	It does act to bring alleles together (and to split them apart), this is
 	called [recombination]
 
-	Sex is not a source of new alleles
+	Sex is not a source of new mutations
 
-		COMMENT Depending on how we define alleles
-
-		But it is a source of new combinations
+		ANS But it is a source of new combinations
 
 	There is still active debate on the advantages and disadvantages of sex in
 	evolution
