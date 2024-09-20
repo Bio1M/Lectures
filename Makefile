@@ -7,6 +7,14 @@ current: target
 
 ######################################################################
 
+cloud ?= cloudmirror
+mirror = $(cloud):$(CURDIR:/home/$(USER)/%=%)
+
+now: 
+	rclone ls $(mirror)/my_images || rclone copy my_images/ $(mirror)/my_images
+
+######################################################################
+
 # Session
 
 vim_session:
