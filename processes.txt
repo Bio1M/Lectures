@@ -385,9 +385,13 @@ Activity: Human blood groups at the global level
 	expectations? | At the global level, how will MN blood groups compare to HW
 	expectations? More homozygotes; near expectation; fewer homozygotes
 
-		NOANS
+		ANS What are the choices?
 
-	POLL What did we find? | What did we find? More homozygotes; near expectation; fewer homozygotes
+		ANS Simulate by averaging across the groups in the spreadsheet
+
+		ANS What do we think will happen?
+
+	What did we find? | What did we find? More homozygotes; near expectation; fewer homozygotes
 
 		ANS More homozygotes
 
