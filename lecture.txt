@@ -45,6 +45,7 @@ Fri
 
 Fri
 * Starting morning on balancing selection
+	* Start next time with mutations (a bit of repeat)
 * Finished with disruptive selection in afternoon
 
 ----------------------------------------------------------------------
