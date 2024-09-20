@@ -598,7 +598,11 @@ Positive/negative selection
 
 		ANS When other alleles change
 
-		ANS We call this the genetic context
+			ANS We call this the genetic context
+
+		ANS Context can also change due to frequency at this locus
+
+			ANS e.g., frequency-dependent selection
 
 ----------------------------------------------------------------------
 
