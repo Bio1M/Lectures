@@ -13,8 +13,11 @@ cloud ?= cloudmirror
 mirror = $(cloud):$(CURDIR:/home/$(USER)/%=%)
 
 my_images.mirror: 
-	rclone ls $(mirror)/my_images || rclone copy my_images/ $(mirror)/my_images
+	rclone copy my_images/ $(mirror)/my_images
 	$(touch)
+
+my_images.ls: | my_images.mirror
+	rclone ls $(mirror)/my_images || rclone copy my_images/ $(mirror)/my_images
 
 my_images.backup:
 	rclone copy my_images/ $(mirror)/backup/my_images
@@ -55,6 +58,7 @@ autopipeR = defined
 ######################################################################
 
 ## HLW sucks, use notes.txt
+## Not even finding time to engage with HLW ☹, 2024
 
 ######################################################################
 
