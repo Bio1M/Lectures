@@ -16,6 +16,17 @@ my_images.mirror:
 	rclone ls $(mirror)/my_images || rclone copy my_images/ $(mirror)/my_images
 	$(touch)
 
+my_images.backup:
+	rclone copy my_images/ $(mirror)/backup/my_images
+
+my_images.time: my_images $(wildcard my_images/*) | my_images.mirror
+	rclone copy -u $(mirror)/my_images my_images/ 
+	rclone sync -u my_images/ $(mirror)/my_images
+
+my_images.get: my_images.time | my_images.mirror
+	rclone copy -u my_images/ $(mirror)/my_images
+	rclone sync -u $(mirror)/my_images my_images/ 
+
 ######################################################################
 
 # Session
