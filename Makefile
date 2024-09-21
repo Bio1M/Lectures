@@ -7,28 +7,8 @@ current: target
 
 ######################################################################
 
-Ignore += *.mirror
+## rclone ls cloudmirror:screens/1M/Lectures
 
-cloud ?= cloudmirror
-mirror = $(cloud):$(CURDIR:/home/$(USER)/%=%)
-
-my_images.mirror: 
-	rclone copy my_images/ $(mirror)/my_images
-	$(touch)
-
-my_images.ls: | my_images.mirror
-	rclone ls $(mirror)/my_images || rclone copy my_images/ $(mirror)/my_images
-
-my_images.backup:
-	rclone copy my_images/ $(mirror)/backup/my_images
-
-my_images.time: my_images $(wildcard my_images/*) | my_images.mirror
-	rclone copy -u $(mirror)/my_images my_images/ 
-	rclone sync -u my_images/ $(mirror)/my_images
-
-my_images.get: my_images.time | my_images.mirror
-	rclone copy -u my_images/ $(mirror)/my_images
-	rclone sync -u $(mirror)/my_images my_images/ 
 
 ######################################################################
 
@@ -403,12 +383,14 @@ makestuff/%.stamp:
 	touch $@
 
 -include makestuff/os.mk
--include makestuff/ldrop.mk
+
+## -include makestuff/ldrop.mk
+-include makestuff/mirror.mk
 -include makestuff/pipeR.mk
 -include makestuff/webpix.mk
--include makestuff/git.mk
--include makestuff/visual.mk
 -include makestuff/newtalk.mk
 -include makestuff/texj.mk
 -include makestuff/projdir.mk
 
+-include makestuff/git.mk
+-include makestuff/visual.mk
