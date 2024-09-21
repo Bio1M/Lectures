@@ -9,6 +9,7 @@ current: target
 
 ## rclone ls cloudmirror:screens/1M/Lectures
 
+mirrors += my_images webpix
 
 ######################################################################
 
