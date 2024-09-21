@@ -7,8 +7,9 @@ HLA Data (highlight this pic)
 
 Work on plainnote (make slide titles shorter)
 
-my_images/HLAt3.png
-my_images/HLAt3.pdf
+Maybe add some highlighting to my_images/HLAt3.png (from my_images/HLAt3.pdf)
+
+Review how you talk about the parallel allele and trait evolution; more on genetic context
 
 ----------------------------------------------------------------------
 
