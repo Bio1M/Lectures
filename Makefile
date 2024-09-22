@@ -7,6 +7,10 @@ current: target
 
 ######################################################################
 
+mirrors += my_images webpix
+
+######################################################################
+
 # Session
 
 vim_session:
@@ -32,18 +36,20 @@ autopipeR = defined
 
 ######################################################################
 
-## HLW sucks, use notes.txt to discuss; right now barely even looking at it
+## HLW sucks, use notes.txt
+## Not even finding time to engage with HLW ☹, 2024
 
 ######################################################################
 
 ## Image location
 Ignore += local.mk
-imageDrop = ~/Dropbox/courses/1M
+## imageDrop = ~/Dropbox/courses/1M
 ## Update imageDrop in local.mk if necessary
 -include local.mk
 
 Sources += $(wildcard *.step)
 
+## Scary legacy stuff; jdpix should maybe be a repo?
 picdirs = Pearson norton jdpix freeman sharp hlw
 Ignore += $(picdirs)
 $(picdirs): dir = $(imageDrop)
@@ -378,6 +384,8 @@ makestuff/%.stamp:
 
 -include makestuff/os.mk
 
+## -include makestuff/ldrop.mk
+-include makestuff/mirror.mk
 -include makestuff/pipeR.mk
 -include makestuff/webpix.mk
 -include makestuff/newtalk.mk

@@ -43,6 +43,11 @@ Fri
 2024 Sep 16 (Mon)
 =================
 
+Fri
+* Starting morning on balancing selection
+	* Start next time with mutations (a bit of repeat)
+* Finished with disruptive selection in afternoon
+
 ----------------------------------------------------------------------
 
 # 2023 journal

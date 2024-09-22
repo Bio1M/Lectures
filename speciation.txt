@@ -1,8 +1,6 @@
 
 EXTRA
 
-Look for ADDED, NEW for next year
-
 https://www.jstor.org.libaccess.lib.mcmaster.ca/stable/3084434
 * African elephant phylogeny, maybe just use pix of forest and savannah elephants
 
@@ -24,7 +22,7 @@ SIDEFIG hlw/21Spec_images/image18.jpg
 
 NC
 
-	What patterns and processes allowed a single ancestor to diversify into
+	What patterns and processes allowed the universal common ancestor to diversify into
 	$>$10 million species?
 
 EC
@@ -150,7 +148,7 @@ TSS Morphological species concept
 		offspring
 
 		ANS Males and females, different life stages, or specific phenotypes
-		might look very different, but be part of the same population (ADDED)
+		might look very different, but be part of the same population
 
 		ANS Not clear how definition relates to our conceptual definition of
 		evolutionary units
@@ -486,7 +484,7 @@ TSEC Species divergence in sympatry  | First part of S21.3
 
 		ANS Competition
 
-		ANS Similar environments (ADDED)
+		ANS Similar environments
 
 	What are some ways it can happen
 
