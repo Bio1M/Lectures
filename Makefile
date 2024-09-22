@@ -7,14 +7,6 @@ current: target
 
 ######################################################################
 
-cloud ?= cloudmirror
-mirror = $(cloud):$(CURDIR:/home/$(USER)/%=%)
-
-now: 
-	rclone ls $(mirror)/my_images || rclone copy my_images/ $(mirror)/my_images
-
-######################################################################
-
 # Session
 
 vim_session:
@@ -40,7 +32,7 @@ autopipeR = defined
 
 ######################################################################
 
-## HLW sucks, use notes.txt
+## HLW sucks, use notes.txt to discuss; right now barely even looking at it
 
 ######################################################################
 
@@ -360,7 +352,7 @@ Ignore += *.poll.csv
 
 ######################################################################
 
-## Developing
+## Developing docx stuff; maybe check 3SS?
 
 ## Makes a nice document, but sheds the answers spaces?
 ## Use some sort of explicit character?
@@ -378,19 +370,19 @@ Sources += Makefile
 Ignore += makestuff
 msrepo = https://github.com/dushoff
 
-Makefile: makestuff/02.stamp
+Makefile: makestuff/03.stamp
 makestuff/%.stamp:
 	- $(RM) makestuff/*.stamp
 	(cd makestuff && $(MAKE) pull) || git clone --depth 1 $(msrepo)/makestuff
 	touch $@
 
 -include makestuff/os.mk
--include makestuff/ldrop.mk
+
 -include makestuff/pipeR.mk
 -include makestuff/webpix.mk
--include makestuff/git.mk
--include makestuff/visual.mk
 -include makestuff/newtalk.mk
 -include makestuff/texj.mk
--include makestuff/projdir.mk
+-include makestuff/mirror.mk
 
+-include makestuff/git.mk
+-include makestuff/visual.mk
