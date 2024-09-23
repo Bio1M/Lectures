@@ -22,14 +22,14 @@ SIDEFIG hlw/21Spec_images/image18.jpg
 
 NC
 
-	What patterns and processes allowed the universal common ancestor to diversify into
-	$>$10 million species?
+	What patterns and processes allowed the universal common ancestor to
+	diversify into $>$10 million species?
 
 EC
 
 ----------------------------------------------------------------------
 
-TSEC How are species defined? 
+TSEC How are species defined? | S21.1
 
 	Conceptually, we define species as ``evolutionary units'':
 
@@ -135,10 +135,13 @@ TSS Morphological species concept
 	Morphological species are defined to be 
 	different if they [look] different
 
+		ANS \ldots\ to experts who spend a lot of time thinking about which
+		differences can be relied on
+
 		Useful for working with fossils, or very diverse groups (e.g.,
 		insects)
 
-		A lot of expertise and experience guides morphospecies decisions
+		A lot of expertise and experience guides morphological species decisions
 
 	Disadvantages?
 
@@ -211,11 +214,13 @@ Book's version of Phylogenetic species concept
 
 	Exercise: what does your family tree look like?
 
-		ANS Small groups do _not_ make distinct groups in sexual species
+		ANS Small groups do _not_ separate clearly in sexual species
 
 		ANS Plus, we can start by defining populations
 
 	COMMENT Science is not really about trust
+
+	REMARK Meaning, don't trust the book or me or anybody too much
 
 ----------------------------------------------------------------------
 
@@ -283,9 +288,7 @@ Limitations
 			COMMENT If we focus on mitochondria, then maybe you and your cousins
 			are a species
 
-	Answer might also differ depending on how you define populations
-
-		ANS Especially for asexual species
+	Answer also depends on how you define populations
 
 ----------------------------------------------------------------------
 
@@ -296,6 +299,12 @@ Defining species
 		No one way is agreed to be the best
 
 	Usually we know more or less what we mean by a species, though
+
+		E.g., people are arguing about whether there are two, three or four
+		species of elephant
+
+		Not about whether there are 10, or about whether rhinocerouses are part
+		of the same species.
 
 ----------------------------------------------------------------------
 
@@ -329,7 +338,7 @@ How do species split?
 
 ----------------------------------------------------------------------
 
-TSEC Species divergence in allopatry | First part of S21.3
+TSEC Species divergence in allopatry | Next part of S21.3
 
 	[Allopatry] refers to organisms living apart from each other
 
@@ -522,13 +531,17 @@ Divergence by partitioning habitats | F20.9
 
 ----------------------------------------------------------------------
 
-Hawthorn flies
+Hawthorn flies | \url{https://en.wikipedia.org/wiki/Apple_maggot}
 
 BC
 
+	Recent example of likely sympatric speciation
+
+		Many of “hawthorn flies” now eat apples instead of hawthorns
+
 	Apples are ready before hawthorns, so there should be disruptive selection
 
-	There is already evidence that reproductive isolation is evolving:
+	Reproductive isolation is evolving:
 
 		Flies raised on each type of fruit prefer to seek mates on the same type
 		of fruit
@@ -541,7 +554,6 @@ NC
 
 SIDEFIG webpix/hawthornFly.jpg
 
-wikipedia/Apple\_maggot
 
 EC
 
