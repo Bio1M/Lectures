@@ -385,7 +385,6 @@ makestuff/%.stamp:
 -include makestuff/os.mk
 
 ## -include makestuff/ldrop.mk
--include makestuff/mirror.mk
 -include makestuff/pipeR.mk
 -include makestuff/webpix.mk
 -include makestuff/newtalk.mk
