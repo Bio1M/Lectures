@@ -50,6 +50,12 @@ Fri
 
 ----------------------------------------------------------------------
 
+2024 Sep 24 (Tue)
+=================
+
+* Start by reviewing types of mutations slide
+* Start by reviewing small populations slide
+
 # 2023 journal
 
 ## 2023 Sep 04
