@@ -303,8 +303,13 @@ Defining species
 		E.g., people are arguing about whether there are two, three or four
 		species of elephant
 
-		Not about whether there are 10, or about whether rhinocerouses are part
+		Not about whether there are 10, or about whether rhinoceroses are part
 		of the same species.
+
+			COMMENT Why is this a really bad example?
+
+			COMMENT Elephants have no close relatives, and definitely not hippos
+			or rhinos
 
 ----------------------------------------------------------------------
 
