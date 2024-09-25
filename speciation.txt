@@ -446,6 +446,18 @@ Exercise: What is a biological “island”?
 
 	Examples:
 
+		ANS
+		
+		ANS
+
+		ANS
+
+----------------------------------------------------------------------
+
+NULLSLIDE
+
+	EXTRA 2023 answers
+
 		ANS Everyone: islands, mountaintops, caves, animals (for bacteria)
 
 		ANS Morning: deep pockets of the ocean, patches of soil
@@ -538,11 +550,9 @@ Divergence by partitioning habitats | F20.9
 
 Hawthorn flies | \url{https://en.wikipedia.org/wiki/Apple_maggot}
 
-BC
-
 	Recent example of likely sympatric speciation
 
-		Many of “hawthorn flies” now eat apples instead of hawthorns
+		Many “hawthorn flies” now eat apples instead of hawthorns
 
 	Apples are ready before hawthorns, so there should be disruptive selection
 
@@ -554,13 +564,6 @@ BC
 	What might happen next?
 
 		ANS Less gene flow; more fruit-specific adaptation; more divergence
-
-NC
-
-SIDEFIG webpix/hawthornFly.jpg
-
-
-EC
 
 ----------------------------------------------------------------------
 
