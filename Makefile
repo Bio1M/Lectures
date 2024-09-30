@@ -43,13 +43,15 @@ autopipeR = defined
 
 ## Image location
 Ignore += local.mk
-## imageDrop = ~/Dropbox/courses/1M
+##  ls ~/Dropbox/courses/1M
 ## Update imageDrop in local.mk if necessary
 -include local.mk
 
 Sources += $(wildcard *.step)
 
-## Scary legacy stuff; jdpix should maybe be a repo?
+######################################################################
+
+## Not updated; what is the mirror approach to sharing stuff?
 picdirs = Pearson norton jdpix freeman sharp hlw
 Ignore += $(picdirs)
 $(picdirs): dir = $(imageDrop)
