@@ -787,6 +787,8 @@ NC
 
 SIDEFIG webpix/townsend.jpg
 
+NOTES HREF https://doi.org/10.1371/journal.pone.0014164 An article about the warbler story
+
 EC
 
 ----------------------------------------------------------------------
