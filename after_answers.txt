@@ -1,0 +1,7 @@
+islands
+pond
+nature preserve
+valley
+forest
+garden
+city
