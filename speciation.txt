@@ -815,13 +815,13 @@ Exercise: Reuniting
 	Why is observing reunited populations important? What kind of things might
 	we learn?
 
-		ANS If two populations are fusing, we kind of think they're the same
+		ANS If two populations are [fusing], we kind of think they're the same
 		species
 
-		ANS If separation is reinforced, they might already be two distinct
-		species, or else they're becoming that
+		ANS If separation is [reinforced], they might already be two distinct
+		species, or else on their way
 
-		ANS Exclusion shows us that some species do better than others, gives
+		ANS [Exclusion] shows us that some species do better than others, gives
 		insight into the difficulty of speciation with competition
 
 		ANS Learn more about compatibility of different kinds of genetic
