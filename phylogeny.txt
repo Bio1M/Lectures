@@ -831,7 +831,7 @@ BC
 
 		ANS Species may diverge to fill these niches
 
-		ANS Or spread around the world to fill them
+		ANS Or spread from elsewhere in the world to fill them
 
 NC
 

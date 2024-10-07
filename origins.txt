@@ -185,9 +185,11 @@ Interpreting patterns
 
 	We see a lot of clades with a history of radiations
 
-	Does that mean most clades radiate?
+		Meaning, they radiated and then contracted again
 
-		ANS Maybe it's just the ones we notice
+	Does that mean most clades radiate more than once?
+
+		ANS Maybe we're more likely to notice certain clades
 
 		ANS Clades with a history of radiations may be more successful
 
@@ -350,6 +352,12 @@ Adaptive theories
 		[Adaptive foraging]: the ability to switch between types of food, and to
 		learn to use new types of food
 
+			This is a different use of the word “adaptive”
+
+			ANS Adaptive foragers can respond differently in different situations
+
+			ANS More analogous to acclimation
+
 ----------------------------------------------------------------------
 
 Adaptive looping
@@ -365,6 +373,10 @@ Adaptive looping
 
 		Ability to see and manipulate things in front of you may increase
 		selection for bigger brains \ldots
+
+	Which meaning of adaptive is at the top of this slide?
+
+		ANS The evolutionary one
 
 ----------------------------------------------------------------------
 
