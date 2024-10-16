@@ -307,9 +307,13 @@ final.final.pdf: final.txt
 ## A special file to make complete notes for the test
 ## m1notes.txt: phylogeny.txt Makefile
 
-m1notes.txt:
+m1notes.txt: phylogeny.txt
 	perl -npe "last if /The history/" $< | perl -npe "s/CHAPTER.*/CHAPTER Midterm 1 extra notes/" > $@
 m1notes.complete.pdf: phylogeny.txt
+
+## breaknotes.complete.pdf: origins.txt
+breaknotes.txt: origins.txt
+	perl -npe "last if /SEC Sociality/" $< | perl -npe "s/CHAPTER.*/CHAPTER Reading week notes/" > $@
 
 ######################################################################
 

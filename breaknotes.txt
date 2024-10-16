@@ -1,0 +1,572 @@
+
+EXTRA 
+
+F23.9, different trees from different genes
+
+----------------------------------------------------------------------
+
+EXTRA
+
+https://www.newscientist.com/article/2390715-our-ultra-mobile-arm-joints-may-have-evolved-for-climbing-down-trees/
+
+https://royalsocietypublishing.org/doi/10.1098/rsos.230145
+
+----------------------------------------------------------------------
+
+CHAPTER Reading week notes
+
+----------------------------------------------------------------------
+
+SEC Patterns of evolution
+
+----------------------------------------------------------------------
+
+Humans as an example
+
+	We are an example of a biological species that has evolved
+
+		Many of your friends are probably humans
+
+	Humans seem unique:
+
+		How do they differ from other evolved organisms?
+
+		What do they share with other evolved organisms?
+
+----------------------------------------------------------------------
+
+PIC WIDEFIG jdpix/crowd.jpg
+
+----------------------------------------------------------------------
+
+Similarities and differences
+
+	What is different about people?
+
+		ANS Complex thoughts
+
+		ANS Culture
+
+		ANS Language
+
+		ANS Technology
+
+	What is the same?
+
+		ANS Genetic code, biochemical processes
+
+		ANS We're here because our ancestors reproduced
+
+		ANS _If_ our current reproductive success depends on heritable variation
+		in traits, _then_:
+
+			ANS We're still evolving
+
+			ANS In what direction or directions?
+
+			ANS For how long will natural selection push us in the same direction
+			as now?
+
+----------------------------------------------------------------------
+
+TSS Context for evolution
+
+	Adaptations build on existing adaptations -- often in unexpected ways
+
+	Evolution does not know where it's going
+
+	In a constant environment, species can only improve with gradual adaptations
+	to the same environment 
+
+		and will be in danger of getting ``stuck'', e.g. vertebrate eyes
+
+	A changing environment provides opportunities to try new combinations and
+	build in unexpected directions
+
+----------------------------------------------------------------------
+
+Physical changes
+
+	Physical changes often provide species with new adaptive challenges and
+	opportunities:
+
+	Global climate change
+
+	Continental drift
+
+	Geological changes
+
+		New environments can arise (e.g., mountain ranges, desert basins)
+
+		Geology may also change connections between two populations without a
+		large effect on how they live
+
+			Rivers changing course
+
+			Mountain ranges separating valley species
+
+			ANS Provides opportunities for allopatric speciation
+
+----------------------------------------------------------------------
+
+PICSLIDE HIGHFIG webpix/Pangaea.gif.jpg
+
+----------------------------------------------------------------------
+
+Changing ecosystems
+
+	Taxa can be dramatically affected by changes in other taxa
+
+		Due to evolution or to colonization
+
+	Interactions with other organisms are key to most ecological niches
+
+		Who do I eat? Who is trying to eat me? How do I reproduce?
+
+	Co-evolution is a key driver of diversity. For example:
+
+		Plants evolve new ways to use insects for sex, or vertebrates for
+		dispersal
+
+		Animals evolve new ways to benefit from plant resources
+
+----------------------------------------------------------------------
+
+WIDEPIC webpix/hummingbird.jpg
+
+----------------------------------------------------------------------
+
+WIDEPIC webpix/fig_wasps.jpg
+
+----------------------------------------------------------------------
+
+Mammalian ancestors
+
+	Our ancestors, the [therapsids], radiated and dominated many terrestrial
+	environments _before_ dinosaurs did
+
+	Therapsids were largely replaced by dinosaurs in the age of dinosaurs
+
+		But some survived, and one radiated after a mass extinction
+
+----------------------------------------------------------------------
+
+Radiation and contraction
+
+	Many clades seem to go through periods of radiation and contraction
+
+		Gain and then loss of species diversity
+
+	Examples:
+
+		Therapsids, apes, hominins (us)
+
+	Radiation gives many chances for adaptation
+
+		Things that have had radiations may be more likely to persist
+
+		Even after periods of contraction
+
+----------------------------------------------------------------------
+
+Reasons for contraction
+
+	What are some reasons that a diverse clade suffer many extinctions?
+
+		ANS Changing conditions (climate change, continents moving)
+
+		ANS Competition from other clades (therapsids vs.~dinosaurs)
+
+		ANS Competition from a successful member (people vs.~other hominins)
+
+----------------------------------------------------------------------
+
+Interpreting patterns
+
+	We see a lot of clades with a history of radiations
+
+		Meaning, they radiated and then contracted again
+
+	Does that mean most clades radiate more than once?
+
+		ANS Maybe we're more likely to notice certain clades
+
+		ANS Clades with a history of radiations may be more successful
+
+----------------------------------------------------------------------
+
+Survivorship bias
+
+	Bias arises from the fact that we're much more likely to observe successful
+	taxa 
+	
+		ANS Unlikely adaptive mutations
+
+		ANS Weird speciation events (e.g., sunflower hybrids)
+
+		ANS Polyploidy and other duplications
+
+		ANS Organisms literally combining! mitochondria, chloroplasts
+
+----------------------------------------------------------------------
+
+Advantages of previous radiation
+
+	A clade that has radiated in the past may have advantages even after it
+	contracts
+
+	They've explored more kinds of environments
+
+	They're found in more different specific places
+
+		e.g., marsupials in Australia
+
+	They've had more chances to adapt
+
+		May have a few very successful species (like us)
+
+----------------------------------------------------------------------
+
+SEC Our recent history
+
+----------------------------------------------------------------------
+
+EXTRA Mammals
+
+	ANS Produce milk
+
+	ANS Diaphragm enhances respiration
+
+	ANS Hair (fur) for insulation
+
+	ANS Hard palate to breathe efficiently while eating
+
+	What might these have in common?
+
+		ANS High metabolism (warm-blooded)
+
+----------------------------------------------------------------------
+
+TSS Primates
+
+	Humans are [primates], an ``order" characterized by
+
+		Highly developed [stereroscopic] vision
+
+			Eyes are close together, face forward, and are used together
+
+			Allows 3-d visualization
+
+		Versatile limbs
+
+			Grasping hands and feet
+
+			Nails and fingertips (instead of claws)
+
+		Large brains
+
+			ANS Compared to related groups of mammals
+
+----------------------------------------------------------------------
+
+PSLIDE Primates
+
+WIDEFIG hlw/23Humans_images/image02.jpg 
+
+----------------------------------------------------------------------
+
+EXTRA Traits
+
+	What sort of traits do biologists use to characterize a group?
+
+		ANS Derived traits
+
+	How would you interpret the fact that humans don't have grasping
+	feet?
+
+		ANS Our ancestors lost the trait
+
+		ANS It takes many traits to make an accurate phylogeny
+
+----------------------------------------------------------------------
+
+Observing ourselves
+
+	We used to think people were far from chimps and gorillas
+
+		ANS [Observer bias]
+
+			ANS Scientists are human, which gives us a particular perspective
+
+		ANS Phenetic approaches: humans have a lot of adaptations
+
+			ANS And we're good at recognizing them -- more observer bias
+
+----------------------------------------------------------------------
+
+The angiosperm explosion
+
+	Flowering plants diversified very rapidly around 100 [mya] --
+	million years ago
+
+	This radically changed the ecology of the world, and opened up many
+	new niches, apparently including space for primates
+
+----------------------------------------------------------------------
+
+HIGHPIC webpix/pine_forest.jpg
+
+----------------------------------------------------------------------
+
+WIDEPIC webpix/mixed_forest.jpg
+
+----------------------------------------------------------------------
+
+Primate adaptations
+
+	There are a variety of theories for how characteristic primate
+	adaptations evolved
+
+	Each step was likely favored adaptively
+
+	Likely something to do with processing and handling angiosperm fruit
+	and flowers
+
+		Or else the insects that fed on these fruit and flowers
+
+----------------------------------------------------------------------
+
+Adaptive theories
+
+	There are many theories for why primate traits might have been adaptively
+	favored in our ancestors
+
+		Leaping from branch to branch
+
+		Climbing and balancing on trees
+
+		Exploiting new plant resources
+
+		Catching insects
+
+		[Adaptive foraging]: the ability to switch between types of food, and to
+		learn to use new types of food
+
+			This is a different use of the word “adaptive”
+
+			ANS Adaptive foragers can respond differently in different situations
+
+			ANS More analogous to acclimation
+
+----------------------------------------------------------------------
+
+Adaptive looping
+
+	Sometimes adaptations can reinforce each other:
+
+		Bigger brains may increase selection for adaptive foraging
+
+		Needing to process more types of food may increase selection for clever
+		hands
+
+		More clever hands may increase selection for good stereoscopic vision
+
+		Ability to see and manipulate things in front of you may increase
+		selection for bigger brains \ldots
+
+	Which meaning of adaptive is at the top of this slide?
+
+		ANS The evolutionary one
+
+----------------------------------------------------------------------
+
+TSS Apes | F23.2
+
+BC
+
+	Apes are more adapted for swinging through trees, whereas monkeys
+	are more adapted for climbing and leaping
+
+	More upright
+
+	Better at hanging, and worse at sitting
+
+NC
+
+SIDEFIG hlw/23Humans_images/image23.jpg 
+
+EC
+
+----------------------------------------------------------------------
+
+WIDEPIC hlw/23Humans_images/image03.jpg 
+
+----------------------------------------------------------------------
+
+PICSLIDE Endangered gibbons
+
+WIDEFIG webpix/pileatedGibbon.jpg
+
+CREDIT PalmOilDetectives.Com
+
+----------------------------------------------------------------------
+
+Mobile arm joints | \url{https://royalsocietypublishing.org/doi/10.1098/rsos.230145}
+
+BC
+ 
+	New research suggests that apes' arm joints may have evolved to help heavy
+	animals specifically climb _down_ from trees
+
+	This is another adaptation that likely led to further adaptations in a
+	different direction
+
+		ANS Use of arms for other tasks, like adaptive foraging or tool use
+
+NC
+
+SIDEFIG climbingApes.png
+
+EC
+
+----------------------------------------------------------------------
+
+Patterns of replacement
+
+	Apes ``radiated" into many habitats before monkeys did
+
+		Many ape species were apparently later replaced by Old World monkeys
+
+	Why might apes have been replaced, if they were able to radiate successfully?
+
+		ANS Changing climatic conditions
+
+		ANS Changes in plants or insects
+
+		ANS Adaptive innovations by the monkeys
+
+	What if the ape radiation had never happened?
+
+		ANS Less diversity between surviving apes
+
+		ANS Probably no people
+
+----------------------------------------------------------------------
+
+Chimps vs.~humans | F23.3
+
+	How much genetic difference? | \url{https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-06962-8}
+
+		ANS About 1% \ldots
+
+			ANS in homologous sequences!
+
+		ANS About 4% overall
+
+	Early results were very surprising, but maybe shouldn't have been
+
+		ANS Small changes can have large effects
+
+		ANS Changes aren't all that small
+
+		ANS A lot of genes about metabolic function: lungs, liver, immune system
+		\ldots even basic cellular function
+
+----------------------------------------------------------------------
+
+TSS Hominins  | F23.9
+
+BC
+
+	[Hominins] refer to people and our upright ancestors
+
+	Characterized by:
+
+		Walking upright (even more than apes) | F23.12
+
+		Specific changes in chewing design: teeth, jaws and skull
+
+NC
+
+SIDEFIG webpix/pRskull.jpg
+
+SIDEFIG webpix/pRdrawing.jpg
+
+EC
+
+----------------------------------------------------------------------
+
+WIDEPIC hlw/23Humans_images/image10.jpg 
+
+----------------------------------------------------------------------
+
+Taxonomy | \url{https://en.wikipedia.org/wiki/Hominini}
+
+BCC
+
+SIDEFIG webpix/homininae.png
+
+NCC
+
+	Homonoidea, Hominidae, Homininae, Hominini, Hominina, Homo
+
+	Why so much detailed splitting?
+
+		ANS We're a little bit full of ourselves
+
+			ANS We find things that make us different significant
+
+		ANS Observer bias
+
+EC
+
+----------------------------------------------------------------------
+
+Upright posture
+
+	How did upright posture and upright walking evolve?
+	
+	It's not known, but there are many theories:
+
+		Adaptation to walking on the ground instead of swinging through
+		trees
+
+		Adaptation for keeping cool
+
+		Adaptation for harvesting food
+
+		Adaptation for carrying food
+
+----------------------------------------------------------------------
+
+More radiation and contraction
+
+BCC
+
+	_H. ergaster_ probably out-competed and replaced several related species,
+	then radiated
+
+	Modern humans replaced other descendants of _ergaster_
+
+NCC
+
+SIDEFIG hlw/23Humans_images/image07.jpg 
+
+EC
+
+----------------------------------------------------------------------
+
+Modern humans
+
+	Characterized by small face and teeth
+
+	Less robust skeletal structure
+
+	Evolved in Africa around 200 [kya] (thousand years ago)
+
+	Took over most of the world in the last 50,000 years!
+
+	ADD picture?
+
+----------------------------------------------------------------------
+
