@@ -3,16 +3,11 @@ EXTRA
 
 PP
 
-ADD
+ADD 22.24? or not (time line of mammals and sauropsids)
 
 Trees vs.~webs
 * Bubby and Zayda, etc.
 
-No such thing as a fish
-
-Are dinosaurs extinct?
-
-22.24?
 
 ----------------------------------------------------------------------
 
@@ -63,9 +58,20 @@ Monophyletic group
 
 		Are winged tetrapods a clade?
 
-		What are some prominent groups that are not clades?
+	What are some prominent groups that are not clades?
 
-			ANS apes, reptiles, trees
+		ANS Fish
+
+		ANS Bugs (insects are closer to lobsters than they are to spiders or
+		ticks)
+
+		ANS Prokaryotes (bacteria and archaea)
+
+		ANS Dinosaurs (would need to include birds)
+
+			COMMENT the clade of dinosaurs is not extinct
+
+		ANS Apes (would need to include humans)
 
 ----------------------------------------------------------------------
 
@@ -113,13 +119,12 @@ Interpreting phylogenetic trees
 		Trees that correspond to the same model are considered equivalent | F 22.3
 
 		NOTES \url{https://commons.wikimedia.org/wiki/Category:Phylogenetic_trees_of_mammals}
-		https://commons.wikimedia.org/wiki/Category:Phylogenetic_trees_of_mammals
 
 ----------------------------------------------------------------------
 
 PICSLIDE FIG webpix/primate_tree.png
 
-ADD \url{https://commons.wikimedia.org/wiki/File:Pbio.0020005.g003_(14137677045).png}
+CREDIT Wikimedia commons: Phylogenetic Tree of Primates
 
 ----------------------------------------------------------------------
 
@@ -213,9 +218,13 @@ Phenetic vs. cladistic analysis
 		COMMENT The book talks about trusting the molecular clock, but this is
 		complicated and there are still no _advantages_
 
+		ADD Read before presenting
+
 ----------------------------------------------------------------------
 
 WIDEPIC webpix/turtleSkeleton.jpg
+
+	ADD Why? Eliminate?
 
 ----------------------------------------------------------------------
 
@@ -311,11 +320,23 @@ Confusing the phylogeny
 
 ----------------------------------------------------------------------
 
+WIDEPIC webpix/hedgehogTenrec.jpg
+
+----------------------------------------------------------------------
+
+WIDEPIC webpix/babyHedgehog.jpg
+
+----------------------------------------------------------------------
+
 HIGHPIC hlw/22Phylo_images/image11.jpg
 
 ----------------------------------------------------------------------
 
 WIDEPIC webpix/icthy.png
+
+----------------------------------------------------------------------
+
+WIDEPIC webpix/dolphin.jpg
 
 ----------------------------------------------------------------------
 
@@ -328,6 +349,9 @@ Parsimony | F22.9
 	How do we address the problem of convergent evolution and analogy?
 
 		ANS Make use of many different characteristics, when possible
+
+			ANS Look at characteristics in detail (break them up into smaller
+			characteristics)
 
 		ANS It may also help to use many different taxa
 
@@ -442,7 +466,7 @@ PICSLIDE FIG webpix/georgiacetus.jpg
 
 ----------------------------------------------------------------------
 
-PICSLIDE FIG webpix/mammal_trees.png
+WIDEPIC webpix/mammal_trees.png
 
 ----------------------------------------------------------------------
 
@@ -504,7 +528,7 @@ Genetic vs.~morphological
 
 			ANS This can also be a problem with the genetic analysis
 
-		ANS Genetic analyses typically allow us to analyze more traits
+		ANS Genetic analyses typically allow us to analyze more traits!
 
 ----------------------------------------------------------------------
 
@@ -523,6 +547,10 @@ Phylogenetic trees are approximations!
 		approximations to the true history of life 
 		
 		Our guesses often change over time
+
+----------------------------------------------------------------------
+
+WIDEPIC hlw/22Phylo_images/image30.jpg
 
 ----------------------------------------------------------------------
 
