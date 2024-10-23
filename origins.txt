@@ -698,6 +698,10 @@ Teeth
 	REMARK Canadian research from 2018: insanely detailed study of dinosaur
 	teeth and wear marks
 
+	NOTES NEW: Link to Canadian dinosaur research
+
+		NOTES HLINK https://www.sciencedirect.com/science/article/pii/S0960982218303713
+
 ----------------------------------------------------------------------
 
 PIC FIG webpix/dog_teeth.jpg
