@@ -482,7 +482,7 @@ BC
 
 	Characterized by:
 
-		Walking upright (even more than apes) | F23.12
+		Walking upright (even more than \emph{other} apes) | F23.12
 
 		Specific changes in chewing design: teeth, jaws and skull
 

@@ -482,7 +482,7 @@ BC
 
 	Characterized by:
 
-		Walking upright (even more than apes) | F23.12
+		Walking upright (even more than \emph{other} apes) | F23.12
 
 		Specific changes in chewing design: teeth, jaws and skull
 
@@ -762,6 +762,9 @@ Sexual dimorphism
 
 			ANS More competition between males for females
 
+		ANS Sexual dimorphism can sometimes be seen or inferred from fossil
+		remains
+
 ----------------------------------------------------------------------
 
 WIDEPIC webpix/gorillas.jpg
@@ -865,4 +868,7 @@ FUNSLIDE Dobzhansky and Dushoff
 	“Nothing in biology makes sense, period.” ---
 	Dushoff, 2005
 
-	Biology is wild and wonderful; it's fun to do your best to make sense of it, but …
+	Biology is wild and wonderful; it's fun to do your best to make sense of it,
+	but …
+
+		it will always surprise you
