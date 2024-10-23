@@ -35,7 +35,7 @@ autopipeR = defined
 
 ######################################################################
 
-## HLW sucks, use notes.txt
+## HLW sucks, use notes.txt to annotate
 ## Not even finding time to engage with HLW ☹, 2024
 
 ######################################################################

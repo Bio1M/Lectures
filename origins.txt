@@ -762,8 +762,8 @@ Sexual dimorphism
 
 			ANS More competition between males for females
 
-		ANS Sexual dimorphism can sometimes be seen or inferred from fossil
-		remains
+		ANS Sexual dimorphism can sometimes be seen or inferred from
+		fossil remains 
 
 ----------------------------------------------------------------------
 
@@ -804,6 +804,8 @@ Human sexual competition
 
 		ANS Probably less sperm competition than chimpanzees (more stable
 		relationships)
+
+		ANS Unfortunately hard to track from fossils
 
 ----------------------------------------------------------------------
 
