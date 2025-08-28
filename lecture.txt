@@ -1,4 +1,7 @@
 
+
+----------------------------------------------------------------------
+
 Acquiring experiments
 
 Replication and randomization in something
