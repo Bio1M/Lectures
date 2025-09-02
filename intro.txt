@@ -21,14 +21,115 @@ EXTRA Future
 
 * A real experiment, maybe something from Quinn and shields
 	* Postponed for 2024, annotate things more clearly, see what you want to do and explain it
+	* out of time 2025 as well ☹
 
 ----------------------------------------------------------------------
 
-CHAPTER Course introduction
+CHAPTER Introduction
 
 ----------------------------------------------------------------------
 
-SEC Introduction | Chapter 1
+SEC Course Structure
+
+----------------------------------------------------------------------
+
+Course co-ordinator
+
+BC
+
+	\href{mailto:bio1m03@mcmaster.ca}{
+		Scott Hughes
+	}
+
+	BSB 201/A/C
+
+	\emph{All} general course questions
+
+		Textbook, missed work, scheduling, accommodation
+
+NC
+
+HIGHFIG slides/ppt/media/image3.png
+
+EC
+
+----------------------------------------------------------------------
+
+Ecology Prof
+
+BC
+
+	\href{mailto:kolasa@mcmaster.ca}{
+		Jurek Kolasa
+	}
+
+	Responsible for ecology-related lecture content only
+
+		Lectures and test questions
+
+NC
+
+CFIG slides/ppt/media/image7.png
+
+EC
+
+----------------------------------------------------------------------
+
+Evolution Prof
+
+BC
+
+	\href{mailto:dushoff@mcmaster.ca}{
+		Jonathan Dushoff
+	}
+
+	Responsible for ecology-related lecture content only
+
+		Lectures and test questions
+
+NC
+
+EC
+
+----------------------------------------------------------------------
+
+Lecture TA
+
+	\href{mailto:sanjas1@mcmaster.ca}{
+		Shashwati Sanjay
+	}
+
+	Responsible for assisting with \emph{all} lecture-related content
+
+		Will work with Professors
+
+----------------------------------------------------------------------
+
+Tutorial TAs
+
+	Responsible for tutorials
+
+	Will answer tutorial related questions on Teams
+
+	Odd-section tutorials (e.g., T03) begin the week of 8 Sep
+
+	Odd-section tutorials (e.g., T02) begin the week of 15 Sep
+
+----------------------------------------------------------------------
+
+Course resources
+
+	The main course website is
+	\href{https://avenue.cllmcmaster.ca/d2l/home/712498}
+	{Avenue}
+
+	We will also use Microsoft Teams, and Peerwise
+
+		You can find information about these on Avenue
+
+----------------------------------------------------------------------
+
+SEC JD Structure
 
 ----------------------------------------------------------------------
 
@@ -405,7 +506,7 @@ Logical equivalence
 
 ----------------------------------------------------------------------
 
-SEC The cell theory
+SEC The cell theory | Chapter 1
 
 ----------------------------------------------------------------------
 

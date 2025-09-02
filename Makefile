@@ -11,6 +11,17 @@ mirrors += my_images webpix drop
 
 ######################################################################
 
+Ignore += slides
+
+slides:
+	$(mkdir)
+slides/pptx.zip: drop/*.pptx | slides
+	$(copy)
+slides/ppt/media/: | slides/pptx.zip
+	cd slides && unzip pptx.zip
+
+######################################################################
+
 # Session
 
 vim_session:
@@ -114,7 +125,7 @@ Sources += copy.tex
 #####################################################################
 
 ## Content
-Sources += *.txt
+Sources += *.txt *.md
 
 ## To be brought up at various times or out of context
 ## Shouldn't need handouts
@@ -124,7 +135,7 @@ Sources += *.txt
 
 ### Look out for RSLIDE; ADD; CHANGE; EXTRA
 #### Introduction (P1)
-## intro.draft.pdf: intro.txt
+## intro.draft.pdf: intro.txt intro.md
 ## intro.final.pdf: intro.txt
 ## intro.handouts.pdf: intro.txt
 ## intro.complete.pdf: intro.txt
