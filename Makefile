@@ -33,8 +33,6 @@ pullup: web.pull
 Sources += Makefile poll.txt
 ## Sources += content.mk
 
-Sources += README.md LICENSE.md drop.md germ.md slides.md
-
 autopipeR = defined
 
 ######################################################################
@@ -342,7 +340,7 @@ mn.Rout: mn.R
 
 ######################################################################
 
-## What is images/ ??
+## Something called images/ maybe used to exist? 2025 Sep 01 (Mon)
 
 ## Pages
 
