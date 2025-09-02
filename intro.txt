@@ -49,7 +49,7 @@ BC
 
 NC
 
-HIGHFIG slides/ppt/media/image3.png
+PRESENT HIGHFIG slides/ppt/media/image3.png
 
 EC
 
@@ -128,6 +128,40 @@ Course resources
 		You can find information about these on Avenue
 
 ----------------------------------------------------------------------
+
+Textbook
+
+BC
+
+	Textbook is required
+
+		Used for Bio 1A as well
+
+	Electronic resources are not required
+
+		But some find them useful
+
+NC
+
+CFIG slides/ppt/media/image15.jpeg
+
+EC
+
+----------------------------------------------------------------------
+
+Resource room
+
+BC
+
+	A nice place to study, and meet other bio enthusiasts
+
+	Food and drink allowed (be considerate, keep it neat)
+
+NC
+
+CFIG my_images/resourceRoom.png
+
+EC
 
 SEC JD Structure
 
