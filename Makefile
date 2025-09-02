@@ -7,7 +7,7 @@ current: target
 
 ######################################################################
 
-mirrors += my_images webpix drop
+mirrors += drop
 
 ######################################################################
 
@@ -130,13 +130,21 @@ Sources += *.txt *.md
 ## To be brought up at various times or out of context
 ## Shouldn't need handouts
 
+### Look out for RSLIDE; ADD; CHANGE; EXTRA
+#### Introduction (P1)
+## structure.draft.pdf: structure.txt structure.md
+## structure.final.pdf: structure.txt
+## structure.handouts.pdf: structure.txt
+## structure.complete.pdf: structure.txt
+## structure.outline.pdf: structure.txt
+## structure.html: structure.step
+
 ## snippets.draft.pdf: snippets.txt
 ## snippets.final.pdf: snippets.txt
 
-### Look out for RSLIDE; ADD; CHANGE; EXTRA
 #### Introduction (P1)
 ## intro.draft.pdf: intro.txt intro.md
-## intro.final.pdf: intro.txt
+## intro.final.pdf: intro.txt intro.draft.tex
 ## intro.handouts.pdf: intro.txt
 ## intro.complete.pdf: intro.txt
 ## intro.outline.pdf: intro.txt
