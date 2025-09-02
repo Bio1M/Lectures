@@ -20,6 +20,8 @@ slides/pptx.zip: drop/*.pptx | slides
 slides/ppt/media/: | slides/pptx.zip
 	cd slides && unzip pptx.zip
 
+slides/ppt/media/%: | slides/ppt/media/ ;
+
 ######################################################################
 
 # Session
