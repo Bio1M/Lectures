@@ -7,6 +7,20 @@ SEC Course Structure
 
 ----------------------------------------------------------------------
 
+Course resources
+
+	The main course website is \href{
+		https://avenue.cllmcmaster.ca/d2l/home/712498
+	}{Avenue}
+
+	We will also use Microsoft Teams, and Peerwise
+
+		You can find information about these on Avenue
+
+		And we will post reminders and updates there
+
+----------------------------------------------------------------------
+
 Course co-ordinator
 
 BC
@@ -57,7 +71,7 @@ BC
 		Jonathan Dushoff
 	}
 
-	Responsible for ecology-related lecture content only
+	Responsible for evolution-related lecture content only
 
 		Lectures and test questions
 
@@ -147,10 +161,6 @@ SEC JD Structure
 
 ----------------------------------------------------------------------
 
-SS Ground rules
-
-----------------------------------------------------------------------
-
 Expectations of professor
 
 	Start and end on time
@@ -162,7 +172,7 @@ Expectations of professor
 	Open to questions -- both in class (within reason) and at office
 	hours
 
-	Available by email and on discussion forums
+	Available by email or via Teams
 
 ----------------------------------------------------------------------
 
