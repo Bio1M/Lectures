@@ -39,6 +39,8 @@ autopipeR = defined
 
 ######################################################################
 
+## latexEngine = xelatex
+
 ## Web links
 ## https://avenue.cllmcmaster.ca/d2l/le/content/631227/viewContent/4736964/View
 # https://achieve.macmillanlearning.com/courses/g3zdfj/mycourse#
