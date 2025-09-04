@@ -323,3 +323,17 @@ EXTRA Polling
 
 ----------------------------------------------------------------------
 
+Google logic
+
+BC
+
+CFIG my_images/google25.png
+
+NC
+
+	Simple things should be easy for computer programs
+
+	But it depends on the goals and history of the computer program
+EC
+----------------------------------------------------------------------
+
