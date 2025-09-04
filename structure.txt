@@ -77,7 +77,7 @@ BC
 
 NC
 
-	???
+	PRESENT ???
 
 EC
 
@@ -334,6 +334,8 @@ NC
 	Simple things should be easy for computer programs
 
 	But it depends on the goals and history of the computer program
+
 EC
+
 ----------------------------------------------------------------------
 
