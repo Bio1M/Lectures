@@ -3,6 +3,8 @@
 
 Intro: 2
 
+L1 End after intro S1
+
 ----------------------------------------------------------------------
 
 Acquiring experiments
