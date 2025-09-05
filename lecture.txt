@@ -1,7 +1,7 @@
 
 2025 has 17 Lectures
 
-Intro: 2
+Structure/Intro: 2
 
 L1 End after intro S1
 

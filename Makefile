@@ -7,7 +7,7 @@ current: target
 
 ######################################################################
 
-mirrors += my_images webpix drop
+mirrors += drop
 
 ######################################################################
 
@@ -19,6 +19,8 @@ slides/pptx.zip: drop/*.pptx | slides
 	$(copy)
 slides/ppt/media/: | slides/pptx.zip
 	cd slides && unzip pptx.zip
+
+slides/ppt/media/%: | slides/ppt/media/ ;
 
 ######################################################################
 
@@ -36,6 +38,8 @@ Sources += Makefile poll.txt
 autopipeR = defined
 
 ######################################################################
+
+## latexEngine = xelatex
 
 ## Web links
 ## https://avenue.cllmcmaster.ca/d2l/le/content/631227/viewContent/4736964/View
@@ -128,13 +132,21 @@ Sources += *.txt *.md
 ## To be brought up at various times or out of context
 ## Shouldn't need handouts
 
+### Look out for RSLIDE; ADD; CHANGE; EXTRA
+#### Introduction (P1)
+## structure.draft.pdf: structure.txt structure.md
+## structure.final.pdf: structure.txt
+## structure.handouts.pdf: structure.txt
+## structure.complete.pdf: structure.txt
+## structure.outline.pdf: structure.txt
+## structure.html: structure.step
+
 ## snippets.draft.pdf: snippets.txt
 ## snippets.final.pdf: snippets.txt
 
-### Look out for RSLIDE; ADD; CHANGE; EXTRA
 #### Introduction (P1)
 ## intro.draft.pdf: intro.txt intro.md
-## intro.final.pdf: intro.txt
+## intro.final.pdf: intro.txt intro.draft.tex
 ## intro.handouts.pdf: intro.txt
 ## intro.complete.pdf: intro.txt
 ## intro.outline.pdf: intro.txt
@@ -390,7 +402,7 @@ Sources += Makefile
 Ignore += makestuff
 msrepo = https://github.com/dushoff
 
-Makefile: makestuff/03.stamp
+Makefile: makestuff/04.stamp
 makestuff/%.stamp:
 	- $(RM) makestuff/*.stamp
 	(cd makestuff && $(MAKE) pull) || git clone --depth 1 $(msrepo)/makestuff
