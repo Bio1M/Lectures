@@ -15,7 +15,11 @@ Add results to mouse-tail experiments (maybe get some real or fake data).
 
 EXTRA Readings
 
-Please prepare the natural selection handouts for Friday's class. The main readings are Sec 1.4 and Sec 20.4 from your book. Other readings are indicated in the handouts. These readings are complementary to the lecture material. You are encouraged to do them soon, but there is no specific time frame.
+make ns.readings.TXT to check
+
+Please prepare the natural selection handouts for your next lecture. The main readings are Sec 1.4 and Sec 20.4 from your book. Other readings are indicated in the handouts. These readings are complementary to the lecture material. You are encouraged to do them soon, but there is no specific time frame.
+
+You will also want to study Figs 22.22, 20.8, 1.17, and 13.8, and the associated text, and look at the cited wikipedia articles.
 
 ----------------------------------------------------------------------
 
@@ -183,7 +187,9 @@ PSLIDE Sociable fruit flies:
 
 WIDEFIG webpix/socialFlies.jpg
 
-	Flies selected to hang out with each other or not
+	Flies selected based on how much they hang out with other flies
+
+		High lineage and low lineage
 
 	Research from McMaster! (Dukas, Dworkin)
 
@@ -246,10 +252,12 @@ Homology
 
 	A [homology] is a similarity that is due to common ancestry
 
-		Similarities _apparently_ due to homology are widespread.  This is a
+		Similarities apparently due to homology are widespread.  This is a
 		strength of the theory of evolution.
 
-	REMARK Foreshadow: we will circle back to why I said apparently
+	Why did I say “apparently”?
+
+		NOANS
 
 ----------------------------------------------------------------------
 
@@ -284,6 +292,8 @@ NC
 		Embryos of all vertebrates show striking similarities
 
 EC
+
+ADD What is Rind??
 
 ----------------------------------------------------------------------
 
@@ -465,6 +475,10 @@ Other models
 
 		Goal-directed evolution
 
+	Evaluating competing hypotheses
+
+		We challenge hypotheses with experiments and observation
+
 ----------------------------------------------------------------------
 
 Inheritance of acquired characteristics
@@ -491,25 +505,6 @@ Inheritance of acquired characteristics
 
 ----------------------------------------------------------------------
 
-Goal-directed evolution
-
-	This is the idea that organisms evolve towards specific goals
-
-		Complex, multicellular organisms
-
-		Big-brained humans
-
-	If the organism is moving toward a goal, it should move more or less
-	in that direction all the time
-
-----------------------------------------------------------------------
-
-Evaluating competing hypotheses
-
-	We challenge hypotheses with experiments and observation
-
-----------------------------------------------------------------------
-
 Inheritance of acquired characteristics
 
 	Raise a population of mice in the lab
@@ -529,6 +524,8 @@ Inheritance of acquired characteristics
 			ANS Or three ``choppy'' and three ``stretchy'' populations
 
 			ANS Randomize which groups get which treatment
+
+	Experiments like this generally do not lead to evolution
 
 ----------------------------------------------------------------------
 
@@ -552,9 +549,26 @@ Activity
 
 			ANS Control, shortening, lengthening
 
+		Experiments like this generally lead to evolution
+
 ----------------------------------------------------------------------
 
 Goal-directed evolution
+
+	This is the idea that organisms evolve towards specific goals
+
+		Complex, multicellular organisms
+
+		Big-brained humans
+
+	If the organism is moving toward a goal, it should move more or less
+	in that direction all the time
+
+----------------------------------------------------------------------
+
+Goal-directed evolution
+
+	Harder to test experimentally
 
 	There is a great deal of observational evidence against
 	goal-directed evolution:
@@ -568,6 +582,32 @@ Goal-directed evolution
 			Birds gain, then lose, flying ability
 
 			Some organisms gain complexity and then _lose_ it again
+
+	The fact that natural selection works so well also argues against
+	goal-directed evolution
+
+----------------------------------------------------------------------
+
+EXTRA Testing theories
+
+I didn't used to say enough about the empirical basis, but now I've added final ss. above that I hope will cover it.
+
+	There is nothing logically wrong with inheritance of acquired characteristics
+
+	Experiments based on inheriting acquired characteristics generally don't
+	lead to evolution
+
+	Experiments based on selection generally do lead to evolution
+
+	Notice that I said generally
+
+		There are a lot of complications, and people spend a lot of time
+		reasoning through them
+
+		And doing follow-up experiments
+
+	We are confident based on experiments and observation that most evolution
+	happened and happens through natural selection
 
 ----------------------------------------------------------------------
 

@@ -162,6 +162,7 @@ Sources += *.txt *.md
 ## ns.handouts.pdf: ns.txt
 ## ns.complete.pdf: ns.txt
 ## ns.outline.pdf: ns.txt
+## ns.readings.TXT: ns.txt readings.pl
 
 #### Evolutionary processes (P25 ⇒ P23)
 ## processes.draft.pdf: processes.txt
