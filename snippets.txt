@@ -17,6 +17,16 @@ Logical equivalence
 
 ----------------------------------------------------------------------
 
+More logic
+
+	Whatever doesn't kill you makes you stronger
+
+	If we take this literally, then: Whatever doesn't make you stronger \ldots
+
+		ANS kills you
+
+----------------------------------------------------------------------
+
 Assignment: Car Trouble
 
 	A brother calls his sister because something is wrong with his car
@@ -54,3 +64,4 @@ FUNSLIDE Car Trouble
 
 		ANS It works almost normally if both follow their driving instincts
 
+		ANS Dushoff is not qualified to give driving advice

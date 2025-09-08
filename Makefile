@@ -155,6 +155,7 @@ Sources += *.txt *.md
 ## intro.outline.pdf: intro.txt
 ## intro.html: intro.step
 
+## Some announcement boilerplate
 ## complete.md
 
 ## readings.txt has draft text for sharing about how the readings work
