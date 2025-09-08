@@ -42,9 +42,12 @@ autopipeR = defined
 ## latexEngine = xelatex
 
 ## Web links
-## https://avenue.cllmcmaster.ca/d2l/le/content/631227/viewContent/4736964/View
+
+## https://avenue.cllmcmaster.ca/d2l/home/712498
+## https://avenue.cllmcmaster.ca/d2l/le/content/712498/Home
+## https://avenue.cllmcmaster.ca/d2l/home/631227
+
 # https://achieve.macmillanlearning.com/courses/g3zdfj/mycourse#
-# https://teams.microsoft.com/_#/school/conversations/Lecture%20Content%20Questions?threadId=19:03abfa4d79324a05ab7a6df639a2f085@thread.tacv2&ctx=channel
 
 ######################################################################
 
@@ -151,6 +154,8 @@ Sources += *.txt *.md
 ## intro.complete.pdf: intro.txt
 ## intro.outline.pdf: intro.txt
 ## intro.html: intro.step
+
+## complete.md
 
 ## readings.txt has draft text for sharing about how the readings work
 ## See also…
