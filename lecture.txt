@@ -9,9 +9,15 @@ L2 Just a tiny bit rushed
 
 ## NS: 3?
 
+<<<<<<< HEAD
 L1
 * afternoon made it to NS syllogism slides
 * morning got a bit stuck on religion; just starting with homology
+=======
+L1: End on (short version) slide
+* midday behind
+L2: End on IAC (s37)
+>>>>>>> 753a4b9dbd2def1a4241995401da7ec944c3b79b
 
 ## Processes: 3?
 
