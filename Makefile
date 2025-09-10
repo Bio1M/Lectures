@@ -46,6 +46,7 @@ autopipeR = defined
 ## https://avenue.cllmcmaster.ca/d2l/home/712498
 ## https://avenue.cllmcmaster.ca/d2l/le/content/712498/Home
 ## https://avenue.cllmcmaster.ca/d2l/home/631227
+## https://avenue.cllmcmaster.ca/d2l/lms/news/main.d2l?ou=631227
 
 # https://achieve.macmillanlearning.com/courses/g3zdfj/mycourse#
 
