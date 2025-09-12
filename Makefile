@@ -177,6 +177,7 @@ Sources += *.txt *.md
 ## processes.handouts.pdf: processes.txt
 ## processes.complete.pdf: processes.txt
 ## processes.outline.pdf: processes.txt
+## processes.readings.TXT: processes.txt
 
 Ignore += punnett.jpg
 punnett.jpg: hlw/20Evol_images/image08.jpg
