@@ -164,7 +164,7 @@ Sources += *.txt *.md
 ## intro.readings.TXT: intro.txt readings.pl
 
 #### Natural selection (P24 => P22)
-## ns.draft.pdf: ns.txt
+## ns.draft.pdf: ns.txt ns.md
 ## ns.final.pdf: ns.txt
 ## ns.handouts.pdf: ns.txt
 ## ns.complete.pdf: ns.txt
@@ -177,6 +177,7 @@ Sources += *.txt *.md
 ## processes.handouts.pdf: processes.txt
 ## processes.complete.pdf: processes.txt
 ## processes.outline.pdf: processes.txt
+## processes.readings.TXT: processes.txt
 
 Ignore += punnett.jpg
 punnett.jpg: hlw/20Evol_images/image08.jpg

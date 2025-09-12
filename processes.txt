@@ -342,7 +342,9 @@ Hardy-Weinberg equilibrium
 
 	_DO_ these assumptions hold exactly?
 
-		No!
+		ANS No! Never.
+
+		COMMENT Beware of anyone who tells you a population is in HW equilibrium
 
 ----------------------------------------------------------------------
 
@@ -364,14 +366,20 @@ Differences from equilibrium
 
 ----------------------------------------------------------------------
 
+EXTRA MN template
+
+https://docs.google.com/spreadsheets/d/1g1Yzbe0RwOY-fxEmRk2BCpXElRte_pbcnWa51FBLJks/edit?gid=0#gid=0
+
+----------------------------------------------------------------------
+
 Example: Human blood groups
 
 	MN blood groups in different human populations are very close to
 	Hardy-Weinberg equilibrium 
 
-		NOTES \url{https://tinyurl.com/MN-morning-2024}
+		NOTES \url{https://tinyurl.com/MN-lunch-2025}
 
-		NOTES \url{https://tinyurl.com/MN-afternoon-2024}
+		NOTES \url{https://tinyurl.com/MN-evening-2025}
 
 		No evidence for non-random mating, or for fitness differences.
 
@@ -402,7 +410,10 @@ Activity: Human blood groups at the global level
 
 		ANS Mostly because mating is not random
 
-		ANS These data are telling us different (reasonable) stories at different
+		ANS E.g., People in Greenland are more likely to have M, and more likely
+		to mate with other people in Greenland
+
+		ANS These data are telling us different, reasonable stories at different
 		scales
 
 ----------------------------------------------------------------------
@@ -415,7 +426,7 @@ NOTES Table from Markow et al., Am. J. Hum. Genet. 53:943-952, 1993
 
 ----------------------------------------------------------------------
 
-CONT Example: Human HLA genes
+Example: Human HLA genes
 
 	HLA genes are used by the immune system to recognize disease-causing
 	organisms
@@ -425,6 +436,12 @@ CONT Example: Human HLA genes
 
 	Data shows that more people are heterozygous for HLA genes than
 	would be expected under the Hardy-Weinberg assumption
+
+----------------------------------------------------------------------
+
+HIGHPIC my_images/HLAt3.png
+
+NOTES Table from Markow et al., Am. J. Hum. Genet. 53:943-952, 1993
 
 ----------------------------------------------------------------------
 
@@ -446,6 +463,27 @@ Heterozygous HLA genes
 		types
 
 			ANS Maybe _evolved_ this way because of reasons above
+
+----------------------------------------------------------------------
+
+Statistical philosophy
+
+	COMMENT Your biological null model is _false_!
+
+	COMMENT The purpose of a null model is to see if you can tell _how_ reality
+	differs from it
+
+		COMMENT and how confident you are
+
+	Hardy-Weinberg is mostly interesting because we can sometimes say
+
+		ANS We have more (or less) homozygotes than expected
+
+	... and then ask why
+
+	COMMENT The effect is never “significant” or “non-significant”!
+
+		COMMENT Those words apply to the evidence
 
 ----------------------------------------------------------------------
 
@@ -528,12 +566,13 @@ Connections between selection types
 
 		ANS Human brains
 
-		ANS Almost everything we see
+		ANS Almost everything
 
-			ANS Things often develop by directional selection, but at any given
-			time, most of what we see is under stabilizing selection
+			ANS Interesting things we see mostly developed under natural selection
 
-			ANS Because most organisms are highly adapted
+			ANS Mostly under stabilizing selection now
+
+			ANS Most organisms are highly adapted most of the time
 
 ----------------------------------------------------------------------
 
