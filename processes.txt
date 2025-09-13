@@ -129,6 +129,8 @@ Example: peppered moths
 
 		Individuals with $A_1	A_2$ _genotype_ ???
 
+			ANS Dark
+
 	If individuals with genotype $XY$ have the same phenotype (on
 	average) as those with $XX$, we say that $X$ is a [dominant] allele
 	and $Y$ is a [recessive] allele.  
