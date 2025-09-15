@@ -428,7 +428,7 @@ Activity: Human blood groups at the global level
 
 Example: Human HLA genes
 
-PIC HIGHFIG my_images/HLAt3.png
+PIC FRAMEFIG my_images/HLAt3.png
 
 NOTES Table from Markow et al., Am. J. Hum. Genet. 53:943-952, 1993
 
