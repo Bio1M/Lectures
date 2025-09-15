@@ -1,3 +1,11 @@
+
+EXTRA Readings
+
+make processes.readings.TXT to check
+
+Please prepare the evolutionary processes handouts for your next lecture. The main readings are Sec 20.2 and 20.3. You are also encouraged to review Sec 20.4, which was assigned last week, and read Sec 20.5.  Other readings mentioned in the handouts include F20.7, F20.8, F20.9, F20.13, and F20.14
+
+----------------------------------------------------------------------
  
 EXTRA
 
@@ -120,6 +128,8 @@ Example: peppered moths
 		_phenotype_.
 
 		Individuals with $A_1	A_2$ _genotype_ ???
+
+			ANS Dark
 
 	If individuals with genotype $XY$ have the same phenotype (on
 	average) as those with $XX$, we say that $X$ is a [dominant] allele
