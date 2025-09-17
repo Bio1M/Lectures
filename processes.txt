@@ -412,7 +412,7 @@ Activity: Human blood groups at the global level
 
 	What did we find? | What did we find? More homozygotes; near expectation; fewer homozygotes
 
-		ANS More homozygotes
+		ANS More homozygotes observed than expected
 
 	POLL Why?
 
