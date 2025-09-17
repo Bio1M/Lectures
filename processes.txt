@@ -460,6 +460,8 @@ Heterozygous HLA genes
 
 		ANS Heterozygous people might be more likely to survive
 
+			ANS But probably not in this population
+
 		ANS Heterozygous people may have more offspring
 
 			ANS Effects of this one are more complicated
