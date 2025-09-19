@@ -113,6 +113,8 @@ Pre- vs.~post-zygotic mechanisms
 
 			ANS This is presumably why horses rarely mate with donkeys
 
+			ANS Post-zygotic $\implies$ pre-zygotic
+
 ----------------------------------------------------------------------
 
 Disadvantages of the biological species concept
@@ -220,7 +222,7 @@ Book's version of Phylogenetic species concept
 
 	COMMENT Science is not really about trust
 
-	REMARK Meaning, don't trust the book or me or anybody too much
+		COMMENT Meaning, don't trust the book, or me, or anybody too much
 
 ----------------------------------------------------------------------
 
