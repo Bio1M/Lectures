@@ -1,6 +1,4 @@
 
-軍棋
-
 2025 has 17 Lectures
 
 ## Structure/Intro: 2
@@ -34,6 +32,7 @@ L2: Two big exercises
 
 L3:
 * midday Small populations s56
+* evening seedcracker blue s47
 
 ## Speciation: 3?
 

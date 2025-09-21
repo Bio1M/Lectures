@@ -128,7 +128,9 @@ Disadvantages of the biological species concept
 		ANS What if two populations rarely come into contact because of
 		geographic distance?
 
-	COMMENT Rings of populations
+	COMMENT Rings of populations (see wikipedia “Ring species”)
+
+	COMMENT Changes through time are gradual
 
 ----------------------------------------------------------------------
 
