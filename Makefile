@@ -191,13 +191,14 @@ sickle.jpg: webpix/sickle.jpg
 	convert -flop $< $@
 
 #### Speciation (P26 ⇒ P24)
-# speciation.2nd: speciation.txt
-speciation.draft.pdf: speciation.txt
-speciation.final.pdf: speciation.txt
-speciation.handouts.pdf: speciation.txt
-speciation.complete.pdf: speciation.txt
-speciation.outline.pdf: speciation.txt
-Sources += speciation.links
+# speciation.2nd: speciation.txt 
+# speciation.draft.pdf: speciation.txt
+# speciation.final.pdf: speciation.txt
+# speciation.handouts.pdf: speciation.txt
+# speciation.complete.pdf: speciation.txt
+# speciation.outline.pdf: speciation.txt
+# speciation.readings.TXT: speciation.txt
+# Sources += speciation.links
 
 ## Very little seems testable beyond section 1!
 #### Phylogeny and the history of life (P27 ⇒ P25 ⇒ H23?)
@@ -347,7 +348,7 @@ breaknotes.txt: origins.txt
 
 ######################################################################
 
-## Obsolete?
+## Obsolete!
 
 ## Add second edition marker (too geeky!)
 Sources += 2nd.pl

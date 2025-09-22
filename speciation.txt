@@ -4,9 +4,12 @@ EXTRA
 https://www.jstor.org.libaccess.lib.mcmaster.ca/stable/3084434
 * African elephant phylogeny, maybe just use pix of forest and savannah elephants
 
+Right now, I'm using pictures of the wrong elephants (India vs Sri Lanka, I think)
+
 Think about webs of life
 
-Co-speciation?
+Co-speciation? Like host-parasite
+
 
 ----------------------------------------------------------------------
 
@@ -310,7 +313,7 @@ Defining species
 		Not about whether there are 10, or about whether rhinoceroses are part
 		of the same species.
 
-			COMMENT Why is this a really bad example?
+			COMMENT Elephants and rhinos are a bad example
 
 			COMMENT Elephants have no close relatives, and definitely not hippos
 			or rhinos
@@ -343,7 +346,7 @@ How do species split?
 		diverge
 
 		ANS There is often a loop: isolation allows divergence,
-		which can cause natural selection for more isolation
+		which can cause natural selection for more isolation, and so on
 
 ----------------------------------------------------------------------
 
@@ -379,10 +382,12 @@ TSS Dispersal
 
 Peripatric speciation 
 
-	Populations on small islands are likely to be founded later, by small
-	groups, and to have smaller populations
+	Populations in more “peripheral” places may diverge faster, or more overall
 
-		ANS more opportunity for genetic drift
+	Populations on small islands (or other isolated places) are likely to be
+	founded later, by small groups, and to have smaller populations
+
+		ANS more opportunity for genetic drift and founder effects
 
 	Islands may also have different biological or physical environments
 
@@ -390,11 +395,15 @@ Peripatric speciation
 
 		ANS more opportunity for natural selection
 
-ADD Fill in main point
+	More peripheral places are likely to be poorly connected
+
+		ANS Less opportunity for gene flow to hold populations together
 
 ----------------------------------------------------------------------
 
-PICSLIDE WIDEFIG hlw/21Spec_images/image16.jpg
+PSLIDE Kingfishers 
+
+WIDEFIG hlw/21Spec_images/image16.jpg
 
 ----------------------------------------------------------------------
 
@@ -760,6 +769,9 @@ Hybrid zones
 
 		What if species B has hybrid zones with A and C but A and C don't mate in
 		nature?
+
+		COMMENT Reminiscent of species rings and other complications we won't
+		deal with here
 
 ----------------------------------------------------------------------
 
