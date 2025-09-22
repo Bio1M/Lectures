@@ -193,8 +193,6 @@ sickle.jpg: webpix/sickle.jpg
 #### Speciation (P26 ⇒ P24)
 ## speciation.conflicted.txt ## Lost some work on a Friday (how????); look at this in 2026
 # speciation.draft.pdf: speciation.txt
-# speciation.txt.81a4aa2.oldfile
-# speciation.txt.oldpick
 # speciation.final.pdf: speciation.txt
 # speciation.handouts.pdf: speciation.txt
 # speciation.complete.pdf: speciation.txt
