@@ -132,48 +132,6 @@ Disadvantages of the biological species concept
 
 ----------------------------------------------------------------------
 
-TSS Morphological species concept
-
-	Morphological species are defined to be 
-	different if they [look] different
-
-		ANS \ldots\ to experts who spend a lot of time thinking about which
-		differences can be relied on
-
-		Useful for working with fossils, or very diverse groups (e.g.,
-		insects)
-
-		A lot of expertise and experience guides morphological species decisions
-
-	Disadvantages?
-
-		ANS Subjective, prone to disagreements
-
-		ANS There are groups that look very similar but can't produce viable
-		offspring
-
-		ANS Males and females, different life stages, or specific phenotypes
-		might look very different, but be part of the same population
-
-		ANS Not clear how definition relates to our conceptual definition of
-		evolutionary units
-
-----------------------------------------------------------------------
-
-PRESLIDE Meadowlarks
-
-BCC
-
-CFIG webpix/western_meadowlark.jpg
-
-NCC
-
-CFIG webpix/eastern_meadowlark.jpg
-
-EC
-
-----------------------------------------------------------------------
-
 TSS Ecological species concept
 
 	An ecological species is a set of related organisms occupying the same
@@ -190,6 +148,8 @@ TSS Ecological species concept
 		ANS Bacteria, archaea
 
 ----------------------------------------------------------------------
+
+
 
 TSS Phylogenetic species concept
 
@@ -241,6 +201,65 @@ Phylogenetic species concept
 		Requires a lot of information about populations
 
 ----------------------------------------------------------------------
+
+TSS Morphological species concept
+
+	Morphological species are defined to be 
+	different if they [look] different
+
+		ANS \ldots\ to experts who spend a lot of time thinking about which
+		differences can be relied on
+
+		Useful for working with fossils, or very diverse groups (e.g.,
+		insects)
+
+		A lot of expertise and experience guides morphological species decisions
+
+	Disadvantages?
+
+		ANS Subjective, prone to disagreements
+
+		ANS There are groups that look very similar but can't produce viable
+		offspring
+
+		ANS Males and females, different life stages, or specific phenotypes
+		might look very different, but be part of the same population
+
+		ANS Not clear how definition relates to our conceptual definition of
+		evolutionary units
+
+----------------------------------------------------------------------
+
+PRESLIDE Meadowlarks
+
+BCC
+
+CFIG webpix/western_meadowlark.jpg
+
+NCC
+
+CFIG webpix/eastern_meadowlark.jpg
+
+EC
+
+----------------------------------------------------------------------
+
+Genotypic cluster species concept
+
+	Similar to morphospecies:
+
+		What do the individuals “look like” -- if you look at their genes rather
+		than their appearance
+
+	It's hoped the genotypes will form distinct clusters which can be labeled as
+	species
+
+	Like the morphospecies concept, it is useful and guided by expertise
+
+		But does not always match other definitions
+
+----------------------------------------------------------------------
+
 
 Applications
 
