@@ -1,4 +1,25 @@
 
+This was added, and there was also some re-arrangement done. No clear point at looking at most of the file below.
+
+> 
+> Genotypic cluster species concept
+> 
+> 	Similar to morphospecies:
+> 
+> 		What do the individuals “look like” -- if you look at their genes rather
+> 		than their appearance
+> 
+> 	It's hoped the genotypes will form distinct clusters which can be labeled as
+> 	species
+> 
+> 	Like the morphospecies concept, it is useful and guided by expertise
+> 
+> 		But does not always match other definitions
+> 
+> 
+
+----------------------------------------------------------------------
+
 EXTRA
 
 https://www.jstor.org.libaccess.lib.mcmaster.ca/stable/3084434
