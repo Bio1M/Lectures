@@ -34,6 +34,10 @@ L3:
 * midday Small populations s56
 * evening seedcracker blue s47
 
+L4: and still not finished! This is looking like a problem
+* evening still pukeko exercise
+* midday just finished exercise
+
 ## Speciation: 3?
 
 ## Phylogeny:3?
