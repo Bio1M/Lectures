@@ -1041,6 +1041,12 @@ Pukeko analysis
 		ANS Try to compensate and make treatment and control as similar as
 		possible
 
+		ANS Key is to have a sharply controlled contrast between two or more
+		groups
+
+			ANS Groups can “control” for each other, we don't always need one
+			called the “control group”
+
 ----------------------------------------------------------------------
 
 Why the males?
