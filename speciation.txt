@@ -227,7 +227,7 @@ Book's version of Phylogenetic species concept
 
 	COMMENT Science is not really about trust
 
-		COMMENT Meaning, don't trust the book, or me, or anybody too much
+		COMMENT Meaning, don't trust the book, or me, or anybody, too much
 
 ----------------------------------------------------------------------
 
@@ -290,10 +290,13 @@ Limitations
 
 		immune genes might group species that we don't want to group
 
+			COMMENT Humans, chimpanzees and bonobos might be one phylogenetic
+			species for some genes!
+
 		male- or female-linked genes might give different answers than other genes
 
-			COMMENT If we focus on mitochondria, then maybe you and your cousins
-			are a species
+			COMMENT If we focus on mitochondria, then you and your cousins
+			could look like a species
 
 	Answer also depends on how you define populations
 

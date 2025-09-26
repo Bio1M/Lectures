@@ -17,7 +17,7 @@ L2:
 * evening, still a bit ahead (figure this out)
 Lω:
 
-## Processes: 3?
+## Processes: 4.5 (four full plus _two_ ends sticking out)
 Started on Friday (call this L0)
 * midday finished intro material only
 * evening, disrupted a bit, barely got started
@@ -39,6 +39,9 @@ L4: and still not finished! This is looking like a problem
 * midday just finished exercise
 
 ## Speciation: 3?
+
+L0:
+* midday ecological species concept
 
 ## Phylogeny:3?
 
