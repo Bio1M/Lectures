@@ -54,7 +54,7 @@ Monophyletic group
 
 	Monophyletic groups can also be called [clades] or [taxa].
 
-	As biologists, we should try to think in terms of clades
+	Biologists try to understand evolution by organizing organisms into clades
 
 		Are winged tetrapods a clade?
 
@@ -148,6 +148,9 @@ Order of species
 
 		ANS By looking for their common ancestor
 
+	COMMENT Other kinds of information can be encoded in some trees, but this
+	course will follow this paradigm
+
 
 ----------------------------------------------------------------------
 
@@ -158,7 +161,6 @@ HIGHPIC hlw/22Phylo_images/image05.jpg
 HIGHPIC webpix/primate_tree.png
 
 ----------------------------------------------------------------------
-
 
 TSS Constructing phylogenetic trees | S22.2
 
