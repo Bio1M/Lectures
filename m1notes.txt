@@ -8,6 +8,7 @@ ADD 22.24? or not (time line of mammals and sauropsids)
 Trees vs.~webs
 * Bubby and Zayda, etc.
 
+https://en.wikipedia.org/wiki/Two-domain_system
 
 ----------------------------------------------------------------------
 
@@ -217,16 +218,18 @@ Phenetic vs. cladistic analysis
 
 		ANS When we don't have enough baseline information
 
-		COMMENT The book talks about trusting the molecular clock, but this is
-		complicated and there are still no _advantages_
+		ANS Book: When evolutionary rates are constant, phenetic approaches 
+		give the right answer
 
-		ADD Read before presenting
+			ANS This is a perspective on how much to trust them, not an advantage
 
 ----------------------------------------------------------------------
 
+EXTRA
+
 WIDEPIC webpix/turtleSkeleton.jpg
 
-	ADD Why? Eliminate?
+ADD I don't remember why I had this. Something about uninformative differences?
 
 ----------------------------------------------------------------------
 

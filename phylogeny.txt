@@ -8,6 +8,7 @@ ADD 22.24? or not (time line of mammals and sauropsids)
 Trees vs.~webs
 * Bubby and Zayda, etc.
 
+https://en.wikipedia.org/wiki/Two-domain_system
 
 ----------------------------------------------------------------------
 
@@ -217,16 +218,18 @@ Phenetic vs. cladistic analysis
 
 		ANS When we don't have enough baseline information
 
-		COMMENT The book talks about trusting the molecular clock, but this is
-		complicated and there are still no _advantages_
+		ANS Book: When evolutionary rates are constant, phenetic approaches 
+		give the right answer
 
-		ADD Read before presenting
+			ANS This is a perspective on how much to trust them, not an advantage
 
 ----------------------------------------------------------------------
 
+EXTRA
+
 WIDEPIC webpix/turtleSkeleton.jpg
 
-	ADD Why? Eliminate?
+ADD I don't remember why I had this. Something about uninformative differences?
 
 ----------------------------------------------------------------------
 
@@ -710,7 +713,10 @@ TSS The fossil record | F22.14
 		Permineralized fossils occur if minerals infiltrate cells as
 		they are decomposing
 
-	COMMENT Does any of this seem likely?
+		Trace fossils show imprints where organisms may have passed (like
+		footprints)
+
+	People have found an amazing range of fossils
 
 ----------------------------------------------------------------------
 
@@ -765,12 +771,6 @@ Accounting for biases
 
 ----------------------------------------------------------------------
 
-EXTRA
-
-	http://www.nature.com.libaccess.lib.mcmaster.ca/news/2007/070829/full/news070827-4.html
-
-----------------------------------------------------------------------
-
 PICSLIDE WIDEFIG jdpix/bee.jpg
 
 ----------------------------------------------------------------------
@@ -781,8 +781,9 @@ PICSLIDE WIDEFIG jdpix/pollen.jpg
 
 TSS Putting the timeline together | F22.21
 
-	Dates of specimens can be inferred using radioactive isotopes (harder than
-	it sounds)
+	Dates of specimens can be inferred using radioactive isotopes
+
+		Information from different isotopes can be combined
 
 	Geologic inferences can be made about the relative age of
 	different things (for example, if one was deposited on top of
