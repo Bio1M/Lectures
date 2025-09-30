@@ -681,6 +681,21 @@ EC
 
 ----------------------------------------------------------------------
 
+The base of the tree is not a tree
+
+	Eukaryotes are an ancient [endosymbiosis] between bacteria and archaea
+
+		One of your archaeal ancestors swallowed a bacteria that became a
+		mitochondrion
+
+	Endosymbiosis is when one organism lives co-operatively inside another
+
+		COMMENT Do mitochondria still count as organisms?
+
+	There are many other ancient endosymbioses around the tree of life
+
+----------------------------------------------------------------------
+
 TSS The fossil record | F22.14
 
 	A [fossil] is a physical trace of an organism from the past
@@ -907,6 +922,8 @@ TSS Mass extinctions
 
 		Many scientists believe that we are likely to cause a geologically
 		significant mass extinction
+
+		or already doing so
 
 ----------------------------------------------------------------------
 
