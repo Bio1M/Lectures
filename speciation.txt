@@ -816,6 +816,10 @@ EC
 
 ----------------------------------------------------------------------
 
+PICSLIDE HFIG 0.8 my_images/warblerRange.png
+
+----------------------------------------------------------------------
+
 Modern humans
 
 	Modern humans spread through the world and out-competed earlier human
