@@ -8,7 +8,6 @@ ADD 22.24? or not (time line of mammals and sauropsids)
 Trees vs.~webs
 * Bubby and Zayda, etc.
 
-https://en.wikipedia.org/wiki/Two-domain_system
 
 ----------------------------------------------------------------------
 
@@ -55,7 +54,7 @@ Monophyletic group
 
 	Monophyletic groups can also be called [clades] or [taxa].
 
-	Biologists try to understand evolution by organizing organisms into clades
+	As biologists, we should try to think in terms of clades
 
 		Are winged tetrapods a clade?
 
@@ -149,9 +148,6 @@ Order of species
 
 		ANS By looking for their common ancestor
 
-	COMMENT Other kinds of information can be encoded in some trees, but this
-	course will follow this paradigm
-
 
 ----------------------------------------------------------------------
 
@@ -162,6 +158,7 @@ HIGHPIC hlw/22Phylo_images/image05.jpg
 HIGHPIC webpix/primate_tree.png
 
 ----------------------------------------------------------------------
+
 
 TSS Constructing phylogenetic trees | S22.2
 
@@ -218,18 +215,16 @@ Phenetic vs. cladistic analysis
 
 		ANS When we don't have enough baseline information
 
-		ANS Book: When evolutionary rates are constant, phenetic approaches 
-		give the right answer
+		COMMENT The book talks about trusting the molecular clock, but this is
+		complicated and there are still no _advantages_
 
-			ANS This is a perspective on how much to trust them, not an advantage
+		ADD Read before presenting
 
 ----------------------------------------------------------------------
 
-EXTRA
-
 WIDEPIC webpix/turtleSkeleton.jpg
 
-ADD I don't remember why I had this. Something about uninformative differences?
+	ADD Why? Eliminate?
 
 ----------------------------------------------------------------------
 
@@ -253,15 +248,15 @@ Flight as evidence
 
 		ANS We're pretty sure that the common ancestor didn't fly
 
-		ANS No evidence (any model will have flight evolve once)
+		ANS No evidence for similarity between fish and oaks
+
+			ANS any model will have flight evolve once
 
 		ANS Flight evolved once in either case
 
 	Mosquitoes and birds fly, but fish don't
 
-		ANS Evidence (flight might have evolved once or twice on this tree)
-
-		ANS But this evidence points in the wrong direction
+		ANS Some evidence for similarity!
 
 			ANS This is why we combine evidence from different sources
 
