@@ -164,6 +164,7 @@ Sources += *.txt *.md
 ## intro.readings.TXT: intro.txt readings.pl
 
 #### Natural selection (P24 => P22)
+## ns.draft.pdf: ns.txt ns.draft.tex
 ## ns.draft.pdf: ns.txt ns.md
 ## ns.final.pdf: ns.txt
 ## ns.handouts.pdf: ns.txt
