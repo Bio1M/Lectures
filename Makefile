@@ -203,7 +203,7 @@ sickle.jpg: webpix/sickle.jpg
 
 ## Very little seems testable beyond section 1!
 #### Phylogeny and the history of life (P27 ⇒ P25 ⇒ H23?)
-# phylogeny.draft.pdf: phylogeny.txt
+# phylogeny.draft.pdf: phylogeny.txt phylogeny.draft.tex
 # phylogeny.final.pdf: phylogeny.txt
 # phylogeny.handouts.pdf: phylogeny.txt
 # phylogeny.complete.pdf: phylogeny.txt
