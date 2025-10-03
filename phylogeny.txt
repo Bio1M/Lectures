@@ -60,6 +60,10 @@ Monophyletic group
 
 		Are winged tetrapods a clade?
 
+----------------------------------------------------------------------
+
+CONT Monophyletic group
+
 	What are some prominent groups that are not clades?
 
 		ANS Fish
@@ -89,6 +93,14 @@ EC
 
 ----------------------------------------------------------------------
 
+PICSLIDE FIG webpix/coelacanth.png
+
+CREDIT Wikimedia commons
+
+ADD Make credits show?
+
+----------------------------------------------------------------------
+
 Sister taxa | F22.2
 
 BC
@@ -106,6 +118,10 @@ NC
 SIDEFIG hlw/22Phylo_images/image05.jpg
 
 EC
+
+----------------------------------------------------------------------
+
+HIGHPIC hlw/22Phylo_images/image05.jpg
 
 ----------------------------------------------------------------------
 
@@ -223,7 +239,7 @@ Phenetic vs. cladistic analysis
 		ANS Book: When evolutionary rates are constant, phenetic approaches 
 		give the right answer
 
-		ANS This is a perspective on how much to trust them, not an advantage
+			ANS This is a perspective on how much to trust them, not an advantage
 
 ----------------------------------------------------------------------
 
@@ -264,9 +280,9 @@ Flight as evidence
 
 		ANS Some evidence for similarity!
 
- 			Flight might have evolved once or twice on this tree
+			Flight might have evolved once or twice on this tree
 
- 		ANS But this evidence points in the wrong direction
+		ANS But this evidence points in the wrong direction
 
 			ANS This is why we combine evidence from different sources
 
