@@ -1,3 +1,4 @@
+where: HERE
 
 Echo:
 * https://avenue.cllmcmaster.ca/d2l/le/content/712498/viewContent/5265493/View
@@ -62,6 +63,11 @@ L3: Not quite finished in either class
 L0
 * evening F22.2 display: which is closer to the ray? finished
 * morning finished phenetic v. cladistic slide
+
+L1 
+* evening in the middle of hcw scoring exercise
+	* need to clarify elephant position
+* morning
 
 HERE
 
