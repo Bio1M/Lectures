@@ -71,6 +71,7 @@ L1
 
 L2
 * midday Triggers slide (not as close to done as expected)
+* evening Ready for fossil subsection (still behind)
 
 HERE
 
