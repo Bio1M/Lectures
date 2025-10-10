@@ -534,6 +534,12 @@ EC
 
 ----------------------------------------------------------------------
 
+FUNSLIDE Observer bias is everywhere!
+
+FIG jdpix/bias.png
+
+----------------------------------------------------------------------
+
 Upright posture
 
 	How did upright posture and upright walking evolve?
@@ -627,7 +633,9 @@ Brain and body size | F23.14
 
 	What do we know about these animals?
 
-		ANS Brain size probably driven by sociality!
+		ANS Highly social
+
+		ANS Sociality may be an important component for us as well
 
 ----------------------------------------------------------------------
 

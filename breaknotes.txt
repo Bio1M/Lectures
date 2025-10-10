@@ -534,6 +534,12 @@ EC
 
 ----------------------------------------------------------------------
 
+FUNSLIDE Observer bias is everywhere!
+
+FIG jdpix/bias.png
+
+----------------------------------------------------------------------
+
 Upright posture
 
 	How did upright posture and upright walking evolve?
