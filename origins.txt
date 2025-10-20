@@ -98,6 +98,10 @@ Physical changes
 
 	Continental drift
 
+----------------------------------------------------------------------
+
+CONT Physical changes
+
 	Geological changes
 
 		New environments can arise (e.g., mountain ranges, desert basins)
@@ -140,9 +144,15 @@ Changing ecosystems
 
 WIDEPIC webpix/hummingbird.jpg
 
+REMARK These are examples of co-evolution
+
 ----------------------------------------------------------------------
 
 WIDEPIC webpix/fig_wasps.jpg
+
+----------------------------------------------------------------------
+
+WIDEPIC webpix/Box_elder_bug.jpg
 
 ----------------------------------------------------------------------
 
@@ -717,12 +727,10 @@ Teeth
 
 		Often preserved, highly adapted
 
+	NOTES HLINK https://www.sciencedirect.com/science/article/pii/S0960982218303713
+
 	REMARK Canadian research from 2018: insanely detailed study of dinosaur
 	teeth and wear marks
-
-	NOTES NEW: Link to Canadian dinosaur research
-
-		NOTES HLINK https://www.sciencedirect.com/science/article/pii/S0960982218303713
 
 ----------------------------------------------------------------------
 

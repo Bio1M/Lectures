@@ -137,7 +137,7 @@ Sources += *.txt *.md
 ## To be brought up at various times or out of context
 ## Shouldn't need handouts
 
-### Look out for RSLIDE; ADD; CHANGE; EXTRA
+### Look out for RSLIDE; ADD; CHANGE; EXTRA; NEW
 #### Introduction (P1)
 ## structure.draft.pdf: structure.txt structure.md
 ## structure.final.pdf: structure.txt
@@ -225,7 +225,7 @@ mammal_1.png: webpix/mammal_trees.png
 ## 2023 humans; human content is this insane metastatizing repetitive list
 ## New hlw/dushoff content; dropped a fair amount of stuff from older files
 ## See particularly humans.txt, I guess.
-# origins.draft.pdf: origins.txt
+# origins.draft.pdf: origins.txt origins.md
 # origins.final.pdf: origins.txt
 # origins.handouts.pdf: origins.txt
 # origins.complete.pdf: origins.txt

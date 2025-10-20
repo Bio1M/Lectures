@@ -98,6 +98,10 @@ Physical changes
 
 	Continental drift
 
+----------------------------------------------------------------------
+
+CONT Physical changes
+
 	Geological changes
 
 		New environments can arise (e.g., mountain ranges, desert basins)
@@ -140,9 +144,15 @@ Changing ecosystems
 
 WIDEPIC webpix/hummingbird.jpg
 
+REMARK These are examples of co-evolution
+
 ----------------------------------------------------------------------
 
 WIDEPIC webpix/fig_wasps.jpg
+
+----------------------------------------------------------------------
+
+WIDEPIC webpix/Box_elder_bug.jpg
 
 ----------------------------------------------------------------------
 
