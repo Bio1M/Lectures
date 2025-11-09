@@ -23,7 +23,9 @@ SEC Patterns of evolution
 
 Humans as an example
 
-	We are an example of a biological species that has evolved
+	Humans are an example of a biological species that has evolved
+
+	Humans are relatively familiar
 
 		Many of your friends are probably humans
 
@@ -92,7 +94,13 @@ Physical changes
 
 	Global climate change
 
+		Many dramatic examples
+
 	Continental drift
+
+----------------------------------------------------------------------
+
+CONT Physical changes
 
 	Geological changes
 
@@ -104,6 +112,8 @@ Physical changes
 			Rivers changing course
 
 			Mountain ranges separating valley species
+
+			ANS Vicariance
 
 			ANS Provides opportunities for allopatric speciation
 
@@ -134,9 +144,15 @@ Changing ecosystems
 
 WIDEPIC webpix/hummingbird.jpg
 
+REMARK These are examples of co-evolution
+
 ----------------------------------------------------------------------
 
 WIDEPIC webpix/fig_wasps.jpg
+
+----------------------------------------------------------------------
+
+WIDEPIC webpix/Box_elder_bug.jpg
 
 ----------------------------------------------------------------------
 
@@ -187,7 +203,7 @@ Interpreting patterns
 
 		Meaning, they radiated and then contracted again
 
-	Does that mean most clades radiate more than once?
+	Does that mean most clades radiate?
 
 		ANS Maybe we're more likely to notice certain clades
 
@@ -222,8 +238,6 @@ Advantages of previous radiation
 		e.g., marsupials in Australia
 
 	They've had more chances to adapt
-
-		May have a few very successful species (like us)
 
 ----------------------------------------------------------------------
 
@@ -306,11 +320,17 @@ Observing ourselves
 
 The angiosperm explosion
 
-	Flowering plants diversified very rapidly around 100 [mya] --
+	Flowering plants ([angiosperms]) diversified very rapidly around 100 [mya] --
 	million years ago
 
 	This radically changed the ecology of the world, and opened up many
 	new niches, apparently including space for primates
+
+	Huge diversity of fruit and flowers
+
+	Co-evolving with:
+
+		ANS A huge diversity of insects
 
 ----------------------------------------------------------------------
 
@@ -356,7 +376,7 @@ Adaptive theories
 
 			ANS Adaptive foragers can respond differently in different situations
 
-			ANS More analogous to acclimation
+			ANS An example of ability to acclimate
 
 ----------------------------------------------------------------------
 
@@ -376,7 +396,9 @@ Adaptive looping
 
 	Which meaning of adaptive is at the top of this slide?
 
-		ANS The evolutionary one
+		ANS The natural-selection one
+
+		ANS Not the foraging one
 
 ----------------------------------------------------------------------
 
@@ -488,7 +510,7 @@ BC
 
 NC
 
-SIDEFIG webpix/pRskull.jpg
+SIDEFIG pRskull.jpg
 
 SIDEFIG webpix/pRdrawing.jpg
 
@@ -519,6 +541,12 @@ NCC
 		ANS Observer bias
 
 EC
+
+----------------------------------------------------------------------
+
+FUNSLIDE Observer bias is everywhere!
+
+FIG jdpix/bias.png
 
 ----------------------------------------------------------------------
 
@@ -587,6 +615,8 @@ Complex foraging
 
 		ANS Selecting plants
 
+	A more advanced version of adaptive foraging
+
 ----------------------------------------------------------------------
 
 Complex foraging
@@ -613,7 +643,9 @@ Brain and body size | F23.14
 
 	What do we know about these animals?
 
-		ANS Brain size probably driven by sociality!
+		ANS Highly social
+
+		ANS Sociality may be an important component for us as well
 
 ----------------------------------------------------------------------
 
@@ -695,12 +727,10 @@ Teeth
 
 		Often preserved, highly adapted
 
+	NOTES HLINK https://www.sciencedirect.com/science/article/pii/S0960982218303713
+
 	REMARK Canadian research from 2018: insanely detailed study of dinosaur
 	teeth and wear marks
-
-	NOTES NEW: Link to Canadian dinosaur research
-
-		NOTES HLINK https://www.sciencedirect.com/science/article/pii/S0960982218303713
 
 ----------------------------------------------------------------------
 
@@ -771,7 +801,7 @@ Sexual dimorphism
 
 ----------------------------------------------------------------------
 
-WIDEPIC webpix/gorillas.jpg
+WIDEPIC my_images/gorillaCouple.jpg
 
 ----------------------------------------------------------------------
 
@@ -783,8 +813,8 @@ Dimorphism and sexual strategies
 
 	Gorillas live in male-centered groups (one adult male, several adult females)
 
-	Chimpanzees live in large, well-mixed groups with lots of interactions
-	between males and females
+	Chimpanzees (and bonobos) live in large, well-mixed groups with lots of
+	interactions between males and females
 
 	Which species should have more sexual dimorphism overall?
 
@@ -804,7 +834,7 @@ Human sexual competition
 
 	Compared to other apes, humans have big penises and small testicles
 
-		ANS Genitals are likely important in competition for sexual access
+		ANS Genitals are likely important in competition for sexual _access_
 
 		ANS Probably less sperm competition than chimpanzees (more stable
 		relationships)

@@ -10,7 +10,6 @@ Trees vs.~webs
 
 https://en.wikipedia.org/wiki/Two-domain_system
 
-
 ----------------------------------------------------------------------
 
 CHAPTER Phylogeny and the history of life
@@ -795,6 +794,8 @@ Accounting for biases
 EXTRA
 
 	http://www.nature.com.libaccess.lib.mcmaster.ca/news/2007/070829/full/news070827-4.html
+
+Orchidbee was found around the time I started teaching the course
 
 ----------------------------------------------------------------------
 

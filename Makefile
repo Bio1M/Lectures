@@ -7,6 +7,7 @@ current: target
 
 ######################################################################
 
+## my_images/hcwScribbles25.pdf
 mirrors += drop
 
 ######################################################################
@@ -136,7 +137,7 @@ Sources += *.txt *.md
 ## To be brought up at various times or out of context
 ## Shouldn't need handouts
 
-### Look out for RSLIDE; ADD; CHANGE; EXTRA
+### Look out for RSLIDE; ADD; CHANGE; EXTRA; NEW
 #### Introduction (P1)
 ## structure.draft.pdf: structure.txt structure.md
 ## structure.final.pdf: structure.txt
@@ -180,6 +181,10 @@ Sources += *.txt *.md
 ## processes.outline.pdf: processes.txt
 ## processes.readings.TXT: processes.txt
 
+Ignore += pRskull.jpg
+pRskull.jpg: webpix/pRskull.jpg
+	convert -crop 768x824+0+100 $< $@
+
 Ignore += punnett.jpg
 punnett.jpg: hlw/20Evol_images/image08.jpg
 	convert -crop 1280x960+0+0 $< $@ 
@@ -220,7 +225,7 @@ mammal_1.png: webpix/mammal_trees.png
 ## 2023 humans; human content is this insane metastatizing repetitive list
 ## New hlw/dushoff content; dropped a fair amount of stuff from older files
 ## See particularly humans.txt, I guess.
-# origins.draft.pdf: origins.txt
+# origins.draft.pdf: origins.txt origins.md
 # origins.final.pdf: origins.txt
 # origins.handouts.pdf: origins.txt
 # origins.complete.pdf: origins.txt
@@ -235,7 +240,8 @@ mammal_1.png: webpix/mammal_trees.png
 
 ## Short version (how did I run out of so much time in 2019?)
 ## Based primarily on Sharp, with some nods towards new-at-the-time Pearson content)
-## cat primates.txt hominins.txt > humans.txt ##
+## Slides do not make without rescuing pictures from Sharp
+## Use handouts
 ## and then shorten
 # humans.draft.pdf: humans.txt
 # humans.final.pdf: humans.txt
@@ -243,23 +249,9 @@ mammal_1.png: webpix/mammal_trees.png
 # humans.complete.pdf: humans.txt
 # humans.outline.pdf: humans.txt
 
-## Primates 
-primates.draft.pdf: primates.txt
-primates.final.pdf: primates.txt
-primates.handouts.pdf: primates.txt
-primates.complete.pdf: primates.txt
-primates.outline.pdf: primates.txt
-
-## Hominins
-
-hominins.draft.pdf: hominins.txt
-hominins.final.pdf: hominins.txt
-hominins.handouts.pdf: hominins.txt
-hominins.complete.pdf: hominins.txt
-hominins.outline.pdf: hominins.txt
-
-## Culture
-## Selection
+## I deleted these 2025 Oct 09 (Thu); not sure why that was good or bad
+## cat primates.txt hominins.txt > humans.txt ##
+## Maybe bad since current “humans” is tagged as short...
 
 ######################################################################
 
