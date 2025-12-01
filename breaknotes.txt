@@ -3,6 +3,8 @@ EXTRA
 
 F23.9, different trees from different genes
 
+Are observer bias and observation bias the same thing?
+
 ----------------------------------------------------------------------
 
 EXTRA
